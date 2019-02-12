@@ -1,8 +1,8 @@
 <div class="row prev-next">
     <div class="col-md-6">
         {{ if eq .Kind "page" }}
-            {{ if .NextPage }}
-            <a href="{{ .NextPage.URL }}" class="prev-link"><i class="arrow left"></i>{{ .NextPage.Title }}</a>
+            {{ if .NextInSection }}
+            <a href="{{ .NextInSection.URL }}" class="prev-link"><i class="arrow left"></i>{{ .NextInSection.Title }}</a>
             {{ else }}
                 {{ with .Site.GetPage .Section }}
                 <a href=".." class="prev-link"><i class="arrow left"></i>{{.Title}}</a>
