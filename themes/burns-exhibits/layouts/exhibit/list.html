@@ -1,0 +1,18 @@
+{{ define "main" }}
+<h2 class="exhibit-title">{{.Params.exhibit_title}}</h2>
+<div class="col-md-12 main-image">
+    <figure>
+        <img src="{{ .Params.front_image }}">
+        <figcaption>
+            <h3>{{ .Params.front_caption_headline }}</h3>
+            <p>{{ .Params.front_caption_text }}</p>
+        </figcaption>
+    </figure>
+</div>
+<div class="col-md-12 intro-content">
+    {{ .Content }}
+</div>
+<div class="col-md-12">
+        {{ partial "prev-next.html" . }}
+</div>
+{{ end }}

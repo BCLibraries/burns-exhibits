@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode | default "en" }}">
+{{- partial "head.html" . -}}
+
+<body class="ma0 {{ with getenv "HUGO_ENV" }}{{ . }}{{ end }}">
+    <header class="row">
+        <div class="col-md-12">
+            {{- partial "library-header.html" . -}}
+        </div>
+    </header>
+    <div class="container">
+        <header class="col-md-12">
+            <div class="col-md-12">
+                {{- partial "header.html" . -}}
+            </div>
+        </header>
+
+        <div class="row">
+        <div class="col-md-3">
+            {{- partial "menu.html" . -}}
+        </div>
+
+        <main id="content" class="col-md-9">
+            {{- block "main" . }}{{- end }}
+        </main>
+        </div>
+
+        <footer class="cold-md-12">
+            {{- partial "footer.html" . -}}
+        </footer>
+    </div>
+</body>
+
+</html>

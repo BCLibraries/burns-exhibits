@@ -1,0 +1,27 @@
+<div class="row prev-next">
+    <div class="col-md-6">
+        {{ if eq .Kind "page" }}
+            {{ if .NextPage }}
+            <a href="{{ .NextPage.URL }}" class="prev-link"><i class="arrow left"></i>{{ .NextPage.Title }}</a>
+            {{ else }}
+                {{ with .Site.GetPage .Section }}
+                <a href=".." class="prev-link"><i class="arrow left"></i>{{.Title}}</a>
+                {{ end }}
+            {{ end }}
+        {{ end }}
+    </div>
+
+    <div class="col-md-6 next-wrapper">
+        {{ if eq .Kind "section" }}
+            {{ range first 1 .Pages }}
+                <div class="col-md-12">
+                    <a href="{{ .URL }}" class="next-link">{{ .Title }}<i class="arrow right"></i></a>
+                </div>
+            {{ end }}
+        {{ else }}
+            {{ if .PrevInSection }}
+                <a href="{{ .PrevInSection.URL }}" class="next-link">{{ .PrevInSection.Title }} <i class="arrow right"></i></a>
+            {{end}}
+        {{end}}
+    </div>
+</div>
