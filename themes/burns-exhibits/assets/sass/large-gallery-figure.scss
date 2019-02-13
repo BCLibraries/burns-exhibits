@@ -1,0 +1,63 @@
+.large-gallery-figure {
+    margin-bottom: 3em;
+
+    &.figure-x-large {
+        
+        .accompanying-text {
+            @extend .col-md-5;
+        }
+
+        .img-wrapper {
+            @extend .col-md-7;
+
+            img {
+                width: 100%;
+            }
+        }
+    }
+
+    &.figure-large {
+        
+        .accompanying-text {
+            @extend .col-md-6;
+        }
+
+        .img-wrapper {
+            @extend .col-md-6;
+
+            img {
+                width: 100%;
+            }
+        }
+    }
+
+    &.figure-medium {
+        
+        .accompanying-text {
+            @extend .col-md-7;
+        }
+
+        .img-wrapper {
+            @extend .col-md-5;
+
+            img {
+                width: 100%;
+            }
+        }
+    }
+
+    &.figure-small {
+        
+        .accompanying-text {
+            @extend .col-md-8;
+        }
+
+        .img-wrapper {
+            @extend .col-md-4;
+
+            img {
+                width: 100%;
+            }
+        }
+    }
+}

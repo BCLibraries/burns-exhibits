@@ -1,4 +1,7 @@
+@import 'bootstrap/bootstrap';
 @import 'library-header';
+@import 'large-gallery-figure';
+
 
 $small_font: 16px;
 $med_font: 18px;
@@ -75,7 +78,6 @@ main {
             max-width: 100%;
         }
     }
-
 
     .prev-next {
         .next-wrapper {
