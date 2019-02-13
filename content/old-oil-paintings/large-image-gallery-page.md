@@ -1,8 +1,14 @@
 ---
 title: "Large image gallery page"
 description: ""
+
+# Page order (1 is 1st page, etc.)
 weight:  3
 alwaysopen: true
+
+# Change to false to publish.
+draft: true
+
 type: "exhibit"
 ---
 
