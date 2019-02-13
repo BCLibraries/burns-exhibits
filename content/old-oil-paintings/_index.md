@@ -5,7 +5,7 @@ title: "Introduction"
 # Title of exhibit
 exhibit_title: "Old Oil Paintings"
 
-date: 2019-02-13T14:24:18-05:00
+date: 2019-02-13T14:48:36-05:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1 
