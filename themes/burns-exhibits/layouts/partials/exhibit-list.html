@@ -1,0 +1,12 @@
+<nav>
+    <h2>Exhibits</h2>
+    <ul>
+        {{ range where .Site.Pages "Kind" "section" }}
+        <li>
+            <a href="{{ .RelPermalink}}">
+            {{safeHTML .Params.Pre}}{{.Params.exhibit_title}}{{safeHTML .Params.Post}}
+            </a>
+        </li>
+        {{ end }}
+    </ul>
+</nav>
