@@ -17,7 +17,7 @@ The quick brown **fox** jumps over the lazy dog. Pack my box with ***five dozen*
 {{% galleryrow %}}
 
 {{% galleryfigure src="../portrait-image.jpg" headline="Amet Pharetra Purus" %}}
-Maecenas faucibus mollis interdum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+This is something I want to add to GitHub.
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../portrait-image.jpg" headline="Vestibulum Parturient" %}}
