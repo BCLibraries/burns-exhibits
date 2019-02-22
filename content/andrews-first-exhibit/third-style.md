@@ -24,7 +24,7 @@ Although this volume was printed during style II, it is bound in style III. It c
 King's Land Collection, Hillaire Belloc's personal library.
 {{% /largefigure %}}
 
-{{% largefigure src="../Speeches-and-letters-on-American-affairs-07-000016397-IRISH-B626519.jpg" headline="Venenatis Euismod Tristique" size="large" %}}
+{{% largefigure src="../Speeches-and-letters-on-American-affairs-07-000016397-IRISH-B626519.jpg" headline="Venenatis Euismod Tristique" size="medium" %}}
 
 **Title Page**
 
@@ -33,3 +33,12 @@ second style of title pages used by EML. It includes a different device for each
 of EML designed by Eric Ravilious. The Burke title still possesses its dust jacket and was owned
 by the Irish historian T.W. Moody. It comes from the Irish Collection
 {{% /largefigure %}}
+
+{{% largefigure src="../Tom-Sawyer-and-Huckleberry-Finn-PS1306.A11943-GREENE'S-LIBRARY-B609385.jpg" headline="Venenatis Euismod Tristique" size="large" %}}
+
+**Paste-down**
+
+This 1943 edition of *Tom Sawyer & Huckleberry Finn* shows the second style of paste-downs. It is a repeating pattern also designed by Eric Ravilious. This volume comes from
+Graham Greene's Library.
+{{% /largefigure %}}
+
