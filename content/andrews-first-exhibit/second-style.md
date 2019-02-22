@@ -12,7 +12,7 @@ draft: true
 type: "exhibit"
 ---
 
-{{% largefigure src="../portrait-image.jpg" headline="Venenatis Euismod Tristique" size="large" %}}
+{{% largefigure src="../Minor-poets-of-the-17th-century-PR1209.M561931-GREENE'S-LIBRARY-B503542.JPG" headline="Venenatis Euismod Tristique" size="large" %}}
 **Binding**
 
 This 1931 edition of *Minor Poets of the 17th Century* is an example of the second binding

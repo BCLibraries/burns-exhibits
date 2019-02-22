@@ -22,7 +22,7 @@ draft: true
 type: "exhibit"
 ---
 
->>>>>The Everyman’s Library (EML) was first conceived in 1905 by the publisher Joseph Malaby
+The Everyman’s Library (EML) was first conceived in 1905 by the publisher Joseph Malaby
 Dent and editor Ernest Rhys. The goal of EML was to create a collection of 1,000 volumes of
 classic literature that would appeal to every type of person, from students, scholars and
 professionals to the everyday working man. They would be divided into different categories,
@@ -60,6 +60,3 @@ personal libraries of authors Rex Stout and Flann O’Brien, copies of the EML c
 of the major collections in the Burns Library.
 
 
-{{% largefigure src="../eml-logo.JPG" headline="Venenatis Euismod Tristique" size="large" %}}
-Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-{{% /largefigure %}}

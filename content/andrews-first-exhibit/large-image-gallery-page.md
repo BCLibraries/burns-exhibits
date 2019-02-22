@@ -58,7 +58,6 @@ the loop. This edition comes from the Williams Collection.
 
 {{% largefigure src="../A-literary-and-historical-atlas-E14.B28-WILLIAMS-CVB1296988-10.JPG" headline="Venenatis Euismod Tristique" size="large" %}}
 **Maroon Leatherette Binding**
-
 This 1911 edition of *A Literary and Historical Atlas of America* is from the Reference
 category of EML. The spine design is identical to other contemporary editions, but it also
 includes a matching gilt floral design on the cover. It is bound in maroon leatherette, has gilt top pages, and is also bound with a silk ribbon book marker. This volume is from the Williams
@@ -68,3 +67,29 @@ Collection.
 {{% largefigure src="../A-literary-and-historical-atlas.jpg" headline="Venenatis Euismod Tristique" size="medium" %}}
 
 {{% /largefigure %}}
+
+{{% largefigure src="../Warren-Hastings-a-biography-DS473.T7-WILLIAMS-CVB1291941-10.jpg" headline="Venenatis Euismod Tristique" size="large" %}}
+
+**Title Page**
+
+This 1910 edition of *Warren Hastings: A Biography* is an excellent example of the beautiful
+title page that editions of EML had until the mid 1930’s. It was designed by Reginald Knowles
+and is inspired by the works of William Morris, a 19th century artist who founded the Kelmscott
+Press. Each of the thirteen subject areas of EML had a different design and quote. The quote (for
+biography) on the left hand side of the image is by John Milton. This volume is from the Williams Collection.
+
+{{% /largefigure %}}
+
+{{% largefigure src="../A-tale-of-a-tub-PR3724.T251911-IRISH-CVB1327450-10.jpg" headline="Venenatis Euismod Tristique" size="large" %}}
+
+**Paste-down**
+
+This 1911 edition of *A Tale of a Tub: The Battle of the Books and Other Satires* by Jonathan
+Swift is an excellent illustration of the paste-downs used by EML from 1906-1934. Like the
+title page and spine, it was designed by Reginald Knowles. It features a quote from the medieval
+morality play *Everyman*, which is where the series gets its name. The woman pictured is the
+character Good Deeds, and the quote was said by her sister, Knowledge. This edition is from the
+Irish collection.
+
+{{% /largefigure %}}
+
