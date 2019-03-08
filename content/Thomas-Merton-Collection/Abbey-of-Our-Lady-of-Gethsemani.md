@@ -11,10 +11,11 @@ draft: true
 
 type: "exhibit"
 ---
+{{% galleryrow %}}
 
-{{% largefigure src="../Abbey_of_Our_Lady_of_Gethsemani.jpg" headline="View of the Abbey of Our Lady of Gethsemani" size="x-large" %}}
-
-{{% /largefigure %}}
+{{% galleryfigure src="../Abbey_of_Our_Lady_of_Gethsemani.jpg" headline="View of the Abbey of Our Lady of Gethsemani" size="x-large" %}}
+{{% /galleryfigure %}}
+{{% /galleryrow %}}
 
 The Trappist monastery which Merton entered on December 10, 1941 is near Bardstown, Kentucky. The Trappists follow the Rule of Saint Benedict, living a contemplative life of prayer and work. The monks gather seven times a day to celebrate the Liturgy of the Hours, singing praise to God and listening prayerfully to the word of God.
 

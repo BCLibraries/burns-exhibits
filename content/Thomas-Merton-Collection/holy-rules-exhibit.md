@@ -15,11 +15,7 @@ The Abbey of Our Lady of Gethsemani is a Trappist abbey and follows the Rule of 
 {{% galleryrow %}}
 
 {{% galleryfigure src="../Holy_Rule.jpg" headline="The Holy Rule of Our Most Holy Father Benedict" %}}
-Translated by Thomas Merton. From John J. Burns Library, Boston College.
-{{% /galleryfigure %}}
-
-{{% galleryfigure src="../Holy_Rules_2.jpg" headline="The Holy Rule of Our Most Holy Father Benedict" %}}
-Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+St. Benedict, Abbot of Monte Cassino. Thomas Merton (tr.) Trappist, Ky.:Abbey of Gethsemani, 1942. [BX3004 .E6 1942 Merton](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21369972240001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US).This copy, printed in both Latin and English, was given to Boston College by Thomas Merton. to Boston College
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../Holy_Rule_Exhibit_Card.jpg" headline="Exhibit card from the 1949 exhibit" %}}
