@@ -40,7 +40,7 @@ included are clippings and other material relating to Stout and
 some financial records. Manuscripts of many of Stout&#39;s literary
 works comprise a large portion of the collection.
 
-{{% figure src="../The-pretenders-and-two-other-plays-08-000000212-STOUT-B695658.jpg" headline="The pretenders and Two Other Plays" side="Left" %}}
+{{% figure src="../The-pretenders-and-two-other-plays-08-000000212-STOUT-B695658.jpg" headline="The Pretenders and Two Other Plays" side="Left" %}}
 
 
 **Peter Hebblethwaite**
@@ -104,7 +104,7 @@ woodcuts.
 {{% figure src="../Ancient Hebrew literature BS895 .T2 WILLIAMS CVB1305047-10.jpg" headline="Ancient Hebrew Literature" side="Left" %}}
 
 **Flann O'Brien**
-{{% figure src="../obrien.jpg" headline="Flann O'Brien" side="left" %}}
+{{% figure src="../obrien.jpg" headline="Flann O'Brien" side="right" %}}
 
 Flann O'Brien is a pen name of Brian O'Nolan, the Irish author,
 playwright and satirist, considered a major figure in twentieth
@@ -126,6 +126,9 @@ The Flann O'Brien Collection contains a wide variety of materials:
 papers, books, art works, personal memorabilia, and O’Brien’s
 personal library of over 500 books. Most of the materials date
 between 1935 and 1975.
+
+{{% figure src="../marcopolo.jpg" headline="The Travels of Marco Polo the Venetian" side="Left" %}}
+
 
 **Hilaire Belloc/King's Land**
 
