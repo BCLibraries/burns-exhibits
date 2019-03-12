@@ -70,6 +70,8 @@ papers, and photographs, as well as an array of printed materials,
 sound recordings, and publications. Hebblethwaite’s personal
 library of over 2,300 books is also in the collection.
 
+{{% figure src="../Tales from Henryk Sienkiewicz 04-6791 HEBBLETHWAITE LIBRARY B442243.jpg" headline="Tales from Henryk Sienkiewicz " side="Left" %}}
+
 
 
 **The Williams Ethnological Collection**
@@ -98,3 +100,144 @@ indenture agreements); government documents and
 correspondence between London and the British colonial
 government in Jamaica; maps; lithographs, engravings, and
 woodcuts.
+
+{{% figure src="../Ancient Hebrew literature BS895 .T2 WILLIAMS CVB1305047-10.jpg" headline="Ancient Hebrew Literature" side="Left" %}}
+
+**Flann O'Brien**
+{{% figure src="../obrien.jpg" headline="Flann O'Brien" side="left" %}}
+
+Flann O'Brien is a pen name of Brian O'Nolan, the Irish author,
+playwright and satirist, considered a major figure in twentieth
+century Irish literature. He was born in Strabane, County Tyrone
+and educated in Dublin. O'Nolan worked for the Irish Civil
+Service. Regulations generally prohibited Civil Servants from
+publicly expressing political views. This meant that writing in
+newspapers on current events was generally prohibited without
+departmental permission on an article-by-article, publication-by-
+publication basis. This is one reason that O'Nolan used pen names.
+He published his first novel *At-Swim-Two-Birds* in 1939. It is
+considered his greatest work, and is now recognized as one of the
+most significant Modernist novels before 1945 and a pioneer
+of postmodernism. In later years he won fame for his column "An
+Cruiskeen Lawn" in *The Irish Times*. O'Nolan died of a heart
+attack on April 1, 1966.
+
+The Flann O'Brien Collection contains a wide variety of materials:
+papers, books, art works, personal memorabilia, and O’Brien’s
+personal library of over 500 books. Most of the materials date
+between 1935 and 1975.
+
+**Hilaire Belloc/King's Land**
+
+{{% figure src="../Belloc_side.jpg" headline="Hilaire Belloc" side="right" %}}
+
+The English writer Joseph Hilaire Peter Belloc was born in Celle
+Saint-Cloud, France, on 27 July 1870. His mother was an English
+citizen, and the family moved to England when Belloc's French
+father died. Belloc published *The Bad Child's Book of Beasts*
+(1896), a collection of nonsense verse that was so popular it sold
+out in four days. In 1902 he published *Path to Rome*, which is
+perhaps his most representative work for its combination of
+Belloc's love for travel, as well as his fierce Roman Catholicism.
+Belloc was decorated with the Grand Cross of the Order of St.
+Gregory the Great in 1934 by Pope Pius XI for his devotion to
+Catholicism as a writer. Belloc published prolifically over the
+course of his life. On July 12, 1953, Belloc accidentally fell into
+his fireplace while sleeping beside it. He was badly burned and
+died soon afterward on July 16, 1953.
+
+The bulk of the materials in the collection are published and
+unpublished writings of Hilaire Belloc, including manuscripts,
+typescripts, proofs, galleys, and reprints of various articles, essays,
+reviews, poetry, plays, prose, notes, and about eighty of Belloc's
+books. Also contained in the collection is Belloc's personal library
+of about 400 books, named after his house in West Sussex, King’s
+Land.
+
+**Graham Greene**
+
+{{% figure src="../Greene1.jpg" headline="Graham Greene" side="left" %}}
+
+Henry Graham Greene was born on October 4, 1904 in
+Berkhamstead, Hertfordshire. Greene endured a difficult childhood,
+characterized by depression and attempted suicide. Greene graduated
+from Balliol College, Oxford with a BA in history in 1925 and
+published a collection of verse, *Babbling April,* the same year. In
+1926 Green converted to Catholicism in order to get married.
+Catholicism and religion in general became key themes for Greene
+throughout his authorial career. Greene's most famous novel, *The
+Power and the Glory*, was published in 1940 and cemented his place
+among the literary greats of the twentieth-century. In 1941 Greene
+joined the Secret Intelligence Service, which propelled him to write
+"spy thrillers". From the 1950's—70's Greene travelled extensively
+and had multiple romantic relationships that influenced his works.
+Greene died from complication of a blood disease on April 3, 1991 in
+Switzerland.
+
+The Collection is composed mainly of manuscripts and correspondence
+of Greene. Correspondence is with a wide range of literary and other
+figures and includes copies of Greene's outgoing letters. There are also
+various subject files which touch on travel, business and other issues
+important to Greene, articles about him, reviews, interviews,
+clippings, photographs, and his personal library of over 2,500 books.
+
+**British Catholic Authors: Gerard Manley Hopkins**
+
+{{% figure src="../Gerard_Manley_Hopkins.jpg" headline="Gerard Manley Hopkins" side="right" %}}
+
+The British Catholic Authors Collection features the manuscripts and
+published works of leading Catholic writers in the British Isles from
+the mid-nineteenth century to the present. Noted especially for its
+extensive holdings on Francis Thompson, Hilaire Belloc, and Graham
+Greene, this collection also boasts strong holdings on John Henry
+Newman, Coventry Patmore, Alice and Wilfrid Meynell, Edith
+Sitwell, G. K. Chesterton, Evelyn Waugh, Eric Gill, and Elizabeth
+Jennings.
+
+Gerard Manley Hopkins attended Balliol College, Oxford University,
+where he excelled in academics. While at Oxford, he converted to
+Catholicism in 1868, and burned all of his poems. In 1875 he returned
+to writing regularly. In 1877 he was ordained as a Jesuit priest. It was
+only after his death in 1889 that his friend, the poet Robert Bridges,
+considered having his work published. *Poems* was published
+posthumously in 1918. He soon became known as one of the great
+religious poets, attaining a popularity which lasts until the present
+day.
+
+The Hopkins Family Papers is composed of materials relating to
+members of the Hopkins family. There are clippings, photos and
+correspondence of Gerard Manley Hopkins.
+
+**Liturgy and Life**
+
+{{% figure src="../liturgy-and-life.jpg" headline="" side="left" %}}
+
+This collection was established by the Boston College theologian
+and liturgical specialist William J. Leonard, S.J. in 1978 to
+document the liturgical movement in the American Catholic
+Church from 1925 to the introduction of the Second Vatican
+Council's reforms. The collection has grown exponentially to
+include some 30,000 volumes, and is considered to be the most
+comprehensive archive in America on the pre-Vatican Catholic
+Church. The book collection is complemented by sizable holdings
+of manuscripts, pamphlets, ephemera, artifacts, and photographs.
+
+**Irish Collection**
+
+{{% figure src="../Irish.jpg" headline="" side="right" %}}
+
+The Irish Collection at Burns is widely regarded as one of the most
+comprehensive collections of its kind outside Ireland. Noted early
+on for its strong holdings of books, pamphlets, manuscripts,
+newspapers, periodicals and landholding records documenting
+Irish history and society from the late 1700's to the present, the
+Collection in recent years has made impressive gains in the areas
+of literature, art (especially the book arts), music, agricultural
+history, and economic history. Its literary collections of Samuel
+Beckett, William Butler Yeats and Seamus Heaney, for example,
+are ranked among the best in the world. To promote greater
+awareness and use of the impressive holdings, the University in
+1991 established The Burns Library Visiting Scholar in Irish
+Studies Chair, which is open on an annual basis to scholars who
+have distinguished themselves in the areas of Irish history, culture
+and life.

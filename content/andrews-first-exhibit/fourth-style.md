@@ -26,9 +26,9 @@ binding is similar to the previous style in that it contains the title at the to
 
 **Paste-down**
 
-The paste-down for style IV was a simple, repeating pattern of overlapping “E” and “L” which
-appear on the spine. This 1967 edition of August Strindberg’s *The Red Room* is one
-example. Both examples of Style IV are from Graham Greene’s Library.
+The paste-down for style IV was a simple, repeating pattern of overlapping "E" and "L" which
+appear on the spine. This 1967 edition of August Strindberg's *The Red Room* is one
+example. Both examples of Style IV are from Graham Greene's Library.
 {{% /largefigure %}}
 
 {{% largefigure src="../The-red-room-PT9813.R6E51967-GREENE'S-LIBRARY-B608499-TITLE.jpg" headline="Venenatis Euismod Tristique" size="medium" %}}
@@ -36,5 +36,5 @@ example. Both examples of Style IV are from Graham Greene’s Library.
 **Title Page**
 
 The title pages for Style IV of EML were the simplest yet. They had no distinguishing feature
-other than a printer’s device of a dolphin wrapped around an anchor.
+other than a printer's device of a dolphin wrapped around an anchor.
 {{% /largefigure %}}
