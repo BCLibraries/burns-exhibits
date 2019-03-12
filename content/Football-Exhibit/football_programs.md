@@ -22,20 +22,54 @@ Boston College Athletic Programs (BC1997.006) hdl.handle.net/2345.2/BC1997-006
 Boston College Athletic Programs (BC1997.006) hdl.handle.net/2345.2/BC1997-006
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="../portrait-image.jpg" headline="Consectetur Ligula Venenatis Vestibulum" %}}
-Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna mollis ornare vel eu leo.
+{{% galleryfigure src="../FootballEchoes_03_LuckyStrikesAd.jpg" headline="Game Program, Undated vs. Boston University" %}}
+Boston College Athletic Programs (BC1997.006) hdl.handle.net/2345.2/BC1997-006
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
 
 {{% galleryrow %}}
 
-{{% galleryfigure src="../intro-image.jpg" headline="Tellus" %}}
-Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+{{% galleryfigure src="../FootballEchoes_04_StAnselm1939.jpg" headline="Game Program, October 28, 1939 vs. Saint Anselm" %}}
+Boston College Athletic Programs (BC1997.006) hdl.handle.net/2345.2/BC1997-006
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="../intro-image.jpg" headline="Venenatis Euismod Tristique" %}}
-Maecenas sed diam eget risus varius blandit sit amet non magna.
+{{% galleryfigure src="../FootballEchoes_05_WakeForest1949.jpg" headline="Game Program, September 30, 1949 vs. Wake Forest" %}}
+Boston College Athletic Programs (BC1997.006) hdl.handle.net/2345.2/BC1997-006
 {{% /galleryfigure %}}
+
+{{% galleryfigure src="../FootballEchoes_06_HolyCross1949.jpg" headline="Game Program, Novermber 26, 1949 vs. Holy Cross" %}}
+Boston College Athletic Programs (BC1997.006) hdl.handle.net/2345.2/BC1997-006
+{{% /galleryfigure %}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{% galleryfigure src="../FootballEchoes_07_Fordham1952.jpg" headline="Game Program, October 24, 1952 vs. Fordham" %}}
+Boston College Athletic Programs (BC1997.006) hdl.handle.net/2345.2/BC1997-006
+{{% /galleryfigure %}}
+
+{{% galleryfigure src="../FootballEchoes_08_VMI1954.jpg" headline="Game Program, October 9, 1954 vs. VMI" %}}
+Boston College Athletic Programs (BC1997.006) hdl.handle.net/2345.2/BC1997-006
+{{% /galleryfigure %}}
+
+{{% galleryfigure src="../FootballEchoes_09_BCFreshmenHCFreshmen1958.jpg" headline="Game Program, Novermber 11, 1958, BC freshmen vs. Holy Cross freshmen" %}}
+Boston College Athletic Programs (BC1997.006) hdl.handle.net/2345.2/BC1997-006
+{{% /galleryfigure %}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{% galleryfigure src="../FootballEchoes_10_HolyCross1962.jpg" headline="Game Program, December 1, 1962 vs. Holy Cross" %}}
+Boston College Athletic Programs (BC1997.006) hdl.handle.net/2345.2/BC1997-006
+{{% /galleryfigure %}}
+
+{{% galleryfigure src="../FootballEchoes_11_PatriotsvsJets1964.jpg" headline="Game Program, September 27, 1964, Patriots vs. Jets" %}}
+Boston College Athletic Programs (BC1997.006) hdl.handle.net/2345.2/BC1997-006
+{{% /galleryfigure %}}
+
+
 
 {{% /galleryrow %}}
