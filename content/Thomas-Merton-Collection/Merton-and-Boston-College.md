@@ -45,12 +45,17 @@ Fr. Brendan C. Connolly was born in 1913 in Boston. He entered the Society of Je
 {{% galleryfigure src="../Connolly_to_Merton_1965.03.27.jpg" headline="Fr. Connolly to Thomas Merton, March 27, 1965." %}}
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="../portrait-image.jpg" headline="Vestibulum Parturient" %}}
-Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+{{% galleryfigure src="../Merton_to_Sweeney_1948.11.27_2.jpg" headline="Thomas Merton to Francis Sweeney, November 27, 1948." %}}
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="../portrait-image.jpg" headline="Consectetur Ligula Venenatis Vestibulum" %}}
-Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna mollis ornare vel eu leo.
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{% galleryfigure src="../Merton_to_Sweeney_1962.10.13.jpg" headline="Thomas Merton to Francis Sweeney, October 13, 1962." %}}
+{{% /galleryfigure %}}
+
+{{% galleryfigure src="../Merton_to_TConnolly_nd.jpg" headline="Thomas Merton to Terrence Connolly, no date." %}}
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
