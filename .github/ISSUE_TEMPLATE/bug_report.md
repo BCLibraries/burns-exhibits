@@ -10,6 +10,9 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
+**Link to example**
+Link to an example of the bug, either in the repository (using http://localhost:1313) or to an exhibit in production.
+
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
