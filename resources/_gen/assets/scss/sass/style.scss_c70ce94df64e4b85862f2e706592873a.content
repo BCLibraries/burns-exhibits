@@ -7520,6 +7520,8 @@ main .embedded-figure {
     float: right; }
   main .embedded-figure.side-left {
     float: left; }
+  main .embedded-figure.side-center {
+    max-width: 100%; }
   main .embedded-figure figcaption h3 {
     font-size: 16px;
     font-weight: 600; }

@@ -71,6 +71,10 @@ main {
             float: left;
         }
 
+        &.side-center {
+            max-width: 100%;
+        }
+
         figcaption {
             h3 {
                 font-size: $small_font;

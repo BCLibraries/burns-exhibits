@@ -40,7 +40,7 @@ included are clippings and other material relating to Stout and
 some financial records. Manuscripts of many of Stout&#39;s literary
 works comprise a large portion of the collection.
 
-{{% figure src="../The-pretenders-and-two-other-plays-08-000000212-STOUT-B695658.jpg" headline="The Pretenders and Two Other Plays" side="Left" %}}
+{{% figure src="../The-pretenders-and-two-other-plays-08-000000212-STOUT-B695658.jpg" headline="The Pretenders and Two Other Plays" side="center" %}}
 
 
 **Peter Hebblethwaite**
@@ -70,7 +70,7 @@ papers, and photographs, as well as an array of printed materials,
 sound recordings, and publications. Hebblethwaite’s personal
 library of over 2,300 books is also in the collection.
 
-{{% figure src="../Tales from Henryk Sienkiewicz 04-6791 HEBBLETHWAITE LIBRARY B442243.jpg" headline="Tales from Henryk Sienkiewicz " side="Left" %}}
+{{% figure src="../Tales from Henryk Sienkiewicz 04-6791 HEBBLETHWAITE LIBRARY B442243.jpg" headline="Tales from Henryk Sienkiewicz " side="center" %}}
 
 
 
@@ -101,7 +101,7 @@ correspondence between London and the British colonial
 government in Jamaica; maps; lithographs, engravings, and
 woodcuts.
 
-{{% figure src="../Ancient Hebrew literature BS895 .T2 WILLIAMS CVB1305047-10.jpg" headline="Ancient Hebrew Literature" side="Left" %}}
+{{% figure src="../Ancient Hebrew literature BS895 .T2 WILLIAMS CVB1305047-10.jpg" headline="Ancient Hebrew Literature" side="center" %}}
 
 **Flann O'Brien**
 {{% figure src="../obrien.jpg" headline="Flann O'Brien" side="right" %}}
@@ -127,7 +127,7 @@ papers, books, art works, personal memorabilia, and O’Brien’s
 personal library of over 500 books. Most of the materials date
 between 1935 and 1975.
 
-{{% figure src="../marcopolo.jpg" headline="The Travels of Marco Polo the Venetian" side="Left" %}}
+{{% figure src="../marcopolo.jpg" headline="The Travels of Marco Polo the Venetian" side="center" %}}
 
 
 **Hilaire Belloc/King's Land**
