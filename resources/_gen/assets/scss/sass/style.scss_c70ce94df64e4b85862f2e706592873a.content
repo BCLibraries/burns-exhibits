@@ -7497,10 +7497,14 @@ main .gallery-row {
   display: flex;
   flex-wrap: nowrap;
   justify-content: space-evenly;
-  align-items: stretch;
-  margin-bottom: 1em; }
+  align-items: flex-end;
+  margin-bottom: 5em; }
   main .gallery-row figure {
     margin: .5em 1em .5em 1em; }
+    main .gallery-row figure figcaption {
+      height: 5em; }
+    main .gallery-row figure img {
+      max-height: 400px; }
 
 main figure {
   flex: 1 1 0; }
