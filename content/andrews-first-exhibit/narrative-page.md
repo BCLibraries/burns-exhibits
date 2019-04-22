@@ -40,7 +40,7 @@ included are clippings and other material relating to Stout and
 some financial records. Manuscripts of many of Stout&#39;s literary
 works comprise a large portion of the collection.
 
-{{% figure src="../The-pretenders-and-two-other-plays-08-000000212-STOUT-B695658.jpg" headline="The Pretenders and Two Other Plays" side="Left" %}}
+{{% figure src="../The-pretenders-and-two-other-plays-08-000000212-STOUT-B695658.jpg" headline="The Pretenders and Two Other Plays" side="center" %}}
 
 
 **Peter Hebblethwaite**
@@ -70,7 +70,7 @@ papers, and photographs, as well as an array of printed materials,
 sound recordings, and publications. Hebblethwaite’s personal
 library of over 2,300 books is also in the collection.
 
-{{% figure src="../Tales from Henryk Sienkiewicz 04-6791 HEBBLETHWAITE LIBRARY B442243.jpg" headline="Tales from Henryk Sienkiewicz " side="Left" %}}
+{{% figure src="../Tales from Henryk Sienkiewicz 04-6791 HEBBLETHWAITE LIBRARY B442243.jpg" headline="Tales from Henryk Sienkiewicz " side="center" %}}
 
 
 
@@ -101,7 +101,7 @@ correspondence between London and the British colonial
 government in Jamaica; maps; lithographs, engravings, and
 woodcuts.
 
-{{% figure src="../Ancient Hebrew literature BS895 .T2 WILLIAMS CVB1305047-10.jpg" headline="Ancient Hebrew Literature" side="Left" %}}
+{{% figure src="../Ancient Hebrew literature BS895 .T2 WILLIAMS CVB1305047-10.jpg" headline="Ancient Hebrew Literature" side="center" %}}
 
 **Flann O'Brien**
 {{% figure src="../obrien.jpg" headline="Flann O'Brien" side="right" %}}
@@ -127,7 +127,7 @@ papers, books, art works, personal memorabilia, and O’Brien’s
 personal library of over 500 books. Most of the materials date
 between 1935 and 1975.
 
-{{% figure src="../marcopolo.jpg" headline="The Travels of Marco Polo the Venetian" side="Left" %}}
+{{% figure src="../marcopolo.jpg" headline="The Travels of Marco Polo the Venetian" side="center" %}}
 
 
 **Hilaire Belloc/King's Land**
@@ -157,9 +157,11 @@ books. Also contained in the collection is Belloc's personal library
 of about 400 books, named after his house in West Sussex, King’s
 Land.
 
+{{% figure src="../A smaller classical dictionary 07-000002031 KINGSLAND B590208.jpg" headline="A Smaller Classical Dictionary" side="center" %}}
+
 **Graham Greene**
 
-{{% figure src="../Greene1.jpg" headline="Graham Greene" side="left" %}}
+{{% figure src="../Greene1.jpg" headline="Graham Greene" side="right" %}}
 
 Henry Graham Greene was born on October 4, 1904 in
 Berkhamstead, Hertfordshire. Greene endured a difficult childhood,
@@ -183,6 +185,8 @@ figures and includes copies of Greene's outgoing letters. There are also
 various subject files which touch on travel, business and other issues
 important to Greene, articles about him, reviews, interviews,
 clippings, photographs, and his personal library of over 2,500 books.
+
+{{% figure src="../Conversations of Goethe with Eckermann. PT2027 .C5 O8 1930 GREENE'S LIBRARY B557153 (2).jpg" headline="Conversations of Goethe with Eckermann" side="center" %}}
 
 **British Catholic Authors: Gerard Manley Hopkins**
 
@@ -211,9 +215,11 @@ The Hopkins Family Papers is composed of materials relating to
 members of the Hopkins family. There are clippings, photos and
 correspondence of Gerard Manley Hopkins.
 
+{{% figure src="../Gerard Manley Hopkins  the major poems PR4803.H44 A17 1979 BRITISH CATHOLIC AUTHORS CVB1309540-10.jpg" headline="Gerard Manley Hopkins: The Major Poems" side="center" %}}
+
 **Liturgy and Life**
 
-{{% figure src="../liturgy-and-life.jpg" headline="" side="left" %}}
+{{% figure src="../liturgy-and-life.jpg" headline="" side="right" %}}
 
 This collection was established by the Boston College theologian
 and liturgical specialist William J. Leonard, S.J. in 1978 to
@@ -224,6 +230,8 @@ include some 30,000 volumes, and is considered to be the most
 comprehensive archive in America on the pre-Vatican Catholic
 Church. The book collection is complemented by sizable holdings
 of manuscripts, pamphlets, ephemera, artifacts, and photographs.
+
+{{% figure src="../Apologia pro vita sua BX4705.N5 A3 1912 & LITURGY AND LIFE CVB1353117-10.jpg" headline="Apologia Pro Vita Sua" side="center" %}}
 
 **Irish Collection**
 
@@ -244,3 +252,5 @@ awareness and use of the impressive holdings, the University in
 Studies Chair, which is open on an annual basis to scholars who
 have distinguished themselves in the areas of Irish history, culture
 and life.
+
+{{% figure src="../The Mabinogion PB2363.M2 G8 1910 IRISH B315003.jpg" headline="The Mabinogion" side="center" %}}
