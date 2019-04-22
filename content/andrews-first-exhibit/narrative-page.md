@@ -157,9 +157,11 @@ books. Also contained in the collection is Belloc's personal library
 of about 400 books, named after his house in West Sussex, King’s
 Land.
 
+{{% figure src="../A smaller classical dictionary 07-000002031 KINGSLAND B590208.jpg" headline="A Smaller Classical Dictionary" side="center" %}}
+
 **Graham Greene**
 
-{{% figure src="../Greene1.jpg" headline="Graham Greene" side="left" %}}
+{{% figure src="../Greene1.jpg" headline="Graham Greene" side="right" %}}
 
 Henry Graham Greene was born on October 4, 1904 in
 Berkhamstead, Hertfordshire. Greene endured a difficult childhood,
@@ -183,6 +185,8 @@ figures and includes copies of Greene's outgoing letters. There are also
 various subject files which touch on travel, business and other issues
 important to Greene, articles about him, reviews, interviews,
 clippings, photographs, and his personal library of over 2,500 books.
+
+{{% figure src="../Conversations of Goethe with Eckermann. PT2027 .C5 O8 1930 GREENE'S LIBRARY B557153 (2).jpg" headline="Conversations of Goethe with Eckermann" side="center" %}}
 
 **British Catholic Authors: Gerard Manley Hopkins**
 
@@ -211,9 +215,11 @@ The Hopkins Family Papers is composed of materials relating to
 members of the Hopkins family. There are clippings, photos and
 correspondence of Gerard Manley Hopkins.
 
+{{% figure src="../Gerard Manley Hopkins  the major poems PR4803.H44 A17 1979 BRITISH CATHOLIC AUTHORS CVB1309540-10.jpg" headline="Gerard Manley Hopkins: The Major Poems" side="center" %}}
+
 **Liturgy and Life**
 
-{{% figure src="../liturgy-and-life.jpg" headline="" side="left" %}}
+{{% figure src="../liturgy-and-life.jpg" headline="" side="right" %}}
 
 This collection was established by the Boston College theologian
 and liturgical specialist William J. Leonard, S.J. in 1978 to
@@ -224,6 +230,8 @@ include some 30,000 volumes, and is considered to be the most
 comprehensive archive in America on the pre-Vatican Catholic
 Church. The book collection is complemented by sizable holdings
 of manuscripts, pamphlets, ephemera, artifacts, and photographs.
+
+{{% figure src="../Apologia pro vita sua BX4705.N5 A3 1912 & LITURGY AND LIFE CVB1353117-10.jpg" headline="Apologia Pro Vita Sua" side="center" %}}
 
 **Irish Collection**
 
@@ -244,3 +252,5 @@ awareness and use of the impressive holdings, the University in
 Studies Chair, which is open on an annual basis to scholars who
 have distinguished themselves in the areas of Irish history, culture
 and life.
+
+{{% figure src="../The Mabinogion PB2363.M2 G8 1910 IRISH B315003.jpg" headline="The Mabinogion" side="center" %}}
