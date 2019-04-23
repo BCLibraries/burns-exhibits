@@ -1,9 +1,9 @@
 ---
-title: "Large image gallery page"
-description: ""
+title: "Thomas Moore"
+description: "Thomas Moore and the continuing harp revival"
 
 # Page order (1 is 1st page, etc.)
-weight:  3
+weight:  4
 alwaysopen: true
 
 # Change to false to publish.
@@ -12,18 +12,14 @@ draft: true
 type: "exhibit"
 ---
 
-{{% largefigure src="../intro-image.jpg" headline="Venenatis Euismod Tristique" size="x-large" %}}
-Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Curabitur blandit tempus porttitor.
+{{% largefigure src="../b436800.jpg" headline="The title page of Moore's 1815 edition of *A Selection of Irish Melodies*" size="x-large" %}}
+Following the printing of Edward Bunting’s *A General Collection of Ancient Irish Music*, publishers James and William Power commissioned *Irish Melodies*. The vision behind the *Melodies* was to create a new Irish song repertoire based on old Irish airs, similar in format to successful Scottish publications such as *A Select Collection of Original Scottish Airs* (1803-1816) edited by George Thomson. To create the Irish musical arrangements, Sir John Stevenson’s services were engaged. For the song lyrics, Thomas Moore’s early compositions, heavily influenced by the works of Edward Bunting, so impressed the publishers that Moore became the sole literary collaborator for Irish Melodies.
 {{% /largefigure %}}
 
-{{% largefigure src="../portrait-image.jpg" headline="Venenatis Euismod Tristique" size="large" %}}
-Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+{{% largefigure src="../b436783.jpg" headline="Advertisement in the 1808 edition of *A Selection of Irish Melodies*" size="large" %}}
+The *Melodies* were a runaway success from the beginning, appearing in ten successive volumes with a final supplement. The image of the harp appears prominently in the lyrics and illustrations, evoking nostalgia and nationalist feeling for Ireland’s history and music. Through Moore’s poetic interpretations, ancient Irish melodies and songs became suitable for drawing-room circulation, enjoyed at all levels of society and in many countries.
 {{% /largefigure %}}
 
-{{% largefigure src="../intro-image.jpg" headline="Venenatis Euismod Tristique" size="medium" %}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
-{{% /largefigure %}}
-
-{{% largefigure src="../portrait-image.jpg" headline="Venenatis Euismod Tristique" size="small" %}}
-Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean lacinia bibendum nulla sed consectetur.
+{{% largefigure src="../b41639.jpg" headline="The illustrations of the 1846 edition of Moore's *Irish Melodies* frequently depict harps, as shown here" size="large" %}}
+In 1821, Dublin’s leading harp maker, John Egan, presented Moore with a Royal Portable Harp, which Moore would play to accompany his own singing. Egan’s Irish harps combined aspects of the ancient Irish harp with technical features of pedal harps and harp-lutes. Moore’s small green Egan harp decorated with gold shamrocks now resides in the Royal Irish Academy in Dublin.
 {{% /largefigure %}}
