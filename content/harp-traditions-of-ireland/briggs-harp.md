@@ -1,9 +1,9 @@
 ---
-title: "Gallery page"
-description: ""
+title: "Briggs Harp"
+description: "Briggs harp"
 
 # Page order
-weight:  2
+weight:  7
 alwaysopen: true
 
 # Change to false to publish.
@@ -14,28 +14,14 @@ type: "exhibit"
 
 {{% galleryrow %}}
 
-{{% galleryfigure src="../portrait-image.jpg" headline="Amet Pharetra Purus" %}}
-Maecenas faucibus mollis interdum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+{{% galleryfigure src="../BriggsHarp.JPG" headline="Mary O'Hara's Briggs Harp" %}}
+Harp made by Henry Briggs of Glasgow, Scotland for Mary O’Hara, circa 1953.
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="../portrait-image.jpg" headline="Vestibulum Parturient" %}}
-Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-{{% /galleryfigure %}}
-
-{{% galleryfigure src="../portrait-image.jpg" headline="Consectetur Ligula Venenatis Vestibulum" %}}
-Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna mollis ornare vel eu leo.
+{{% galleryfigure src="../MaryO_Hara.png" headline="Mary O'Hara" %}}
+Mary O'Hara and her Briggs harp on *Irish Digest*, February, 1955.
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
 
-{{% galleryrow %}}
-
-{{% galleryfigure src="../intro-image.jpg" headline="Tellus" %}}
-Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-{{% /galleryfigure %}}
-
-{{% galleryfigure src="../intro-image.jpg" headline="Venenatis Euismod Tristique" %}}
-Maecenas sed diam eget risus varius blandit sit amet non magna.
-{{% /galleryfigure %}}
-
-{{% /galleryrow %}}
+*“My [Briggs] harp … has travelled with me all over the world from Yukon and Labrador City to the far reaches of New Zealand and Africa and much in between. I have played it in all the major concert halls of the English-speaking world and it has never let me down.”* -- Mary O’Hara, Irish singer and harpist
