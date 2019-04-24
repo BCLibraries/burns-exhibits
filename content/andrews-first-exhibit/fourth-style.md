@@ -15,7 +15,7 @@ type: "exhibit"
 {{% largefigure src="../Wives-and-daughters-PR4710.W51966-GREENE'S-LIBRARY-B556356.JPG" headline="Venenatis Euismod Tristique" size="large" %}}
 **Binding**
 
-1968's *Wives and Daughters* by Elizabeth Gaskell shows the final binding style of EML.
+1968's [*Wives and Daughters*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21372792390001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) by Elizabeth Gaskell shows the final binding style of EML.
 Overall, it represents the biggest change in format yet. These editions are slightly larger than the
 previous ones and feature all new designs for the binding, paste-downs, and title pages. The
 binding is similar to the previous style in that it contains the title at the top of the spine, but
@@ -27,7 +27,7 @@ binding is similar to the previous style in that it contains the title at the to
 **Paste-down**
 
 The paste-down for style IV was a simple, repeating pattern of overlapping "E" and "L" which
-appear on the spine. This 1967 edition of August Strindberg's *The Red Room* is one
+appear on the spine. This 1967 edition of August Strindberg's [*The Red Room: Scenes of Artistic and Literary Life*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21373231600001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) is one
 example. Both examples of Style IV are from Graham Greene's Library.
 {{% /largefigure %}}
 
