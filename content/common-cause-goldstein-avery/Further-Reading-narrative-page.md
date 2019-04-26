@@ -15,7 +15,7 @@ type: "exhibit"
 
 
 
-{{% figure src="../GoldsteinAvery024" headline=""  %}}
+{{% figure src="../GoldsteinAvery024.jpg" headline="" size="x-large" %}}
 
 __Avery__
 

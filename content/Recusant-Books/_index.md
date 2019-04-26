@@ -11,7 +11,7 @@ date: 2019-04-18T14:19:02-04:00
 weight: 1 
 
 # Big image on first page.
-front_image: "Recusant-Books-Title.PDF" # Replace with the real image
+front_image: "Recusant-Books-Title.png" 
 front_caption_headline: ""
 front_caption_text: ""
 
@@ -28,3 +28,5 @@ Broadly similar to the Nuremberg laws, the Penal Laws at first made weekly atten
 In succession, ever more restrictive laws were passed that prohibited the publication of Catholic literature, forbade attendance at a Catholic school, made the harboring of Catholic clergy a crime, prohibited Catholics from entering the professions and being able to serve in Parliament, and made simply being a Jesuit in England a crime of high treason. Rewards were offered for those who would inform on their neighbors.
 
 Ownership or publication of the very books presented in this exhibit was strictly forbidden during the period of recusancy. In a sense, then, the pages on display here are evidence of a crime. They tell tales of a heroic underground culture that survived and flourished under the most trying of circumstances, and of individuals caught between loyalty to their country and the love of their faith.
+
+We hope you have found this small selection of John J. Burns Library materials educational as well as entertaining. We hope that this exhibit will encourage you to come to the Library and make use of our collections for your own research or pleasure.
