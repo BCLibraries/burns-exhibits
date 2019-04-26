@@ -16,7 +16,11 @@ type: "exhibit"
 
 Sponsored by Boston College Libraries
 
-Curator(s): Xaviera Flores, Archives Assistant, Annalisa Moretti, Archives Assistant, and Adrienne Pruitt, Processing Archivist
+Curator(s): Xaviera Flores, Archives Assistant
+
+Annalisa Moretti, Archives Assistant
+
+Adrienne Pruitt, Processing Archivist
 
 Originally displayed: Ford Tower, January - February 2015
 	

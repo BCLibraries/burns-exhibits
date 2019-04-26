@@ -10,17 +10,16 @@ date: 2019-04-18T14:19:02-04:00
 # Page order (1 is 1st page, etc.)
 weight: 1 
 
+
 # Big image on first page.
-front_image: "Recusant-Books-Title.png" 
-front_caption_headline: ""
-front_caption_text: ""
+front_image: "elizabeth_i_armada_portrait_web.jpg" 
+front_caption_headline: "Elizabeth I by George Gower, ca. 1588."
 
 # Change to false to publish.
 draft: true
 
 type: "exhibit"
 ---
-
 With the accession of Elizabeth I to the throne of England and Wales, a series of laws were enacted—collectively known as the “Penal Laws”—that criminalized the practice of the Catholic faith.
 
 Broadly similar to the Nuremberg laws, the Penal Laws at first made weekly attendance at Church of England services mandatory, with fines associated for failure to do so. Those who were guilty of non-attendance were labeled “Popish Recusants”—from the Latin recusare, to refuse.

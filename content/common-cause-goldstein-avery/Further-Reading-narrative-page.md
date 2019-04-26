@@ -17,6 +17,8 @@ type: "exhibit"
 
 {{% figure src="../GoldsteinAvery024.jpg" headline="" size="x-large" %}}
 
+Collection Used: David Goldstein and Martha Moore Avery Papers [(MS1986-167)](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21387017070001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)  
+
 __Avery__
 
 Abell, Aaron I. *[American Catholicism and Social Action](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21363277670001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Garden City, New York: Hanover House, 1960.
