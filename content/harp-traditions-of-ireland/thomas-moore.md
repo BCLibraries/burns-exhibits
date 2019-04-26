@@ -19,7 +19,3 @@ Following the printing of Edward Bunting’s *A General Collection of Ancient Ir
 {{% largefigure src="../b436783.jpg" headline="Advertisement in the 1808 edition of *A Selection of Irish Melodies*" size="large" %}}
 The *Melodies* were a runaway success from the beginning, appearing in ten successive volumes with a final supplement. The image of the harp appears prominently in the lyrics and illustrations, evoking nostalgia and nationalist feeling for Ireland’s history and music. Through Moore’s poetic interpretations, ancient Irish melodies and songs became suitable for drawing-room circulation, enjoyed at all levels of society and in many countries.
 {{% /largefigure %}}
-
-{{% largefigure src="../b41639.jpg" headline="The illustrations of the 1846 edition of Moore's *Irish Melodies* frequently depict harps, as shown here" size="large" %}}
-In 1821, Dublin’s leading harp maker, John Egan, presented Moore with a Royal Portable Harp, which Moore would play to accompany his own singing. Egan’s Irish harps combined aspects of the ancient Irish harp with technical features of pedal harps and harp-lutes. Moore’s small green Egan harp decorated with gold shamrocks now resides in the Royal Irish Academy in Dublin.
-{{% /largefigure %}}
