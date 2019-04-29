@@ -2,10 +2,10 @@
     <div class="col-md-6">
         {{ if eq .Kind "page" }}
             {{ if .NextInSection }}
-            <a href="{{ .NextInSection.URL }}" class="prev-link"><i class="arrow left"></i>{{ .NextInSection.Title }}</a>
+            <a href="{{ .NextInSection.URL }}" class="prev-link"><i class="nav-arrow nav-arrow--left"></i>{{ .NextInSection.Title }}</a>
             {{ else }}
                 {{ with .Site.GetPage .Section }}
-                <a href=".." class="prev-link"><i class="arrow left"></i>{{.Title}}</a>
+                <a href=".." class="prev-link"><i class="nav-arrow nav-arrow--left"></i>{{.Title}}</a>
                 {{ end }}
             {{ end }}
         {{ end }}
@@ -15,12 +15,12 @@
         {{ if eq .Kind "section" }}
             {{ range first 1 .Pages }}
                 <div class="col-md-12">
-                    <a href="{{ .URL }}" class="next-link">{{ .Title }}<i class="arrow right"></i></a>
+                    <a href="{{ .URL }}" class="next-link">{{ .Title }}<i class="nav-arrow nav-arrow--right"></i></a>
                 </div>
             {{ end }}
         {{ else }}
             {{ if .PrevInSection }}
-                <a href="{{ .PrevInSection.URL }}" class="next-link">{{ .PrevInSection.Title }} <i class="arrow right"></i></a>
+                <a href="{{ .PrevInSection.URL }}" class="next-link">{{ .PrevInSection.Title }} <i class="nav-arrow nav-arrow--right"></i></a>
             {{end}}
         {{end}}
     </div>

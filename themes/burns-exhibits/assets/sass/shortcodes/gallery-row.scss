@@ -1,0 +1,19 @@
+.gallery-row {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    margin-bottom: 5em;
+}
+
+.gallery-figure {
+    margin: .5em 1em .5em 1em;
+
+    &__caption {
+        height: 5em; 
+    }
+
+    &__img {
+        max-height: 400px;
+    }
+}
