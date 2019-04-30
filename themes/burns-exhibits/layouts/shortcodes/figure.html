@@ -1,11 +1,15 @@
 {{/* Resize and compress images */}}
-{{ $name := replace (.Get "src") "../" "" }}
-{{ $raw_img := .Page.CurrentSection.Resources.GetMatch $name }}
-{{ $resized := $raw_img.Resize "300x q80"}}
+{{ $alt := .Get "alt" }}
+{{ $side := .Get "side" | default "right" }}
+{{ $headline := .Get "headline" | markdownify }}
 
-<figure class="embedded-figure embedded-figure--{{ .Get "side" }}">
-        <img class="embedded-figure__img" src={{ $resized.RelPermalink }} alt="{{ .Get "alt" }}">
+{{ $name := replace (.Get "src") "../" "" }}
+{{ with $raw_img := .Page.CurrentSection.Resources.GetMatch $name }}
+{{ $resized := $raw_img.Resize "300x q80"}}
+<figure class="embedded-figure embedded-figure--{{ $side }}">
+        <img class="embedded-figure__img" src={{ $resized.RelPermalink }} alt="{{ $alt }}">
         <figcaption class="embedded-figure__caption">
-            <h4>{{ .Get "headline" }}</h4>
+            <h4>{{ $headline }}</h4>
         </figcaption>
 </figure>
+{{ end }}
