@@ -1,8 +1,11 @@
 {{ define "main" }}
+{{ $img := $.Resources.GetMatch .Params.front_image }}
+{{ $resized := $img.Resize "800x q50" }}
+
 <h2 class="exhibit-title">{{.Params.exhibit_title}}</h2>
 <div class="col-md-12 main-image">
     <figure>
-        <img src="{{ .Params.front_image }}">
+        <img src="{{ $resized.RelPermalink }}">
         <figcaption>
             <h3>{{ .Params.front_caption_headline }}</h3>
             <p>{{ .Params.front_caption_text }}</p>

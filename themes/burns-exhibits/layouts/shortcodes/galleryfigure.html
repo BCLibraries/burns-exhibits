@@ -1,7 +1,12 @@
+{{/* Resize and compress images */}}
+{{ $name := replace (.Get "src") "../" "" }}
+{{ $raw_img := .Page.CurrentSection.Resources.GetMatch $name }}
+{{ $resized := $raw_img.Resize "x400 q80"}}
+
 <figure class="gallery-figure">
-    <img class="gallery-figure__img" src={{ .Get "src" }} alt="{{ .Get "alt" }}">
+    <img class="gallery-figure__img" src={{ $resized.RelPermalink }} alt="{{ .Get "alt" }}">
     <figcaption class="gallery-figure__caption">
-        <h3>{{ .Get "headline" }}</h3>
-        <p>{{ .Inner }}</p>
+        <h3>{{ .Get "headline" | markdownify}}</h3>
+        <p>{{ .Inner | markdownify }}</p>
     </figcaption>
 </figure>

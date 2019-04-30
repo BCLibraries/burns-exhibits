@@ -1,7 +1,17 @@
-<div class="large-gallery-figure large-gallery-figure--{{ .Get "size" }}">
-    <div class="large-gallery-figure__accompanying-text">{{ .Inner | markdownify }}</div>
+{{ $alt := .Get "alt" }}
+{{ $size := .Get "size" }}
+{{ $inner := .Inner | markdownify }}
+{{ $headline := .Get "headline" | markdownify }}
+
+{{ $name := replace (.Get "src") "../" "" }}
+{{ with $raw_img := .Page.CurrentSection.Resources.GetMatch $name }}
+{{ $resized := $raw_img.Resize "600x q80"}}
+
+<div class="large-gallery-figure large-gallery-figure--{{ $size }}">
+    <div class="large-gallery-figure__accompanying-text">{{ $inner }}</div>
     <figure>
-            <img src={{ .Get "src" }} alt="{{ .Get "alt" }}" class="large-gallery-figure__img">
-            <figcaption class="large-gallery-figure__caption">{{ .Get "headline"  | markdownify }}</figcaption>
+        <img src="{{ $resized.RelPermalink }}" alt="{{ $alt }}" class="large-gallery-figure__img">
+        <figcaption class="large-gallery-figure__caption">{{ $headline }}</figcaption>
     </figure>
 </div>
+{{ end }}
