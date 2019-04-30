@@ -11,9 +11,9 @@ date: 2019-04-18T14:19:50-04:00
 weight: 1 
 
 # Big image on first page.
-front_image: "intro-image.jpg" # Replace with the real image
-front_caption_headline: "Ullamcorper Condimentum Tortor Parturient"
-front_caption_text: "Donec id elit non mi porta gravida at eget metus."
+front_image: "Promo-Image.png" 
+front_caption_headline: ""
+front_caption_text: ""
 
 # Change to false to publish.
 draft: true
@@ -21,6 +21,6 @@ draft: true
 type: "exhibit"
 ---
 
-Vestibulum id ligula porta felis euismod semper. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+Networks develop between people and objects across time and space through the mediator of the archives. Archival objects, in their movements from personal possessions to historical artifacts, hold the potential for multiple future relationships; by their inclusion in the John J. Burns Library, these artifacts become public rather than personal property, entering a complex web of connections that includes various objects, researchers, and other viewers. These material connections are more visible when an item is on display or being used by a researcher, but they are always present in the potentiality of archival objects. These artifacts matter—they take up space both physically and ideologically—and they actively help create temporal, physical, and scholarly networks within the archives. Recognizing and acknowledging these relationships broadens our understanding of the communal role materiality plays in forging connections between people and things. In a world that seems increasingly divisive, these moments of interconnectivity through shared historical objects are necessary links to both the past and the future. 
 
-Curabitur blandit tempus porttitor. Maecenas sed diam eget risus varius blandit sit amet non magna. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sed diam eget risus varius blandit sit amet non magna.
+For all that these displayed, representational objects from Burns Library collections do not have in common, they all start in the same place—as material things belonging to, or interacting with, human beings. From materials promoting businesses, to religious vestments, to a whale’s tooth, these objects provide tangible pieces of history in their engagement with mass advertising, the development of religious thought, and even the 19th century conflict between Ireland and England. The objects held in the archives are a material link to the past and the people who once owned them. Not merely things, they are the primary actors in the connections developed between researchers and objects at Burns Library
