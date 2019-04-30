@@ -7549,7 +7549,7 @@ nav ul {
 
 main figure {
   flex: 1 1 0; }
-  main figure h3 {
+  main figure h4 {
     font-size: 16px;
     font-weight: 600; }
   main figure p {
@@ -7558,6 +7558,9 @@ main figure {
     max-width: 100%;
     margin-bottom: 1em;
     image-orientation: from-image; }
+
+.in-text-heading {
+  margin-top: 1.5em; }
 
 footer {
   min-height: 300px; }

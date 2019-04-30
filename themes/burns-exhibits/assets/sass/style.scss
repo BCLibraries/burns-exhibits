@@ -46,7 +46,7 @@ main {
     figure {
         flex: 1 1 0;
 
-        h3 {
+        h4 {
             font-size: $small_font_size;
             font-weight: 600;
         }
@@ -61,6 +61,10 @@ main {
             image-orientation: from-image;
         }
     }
+}
+
+.in-text-heading {
+    margin-top: 1.5em;
 }
 
 footer {
