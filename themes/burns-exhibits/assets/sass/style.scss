@@ -1,18 +1,32 @@
 @import 'bootstrap/bootstrap';
+
+// Default values.
+@import 'variables';
+
+// Red header
 @import 'library-header';
-@import 'large-gallery-figure';
 
+@import 'home-page';
 
-$small_font: 16px;
-$med_font: 18px;
+@import 'prev-next-nav';
+
+// Shortcodes
+@import 'shortcodes/large-gallery-figure';
+@import 'shortcodes/gallery-row';
+@import 'shortcodes/embedded-figure';
 
 body {
-    font-family: 'Open Sans', sans-serif;
-    font-size: $med_font;
+    font-family: $body_font;
+    font-size: $med_font_size;
 }
 
-.main-page-stuff {
-    margin-top: 3em;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: $heading_font;
 }
 
 nav {
@@ -29,110 +43,30 @@ nav {
 }
 
 main {
-    .gallery-row {
-        display: flex;
-        flex-wrap: nowrap;
-        justify-content: space-evenly;
-        align-items: flex-end;
-        margin-bottom: 5em;
-
-        figure {
-            margin: .5em 1em .5em 1em;
-
-            figcaption {
-                height: 5em; 
-            }
-
-            img {
-                max-height: 400px;
-            }
-        }
-
-
-    }
-
     figure {
         flex: 1 1 0;
 
-        h3 {
-            font-size: $small_font;
+        h4 {
+            font-size: $small_font_size;
             font-weight: 600;
         }
 
         p {
-            font-size: $small_font;
+            font-size: $small_font_size;
         }
 
         img {
             max-width: 100%;
             margin-bottom: 1em;
-        }
-    }
-
-    .embedded-figure {
-        max-width: 33%;
-        padding: 1rem;
-
-        &.side-right {
-            float: right;
-        }
-
-        &.side-left {
-            float: left;
-        }
-
-        &.side-center {
-            max-width: 100%;
-        }
-
-        figcaption {
-            h3 {
-                font-size: $small_font;
-                font-weight: 600
-            }
-        }
-
-        img {
-            max-width: 100%;
-        }
-    }
-
-    .prev-next {
-        .next-wrapper {
-            text-align: right
+            image-orientation: from-image;
         }
     }
 }
 
-i.arrow {
-    border: solid black;
-    border-width: 0 3px 3px 0;
-    display: inline-block;
-    padding: 3px;
-  }
-  
-  .right {
-    transform: rotate(-45deg);
-    margin-left: .25em;
-    -webkit-transform: rotate(-45deg);
-  }
-  
-  .left {
-    transform: rotate(135deg);
-    margin-right: .25em;
-    -webkit-transform: rotate(135deg);
-  }
-  
-  .up {
-    transform: rotate(-135deg);
-    -webkit-transform: rotate(-135deg);
-  }
-  
-  .down {
-    transform: rotate(45deg);
-    -webkit-transform: rotate(45deg);
-  }
+.in-text-heading {
+    margin-top: 1.5em;
+}
 
-  footer {
-      min-height: 300px;
-  }
+footer {
+    min-height: 300px;
+}
