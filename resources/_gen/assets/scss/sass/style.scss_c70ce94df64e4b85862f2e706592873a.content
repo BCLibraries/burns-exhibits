@@ -7498,6 +7498,23 @@ a.text-dark:hover, a.text-dark:focus {
 .prev-next .next-wrapper {
   text-align: right; }
 
+.exhibit-breadcrumbs {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+  margin-top: 1em; }
+
+.exhibit-breadcrumbs__crumb {
+  float: left;
+  margin-right: 1em; }
+
+.exhibit-breadcrumbs__crumb::after {
+  content: ">";
+  margin-left: 1em; }
+
+.exhibit-breadcrumbs__crumb:last-child::after {
+  content: ""; }
+
 .large-gallery-figure {
   margin-bottom: 3em; }
   .large-gallery-figure__img {
