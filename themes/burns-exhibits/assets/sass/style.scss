@@ -46,7 +46,7 @@ main {
     figure {
         flex: 1 1 0;
 
-        h3 {
+        h4 {
             font-size: $small_font_size;
             font-weight: 600;
         }
@@ -60,6 +60,10 @@ main {
             margin-bottom: 1em;
         }
     }
+}
+
+.in-text-heading {
+    margin-top: 1.5em;
 }
 
 footer {
