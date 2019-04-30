@@ -13,4 +13,9 @@ draft: true
 type: "exhibit"
 ---
 
-This exhibit was curated by Beth Sweeney, Irish Music Librarian, in consulation with Nancy Hurrell
+Sponsored by Boston College Libraries
+
+Curator(s): Beth Sweeney, Irish Music Librarian,
+            Nancy Hurrell, harp consultant
+
+Originally displayed: Burns Library, Summer 2010
