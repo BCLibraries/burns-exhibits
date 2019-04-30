@@ -5,9 +5,9 @@
 {{ $size_class := print "large-gallery-figure--" $size }}
 {{ $align_class := print "large-gallery-figure--" $align }}
 
-
 {{ $inner := .Inner | markdownify }}
 {{ $headline := .Get "headline" | markdownify }}
+{{ $description := .Get "description" | default "" | markdownify }}
 
 {{ $name := replace (.Get "src") "../" "" }}
 {{ with $raw_img := .Page.CurrentSection.Resources.GetMatch $name }}
@@ -20,7 +20,13 @@
         </div>{{end}}
     <figure>
         <img src="{{ $resized.RelPermalink }}" alt="{{ $alt }}" class="large-gallery-figure__img">
-        <figcaption class="large-gallery-figure__caption">{{ $headline }}</figcaption>
+        <figcaption class="large-gallery-figure__caption">
+            <h4>{{ $headline }}</h4>
+            {{ if ne $description "" }}
+                <p>{{ $description }}</p>
+            {{ end }}
+        </figcaption>
+        
     </figure>
     {{ if ne $align "right" }}
     <div class="large-gallery-figure__accompanying-text">

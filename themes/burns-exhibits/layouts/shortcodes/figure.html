@@ -2,6 +2,7 @@
 {{ $alt := .Get "alt" }}
 {{ $side := .Get "side" | default "right" }}
 {{ $headline := .Get "headline" | markdownify }}
+{{ $description := .Get "description" | default "" | markdownify }}
 
 {{ $name := replace (.Get "src") "../" "" }}
 {{ with $raw_img := .Page.CurrentSection.Resources.GetMatch $name }}
@@ -10,6 +11,9 @@
         <img class="embedded-figure__img" src={{ $resized.RelPermalink }} alt="{{ $alt }}">
         <figcaption class="embedded-figure__caption">
             <h4>{{ $headline }}</h4>
+            {{ if ne $description "" }}
+                <p>{{ $description }}</p>
+            {{ end }}
         </figcaption>
 </figure>
 {{ end }}
