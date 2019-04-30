@@ -1,5 +1,11 @@
 {{ $alt := .Get "alt" }}
-{{ $size := .Get "size" }}
+{{ $size := .Get "size" | default "medium" }}
+{{ $align := .Get "align" | default "right" }}
+
+{{ $size_class := print "large-gallery-figure--" $size }}
+{{ $align_class := print "large-gallery-figure--" $align }}
+
+
 {{ $inner := .Inner | markdownify }}
 {{ $headline := .Get "headline" | markdownify }}
 
@@ -7,11 +13,18 @@
 {{ with $raw_img := .Page.CurrentSection.Resources.GetMatch $name }}
 {{ $resized := $raw_img.Resize "600x q80"}}
 
-<div class="large-gallery-figure large-gallery-figure--{{ $size }}">
-    <div class="large-gallery-figure__accompanying-text">{{ $inner }}</div>
+<div class="large-gallery-figure {{ $size_class }} {{ $align_class }}">
+    {{ if eq $align "right" }}
+        <div class="large-gallery-figure__accompanying-text">
+            {{ $inner }}
+        </div>{{end}}
     <figure>
         <img src="{{ $resized.RelPermalink }}" alt="{{ $alt }}" class="large-gallery-figure__img">
         <figcaption class="large-gallery-figure__caption">{{ $headline }}</figcaption>
     </figure>
+    {{ if ne $align "right" }}
+    <div class="large-gallery-figure__accompanying-text">
+        {{ $inner }}
+    </div>{{end}}
 </div>
 {{ end }}

@@ -1,0 +1,18 @@
+<ol class="exhibit-breadcrumbs">
+    <li class="exhibit-breadcrumbs__crumb">
+        <a href="{{ .Site.Home.RelPermalink }}">Exhibits</a>
+    </li>
+
+    {{ if ne .RelPermalink .Site.Home.RelPermalink }}
+        <li class="exhibit-breadcrumbs__crumb">
+            <a href="{{ .Page.CurrentSection.RelPermalink }}">{{ .Page.CurrentSection.Params.exhibit_title }}</a>
+        </li>
+
+        {{ if ne .RelPermalink .Page.CurrentSection.RelPermalink }}
+            <li class="exhibit-breadcrumbs__crumb">
+                <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
+            </li>
+        {{ end }}
+
+    {{ end }}
+</ol>

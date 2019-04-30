@@ -6,7 +6,7 @@
 <figure class="gallery-figure">
     <img class="gallery-figure__img" src={{ $resized.RelPermalink }} alt="{{ .Get "alt" }}">
     <figcaption class="gallery-figure__caption">
-        <h3>{{ .Get "headline" | markdownify}}</h3>
+        <h4>{{ .Get "headline" | markdownify}}</h3>
         <p>{{ .Inner | markdownify }}</p>
     </figcaption>
 </figure>
