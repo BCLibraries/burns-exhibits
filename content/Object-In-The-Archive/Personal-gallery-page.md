@@ -96,9 +96,8 @@ Martha Moore Avery, a former milliner and co-founder of the Catholic Truth Guild
 
 {{% galleryrow %}}
 
-{{% galleryfigure src="../0005-006-Hatpins-Shoes.jpg" headline="Hatpins in Holder; Shoes,  circa 1890s-1929" %}}
+{{% galleryfigure src="../005-006-Hatpins-Shoes.jpg" headline="Hatpins in Holder; Shoes,  circa 1890s-1929" %}}
 b. 2; box 5, David Goldstein and Martha Moore Avery Papers (MS1986-167)
 {{% /galleryfigure %}}
-
 
 {{% /galleryrow %}}
