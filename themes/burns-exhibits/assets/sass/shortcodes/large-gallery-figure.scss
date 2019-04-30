@@ -42,6 +42,16 @@
         }
     }
 
+    &--center {
+        .large-gallery-figure__accompanying-text {
+            @extend .col-md-12;
+        }
+
+        figure {
+            @extend .col-md-12;
+        }
+    }
+
     &__img {
         width: 100%;
     }
