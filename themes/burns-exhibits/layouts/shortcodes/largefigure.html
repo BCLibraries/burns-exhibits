@@ -1,6 +1,7 @@
-<div class="row large-gallery-figure figure-{{ .Get "size" }}">
-    <div class="accompanying-text">{{ .Inner }}</div>
-    <div class="img-wrapper">
-            <img src={{ .Get "src" }} alt="{{ .Get "alt" }}">
-    </div>
+<div class="large-gallery-figure large-gallery-figure--{{ .Get "size" }}">
+    <div class="large-gallery-figure__accompanying-text">{{ .Inner | markdownify }}</div>
+    <figure>
+            <img src={{ .Get "src" }} alt="{{ .Get "alt" }}" class="large-gallery-figure__img">
+            <figcaption class="large-gallery-figure__caption">{{ .Get "headline"  | markdownify }}</figcaption>
+    </figure>
 </div>

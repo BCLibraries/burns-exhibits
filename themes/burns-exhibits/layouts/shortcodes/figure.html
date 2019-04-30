@@ -1,4 +1,6 @@
-<figure class="embedded-figure side-{{ .Get "side" }}">
-        <img src={{ .Get "src" }} alt="{{ .Get "alt" }}">
-        <figcaption><h3>{{ .Get "headline" }}</h3></figcaption>
+<figure class="embedded-figure embedded-figure--{{ .Get "side" }}">
+        <img class="embedded-figure__img" src={{ .Get "src" }} alt="{{ .Get "alt" }}">
+        <figcaption class="embedded-figure__caption">
+            <h3>{{ .Get "headline" }}</h3>
+        </figcaption>
 </figure>
