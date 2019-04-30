@@ -1,10 +1,10 @@
 ---
 # Title of page
-title: " Acknowledgements and Further Resources"
+title: "Further Reading"
 description: ""
 
 # Page order (1 is 1st page, etc.)
-weight: 9
+weight: 7
 alwaysopen: true
 
 # Change to false to publish.

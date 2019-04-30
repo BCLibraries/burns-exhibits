@@ -3,7 +3,7 @@ title: "Royal Portable Irish Harp"
 description: ""
 
 # Page order (1 is 1st page, etc.)
-weight:  6
+weight:  5
 alwaysopen: true
 
 # Change to false to publish.

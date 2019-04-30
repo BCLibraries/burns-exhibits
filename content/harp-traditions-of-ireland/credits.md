@@ -1,10 +1,10 @@
 ---
 # Title of page
-title: " Acknowledgements and Further Resources"
-description: ""
+title: "Credits"
+description: "credits"
 
 # Page order (1 is 1st page, etc.)
-weight: 9
+weight: 8
 alwaysopen: true
 
 # Change to false to publish.
