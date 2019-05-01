@@ -4,10 +4,12 @@
 
     &--right {
         float: right;
+        clear: right;
     }
 
     &--left {
         float: left;
+        clear: left;
     }
 
     &--center {

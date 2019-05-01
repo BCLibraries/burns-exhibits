@@ -7540,9 +7540,11 @@ a.text-dark:hover, a.text-dark:focus {
   max-width: 33%;
   padding: 1rem; }
   .embedded-figure--right {
-    float: right; }
+    float: right;
+    clear: right; }
   .embedded-figure--left {
-    float: left; }
+    float: left;
+    clear: left; }
   .embedded-figure--center {
     max-width: 100%; }
   .embedded-figure__caption {
