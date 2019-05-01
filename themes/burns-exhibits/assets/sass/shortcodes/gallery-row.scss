@@ -4,6 +4,37 @@
     justify-content: space-evenly;
     align-items: flex-end;
     margin-bottom: 5em;
+
+    .embedded-figure {
+        max-width: 100%;
+        padding: 1rem;
+
+        margin: .5em 1em .5em 1em;
+
+    
+        &--right {
+            float: none;
+            clear: none;
+        }
+    
+        &--left {
+            float: none;
+            clear: none;
+        }
+    
+        &--center {
+            max-width: initial;
+        }
+    
+        &__caption {
+            height: 5em; 
+            font-size: $small_font_size;
+        }
+    
+        &__img {
+            max-height: 400px;
+        }
+    }
 }
 
 .gallery-figure {
