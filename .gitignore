@@ -1,3 +1,5 @@
 public
 .vscode
-
+themes/burns-exhibits/node_modules/
+yarn-error.log
+resources/_gen

@@ -1,0 +1,26 @@
+.embedded-figure {
+    max-width: 33%;
+    padding: 1rem;
+
+    &--right {
+        float: right;
+        clear: right;
+    }
+
+    &--left {
+        float: left;
+        clear: left;
+    }
+
+    &--center {
+        max-width: 100%;
+    }
+
+    &__caption {
+        font-size: $small_font_size;
+    }
+
+    &__img {
+        max-width: 100%;
+    }
+}

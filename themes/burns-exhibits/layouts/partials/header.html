@@ -1,0 +1,28 @@
+{{ $site_url := .Site.Home.RelPermalink }}
+{{ $site_context := (dict "context" . "link" $site_url "title" "Exhibits")}}
+
+{{ $exhibit_url := .Page.CurrentSection.RelPermalink }}
+{{ $exhibit_title := .Page.CurrentSection.Params.exhibit_title }}
+{{ $exhibit_context := (dict "context" . "link" $exhibit_url "title" $exhibit_title) }}
+
+{{ $page_url := .RelPermalink }}
+{{ $page_title := .Page.Title }}
+{{ $page_context := (dict "context" . "link" $page_url "title" $page_title) }}
+
+{{ $needs_exhibit_crumb := ne .RelPermalink .Site.Home.RelPermalink }}
+{{ $needs_page_crumb := ne .RelPermalink .Page.CurrentSection.RelPermalink }}
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        {{- partial "breadcrumb.html" $site_context -}}
+
+        {{ if $needs_exhibit_crumb }}
+        {{- partial "breadcrumb.html" $exhibit_context -}}
+
+            {{ if $needs_page_crumb }}
+            {{- partial "breadcrumb.html" $page_context -}}
+            {{ end }}
+
+        {{ end }}
+    </ol>
+</nav>
