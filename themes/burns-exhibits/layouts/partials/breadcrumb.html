@@ -1,0 +1,9 @@
+<li class="breadcrumb-item">
+        {{ if ne (.link) .context.RelPermalink }}
+        <a href="{{ .link }}">
+            {{ .title | truncate 40 }}
+        </a>
+        {{ else }}
+            {{ .title | truncate 40 }}
+        {{ end }}
+</li>
