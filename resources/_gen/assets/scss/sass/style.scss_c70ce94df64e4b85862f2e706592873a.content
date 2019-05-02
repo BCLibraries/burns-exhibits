@@ -352,7 +352,7 @@ hr {
 
 small,
 .small {
-  font-size: 80%;
+  font-size: 0.9375rem;
   font-weight: 400; }
 
 mark,
@@ -383,7 +383,7 @@ mark,
 
 .blockquote-footer {
   display: block;
-  font-size: 80%;
+  font-size: 0.9375rem;
   color: #6c757d; }
   .blockquote-footer::before {
     content: "\2014\00A0"; }
@@ -1429,7 +1429,7 @@ textarea.form-control {
   display: none;
   width: 100%;
   margin-top: 0.25rem;
-  font-size: 80%;
+  font-size: 0.9375rem;
   color: #28a745; }
 
 .valid-tooltip {
@@ -1526,7 +1526,7 @@ textarea.form-control {
   display: none;
   width: 100%;
   margin-top: 0.25rem;
-  font-size: 80%;
+  font-size: 0.9375rem;
   color: #dc3545; }
 
 .invalid-tooltip {
@@ -3357,7 +3357,7 @@ input[type="button"].btn-block {
   padding: 0.75rem 1rem;
   margin-bottom: 1rem;
   list-style: none;
-  background-color: #e9ecef;
+  background-color: white;
   border-radius: 0.25rem; }
 
 .breadcrumb-item + .breadcrumb-item {
@@ -3366,7 +3366,7 @@ input[type="button"].btn-block {
     display: inline-block;
     padding-right: 0.5rem;
     color: #6c757d;
-    content: "/"; }
+    content: ">"; }
 
 .breadcrumb-item + .breadcrumb-item:hover::before {
   text-decoration: underline; }
@@ -7498,22 +7498,9 @@ a.text-dark:hover, a.text-dark:focus {
 .prev-next .next-wrapper {
   text-align: right; }
 
-.exhibit-breadcrumbs {
-  list-style: none;
-  padding-left: 0;
-  margin-left: 0;
+.breadcrumb {
+  font-size: 15px;
   margin-top: 1em; }
-
-.exhibit-breadcrumbs__crumb {
-  float: left;
-  margin-right: 1em; }
-
-.exhibit-breadcrumbs__crumb::after {
-  content: ">";
-  margin-left: 1em; }
-
-.exhibit-breadcrumbs__crumb:last-child::after {
-  content: ""; }
 
 .large-gallery-figure {
   margin-bottom: 3em; }
