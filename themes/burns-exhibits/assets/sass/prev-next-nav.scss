@@ -32,3 +32,35 @@
         text-align: right
     }
 }
+
+/* Transform the previous and next links into buttons on mobile */
+@media (max-width: #{map-get($grid-breakpoints, "md")}) {
+    a.next-link,
+    a.prev-link {
+        position: absolute;
+        left: 0;
+        top: 0;
+        padding: 1em;
+        text-align: center;
+        width: 100%;
+        box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.2);
+        background: #f3f5f4;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+    }
+
+    form.mobile-menu {
+        margin-bottom: 2em;
+    }
+
+    .prev-wrapper {
+        top: 4em;
+    }
+
+    .prev-wrapper,
+    .next-wrapper {
+        box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.2);
+        background-color: #111;
+    }
+}

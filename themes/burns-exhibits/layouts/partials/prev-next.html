@@ -1,5 +1,5 @@
 <div class="row prev-next">
-    <div class="col-md-6">
+    <div class="col-md-6 prev-wrapper">
         {{ if eq .Kind "page" }}
             {{ if .NextInSection }}
             <a href="{{ .NextInSection.RelPermalink }}" class="prev-link"><i class="nav-arrow nav-arrow--left"></i>{{ .NextInSection.Title }}</a>
