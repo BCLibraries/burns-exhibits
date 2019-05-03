@@ -376,17 +376,17 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="../59_b323767_web.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
+           headline="The Universe"
            description="Sollicitudin Mollis Venenatis Sit"
 >}}
 
 {{< figure src="../60_b718664_web.jpg"
-           headline="Porta Tristique Ligula"
+           headline="London"
            description="Fringilla Cursus Sollicitudin Dapibus"
 >}}
 
 {{< figure src="../61_b867250_web.jpg"
-           headline="Amet Pellentesque"
+           headline="The World"
            description="Parturient Nullam Tellus Vehicula"
 >}}
 
@@ -395,17 +395,17 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="../62_b668161_web.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
+           headline="Persia"
            description="Sollicitudin Mollis Venenatis Sit"
 >}}
 
 {{< figure src="../63_cvb1303511_10_web.jpg"
-           headline="Porta Tristique Ligula"
+           headline="African Game Trails"
            description="Fringilla Cursus Sollicitudin Dapibus"
 >}}
 
 {{< figure src="../64_b423399_web.jpg"
-           headline="Amet Pellentesque"
+           headline="The South Pole"
            description="Parturient Nullam Tellus Vehicula"
 >}}
 
@@ -414,17 +414,17 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="../65_b840264_web.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
+           headline="Connemara"
            description="Sollicitudin Mollis Venenatis Sit"
 >}}
 
 {{< figure src="../66_cvb1298030_10_web.jpg"
-           headline="Porta Tristique Ligula"
+           headline="Trinidad"
            description="Fringilla Cursus Sollicitudin Dapibus"
 >}}
 
 {{< figure src="../67_cvb1357244_10_web.jpg"
-           headline="Amet Pellentesque"
+           headline="Gibraltar"
            description="Parturient Nullam Tellus Vehicula"
 >}}
 
@@ -433,17 +433,17 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="../68_cvb482983_10_web.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
+           headline=""
            description="Sollicitudin Mollis Venenatis Sit"
 >}}
 
 {{< figure src="../69_b341948_web.jpg"
-           headline="Porta Tristique Ligula"
+           headline="Boston Harbor"
            description="Fringilla Cursus Sollicitudin Dapibus"
 >}}
 
 {{< figure src="../70_cvb1295581_10_web.jpg"
-           headline="Amet Pellentesque"
+           headline="Congo"
            description="Parturient Nullam Tellus Vehicula"
 >}}
 
@@ -452,17 +452,17 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="../71_cvb483261_10_web.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
+           headline="Holy Land"
            description="Sollicitudin Mollis Venenatis Sit"
 >}}
 
 {{< figure src="../72_b168254_web.jpg"
-           headline="Porta Tristique Ligula"
+           headline="Land of the White Elephant"
            description="Fringilla Cursus Sollicitudin Dapibus"
 >}}
 
 {{< figure src="../73_cvb1291819_10_web.jpg"
-           headline="Amet Pellentesque"
+           headline="Himalayas"
            description="Parturient Nullam Tellus Vehicula"
 >}}
 
@@ -471,17 +471,17 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="../74_cvb1296683_10_web.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
+           headline="New Zealand"
            description="Sollicitudin Mollis Venenatis Sit"
 >}}
 
 {{< figure src="../75_not_available_web.jpg"
-           headline="Porta Tristique Ligula"
+           headline="Paris"
            description="Fringilla Cursus Sollicitudin Dapibus"
 >}}
 
 {{< figure src="../76_cvb1335021_10_web.jpg"
-           headline="Amet Pellentesque"
+           headline="California"
            description="Parturient Nullam Tellus Vehicula"
 >}}
 
@@ -490,17 +490,17 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="../77_b474710_web.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
+           headline="Italy"
            description="Sollicitudin Mollis Venenatis Sit"
 >}}
 
 {{< figure src="../78_b431620_web.jpg"
-           headline="Porta Tristique Ligula"
+           headline="The Rhone"
            description="Fringilla Cursus Sollicitudin Dapibus"
 >}}
 
 {{< figure src="../79_b378982_web.jpg"
-           headline="Amet Pellentesque"
+           headline="The Empire of the Hittites"
            description="Parturient Nullam Tellus Vehicula"
 >}}
 
@@ -509,7 +509,7 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="../80_cvb1291042_10_web.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
+           headline="Arabia"
            description="Sollicitudin Mollis Venenatis Sit"
 >}}
 
