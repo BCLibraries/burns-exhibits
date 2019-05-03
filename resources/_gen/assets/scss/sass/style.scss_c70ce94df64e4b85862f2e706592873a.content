@@ -7495,6 +7495,7 @@ a.text-dark:hover, a.text-dark:focus {
 .prev-next .next-wrapper {
   text-align: right; }
 
+/* Transform the previous and next links into buttons on mobile */
 @media (max-width: 768px) {
   a.next-link,
   a.prev-link {
@@ -7505,7 +7506,10 @@ a.text-dark:hover, a.text-dark:focus {
     text-align: center;
     width: 100%;
     box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.2);
-    background: #f3f5f4; }
+    background: #f3f5f4;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap; }
   form.mobile-menu {
     margin-bottom: 2em; }
   .prev-wrapper {
