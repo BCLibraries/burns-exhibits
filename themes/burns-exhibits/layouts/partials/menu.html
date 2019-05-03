@@ -1,16 +1,28 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav>
     {{- $currentNode := . }}
     {{- $showvisitedlinks := .Site.Params.showVisitedLinks -}}
     
     {{ $sectionPages := where .Site.Pages "Section" .Section }}
     {{ if ge (len $sectionPages) 1 }}
-    <ul>
+    <ul class="non-mobile-menu">
         {{ range where .Site.Pages "Section" .Section }}
-          <li class="{{- if eq .RelPermalink $currentNode.RelPermalink}} active{{end}}
-          ">              <a href="{{ .RelPermalink}}">
-              {{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}
-            </a></li>
+            {{ $active := eq .RelPermalink $currentNode.RelPermalink }}
+            <li class="{{- if $active }}active{{end}}">
+                <a href="{{ .RelPermalink}}">{{.LinkTitle}}</a>
+            </li>
         {{ end }}
     </ul>
+    {{ end }}
+
+    {{ if ge (len $sectionPages) 1 }}
+    <form class="mobile-menu" aria-hidden="true">
+        <label for="page-changer">Go to:</label>
+        <select id="page-changed" onchange="window.location.replace(this.options[this.selectedIndex].value)">
+                {{ range where .Site.Pages "Section" .Section }}
+                    {{ $active := eq .RelPermalink $currentNode.RelPermalink }}
+                    <option {{- if $active }} selected{{end}} value="{{.RelPermalink}}">{{.LinkTitle}}</option>
+                {{ end }}
+        </select>
+    </form>
     {{ end }}
 </nav>

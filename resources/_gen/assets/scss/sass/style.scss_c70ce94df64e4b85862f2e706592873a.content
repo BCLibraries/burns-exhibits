@@ -7472,9 +7472,6 @@ a.text-dark:hover, a.text-dark:focus {
   #bclib-header .input-wrapper {
     padding-right: 0; } }
 
-.main-page-stuff {
-  margin-top: 3em; }
-
 .nav-arrow {
   border: solid black;
   border-width: 0 3px 3px 0;
@@ -7497,6 +7494,26 @@ a.text-dark:hover, a.text-dark:focus {
 
 .prev-next .next-wrapper {
   text-align: right; }
+
+@media (max-width: 768px) {
+  a.next-link,
+  a.prev-link {
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 1em;
+    text-align: center;
+    width: 100%;
+    box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.2);
+    background: #f3f5f4; }
+  form.mobile-menu {
+    margin-bottom: 2em; }
+  .prev-wrapper {
+    top: 4em; }
+  .prev-wrapper,
+  .next-wrapper {
+    box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.2);
+    background-color: #111; } }
 
 /* Background color and separator set in variables.scss */
 .breadcrumb {
@@ -7574,6 +7591,22 @@ nav ul {
   list-style: none; }
   nav ul li.active {
     font-weight: 600; }
+
+@media (max-width: 768px) {
+  /* On mobile this menu should be visible to screen readers. */
+  .non-mobile-menu {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0; } }
+
+@media (min-width: 768px) {
+  .mobile-menu {
+    display: none; } }
 
 main figure {
   flex: 1 1 0; }
