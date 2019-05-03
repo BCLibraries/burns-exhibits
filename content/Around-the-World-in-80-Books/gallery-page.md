@@ -186,17 +186,17 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="../28_cvb1358439_10_web.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
+           headline="The Sahara"
            description="Sollicitudin Mollis Venenatis Sit"
 >}}
 
 {{< figure src="../29_cvb1358767_10_web.jpg"
-           headline="Porta Tristique Ligula"
+           headline="The Equator"
            description="Fringilla Cursus Sollicitudin Dapibus"
 >}}
 
 {{< figure src="../30_b331500_web.jpg"
-           headline="Amet Pellentesque"
+           headline="A Mexican Mine"
            description="Parturient Nullam Tellus Vehicula"
 >}}
 
@@ -205,17 +205,17 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="../31_b502244_web.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
+           headline="The World"
            description="Sollicitudin Mollis Venenatis Sit"
 >}}
 
 {{< figure src="../32_b975637_web.jpg"
-           headline="Porta Tristique Ligula"
+           headline="Hawaii"
            description="Fringilla Cursus Sollicitudin Dapibus"
 >}}
 
 {{< figure src="../33_cvb1291840_10_web.jpg"
-           headline="Amet Pellentesque"
+           headline="Ceylon"
            description="Parturient Nullam Tellus Vehicula"
 >}}
 
@@ -224,17 +224,17 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="../34_bc112045_web.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
+           headline="Ireland"
            description="Sollicitudin Mollis Venenatis Sit"
 >}}
 
 {{< figure src="../35_b668161_web.jpg"
-           headline="Porta Tristique Ligula"
+           headline="Japan"
            description="Fringilla Cursus Sollicitudin Dapibus"
 >}}
 
 {{< figure src="../36_cvb1297719_10_web.jpg"
-           headline="Amet Pellentesque"
+           headline="Jamaica"
            description="Parturient Nullam Tellus Vehicula"
 >}}
 
@@ -243,17 +243,17 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="../37_b2823_web.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
+           headline="The White House"
            description="Sollicitudin Mollis Venenatis Sit"
 >}}
 
 {{< figure src="../38_b369288_web.jpg"
-           headline="Porta Tristique Ligula"
+           headline="The North Pole"
            description="Fringilla Cursus Sollicitudin Dapibus"
 >}}
 
 {{< figure src="../39_b474885_web.jpg"
-           headline="Amet Pellentesque"
+           headline="France"
            description="Parturient Nullam Tellus Vehicula"
 >}}
 
@@ -262,17 +262,17 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="../40_cvb1296710_10_web.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
+           headline="Cannibal-Land"
            description="Sollicitudin Mollis Venenatis Sit"
 >}}
 
 {{< figure src="../41_cvb1357766_10_web.jpg"
-           headline="Porta Tristique Ligula"
+           headline="The World"
            description="Fringilla Cursus Sollicitudin Dapibus"
 >}}
 
 {{< figure src="../42_cvb1297510_10_web.jpg"
-           headline="Amet Pellentesque"
+           headline="The Great Plains"
            description="Parturient Nullam Tellus Vehicula"
 >}}
 
@@ -281,17 +281,17 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="../43_cvb481161_10_web.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
+           headline="Asia"
            description="Sollicitudin Mollis Venenatis Sit"
 >}}
 
 {{< figure src="../44_b499581_web.jpg"
-           headline="Porta Tristique Ligula"
+           headline="Central & South America"
            description="Fringilla Cursus Sollicitudin Dapibus"
 >}}
 
 {{< figure src="../45_cvb1291860_10_web.jpg"
-           headline="Amet Pellentesque"
+           headline="Burma"
            description="Parturient Nullam Tellus Vehicula"
 >}}
 
@@ -300,17 +300,17 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="../46_cvb1357500_10_web.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
+           headline="Cape Ann"
            description="Sollicitudin Mollis Venenatis Sit"
 >}}
 
 {{< figure src="../47_cvb1297716_10_web.jpg"
-           headline="Porta Tristique Ligula"
+           headline="Jamaica"
            description="Fringilla Cursus Sollicitudin Dapibus"
 >}}
 
 {{< figure src="../48_cvb1297522_10_web.jpg"
-           headline="Amet Pellentesque"
+           headline="New England"
            description="Parturient Nullam Tellus Vehicula"
 >}}
 
@@ -319,17 +319,17 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="../49_b839722_web.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
+           headline="Ireland"
            description="Sollicitudin Mollis Venenatis Sit"
 >}}
 
 {{< figure src="../50_cvb518464_10_web.jpg"
-           headline="Porta Tristique Ligula"
+           headline="Chestnut Hill"
            description="Fringilla Cursus Sollicitudin Dapibus"
 >}}
 
 {{< figure src="../51_cvb1297072_10_web.jpg"
-           headline="Amet Pellentesque"
+           headline="Columbus"
            description="Parturient Nullam Tellus Vehicula"
 >}}
 
@@ -338,17 +338,17 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="../52_b1515_web.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
+           headline="Quinnebasset"
            description="Sollicitudin Mollis Venenatis Sit"
 >}}
 
 {{< figure src="../53_b347238_web.jpg"
-           headline="Porta Tristique Ligula"
+           headline="Ireland"
            description="Fringilla Cursus Sollicitudin Dapibus"
 >}}
 
 {{< figure src="../55_b322803_web.jpg"
-           headline="Amet Pellentesque"
+           headline=""
            description="Parturient Nullam Tellus Vehicula"
 >}}
 
@@ -357,17 +357,17 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="../56_cvb1303305_10_web.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
+           headline=""
            description="Sollicitudin Mollis Venenatis Sit"
 >}}
 
 {{< figure src="../57_b377314_web.jpg"
-           headline="Porta Tristique Ligula"
+           headline="Spain"
            description="Fringilla Cursus Sollicitudin Dapibus"
 >}}
 
 {{< figure src="../58_cvb1311447_10_web.jpg"
-           headline="Amet Pellentesque"
+           headline="The North Pole"
            description="Parturient Nullam Tellus Vehicula"
 >}}
 
