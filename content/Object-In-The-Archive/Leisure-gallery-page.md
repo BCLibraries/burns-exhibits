@@ -54,14 +54,15 @@ Anansi (the spider trickster), Parrot, and Chicken Hawk are three characters tha
 
 {{% galleryrow %}} 
 
-{{% galleryfigure src="" headline="NEED IMAGE: Anansi" %}}
+{{% galleryfigure src="../Promo-Image.png" headline="NEED IMAGE: Anansi" %}}
 King, Anansi Stories, N7433.4 .K48 A85 1992 FINE PRINT OVERSIZE
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="" headline="NEED IMAGE: parrot" %}}
+{{% galleryfigure src="../Promo-Image.png" headline="NEED IMAGE: parrot" %}}
 King, Anansi Stories, N7433.4 .K48 A85 1992 FINE PRINT OVERSIZE
+{{% /galleryfigure %}}
 
-{{% galleryfigure src="" headline="NEED IMAGE: chicken hawk " %}}
+{{% galleryfigure src="../Promo-Image.png" headline="NEED IMAGE: chicken hawk " %}}
 King, Anansi Stories, N7433.4 .K48 A85 1992 FINE PRINT OVERSIZE
 {{% /galleryfigure %}}
 
@@ -71,15 +72,15 @@ Games can mask educational purposes such as history, strategy, or math skills. T
 
 {{% galleryrow %}} 
 
-{{% figure src="../036-ChineseChessSet.jpg" headline="Chinese Chess Set" %}}
+{{% galleryfigure src="../036-ChineseChessSet.jpg" headline="Chinese Chess Set" %}}
 Chinese Chess Set (MS1992-014)
 {{% /galleryfigure %}}
 
-{{% figure src="../029-face-back.jpg" headline="Playing Cards" %}}
+{{% galleryfigure src="../029-face-back.jpg" headline="Playing Cards" %}}
 b. 2, Eva McKee Collection (MS2005-006)
 {{% /galleryfigure %}}
 
-{{% figure src="../HistoricalPastimesGame.jpg" headline="Historical pastime : a new game of the history of England from William 1st to William 4th." %}}
+{{% galleryfigure src="../HistoricalPastimesGame.jpg" headline="Historical pastime : a new game of the history of England from William 1st to William 4th." %}}
 Historical Pastimes (MS2001-058)
 {{% /galleryfigure %}}
 
@@ -103,7 +104,7 @@ Sewing filled women’s working and leisure hours in the 19th century. This need
 b. 1, f. 21, MDugan Collection of Doyle, Evans, and Persse Family Materials (MS2004-056)
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="" headline="NEED IMAGE" %}}
+{{% galleryfigure src="../Promo-Image.png" headline="NEED IMAGE" %}}
 Commissioners of National Education in Ireland, *Simple directions in needle-work and cutting out*, TT710 .C66 1861 IRISH 
 {{% /galleryfigure %}}
 

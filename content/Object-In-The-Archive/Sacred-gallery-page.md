@@ -27,11 +27,47 @@ The Sisters of the Holy Cross and the Seven Dolours used this iron to crimp the 
 {{% galleryrow %}}
 
 {{% galleryfigure src="../043-fluter-double.jpg" headline="Geneva Hand Fluter" %}}
-b. 21, Liturgy and Life Collection (BC2013-)017
+b. 21, Liturgy and Life Collection (BC2013-017)
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="../intro-image.jpg" headline="Venenatis Euismod Tristique" %}}
-Maecenas sed diam eget risus varius blandit sit amet non magna.
+{{% galleryfigure src="../Wimple.png" headline="Sisters of Holy Cross fluted wimple" %}}
+Sisters of the Holy Cross Archives.
+{{% /galleryfigure %}}
+
+{{% /galleryrow %}}
+
+Liturgical vestments worn by clergy are meant to both glorify God and denote the office of the person wearing them. The skullcap, or zucchetto, is worn beneath the biretta, and is lined with leather to help it retain its shape. This pre-Vatican II chasuble has more elaborate embroidery on the back, most visible when the priest celebrated Mass while facing the altar. The sweat stains on the edge of this particular mitre are an obvious and humanizing connection to the bishop who once wore it. 
+
+{{% galleryrow %}}
+
+{{% galleryfigure src="../046-Skullcap.jpg" headline="Zucchetto" %}}
+b. 103, Liturgy and Life Collection (BC2013-017)
+{{% /galleryfigure %}}
+
+{{% galleryfigure src="../044-Mitre2.jpg" headline="Mitre" %}}
+b. 103, Liturgy and Life Collection (BC2013-017)
+{{% /galleryfigure %}}
+
+{{% galleryfigure src="../041-Chasuble2.jpg" headline="Chasuble, or outer vestment worn by clergy while celebrating mass" %}}
+b. 272, Liturgy and Life Collection (BC2013-017)
+{{% /galleryfigure %}}
+
+{{% /galleryrow %}}
+
+Sick call sets, often kept by lay people, are used by priests performing the sacrament of anointing the sick. In addition to the tools the priest needs, this particular set includes directions for how a family member should prepare for the priest’s visit. This clapper’s unassuming appearance belies the racket it can make when spun. Clappers like these were typically used during Holy Week in place of bells during the service.
+
+{{% galleryrow %}}
+
+{{% galleryfigure src="../040-SickCallSet.jpg" headline="Sick call set" %}}
+b. 88, Liturgy and Life Collection (BC2013-017)
+{{% /galleryfigure %}}
+
+{{% galleryfigure src="../040-SickCallSetInstruction.jpg" headline="Sick Call Instructions" %}}
+b. 88, Liturgy and Life Collection (BC2013-017)
+{{% /galleryfigure %}}
+
+{{% galleryfigure src="../042-Clapper.jpg" headline="Clapper" %}}
+b. 84, Liturgy and Life Collection (BC2013-017)
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
