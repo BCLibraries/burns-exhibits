@@ -149,17 +149,17 @@ type: "exhibit"
 
 {{< figure src="../22_b297417_web.jpg"
            headline="Boston"
-           description="Pellentesque Vehicula Aenean"
+           description="Crawford. *Old Boston in Colonial Days*. Boston: L.C. Page & Co., 1922."
 >}}
 
 {{< figure src="../23_cvb1303203_10_web.jpg"
            headline="The Plains"
-           description="Ullamcorper Egestas Dapibus"
+           description="Custer. *My Life on the Plains. Or, Personal Experiences with Indians*. New York: Sheldon and Company, 1874."
 >}}
 
 {{< figure src="../24_cvb1298125_10_web.jpg"
            headline="The Spanish Main"
-           description="Pellentesque Vehicula Aenean"
+           description="Davidson. *The Romance of the Spanish Main*. Philadelphia: J.B. Lippincott Company, 1916. "
 >}}
 
 {{% /galleryrow %}}
@@ -168,17 +168,17 @@ type: "exhibit"
 
 {{< figure src="../25_b324497_web.jpg"
            headline="Constantinople"
-           description="Sollicitudin Mollis Venenatis Sit"
+           description="De Amicis. *Constantinople*. New York: G.P. Putnam's Sons, 1878."
 >}}
 
 {{< figure src="../26_b378982_web.jpg"
            headline="Nürnberg"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+           description="De la Ramé. *The Nürnberg Stove*. Boston : J Knight company 1892 [1892])."
 >}}
 
 {{< figure src="../27_b354833_web.jpg"
            headline="Colorado River"
-           description="Parturient Nullam Tellus Vehicula"
+           description="Dellenbaugh. *The Romance of the Colorado River*. New York: G.P. Putnam's Sons, 1902."
 >}}
 
 {{% /galleryrow %}}
@@ -187,17 +187,17 @@ type: "exhibit"
 
 {{< figure src="../28_cvb1358439_10_web.jpg"
            headline="The Sahara"
-           description="Sollicitudin Mollis Venenatis Sit"
+           description="Du Chaillu. *My Apingi Kingdom: with life in the great Sahara*. New York: Harper, 1871."
 >}}
 
 {{< figure src="../29_cvb1358767_10_web.jpg"
            headline="The Equator"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+           description="Du Chaillu. *Wild Life Under the Equator: narrated for young people*. New York: Harper & Brothers, 1870."
 >}}
 
 {{< figure src="../30_b331500_web.jpg"
            headline="A Mexican Mine"
-           description="Parturient Nullam Tellus Vehicula"
+           description="Duysters. *Opals from a Mexican Mine*. New York: New Amsterdam Book Co., 1896."
 >}}
 
 {{% /galleryrow %}}
@@ -206,17 +206,17 @@ type: "exhibit"
 
 {{< figure src="../31_b502244_web.jpg"
            headline="The World"
-           description="Sollicitudin Mollis Venenatis Sit"
+           description="Fraser. *Round the World on a Wheel*. London: Methuen, 1899."
 >}}
 
 {{< figure src="../32_b975637_web.jpg"
            headline="Hawaii"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+           description="Cumming. *Fire Fountains: the Kingdom of Hawaii, its Volcanoes, and the History of its Mission*. Edinburgh: W. Blackwood, 1883."
 >}}
 
 {{< figure src="../33_cvb1291840_10_web.jpg"
            headline="Ceylon"
-           description="Parturient Nullam Tellus Vehicula"
+           description="Cumming. *Two Happy Years in Ceylon*. Edinburgh: W. Blackwood, 1892."
 >}}
 
 {{% /galleryrow %}}
@@ -225,17 +225,17 @@ type: "exhibit"
 
 {{< figure src="../34_bc112045_web.jpg"
            headline="Ireland"
-           description="Sollicitudin Mollis Venenatis Sit"
+           description="Hall. *Picturesque Ireland: pen and pencil pictures of the great wonderland*. Boston: C.E. Brown, [18--?])."
 >}}
 
 {{< figure src="../35_b668161_web.jpg"
            headline="Japan"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+           description="Hearn. *A Japanese Miscellany*. Boston: Little Brown and Company, 1901."
 >}}
 
 {{< figure src="../36_cvb1297719_10_web.jpg"
            headline="Jamaica"
-           description="Parturient Nullam Tellus Vehicula"
+           description="Henderson. Jamaica; Painted by A. S. Forrest; Described by John Henderson. London: A. and C. Black, 1906."
 >}}
 
 {{% /galleryrow %}}
@@ -244,17 +244,17 @@ type: "exhibit"
 
 {{< figure src="../37_b2823_web.jpg"
            headline="The White House"
-           description="Sollicitudin Mollis Venenatis Sit"
+           description="Holloway. *The Ladies of the White House*. Philadelphia: Bradley, 1881."
 >}}
 
 {{< figure src="../38_b369288_web.jpg"
            headline="The North Pole"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+           description="Hood. *From Nowhere to the North Pole*. London: Chatto and Windus, 1875."
 >}}
 
 {{< figure src="../39_b474885_web.jpg"
            headline="France"
-           description="Parturient Nullam Tellus Vehicula"
+           description="James. *A Little Tour in France*. Boston: Houghton Mifflin and Company, 1900."
 >}}
 
 {{% /galleryrow %}}
@@ -263,17 +263,17 @@ type: "exhibit"
 
 {{< figure src="../40_cvb1296710_10_web.jpg"
            headline="Cannibal-Land"
-           description="Sollicitudin Mollis Venenatis Sit"
+           description="Johnson. *Cannibal-land; Adventures with a Camera in the New Hebrides*. Boston: Houghton Mifflin Co., 1922. "
 >}}
 
 {{< figure src="../41_cvb1357766_10_web.jpg"
            headline="The World"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+           description="Jones. *The Story of Captain Cook's Three Voyages Round the World*. London: Cassell Petter & Galpin, [1870?]."
 >}}
 
 {{< figure src="../42_cvb1297510_10_web.jpg"
            headline="The Great Plains"
-           description="Parturient Nullam Tellus Vehicula"
+           description="Judson. *Myths and Legends of the Great Plains*. Chicago: A.C. McClurg & Co., 1913."
 >}}
 
 {{% /galleryrow %}}
@@ -282,17 +282,17 @@ type: "exhibit"
 
 {{< figure src="../43_cvb481161_10_web.jpg"
            headline="Asia"
-           description="Sollicitudin Mollis Venenatis Sit"
+           description="Keane. *Asia, with Ethnological Appendix*. London: E. Stanford, 1882."
 >}}
 
 {{< figure src="../44_b499581_web.jpg"
            headline="Central & South America"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+           description="Keane. *Central and South America*. London: E. Stanford, 1909."
 >}}
 
 {{< figure src="../45_cvb1291860_10_web.jpg"
            headline="Burma"
-           description="Parturient Nullam Tellus Vehicula"
+           description="Kelly. *Burma Painted & Described*. London: Adam and Charles Black, 1912."
 >}}
 
 {{% /galleryrow %}}
@@ -301,17 +301,17 @@ type: "exhibit"
 
 {{< figure src="../46_cvb1357500_10_web.jpg"
            headline="Cape Ann"
-           description="Sollicitudin Mollis Venenatis Sit"
+           description="Larcom. *Wild Roses of Cape Ann: and other poems*. Boston, Mass.: Houghton Mifflin and Company, 1882."
 >}}
 
 {{< figure src="../47_cvb1297716_10_web.jpg"
            headline="Jamaica"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+           description="Leader. *Through Jamaica with a Kodak ….with 129 illustrations*. Bristol: J. Wright & Company, 1907."
 >}}
 
 {{< figure src="../48_cvb1297522_10_web.jpg"
            headline="New England"
-           description="Parturient Nullam Tellus Vehicula"
+           description="Leland. *The Algonquin Legends of New England*. London: S. Low Marston Searle & Rivington, 1884."
 >}}
 
 {{% /galleryrow %}}
@@ -320,17 +320,17 @@ type: "exhibit"
 
 {{< figure src="../49_b839722_web.jpg"
            headline="Ireland"
-           description="Sollicitudin Mollis Venenatis Sit"
+           description="Lovett. *Irish Pictures: drawn with pen and pencil*. London: Religious Tract Society, 1888."
 >}}
 
 {{< figure src="../50_cvb518464_10_web.jpg"
            headline="Chestnut Hill"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+           description="*Christmas Holidays at Chestnut Hill / by Cousin Mary*. Boston: Phillips Sampson and Company, 1853."
 >}}
 
 {{< figure src="../51_cvb1297072_10_web.jpg"
            headline="Columbus"
-           description="Parturient Nullam Tellus Vehicula"
+           description="Mason. *Columbus Came Late*. New York: The Century Co., 1931."
 >}}
 
 {{% /galleryrow %}}
@@ -339,17 +339,17 @@ type: "exhibit"
 
 {{< figure src="../52_b1515_web.jpg"
            headline="Quinnebasset"
-           description="Sollicitudin Mollis Venenatis Sit"
+           description="May. *Quinnebasset Girls*. Boston: Lee and Shepard, 1878."
 >}}
 
 {{< figure src="../53_b347238_web.jpg"
            headline="Ireland"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+           description="Miller. *Reference Book of Ireland*. New York: Cooke & Cobb, 1877."
 >}}
 
 {{< figure src="../55_b322803_web.jpg"
-           headline=""
-           description="Parturient Nullam Tellus Vehicula"
+           headline="America"
+           description="Murray. *Lives of the Catholic Heroes and Heroines of America*. New York: J. Sheehy, 1882."
 >}}
 
 {{% /galleryrow %}}
@@ -358,17 +358,17 @@ type: "exhibit"
 
 {{< figure src="../56_cvb1303305_10_web.jpg"
            headline=""
-           description="Sollicitudin Mollis Venenatis Sit"
+           description="Nansen. *Eskimo Life*. London: Longmans Green & Co., 1894. "
 >}}
 
 {{< figure src="../57_b377314_web.jpg"
            headline="Spain"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+           description="O'Reilly. *Heroic Spain*. New York: Duffield and Company, 1910."
 >}}
 
 {{< figure src="../58_cvb1311447_10_web.jpg"
            headline="The North Pole"
-           description="Parturient Nullam Tellus Vehicula"
+           description="Peary. *The North Pole: its Discovery in 1909 Under the Auspices of the Peary Arctic Club*. New York: Frederick A. Stokes Co., 1910."
 >}}
 
 {{% /galleryrow %}}
@@ -377,17 +377,17 @@ type: "exhibit"
 
 {{< figure src="../59_b323767_web.jpg"
            headline="The Universe"
-           description="Sollicitudin Mollis Venenatis Sit"
+           description="Pouchet. *The Universe; or, The infinitely great and the infinitely little*. New York: Scribner, 1871."
 >}}
 
 {{< figure src="../60_b718664_web.jpg"
            headline="London"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+           description="Roberts. *The Book-Hunter in London*. Chicago: A.C. McClurg, 1895."
 >}}
 
 {{< figure src="../61_b867250_web.jpg"
            headline="The World"
-           description="Parturient Nullam Tellus Vehicula"
+           description="Robinson. *A History of the World with All Its Great Sensations*. New York: P.F. Collier, 1887."
 >}}
 
 {{% /galleryrow %}}
@@ -396,17 +396,17 @@ type: "exhibit"
 
 {{< figure src="../62_b668161_web.jpg"
            headline="Persia"
-           description="Sollicitudin Mollis Venenatis Sit"
+           description="Rogers. *A History of Ancient Persia*. New York: Charles Scribner's Sons, 1929. "
 >}}
 
 {{< figure src="../63_cvb1303511_10_web.jpg"
            headline="African Game Trails"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+           description="Roosevelt. *African Game Trails, an Account of the African Wanderings of an American Hunter-Naturalist*. New York: Charles Scribner's Sons, 1910."
 >}}
 
 {{< figure src="../64_b423399_web.jpg"
            headline="The South Pole"
-           description="Parturient Nullam Tellus Vehicula"
+           description="Smith. *The Romance of the South Pole: Antarctic voyages and explorations*. London: T. Nelson, 1900. "
 >}}
 
 {{% /galleryrow %}}
@@ -415,17 +415,17 @@ type: "exhibit"
 
 {{< figure src="../65_b840264_web.jpg"
            headline="Connemara"
-           description="Sollicitudin Mollis Venenatis Sit"
+           description="Somerville. *Through Connemara in a Governess Cart*. London: W. H. Allen, 1893. "
 >}}
 
 {{< figure src="../66_cvb1298030_10_web.jpg"
            headline="Trinidad"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+           description="Stark. *Stark's Guide-Book and History of Trinidad including Tobago, Granada, and St. Vincent*. Boston: J. H. Stark, 1897."
 >}}
 
 {{< figure src="../67_cvb1357244_10_web.jpg"
            headline="Gibraltar"
-           description="Parturient Nullam Tellus Vehicula"
+           description="Stephens. *A History of Gibraltar and its Siege*. London: Provost, 1870."
 >}}
 
 {{% /galleryrow %}}
@@ -433,18 +433,18 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="../68_cvb482983_10_web.jpg"
-           headline=""
-           description="Sollicitudin Mollis Venenatis Sit"
+           headline="Palmyra"
+           description="Strangford and Smythe. *Egyptian Sepulchres and Syrian Shrines, including a Visit to Palmyra*. London: Macmillan and, 1874."
 >}}
 
 {{< figure src="../69_b341948_web.jpg"
            headline="Boston Harbor"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+           description="Sweetser. *King's Handbook of Boston Harbor*. Cambridge, Mass.: Moses King, 1883."
 >}}
 
 {{< figure src="../70_cvb1295581_10_web.jpg"
            headline="Congo"
-           description="Parturient Nullam Tellus Vehicula"
+           description="Thonner. *Du Congo à l'Ubangi: Mon Duexième Voyage dans l'Afrique Centrale*. Bruxelles: Misch & Thron, 1910. "
 >}}
 
 {{% /galleryrow %}}
@@ -453,17 +453,17 @@ type: "exhibit"
 
 {{< figure src="../71_cvb483261_10_web.jpg"
            headline="Holy Land"
-           description="Sollicitudin Mollis Venenatis Sit"
+           description="Van Dyke. *Out-of-Doors in the Holy Land*. New York: C. Scribner's Sons, 1908."
 >}}
 
 {{< figure src="../72_b168254_web.jpg"
            headline="Land of the White Elephant"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+           description="Vincent. *The Land of the White Elephant: sights and scenes in south-eastern Asia*. New York: Harper & Brothers, 1874."
 >}}
 
 {{< figure src="../73_cvb1291819_10_web.jpg"
            headline="Himalayas"
-           description="Parturient Nullam Tellus Vehicula"
+           description="Waddell. *Among the Himalayas*. Westminster: A. Constable & Co., 1899."
 >}}
 
 {{% /galleryrow %}}
@@ -472,17 +472,17 @@ type: "exhibit"
 
 {{< figure src="../74_cvb1296683_10_web.jpg"
            headline="New Zealand"
-           description="Sollicitudin Mollis Venenatis Sit"
+           description="Wakefield. *New Zealand after Fifty Years*. New York: Cassell & Company Limited, 1889."
 >}}
 
 {{< figure src="../75_not_available_web.jpg"
            headline="Paris"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+           description="Whiting. *Paris the Beautiful*. London: Hodder and Stoughton, 1908."
 >}}
 
 {{< figure src="../76_cvb1335021_10_web.jpg"
            headline="California"
-           description="Parturient Nullam Tellus Vehicula"
+           description="Wiggin. *A Summer in a Cañon : a California story*. Boston: Houghton Mifflin 1890."
 >}}
 
 {{% /galleryrow %}}
@@ -491,17 +491,17 @@ type: "exhibit"
 
 {{< figure src="../77_b474710_web.jpg"
            headline="Italy"
-           description="Sollicitudin Mollis Venenatis Sit"
+           description="Williams. *Plain-Towns of Italy: the cities of old Venetia*. Boston: Houghton Mifflin Company, 1911."
 >}}
 
 {{< figure src="../78_b431620_web.jpg"
            headline="The Rhone"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+           description="Wood. *In the Valley of the Rhone*. London: Macmillan, 1899."
 >}}
 
 {{< figure src="../79_b378982_web.jpg"
            headline="The Empire of the Hittites"
-           description="Parturient Nullam Tellus Vehicula"
+           description="Wright. *The Empire of the Hittites*. London: Nisbet, 1884."
 >}}
 
 {{% /galleryrow %}}
@@ -510,7 +510,7 @@ type: "exhibit"
 
 {{< figure src="../80_cvb1291042_10_web.jpg"
            headline="Arabia"
-           description="Sollicitudin Mollis Venenatis Sit"
+           description="Zwemer. *Arabia: The Cradle of Islam*. Edinburgh: Oliphant Anderson and Ferrier, 1900."
 >}}
 
 {{< figure src=""
