@@ -513,7 +513,7 @@ type: "exhibit"
            description="Zwemer. *Arabia: The Cradle of Islam*. Edinburgh: Oliphant Anderson and Ferrier, 1900."
 >}}
 
-{{< figure src="54_cvb1295581_10_web.jpg"
+{{< figure src="../54_cvb1295581_10_web.jpg"
            headline="Africa"
            description="Moraes. *Africa Occidental : Album Photographico E Descriptivo*. Lisboa: David Corazzi, 1885."
 >}}
