@@ -1,11 +1,13 @@
-// Default values.
+// Changes we make to the Bootstrap default variables.
 @import 'variables';
 
 @import 'bootstrap/bootstrap';
 
-// Red header
+// Red BC Libraries header
 @import 'library-header';
 
+// Navigation
+@import 'exhibit-nav.scss';
 @import 'prev-next-nav';
 @import 'breadcrumbs';
 
@@ -13,65 +15,21 @@
 @import 'shortcodes/large-gallery-figure';
 @import 'shortcodes/gallery-row';
 @import 'shortcodes/embedded-figure';
-
-body {
-    font-family: $body_font;
-    font-size: $med_font_size;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-family: $heading_font;
-}
-
-nav {
-    ul {
-        padding: 0;
-        list-style: none;
-
-        li {
-            &.active {
-                font-weight: 600;
-            }
-        }
-    }
-}
-
-@media (max-width: #{map-get($grid-breakpoints, "md")}) {
-    /* On mobile this menu should be visible to screen readers. */
-    .non-mobile-menu {
-        position: absolute;
-        width: 1px;
-        height: 1px;
-        padding: 0;
-        overflow: hidden;
-        clip: rect(0, 0, 0, 0);
-        white-space: nowrap;
-        border: 0; 
-    }
-}
-
-@media (min-width: #{map-get($grid-breakpoints, "md")}) {
-    .mobile-menu {
-        display: none;
-    }
-}
+@import 'shortcodes/in-text-heading';
 
 main {
+
+    /* Common styles for all figures. */
     figure {
         flex: 1 1 0;
 
         h4 {
-            font-size: $small_font_size;
+            font-size: $font-size-sm;
             font-weight: 600;
         }
 
         p {
-            font-size: $small_font_size;
+            font-size: $font-size-sm;
         }
 
         img {
@@ -80,10 +38,6 @@ main {
             image-orientation: from-image;
         }
     }
-}
-
-.in-text-heading {
-    margin-top: 1.5em;
 }
 
 footer {

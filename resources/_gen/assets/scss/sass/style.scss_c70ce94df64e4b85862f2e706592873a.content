@@ -1,3 +1,6 @@
+/* Redefined values from bootstrap */
+/* Bootstrap default font size. 1.125rem == 18px usually */
+/* Hide breadcrumb background and use different divider */
 /*!
  * Bootstrap v4.3.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
@@ -31,7 +34,7 @@
   --breakpoint-md: 768px;
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
-  --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-family-sans-serif: "Open Sans", sans-serif;
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
 
 *,
@@ -50,8 +53,8 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  font-size: 1rem;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.125rem;
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
@@ -303,25 +306,25 @@ h1, h2, h3, h4, h5, h6,
   line-height: 1.2; }
 
 h1, .h1 {
-  font-size: 2.5rem; }
+  font-size: 2.8125rem; }
 
 h2, .h2 {
-  font-size: 2rem; }
+  font-size: 2.25rem; }
 
 h3, .h3 {
-  font-size: 1.75rem; }
+  font-size: 1.96875rem; }
 
 h4, .h4 {
-  font-size: 1.5rem; }
+  font-size: 1.6875rem; }
 
 h5, .h5 {
-  font-size: 1.25rem; }
+  font-size: 1.40625rem; }
 
 h6, .h6 {
-  font-size: 1rem; }
+  font-size: 1.125rem; }
 
 .lead {
-  font-size: 1.25rem;
+  font-size: 1.40625rem;
   font-weight: 300; }
 
 .display-1 {
@@ -352,7 +355,7 @@ hr {
 
 small,
 .small {
-  font-size: 0.9375rem;
+  font-size: 80%;
   font-weight: 400; }
 
 mark,
@@ -379,11 +382,11 @@ mark,
 
 .blockquote {
   margin-bottom: 1rem;
-  font-size: 1.25rem; }
+  font-size: 1.40625rem; }
 
 .blockquote-footer {
   display: block;
-  font-size: 0.9375rem;
+  font-size: 80%;
   color: #6c757d; }
   .blockquote-footer::before {
     content: "\2014\00A0"; }
@@ -1291,7 +1294,7 @@ pre {
   width: 100%;
   height: calc(1.5em + 0.75rem + 2px);
   padding: 0.375rem 0.75rem;
-  font-size: 1rem;
+  font-size: 1.125rem;
   font-weight: 400;
   line-height: 1.5;
   color: #495057;
@@ -1338,13 +1341,13 @@ select.form-control:focus::-ms-value {
 .col-form-label-lg {
   padding-top: calc(0.5rem + 1px);
   padding-bottom: calc(0.5rem + 1px);
-  font-size: 1.25rem;
+  font-size: 1.40625rem;
   line-height: 1.5; }
 
 .col-form-label-sm {
   padding-top: calc(0.25rem + 1px);
   padding-bottom: calc(0.25rem + 1px);
-  font-size: 0.875rem;
+  font-size: 0.984375rem;
   line-height: 1.5; }
 
 .form-control-plaintext {
@@ -1365,14 +1368,14 @@ select.form-control:focus::-ms-value {
 .form-control-sm {
   height: calc(1.5em + 0.5rem + 2px);
   padding: 0.25rem 0.5rem;
-  font-size: 0.875rem;
+  font-size: 0.984375rem;
   line-height: 1.5;
   border-radius: 0.2rem; }
 
 .form-control-lg {
   height: calc(1.5em + 1rem + 2px);
   padding: 0.5rem 1rem;
-  font-size: 1.25rem;
+  font-size: 1.40625rem;
   line-height: 1.5;
   border-radius: 0.3rem; }
 
@@ -1429,7 +1432,7 @@ textarea.form-control {
   display: none;
   width: 100%;
   margin-top: 0.25rem;
-  font-size: 0.9375rem;
+  font-size: 80%;
   color: #28a745; }
 
 .valid-tooltip {
@@ -1440,7 +1443,7 @@ textarea.form-control {
   max-width: 100%;
   padding: 0.25rem 0.5rem;
   margin-top: .1rem;
-  font-size: 0.875rem;
+  font-size: 0.984375rem;
   line-height: 1.5;
   color: #fff;
   background-color: rgba(40, 167, 69, 0.9);
@@ -1526,7 +1529,7 @@ textarea.form-control {
   display: none;
   width: 100%;
   margin-top: 0.25rem;
-  font-size: 0.9375rem;
+  font-size: 80%;
   color: #dc3545; }
 
 .invalid-tooltip {
@@ -1537,7 +1540,7 @@ textarea.form-control {
   max-width: 100%;
   padding: 0.25rem 0.5rem;
   margin-top: .1rem;
-  font-size: 0.875rem;
+  font-size: 0.984375rem;
   line-height: 1.5;
   color: #fff;
   background-color: rgba(220, 53, 69, 0.9);
@@ -1674,7 +1677,7 @@ textarea.form-control {
   background-color: transparent;
   border: 1px solid transparent;
   padding: 0.375rem 0.75rem;
-  font-size: 1rem;
+  font-size: 1.125rem;
   line-height: 1.5;
   border-radius: 0.25rem;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; }
@@ -2062,13 +2065,13 @@ fieldset:disabled a.btn {
 
 .btn-lg, .btn-group-lg > .btn {
   padding: 0.5rem 1rem;
-  font-size: 1.25rem;
+  font-size: 1.40625rem;
   line-height: 1.5;
   border-radius: 0.3rem; }
 
 .btn-sm, .btn-group-sm > .btn {
   padding: 0.25rem 0.5rem;
-  font-size: 0.875rem;
+  font-size: 0.984375rem;
   line-height: 1.5;
   border-radius: 0.2rem; }
 
@@ -2133,7 +2136,7 @@ input[type="button"].btn-block {
   min-width: 10rem;
   padding: 0.5rem 0;
   margin: 0.125rem 0 0;
-  font-size: 1rem;
+  font-size: 1.125rem;
   color: #212529;
   text-align: left;
   list-style: none;
@@ -2296,7 +2299,7 @@ input[type="button"].btn-block {
   display: block;
   padding: 0.5rem 1.5rem;
   margin-bottom: 0;
-  font-size: 0.875rem;
+  font-size: 0.984375rem;
   color: #6c757d;
   white-space: nowrap; }
 
@@ -2475,7 +2478,7 @@ input[type="button"].btn-block {
   align-items: center;
   padding: 0.375rem 0.75rem;
   margin-bottom: 0;
-  font-size: 1rem;
+  font-size: 1.125rem;
   font-weight: 400;
   line-height: 1.5;
   color: #495057;
@@ -2499,7 +2502,7 @@ input[type="button"].btn-block {
 .input-group-lg > .input-group-prepend > .btn,
 .input-group-lg > .input-group-append > .btn {
   padding: 0.5rem 1rem;
-  font-size: 1.25rem;
+  font-size: 1.40625rem;
   line-height: 1.5;
   border-radius: 0.3rem; }
 
@@ -2514,7 +2517,7 @@ input[type="button"].btn-block {
 .input-group-sm > .input-group-prepend > .btn,
 .input-group-sm > .input-group-append > .btn {
   padding: 0.25rem 0.5rem;
-  font-size: 0.875rem;
+  font-size: 0.984375rem;
   line-height: 1.5;
   border-radius: 0.2rem; }
 
@@ -2543,7 +2546,7 @@ input[type="button"].btn-block {
 .custom-control {
   position: relative;
   display: block;
-  min-height: 1.5rem;
+  min-height: 1.6875rem;
   padding-left: 1.5rem; }
 
 .custom-control-inline {
@@ -2577,7 +2580,7 @@ input[type="button"].btn-block {
   vertical-align: top; }
   .custom-control-label::before {
     position: absolute;
-    top: 0.25rem;
+    top: 0.34375rem;
     left: -1.5rem;
     display: block;
     width: 1rem;
@@ -2588,7 +2591,7 @@ input[type="button"].btn-block {
     border: #adb5bd solid 1px; }
   .custom-control-label::after {
     position: absolute;
-    top: 0.25rem;
+    top: 0.34375rem;
     left: -1.5rem;
     display: block;
     width: 1rem;
@@ -2632,7 +2635,7 @@ input[type="button"].btn-block {
     pointer-events: all;
     border-radius: 0.5rem; }
   .custom-switch .custom-control-label::after {
-    top: calc(0.25rem + 2px);
+    top: calc(0.34375rem + 2px);
     left: calc(-2.25rem + 2px);
     width: calc(1rem - 4px);
     height: calc(1rem - 4px);
@@ -2653,7 +2656,7 @@ input[type="button"].btn-block {
   width: 100%;
   height: calc(1.5em + 0.75rem + 2px);
   padding: 0.375rem 1.75rem 0.375rem 0.75rem;
-  font-size: 1rem;
+  font-size: 1.125rem;
   font-weight: 400;
   line-height: 1.5;
   color: #495057;
@@ -2685,14 +2688,14 @@ input[type="button"].btn-block {
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
   padding-left: 0.5rem;
-  font-size: 0.875rem; }
+  font-size: 0.984375rem; }
 
 .custom-select-lg {
   height: calc(1.5em + 1rem + 2px);
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   padding-left: 1rem;
-  font-size: 1.25rem; }
+  font-size: 1.40625rem; }
 
 .custom-file {
   position: relative;
@@ -2939,10 +2942,10 @@ input[type="button"].btn-block {
 
 .navbar-brand {
   display: inline-block;
-  padding-top: 0.3125rem;
-  padding-bottom: 0.3125rem;
+  padding-top: 0.2890625rem;
+  padding-bottom: 0.2890625rem;
   margin-right: 1rem;
-  font-size: 1.25rem;
+  font-size: 1.40625rem;
   line-height: inherit;
   white-space: nowrap; }
   .navbar-brand:hover, .navbar-brand:focus {
@@ -2973,7 +2976,7 @@ input[type="button"].btn-block {
 
 .navbar-toggler {
   padding: 0.25rem 0.75rem;
-  font-size: 1.25rem;
+  font-size: 1.40625rem;
   line-height: 1;
   background-color: transparent;
   border: 1px solid transparent;
@@ -3427,7 +3430,7 @@ input[type="button"].btn-block {
 
 .pagination-lg .page-link {
   padding: 0.75rem 1.5rem;
-  font-size: 1.25rem;
+  font-size: 1.40625rem;
   line-height: 1.5; }
 
 .pagination-lg .page-item:first-child .page-link {
@@ -3440,7 +3443,7 @@ input[type="button"].btn-block {
 
 .pagination-sm .page-link {
   padding: 0.25rem 0.5rem;
-  font-size: 0.875rem;
+  font-size: 0.984375rem;
   line-height: 1.5; }
 
 .pagination-sm .page-item:first-child .page-link {
@@ -3587,7 +3590,7 @@ input[type="button"].btn-block {
   font-weight: 700; }
 
 .alert-dismissible {
-  padding-right: 4rem; }
+  padding-right: 4.1875rem; }
   .alert-dismissible .close {
     position: absolute;
     top: 0;
@@ -3677,7 +3680,7 @@ input[type="button"].btn-block {
   display: flex;
   height: 1rem;
   overflow: hidden;
-  font-size: 0.75rem;
+  font-size: 0.84375rem;
   background-color: #e9ecef;
   border-radius: 0.25rem; }
 
@@ -3937,7 +3940,7 @@ input[type="button"].btn-block {
 
 .close {
   float: right;
-  font-size: 1.5rem;
+  font-size: 1.6875rem;
   font-weight: 700;
   line-height: 1;
   color: #000;
@@ -4146,7 +4149,7 @@ a.close.disabled {
   z-index: 1070;
   display: block;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: "Open Sans", sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -4160,7 +4163,7 @@ a.close.disabled {
   word-spacing: normal;
   white-space: normal;
   line-break: auto;
-  font-size: 0.875rem;
+  font-size: 0.984375rem;
   word-wrap: break-word;
   opacity: 0; }
   .tooltip.show {
@@ -4231,7 +4234,7 @@ a.close.disabled {
   z-index: 1060;
   display: block;
   max-width: 276px;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: "Open Sans", sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -4245,7 +4248,7 @@ a.close.disabled {
   word-spacing: normal;
   white-space: normal;
   line-break: auto;
-  font-size: 0.875rem;
+  font-size: 0.984375rem;
   word-wrap: break-word;
   background-color: #fff;
   background-clip: padding-box;
@@ -4334,7 +4337,7 @@ a.close.disabled {
 .popover-header {
   padding: 0.5rem 0.75rem;
   margin-bottom: 0;
-  font-size: 1rem;
+  font-size: 1.125rem;
   background-color: #f7f7f7;
   border-bottom: 1px solid #ebebeb;
   border-top-left-radius: calc(0.3rem - 1px);
@@ -7472,160 +7475,204 @@ a.text-dark:hover, a.text-dark:focus {
   #bclib-header .input-wrapper {
     padding-right: 0; } }
 
+.exhibit-nav__menu {
+  padding: 0;
+  list-style: none; }
+
+.exhibit-nav__item--active {
+  font-weight: 600; }
+
+/* Show the non-mobile menu to screen reader users
+   on mobile. */
+.non-mobile-menu {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0; }
+
+/* iPad and bigger */
+@media (min-width: 768px) {
+  /* Display non-mobile menu and hide mobile menu */
+  .exhibit-nav--desktop {
+    position: initial;
+    width: initial;
+    height: initial;
+    padding: initial;
+    overflow: initial;
+    clip: initial;
+    white-space: initial;
+    border: none; }
+  .exhibit-nav--mobile {
+    display: none; } }
+
+/* Previous page/next page navigation in exhibits */
 .nav-arrow {
   border: solid black;
   border-width: 0 3px 3px 0;
   display: inline-block;
   padding: 3px; }
-  .nav-arrow--right {
-    transform: rotate(-45deg);
-    margin-left: .25em;
-    -webkit-transform: rotate(-45deg); }
-  .nav-arrow--left {
-    transform: rotate(135deg);
-    margin-right: .25em;
-    -webkit-transform: rotate(135deg); }
-  .nav-arrow--up {
-    transform: rotate(-135deg);
-    -webkit-transform: rotate(-135deg); }
-  .nav-arrow--down {
-    transform: rotate(45deg);
-    -webkit-transform: rotate(45deg); }
 
-.prev-next .next-wrapper {
-  text-align: right; }
+.nav-arrow--right {
+  transform: rotate(-45deg);
+  margin-left: .25em;
+  -webkit-transform: rotate(-45deg); }
 
 /* Transform the previous and next links into buttons on mobile */
-@media (max-width: 768px) {
+a.next-link,
+a.prev-link {
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding: 1em;
+  text-align: center;
+  width: 100%;
+  box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.2);
+  background: #f3f5f4;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap; }
+
+form.mobile-menu {
+  margin-bottom: 2em; }
+
+.prev-wrapper {
+  top: 4em; }
+
+/* Prev and next are simple links on iPad or bigger */
+@media (min-width: 768px) {
   a.next-link,
   a.prev-link {
-    position: absolute;
-    left: 0;
-    top: 0;
-    padding: 1em;
-    text-align: center;
-    width: 100%;
-    box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.2);
-    background: #f3f5f4;
+    position: relative;
+    left: initial;
+    top: initial;
+    padding: initial;
+    text-align: initial;
+    width: initial;
+    box-shadow: none;
+    background: none;
     text-overflow: ellipsis;
     overflow: hidden;
-    white-space: nowrap; }
-  form.mobile-menu {
-    margin-bottom: 2em; }
+    white-space: initial; }
   .prev-wrapper {
-    top: 4em; }
-  .prev-wrapper,
-  .next-wrapper {
-    box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.2);
-    background-color: #111; } }
+    top: initial; }
+  a.next-wrapper {
+    text-align: right; } }
 
 /* Background color and separator set in variables.scss */
 .breadcrumb {
-  font-size: 15px;
+  font-size: 0.984375rem;
   margin-top: 1em; }
 
+/* Gallery figures have a figure and an extra attached 
+   section of test. */
+/* Each gallery figure is a Bootstrap row */
 .large-gallery-figure {
   margin-bottom: 3em; }
-  .large-gallery-figure__img {
-    width: 100%; }
-  .large-gallery-figure__caption {
-    font-size: 15px; }
 
+/* Each gallery figure contains two Bootstrap columns. The
+   size of the figure determines the relative size of the
+   text vs image column. */
+/* Centered images span all the way across the text, with a full
+   paragraph beneath. */
+.large-gallery-figure__img {
+  width: 100%; }
+
+.large-gallery-figure__caption {
+  font-size: 0.984375rem; }
+
+/* Figures on gallery pages. On desktop, they are all in a 
+   row.
+     
+   For .embedded-figure elements inside .gallery-row elements,
+   see gallery-row.scss */
+/* Defines how figures appear in gallery rows. Only applies
+   to breakpoints larger than Bootstrap's "medium", which 
+   is iPad width. */
 @media (min-width: 768px) {
   .gallery-row {
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-evenly;
     align-items: flex-end;
-    margin-bottom: 5em; }
+    margin-bottom: 5em;
+    /* Remove right/left/center positioning for figures in 
+           gallery rows. Figures in rows appear in order. */ }
     .gallery-row .embedded-figure {
       max-width: 100%;
       padding: 1rem;
       margin: .5em 1em .5em 1em; }
-      .gallery-row .embedded-figure--right {
-        float: none;
-        clear: none; }
-      .gallery-row .embedded-figure--left {
-        float: none;
-        clear: none; }
-      .gallery-row .embedded-figure--center {
-        max-width: initial; }
-      .gallery-row .embedded-figure__caption {
-        height: 5em;
-        font-size: 15px; }
-      .gallery-row .embedded-figure__img {
-        max-height: 400px; }
+    .gallery-row .embedded-figure__caption {
+      height: 5em;
+      font-size: 0.984375rem; }
+    .gallery-row .embedded-figure__img {
+      max-height: 400px; }
+    .gallery-row .embedded-figure--right {
+      float: none;
+      clear: none; }
+    .gallery-row .embedded-figure--left {
+      float: none;
+      clear: none; }
+    .gallery-row .embedded-figure--center {
+      max-width: initial; }
+  /* For backwards compatibility. There used to be a 
+       {{<galleryfigure>}} shortcode, but we just use 
+       {{<figure>}} for everything now. */
   .gallery-figure {
     margin: .5em 1em .5em 1em; }
-    .gallery-figure__caption {
-      height: 5em; }
-    .gallery-figure__img {
-      max-height: 400px; } }
+  .gallery-figure__caption {
+    height: 5em; }
+  .gallery-figure__img {
+    max-height: 400px; } }
 
+/* Figures (images + captions) floating in narrative text.
+
+   For .embedded-figure elements inside .gallery-row elements,
+   see gallery-row.scss */
+/* At iPad/mobile breakpoints, figures should occupy 100% of 
+   text width. */
 .embedded-figure {
   max-width: 100%;
   padding: 1rem; }
 
+/* Styles for desktop. */
 @media (min-width: 992px) {
   .embedded-figure {
     max-width: 33%;
     padding: 1rem; }
-    .embedded-figure--right {
-      float: right;
-      clear: right; }
-    .embedded-figure--left {
-      float: left;
-      clear: left; }
-    .embedded-figure--center {
-      max-width: 100%; }
-    .embedded-figure__caption {
-      font-size: 15px; }
-    .embedded-figure__img {
-      max-width: 100%; } }
+  .embedded-figure--right {
+    float: right;
+    clear: right; }
+  .embedded-figure--left {
+    float: left;
+    clear: left; }
+  .embedded-figure--center {
+    max-width: 100%; }
+  .embedded-figure__caption {
+    font-size: 0.984375rem; }
+  .embedded-figure__img {
+    max-width: 100%; } }
 
-body {
-  font-family: "Open Sans", sans-serif;
-  font-size: 18px; }
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Open Sans", sans-serif; }
-
-nav ul {
-  padding: 0;
-  list-style: none; }
-  nav ul li.active {
-    font-weight: 600; }
-
-@media (max-width: 768px) {
-  /* On mobile this menu should be visible to screen readers. */
-  .non-mobile-menu {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    padding: 0;
-    overflow: hidden;
-    clip: rect(0, 0, 0, 0);
-    white-space: nowrap;
-    border: 0; } }
-
-@media (min-width: 768px) {
-  .mobile-menu {
-    display: none; } }
-
-main figure {
-  flex: 1 1 0; }
-  main figure h4 {
-    font-size: 15px;
-    font-weight: 600; }
-  main figure p {
-    font-size: 15px; }
-  main figure img {
-    max-width: 100%;
-    margin-bottom: 1em;
-    image-orientation: from-image; }
-
+/* In text headings are <h4>s added in narrative text. */
 .in-text-heading {
   margin-top: 1.5em; }
+
+main {
+  /* Common styles for all figures. */ }
+  main figure {
+    flex: 1 1 0; }
+    main figure h4 {
+      font-size: 0.984375rem;
+      font-weight: 600; }
+    main figure p {
+      font-size: 0.984375rem; }
+    main figure img {
+      max-width: 100%;
+      margin-bottom: 1em;
+      image-orientation: from-image; }
 
 footer {
   min-height: 300px; }

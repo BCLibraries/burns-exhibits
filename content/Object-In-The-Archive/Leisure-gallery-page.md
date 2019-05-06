@@ -54,14 +54,59 @@ Anansi (the spider trickster), Parrot, and Chicken Hawk are three characters tha
 
 {{% galleryrow %}} 
 
-{{% galleryfigure src="" headline="NEED IMAGE: Anansi" %}}
-
+{{% galleryfigure src="../Promo-Image.png" headline="NEED IMAGE: Anansi" %}}
+King, Anansi Stories, N7433.4 .K48 A85 1992 FINE PRINT OVERSIZE
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="" headline="NEED IMAGE: parrot" %}}
+{{% galleryfigure src="../Promo-Image.png" headline="NEED IMAGE: parrot" %}}
+King, Anansi Stories, N7433.4 .K48 A85 1992 FINE PRINT OVERSIZE
+{{% /galleryfigure %}}
 
-{{% galleryfigure src="" headline="NEED IMAGE: chicken hawk " %}}
-
+{{% galleryfigure src="../Promo-Image.png" headline="NEED IMAGE: chicken hawk " %}}
+King, Anansi Stories, N7433.4 .K48 A85 1992 FINE PRINT OVERSIZE
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
+
+Games can mask educational purposes such as history, strategy, or math skills. The intricately carved chess pieces, or the Celtic revival motif playing cards, make them enjoyable to look at even when they are not in use. These objects may lack a clear history of play, but their inclusion in the archives provide them with a certain, if less playful, future.
+
+{{% galleryrow %}} 
+
+{{% galleryfigure src="../036-ChineseChessSet.jpg" headline="Chinese Chess Set" %}}
+Chinese Chess Set (MS1992-014)
+{{% /galleryfigure %}}
+
+{{% galleryfigure src="../029-face-back.jpg" headline="Playing Cards" %}}
+b. 2, Eva McKee Collection (MS2005-006)
+{{% /galleryfigure %}}
+
+{{% galleryfigure src="../HistoricalPastimesGame.jpg" headline="Historical pastime : a new game of the history of England from William 1st to William 4th." %}}
+Historical Pastimes (MS2001-058)
+{{% /galleryfigure %}}
+
+{{% /galleryrow %}}
+
+This cornet is part of the Michael Cummings Collection of Patrick S. Gilmore Materials, though it cannot be verified whether the instrument belonged to Gilmore. The element of the unknown that exists within archives is part of the history of the objects and their possible futures as they pose questions about their own origins. 
+
+{{% galleryrow %}} 
+
+{{% galleryfigure src="../018-Cornet.jpg" headline="Cornet, Perfected Wonder, patented June 15 1886." %}}
+b. 10, Michael Cummings collection of P.S. Gilmore Materials(IM-M135-2004)
+{{% /galleryfigure %}}
+
+{{% /galleryrow %}}
+
+Sewing filled women’s working and leisure hours in the 19th century. This needle case was exchanged via letter between friends in 1849, and shows signs of wear in the rusty needle holes. This sample book is an example of the ways in which girls were taught to sew, providing a sewing curriculum complete with samples of the work. 
+
+{{% galleryrow %}} 
+
+{{% galleryfigure src="../030-needlecase-open-closed.jpg" headline="Needle Case" %}}
+b. 1, f. 21, MDugan Collection of Doyle, Evans, and Persse Family Materials (MS2004-056)
+{{% /galleryfigure %}}
+
+{{% galleryfigure src="../Promo-Image.png" headline="NEED IMAGE" %}}
+Commissioners of National Education in Ireland, *Simple directions in needle-work and cutting out*, TT710 .C66 1861 IRISH 
+{{% /galleryfigure %}}
+
+{{% /galleryrow %}}
+

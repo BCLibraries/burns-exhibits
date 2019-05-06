@@ -1,6 +1,6 @@
 ---
 # Title of page
-title: "Narrative page"
+title: "Further Readings"
 description: ""
 
 # Page order (1 is 1st page, etc.)

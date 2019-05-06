@@ -1,62 +1,71 @@
+/* Gallery figures have a figure and an extra attached 
+   section of test. */
+
+/* Each gallery figure is a Bootstrap row */
 .large-gallery-figure {
     @extend .row;
     margin-bottom: 3em;
+}
 
-    &--x-large {
-        .large-gallery-figure__accompanying-text {
-            @extend .col-md-5;
-        }
-
-        figure {
-            @extend .col-md-7;
-        }
+/* Each gallery figure contains two Bootstrap columns. The
+   size of the figure determines the relative size of the
+   text vs image column. */
+.large-gallery-figure--x-large {
+    .large-gallery-figure__accompanying-text {
+        @extend .col-md-5;
     }
 
-    &--large {
-        .large-gallery-figure__accompanying-text {
-            @extend .col-md-6;
-        }
+    figure {
+        @extend .col-md-7;
+    }
+}
 
-        figure {
-            @extend .col-md-6;
-        }
+.large-gallery-figure--large {
+    .large-gallery-figure__accompanying-text {
+        @extend .col-md-6;
     }
 
-    &--medium {
-        .large-gallery-figure__accompanying-text {
-            @extend .col-md-7;
-        }
+    figure {
+        @extend .col-md-6;
+    }
+}
 
-        figure {
-            @extend .col-md-5;
-        }
+.large-gallery-figure--medium {
+    .large-gallery-figure__accompanying-text {
+        @extend .col-md-7;
     }
 
-    &--small {
-        .large-gallery-figure__accompanying-text {
-            @extend .col-md-8;
-        }
+    figure {
+        @extend .col-md-5;
+    }
+}
 
-        figure {
-            @extend .col-md-4;
-        }
+.large-gallery-figure--small {
+    .large-gallery-figure__accompanying-text {
+        @extend .col-md-8;
     }
 
-    &--center {
-        .large-gallery-figure__accompanying-text {
-            @extend .col-md-12;
-        }
+    figure {
+        @extend .col-md-4;
+    }
+}
 
-        figure {
-            @extend .col-md-12;
-        }
+/* Centered images span all the way across the text, with a full
+   paragraph beneath. */
+.large-gallery-figure--center {
+    .large-gallery-figure__accompanying-text {
+        @extend .col-md-12;
     }
 
-    &__img {
-        width: 100%;
+    figure {
+        @extend .col-md-12;
     }
+}
 
-    &__caption {
-        font-size: $small_font_size;
-    }
+.large-gallery-figure__img {
+    width: 100%;
+}
+
+.large-gallery-figure__caption {
+    font-size: $font-size-sm;
 }
