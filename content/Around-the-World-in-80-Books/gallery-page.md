@@ -111,17 +111,17 @@ type: "exhibit"
 
 {{< figure src="../16_cvb1325917_10_web.jpg"
            headline="Land of Haunted Castles"
-           description="Sollicitudin Mollis Venenatis Sit"
+           description="Casey. *The Land of Haunted Castles*. New York: The Century Co., 1921."
 >}}
 
 {{< figure src="../17_b374125_web.jpg"
            headline="Old Burgundy"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+           description="*Castles and Chateaux of Old Burgundy and the Border Province*. London: I. Pitman & Sons, 1909."
 >}}
 
 {{< figure src="../18_cvb481936_10_web.jpg"
            headline="Cyprus"
-           description="Parturient Nullam Tellus Vehicula"
+           description="Cesnola. *Cyprus: Its Ancient Cities, Tombs, and Temples*. New York: Harper & Brothers, 1878."
 >}}
 
 {{% /galleryrow %}}
@@ -130,17 +130,17 @@ type: "exhibit"
 
 {{< figure src="../19_cvb1296707_10_web.jpg"
            headline="New Guinea"
-           description="Sollicitudin Mollis Venenatis Sit"
+           description="Chalmers. *Pioneering in New Guinea*. London: The Religious Tract Society. 1887."
 >}}
 
 {{< figure src="../20_cvb482544_10_web.jpg"
-           headline="Heth & Moab"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+           headline="Syria"
+           description="Conder. *Heth and Moab: Explorations in Syria in 1881 and 1882*. London: Bentley, 1883."
 >}}
 
 {{< figure src="../21_b7070_web.jpg"
            headline="Gloucester"
-           description="Parturient Nullam Tellus Vehicula"
+           description="Connolly. *Out of Gloucester*. New York: Charles Scribner's Sons, 1902."
 >}}
 
 {{% /galleryrow %}}
