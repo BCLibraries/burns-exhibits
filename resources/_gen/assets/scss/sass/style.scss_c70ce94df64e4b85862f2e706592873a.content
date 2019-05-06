@@ -7475,6 +7475,40 @@ a.text-dark:hover, a.text-dark:focus {
   #bclib-header .input-wrapper {
     padding-right: 0; } }
 
+.exhibit-nav__menu {
+  padding: 0;
+  list-style: none; }
+
+.exhibit-nav__item--active {
+  font-weight: 600; }
+
+/* Show the non-mobile menu to screen reader users
+   on mobile. */
+.non-mobile-menu {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0; }
+
+/* iPad and bigger */
+@media (min-width: 768px) {
+  /* Display non-mobile menu and hide mobile menu */
+  .exhibit-nav--desktop {
+    position: initial;
+    width: initial;
+    height: initial;
+    padding: initial;
+    overflow: initial;
+    clip: initial;
+    white-space: initial;
+    border: none; }
+  .exhibit-nav--mobile {
+    display: none; } }
+
 /* Previous page/next page navigation in exhibits */
 .nav-arrow {
   border: solid black;
@@ -7550,6 +7584,11 @@ form.mobile-menu {
 .large-gallery-figure__caption {
   font-size: 0.984375rem; }
 
+/* Figures on gallery pages. On desktop, they are all in a 
+   row.
+     
+   For .embedded-figure elements inside .gallery-row elements,
+   see gallery-row.scss */
 /* Defines how figures appear in gallery rows. Only applies
    to breakpoints larger than Bootstrap's "medium", which 
    is iPad width. */
@@ -7617,51 +7656,23 @@ form.mobile-menu {
   .embedded-figure__img {
     max-width: 100%; } }
 
-nav ul {
-  padding: 0;
-  list-style: none; }
-  nav ul li.active {
-    font-weight: 600; }
-
-.non-mobile-menu {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  white-space: nowrap;
-  border: 0; }
-
-/* iPad and bigger */
-@media (min-width: 768px) {
-  /* Display non-mobile menu and hide mobile menu */
-  .non-mobile-menu {
-    position: initial;
-    width: initial;
-    height: initial;
-    padding: initial;
-    overflow: initial;
-    clip: initial;
-    white-space: initial;
-    border: none; }
-  .mobile-menu {
-    display: none; } }
-
-main figure {
-  flex: 1 1 0; }
-  main figure h4 {
-    font-size: 0.984375rem;
-    font-weight: 600; }
-  main figure p {
-    font-size: 0.984375rem; }
-  main figure img {
-    max-width: 100%;
-    margin-bottom: 1em;
-    image-orientation: from-image; }
-
+/* In text headings are <h4>s added in narrative text. */
 .in-text-heading {
   margin-top: 1.5em; }
+
+main {
+  /* Common styles for all figures. */ }
+  main figure {
+    flex: 1 1 0; }
+    main figure h4 {
+      font-size: 0.984375rem;
+      font-weight: 600; }
+    main figure p {
+      font-size: 0.984375rem; }
+    main figure img {
+      max-width: 100%;
+      margin-bottom: 1em;
+      image-orientation: from-image; }
 
 footer {
   min-height: 300px; }
