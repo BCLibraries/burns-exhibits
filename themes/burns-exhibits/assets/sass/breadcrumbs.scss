@@ -1,22 +1,5 @@
-$breadcrum_spacing: 1em;
-
-.exhibit-breadcrumbs {
-    list-style: none;
-    padding-left: 0;
-    margin-left: 0;
+/* Background color and separator set in variables.scss */
+.breadcrumb {
+    font-size: $small_font_size;
     margin-top: 1em;
-}
-
-.exhibit-breadcrumbs__crumb {
-    float: left;
-    margin-right: $breadcrum_spacing;
-}
-
-.exhibit-breadcrumbs__crumb::after {
-    content: ">";
-    margin-left: $breadcrum_spacing;
-}
-
-.exhibit-breadcrumbs__crumb:last-child::after {
-    content: "";
 }

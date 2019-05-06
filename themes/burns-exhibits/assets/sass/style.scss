@@ -1,12 +1,10 @@
-@import 'bootstrap/bootstrap';
-
 // Default values.
 @import 'variables';
 
+@import 'bootstrap/bootstrap';
+
 // Red header
 @import 'library-header';
-
-@import 'home-page';
 
 @import 'prev-next-nav';
 @import 'breadcrumbs';
@@ -40,6 +38,26 @@ nav {
                 font-weight: 600;
             }
         }
+    }
+}
+
+@media (max-width: #{map-get($grid-breakpoints, "md")}) {
+    /* On mobile this menu should be visible to screen readers. */
+    .non-mobile-menu {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        padding: 0;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+        white-space: nowrap;
+        border: 0; 
+    }
+}
+
+@media (min-width: #{map-get($grid-breakpoints, "md")}) {
+    .mobile-menu {
+        display: none;
     }
 }
 

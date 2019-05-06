@@ -12,20 +12,20 @@ draft: true
 type: "exhibit"
 ---
 
-{{% largefigure src="../The-conquest-of-Mexico-F1230.P965-WILLIAMS-CVB1297407-10.JPG" headline="Venenatis Euismod Tristique" size="large" %}}
+{{% largefigure src="../The-conquest-of-Mexico-F1230.P965-WILLIAMS-CVB1297407-10.JPG" headline="Spine, Prescott, The conquest of Mexico, F1230 .P965 WILLIAMS" size="large" %}}
 **Standard Binding**
 
 This 1911 edition of [*The Conquest of Mexico*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21317673900001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) exhibits the first binding style that was in use
 from 1906-1928. The gilt floral decoration was designed by Reginald Knowles. This volume is from the Williams Collection 
 {{% /largefigure %}}
 
-{{% largefigure src="../At-the-sign-of-the-cat-and-racket-and-other-stories-PQ2160.A71914-O'BRIEN LIBRARY B819238.JPG" headline="Venenatis Euismod Tristique" size="large" %}}
+{{% largefigure src="../At-the-sign-of-the-cat-and-racket-and-other-stories-PQ2160.A71914-O'BRIEN LIBRARY B819238.JPG" headline="Spine compariosn of Balzac, At the sign of the cat and racket & other stories, PQ2160 .A7 1914 O'BRIEN LIBRARY and Prescott, The conquest of Mexico, F1230 .P965 WILLIAMS" size="large" %}}
 Because of shortages during World War I, some titles in EML printed from 1914-1927 used imitation gold
 leaf, and therefore have a faded appearance. This 1914 edition of [*At the Sign of the Cat and
 Racket &amp; Other Stories*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21372482530001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) by Balzac is an example of this imitation gold leaf and is easily distinguishable when laid beside one of the real gold volumes. This volume is from Flann O’Brien's Library.
 {{% /largefigure %}}
 
-{{% largefigure src="../Essays-literary-and-critical-03-23781-KINGSLAND-B344412.JPG" headline="Venenatis Euismod Tristique" size="large" %}}
+{{% largefigure src="../Essays-literary-and-critical-03-23781-KINGSLAND-B344412.JPG" headline="Spine, Arnold, Essays literary & critical, 03-23781 KINGSLAND" size="large" %}}
 **Quarter Pigskin Binding**
 
 This 1909 edition of [*Essays Literary and Critical*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21377522700001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) by Matthew Arnold is an example of the
@@ -34,7 +34,7 @@ early days of EML, probably not after 1918. The quarter pigskin binding had blan
 This edition was owned by Hilaire Belloc.
 {{% /largefigure %}}
 
-{{% largefigure src="../The-French-revolution-DC161.C3-1906-BRITISH-CATHOLIC-AUTHORS-B551405.JPG" headline="Venenatis Euismod Tristique" size="large" %}}
+{{% largefigure src="../The-French-revolution-DC161.C3-1906-BRITISH-CATHOLIC-AUTHORS-B551405.JPG" headline="Spine and cover, Carlyle, The French revolution : a history Vol. 1, DC161 .C3 1906 BRITISH CATHOLIC AUTHORS" size="large" %}}
 **Aldine Binding**
 
 This 1908 Edition of [*The French Revolution*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21344242530001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) by Thomas Carlyle is an example of the Aldine
@@ -44,7 +44,7 @@ on the exterior. It was bound with a silk ribbon book marker. The introduction f
 was written by Hilaire Belloc and it comes from the British Catholic Authors Collection.
 {{% /largefigure %}}
 
-{{% largefigure src="../A-voyage-round-the-world-G420.A5-WILLIAMS-CVB1298242-10.JPG" headline="Venenatis Euismod Tristique" size="large" %}}
+{{% largefigure src="../A-voyage-round-the-world-G420.A5-WILLIAMS-CVB1298242-10.JPG" headline="Spine and cover, Walter, A voyage round the world in the years 1740-4, G420 .A5 WILLIAMS" size="large" %}}
 **Library Binding**
 
 The binding of this 1908 edition of [*A Voyage Round the World in the Years 1740-4*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21319045120001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) by Lord
@@ -56,7 +56,7 @@ Dutton, while English editions published by J.M. Dent had an overlapping “E”
 the loop. This edition comes from the Williams Collection.
 {{% /largefigure %}}
 
-{{% largefigure src="../A-literary-and-historical-atlas-E14.B28-WILLIAMS-CVB1296988-10.JPG" headline="Venenatis Euismod Tristique" size="large" %}}
+{{% largefigure src="../A-literary-and-historical-atlas-E14.B28-WILLIAMS-CVB1296988-10.JPG" headline="Spine, Bartholomew, A literary and historical atlas of America, E14 .B28 WILLIAMS" size="large" %}}
 **Maroon Leatherette Binding**
 This 1911 edition of [*A Literary and Historical Atlas of America*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315650160001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) is from the Reference
 category of EML. The spine design is identical to other contemporary editions, but it also
@@ -64,11 +64,11 @@ includes a matching gilt floral design on the cover. It is bound in maroon leath
 Collection.
 {{% /largefigure %}}
 
-{{% largefigure src="../A-literary-and-historical-atlas.jpg" headline="Venenatis Euismod Tristique" size="medium" %}}
+{{% largefigure src="../A-literary-and-historical-atlas.jpg" headline="Front cover, Bartholomew, A literary and historical atlas of America, E14 .B28 WILLIAMS" size="medium" %}}
 
 {{% /largefigure %}}
 
-{{% largefigure src="../Warren-Hastings-a-biography-DS473.T7-WILLIAMS-CVB1291941-10.jpg" headline="Venenatis Euismod Tristique" size="large" %}}
+{{% largefigure src="../Warren-Hastings-a-biography-DS473.T7-WILLIAMS-CVB1291941-10.jpg" headline="Title page, Trotter, Warren Hastings: a biography, DS473 .T7 WILLIAMS" size="large" %}}
 
 **Title Page**
 
@@ -80,7 +80,7 @@ biography) on the left hand side of the image is by John Milton. This volume is 
 
 {{% /largefigure %}}
 
-{{% largefigure src="../A-tale-of-a-tub-PR3724.T251911-IRISH-CVB1327450-10.jpg" headline="Venenatis Euismod Tristique" size="large" %}}
+{{% largefigure src="../A-tale-of-a-tub-PR3724.T251911-IRISH-CVB1327450-10.jpg" headline="Paste-down, Swift, A tale of a tub : The battle of the books, and other satires, PR3724 .T25 1911 IRISH" size="large" %}}
 
 **Paste-down**
 
