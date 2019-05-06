@@ -1,66 +1,65 @@
+/* Previous page/next page navigation in exhibits */
+
 .nav-arrow {
     border: solid black;
     border-width: 0 3px 3px 0;
     display: inline-block;
     padding: 3px;
-
-    &--right {
-        transform: rotate(-45deg);
-        margin-left: .25em;
-        -webkit-transform: rotate(-45deg);
-    }
-
-    &--left {
-        transform: rotate(135deg);
-        margin-right: .25em;
-        -webkit-transform: rotate(135deg);
-    }
-
-    &--up {
-        transform: rotate(-135deg);
-        -webkit-transform: rotate(-135deg);
-    }
-
-    &--down {
-        transform: rotate(45deg);
-        -webkit-transform: rotate(45deg);
-    }
 }
 
-.prev-next {
-    .next-wrapper {
-        text-align: right
-    }
+.nav-arrow--right {
+    transform: rotate(-45deg);
+    margin-left: .25em;
+    -webkit-transform: rotate(-45deg);
 }
 
 /* Transform the previous and next links into buttons on mobile */
-@media (max-width: #{map-get($grid-breakpoints, "md")}) {
+a.next-link,
+a.prev-link {
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 1em;
+    text-align: center;
+    width: 100%;
+    box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.2);
+    background: #f3f5f4;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+form.mobile-menu {
+    margin-bottom: 2em;
+}
+
+.prev-wrapper {
+    top: 4em;
+}
+
+/* Prev and next are simple links on iPad or bigger */
+@media (min-width: #{map-get($grid-breakpoints, "md")}) {
+
     a.next-link,
     a.prev-link {
-        position: absolute;
-        left: 0;
-        top: 0;
-        padding: 1em;
-        text-align: center;
-        width: 100%;
-        box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.2);
-        background: #f3f5f4;
+        position: relative;
+        left: initial;
+        top: initial;
+        padding: initial;
+        text-align: initial;
+        width: initial;
+        box-shadow: none;
+        background: none;
         text-overflow: ellipsis;
         overflow: hidden;
-        white-space: nowrap;
-    }
-
-    form.mobile-menu {
-        margin-bottom: 2em;
+        white-space: initial;
     }
 
     .prev-wrapper {
-        top: 4em;
+        top: initial;
     }
 
-    .prev-wrapper,
-    .next-wrapper {
-        box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.2);
-        background-color: #111;
+    a.next-wrapper {
+        text-align: right;
     }
 }
