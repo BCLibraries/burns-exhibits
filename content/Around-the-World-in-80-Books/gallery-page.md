@@ -96,7 +96,7 @@ type: "exhibit"
 >}}
 
 {{< figure src="../14_cvb1291000_10_web.jpg"
-           headline="Al-Madinah & Meccah"
+           headline="Medina & Mecca"
            description="Burton. *Personal Narrative of a Pilgrimage to Al-Madinah & Meccah*. London: Tylston and Edwards, 1893."
 >}}
 
@@ -115,7 +115,7 @@ type: "exhibit"
 >}}
 
 {{< figure src="../17_b374125_web.jpg"
-           headline="Old Burgundy"
+           headline="Burgundy"
            description="*Castles and Chateaux of Old Burgundy and the Border Province*. London: I. Pitman & Sons, 1909."
 >}}
 
@@ -158,7 +158,7 @@ type: "exhibit"
 >}}
 
 {{< figure src="../24_cvb1298125_10_web.jpg"
-           headline="The Spanish Main"
+           headline="Spanish Main"
            description="Davidson. *The Romance of the Spanish Main*. Philadelphia: J.B. Lippincott Company, 1916. "
 >}}
 
