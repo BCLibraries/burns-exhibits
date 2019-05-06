@@ -1,5 +1,0 @@
-body {
-  background-color: fuchsia;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; }
-  body main {
-    background-color: gainsboro; }

@@ -1,8 +1,9 @@
-$body_font: 'Open Sans', sans-serif;
-$heading_font: 'Open Sans', sans-serif;
+/* Redefined values from bootstrap */
+$font-family-sans-serif:      "Open Sans", sans-serif !default;
 
-$small_font_size: 15px;
-$med_font_size: 18px;
+/* Bootstrap default font size. 1.125rem == 18px usually */
+$font-size-base: 1.125rem !default;
 
+/* Hide breadcrumb background and use different divider */
 $breadcrumb-divider: quote(">") !default;
 $breadcrumb-bg: white !default;
