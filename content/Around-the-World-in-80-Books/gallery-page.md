@@ -54,17 +54,20 @@ type: "exhibit"
 
 {{< figure src="../07_cvb482816_10_web.jpg"
            headline="Egypt to Palestine"
-           description="Bartlett. *From Egypt to Palestine through Sinai*. New York: Harper & Brothers, 1879."
+           description="Bartlett. *[From Egypt to Palestine through Sinai] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21352184490001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US
+)*. New York: Harper & Brothers, 1879."
 >}}
 
 {{< figure src="../08_b772637_web.jpg"
            headline="Donegal and Connemara"
-           description="Bayne. *On an Irish Jaunting-Car Through Donegal and Connemara*. New York: Harper, 1902."
+           description="Bayne. *[On an Irish Jaunting-Car Through Donegal and Connemara] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21329622030001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US
+)*. New York: Harper, 1902."
 >}}
 
 {{< figure src="../09_cvb1297947_10_web.jpg"
            headline="Caribbean Islands"
-           description="Bell. *The Spell of the Caribbean Islands*. Boston: L.C. Page & Company, 1926. "
+           description="Bell. *[The Spell of the Caribbean Islands] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21317740890001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US
+)*. Boston: L.C. Page & Company, 1926. "
 >}}
 
 {{% /galleryrow %}}
@@ -72,18 +75,21 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="../10_b501788_web.jpg"
-           headline=""
-           description="Bonnefont. *Aventures de six Français aux Colonies*. Paris: Garnier Frères, 1890."
+           headline="French Colonies"
+           description="Bonnefont. *[Aventures de six Français aux Colonies] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21374660870001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US
+)*. Paris: Garnier Frères, 1890."
 >}}
 
 {{< figure src="../11_cvb1296637_10_web.jpg"
            headline="Fiji"
-           description="*The Hill Tribes of Fiji: a record of forty years' intimate connection with the tribes of the mountainous interior of Fiji, with a description of their habits in war & peace*. London: Seeley Service & Co. Limited, 1922."
+           description="*[The Hill Tribes of Fiji: a record of forty years' intimate connection with the tribes of the mountainous interior of Fiji] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315621730001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US
+)*. London: Seeley Service & Co. Limited, 1922."
 >}}
 
 {{< figure src="../12_cvb1296713_web.jpg"
            headline="America"
-           description="Brown. *Gypsy Fires in America: a narrative of life among the Romanies of the United States and Canada…with many illustrations from photos*. New York and London: Harper, 1924."
+           description="Brown. *[Gypsy Fires in America] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315614640001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US
+)*. New York and London: Harper, 1924."
 >}}
 
 {{% /galleryrow %}}
