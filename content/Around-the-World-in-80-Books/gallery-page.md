@@ -26,7 +26,7 @@ type: "exhibit"
 
 {{< figure src="../03_not_available_web.jpg"
            headline="New England"
-           description="Bacon. *Historic Pilgrimages in New England: Among Landmarks of Pilgrim and Puritan Days and of the Provincial and Revolutionary Periods*. New York: Silver Burdett & Company, [c1898])."
+           description="Bacon. *[Historic Pilgrimages in New England: Among Landmarks of Pilgrim and Puritan Days and of the Provincial and Revolutionary Periods] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21374972640001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Silver Burdett & Company, [c1898])."
 >}}
 
 {{% /galleryrow %}}
@@ -35,17 +35,17 @@ type: "exhibit"
 
 {{< figure src="../04_b370250_web.jpg"
            headline="United States"
-           description="Baker. *The United States Secret Service in the Late War*. Boston, Mass.: H.J. Hetherington & Co., 1890."
+           description="Baker. *[The United States Secret Service in the Late War] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21361909480001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Boston, Mass.: H.J. Hetherington & Co., 1890."
 >}}
 
 {{< figure src="../05_b346859_web.jpg"
            headline="Alps"
-           description="Ballerini. *The Hunter of the Alps*. New York: D. & J. Sadlier & Company, 1879."
+           description="Ballerini. *[The Hunter of the Alps] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367801180001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: D. & J. Sadlier & Company, 1879."
 >}}
 
 {{< figure src="../06_cvb12997700_10_web.jpg"
            headline="Due South"
-           description="Ballou. *Due South; or Cuba Past and Present*. Boston and New York: Houghton Mifflin and Company, 1885 (or 1888)."
+           description="Ballou. *[Due South; or Cuba Past and Present] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21317707730001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Boston and New York: Houghton Mifflin and Company, 1885 (or 1888)."
 >}}
 
 {{% /galleryrow %}}
