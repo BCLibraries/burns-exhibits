@@ -23,11 +23,17 @@ The Ireland O’Nolan knew and satirized was not the socially liberal country it
 
 Unlike James Joyce and Samuel Beckett—Irish-born writers who gained greater fame after fleeing to the continent—O’Nolan remained in Ireland, bound to his family and native land, his bizarre, boundary-pushing fictions offering the only way out.
 
+**Father Figure**
+
 Michael Victor O'Nolan died suddenly of a heart attack in 1937, leaving Brian as the primary breadwinner for his mother and ten siblings, of which he was the third. Having recently finished his studies and taken a job in the civil service like his father, he supported the family by acting as secretary to a series of senior ministers until a controversy forced his resignation in 1953.
 
 Brian kept a photo of his father tucked in this pocket missal from the 1950s. It contains the yearly cycle of prayers and readings for the Church’s liturgy in Irish, the language the family spoke at home.
 
+**Impromptu Debater**
+
 During his last two years at Blackrock College, Brian earned medals for English composition. At University College Dublin, he participated actively in its prestigious Literary and Historical Society, earning the medal for impromptu debate for the academic year 1931-1932 and the opportunity to participate on a travel team that competed in England. He narrowly lost an election to lead the Society to Vivion de Valera, eldest son of Éamon de Valera, Ireland’s most prominent and powerful politician.
+
+**Blatherings**
 
 Brian’s older brother Ciarán also attended UCD in the early 1930s. Both collaborated on the student magazine Comhthrom Féinne (‘Fair Play,’ a sidelong reference to the university’s motto). In an initial experiment with pen names, Brian contributed sketches chiefly as Brother Barnabas.
 
