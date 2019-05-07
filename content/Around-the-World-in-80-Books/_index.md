@@ -3,7 +3,7 @@
 title: "Introduction"
 
 # Title of exhibit
-exhibit_title: "Around the World in 80 Books"
+exhibit_title: "Around the World in 80 Books: A Selection of Publishers Trade Bindings"
 
 date: 2019-05-02T15:53:26-04:00
 
@@ -11,9 +11,9 @@ date: 2019-05-02T15:53:26-04:00
 weight: 1 
 
 # Big image on first page.
-front_image: "intro-image.jpg" # Replace with the real image
-front_caption_headline: "Ullamcorper Condimentum Tortor Parturient"
-front_caption_text: "Donec id elit non mi porta gravida at eget metus."
+front_image: "UniverseDetail.JPG" # Replace with the real image
+front_caption_headline: ""
+front_caption_text: ""
 
 # Change to false to publish.
 draft: true

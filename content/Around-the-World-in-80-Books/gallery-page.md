@@ -16,17 +16,17 @@ type: "exhibit"
 
 {{< figure src="../01_cvb1307340_10_web.jpg"
            headline="America"
-           description="Abbott. *David Crockett: His Life and Adventures. American Pioneers and Patriots Series*."
+           description="Abbott. *[David Crockett: His Life and Adventures. American Pioneers and Patriots Series] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21358548620001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*."
 >}}
 
 {{< figure src="../02_b11271_web.jpg"
            headline="East of the Sun and West of the Moon"
-           description="Asbjørnsen. *East of the Sun and West of the Moon*. London: Hodder & Stoughton, 1914."
+           description="Asbjørnsen. *[East of the Sun and West of the Moon] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21325791980001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: Hodder & Stoughton, 1914."
 >}}
 
 {{< figure src="../03_not_available_web.jpg"
            headline="New England"
-           description="Bacon. *Historic Pilgrimages in New England: Among Landmarks of Pilgrim and Puritan Days and of the Provincial and Revolutionary Periods*. New York: Silver Burdett & Company, [c1898])."
+           description="Bacon. *[Historic Pilgrimages in New England: Among Landmarks of Pilgrim and Puritan Days and of the Provincial and Revolutionary Periods] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21374972640001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Silver Burdett & Company, [c1898])."
 >}}
 
 {{% /galleryrow %}}
@@ -35,17 +35,17 @@ type: "exhibit"
 
 {{< figure src="../04_b370250_web.jpg"
            headline="United States"
-           description="Baker. *The United States Secret Service in the Late War*. Boston, Mass.: H.J. Hetherington & Co., 1890."
+           description="Baker. *[The United States Secret Service in the Late War] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21361909480001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Boston, Mass.: H.J. Hetherington & Co., 1890."
 >}}
 
 {{< figure src="../05_b346859_web.jpg"
-           headline="The Alps"
-           description="Ballerini. *The Hunter of the Alps*. New York: D. & J. Sadlier & Company, 1879."
+           headline="Alps"
+           description="Ballerini. *[The Hunter of the Alps] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367801180001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: D. & J. Sadlier & Company, 1879."
 >}}
 
 {{< figure src="../06_cvb12997700_10_web.jpg"
            headline="Due South"
-           description="Ballou. *Due South; or Cuba Past and Present*. Boston and New York: Houghton Mifflin and Company, 1885 (or 1888)."
+           description="Ballou. *[Due South; or Cuba Past and Present] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21317707730001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Boston and New York: Houghton Mifflin and Company, 1885 (or 1888)."
 >}}
 
 {{% /galleryrow %}}
@@ -54,17 +54,20 @@ type: "exhibit"
 
 {{< figure src="../07_cvb482816_10_web.jpg"
            headline="Egypt to Palestine"
-           description="Bartlett. *From Egypt to Palestine through Sinai*. New York: Harper & Brothers, 1879."
+           description="Bartlett. *[From Egypt to Palestine through Sinai] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21352184490001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US
+)*. New York: Harper & Brothers, 1879."
 >}}
 
 {{< figure src="../08_b772637_web.jpg"
            headline="Donegal and Connemara"
-           description="Bayne. *On an Irish Jaunting-Car Through Donegal and Connemara*. New York: Harper, 1902."
+           description="Bayne. *[On an Irish Jaunting-Car Through Donegal and Connemara] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21329622030001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US
+)*. New York: Harper, 1902."
 >}}
 
 {{< figure src="../09_cvb1297947_10_web.jpg"
            headline="Caribbean Islands"
-           description="Bell. *The Spell of the Caribbean Islands*. Boston: L.C. Page & Company, 1926. "
+           description="Bell. *[The Spell of the Caribbean Islands] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21317740890001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US
+)*. Boston: L.C. Page & Company, 1926. "
 >}}
 
 {{% /galleryrow %}}
@@ -72,18 +75,21 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="../10_b501788_web.jpg"
-           headline=""
-           description="Bonnefont. *Aventures de six Français aux Colonies*. Paris: Garnier Frères, 1890."
+           headline="French Colonies"
+           description="Bonnefont. *[Aventures de six Français aux Colonies] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21374660870001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US
+)*. Paris: Garnier Frères, 1890."
 >}}
 
 {{< figure src="../11_cvb1296637_10_web.jpg"
            headline="Fiji"
-           description="*The Hill Tribes of Fiji: a record of forty years' intimate connection with the tribes of the mountainous interior of Fiji, with a description of their habits in war & peace*. London: Seeley Service & Co. Limited, 1922."
+           description="*[The Hill Tribes of Fiji: a record of forty years' intimate connection with the tribes of the mountainous interior of Fiji] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315621730001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US
+)*. London: Seeley Service & Co. Limited, 1922."
 >}}
 
 {{< figure src="../12_cvb1296713_web.jpg"
            headline="America"
-           description="Brown. *Gypsy Fires in America: a narrative of life among the Romanies of the United States and Canada…with many illustrations from photos*. New York and London: Harper, 1924."
+           description="Brown. *[Gypsy Fires in America] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315614640001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US
+)*. New York and London: Harper, 1924."
 >}}
 
 {{% /galleryrow %}}
@@ -186,12 +192,12 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="../28_cvb1358439_10_web.jpg"
-           headline="The Sahara"
+           headline="Sahara"
            description="Du Chaillu. *My Apingi Kingdom: with life in the great Sahara*. New York: Harper, 1871."
 >}}
 
 {{< figure src="../29_cvb1358767_10_web.jpg"
-           headline="The Equator"
+           headline="Equator"
            description="Du Chaillu. *Wild Life Under the Equator: narrated for young people*. New York: Harper & Brothers, 1870."
 >}}
 
@@ -248,7 +254,7 @@ type: "exhibit"
 >}}
 
 {{< figure src="../38_b369288_web.jpg"
-           headline="The North Pole"
+           headline="North Pole"
            description="Hood. *From Nowhere to the North Pole*. London: Chatto and Windus, 1875."
 >}}
 
@@ -272,7 +278,7 @@ type: "exhibit"
 >}}
 
 {{< figure src="../42_cvb1297510_10_web.jpg"
-           headline="The Great Plains"
+           headline="Great Plains"
            description="Judson. *Myths and Legends of the Great Plains*. Chicago: A.C. McClurg & Co., 1913."
 >}}
 
@@ -367,7 +373,7 @@ type: "exhibit"
 >}}
 
 {{< figure src="../58_cvb1311447_10_web.jpg"
-           headline="The North Pole"
+           headline="North Pole"
            description="Peary. *The North Pole: its Discovery in 1909 Under the Auspices of the Peary Arctic Club*. New York: Frederick A. Stokes Co., 1910."
 >}}
 
@@ -405,7 +411,7 @@ type: "exhibit"
 >}}
 
 {{< figure src="../64_b423399_web.jpg"
-           headline="The South Pole"
+           headline="South Pole"
            description="Smith. *The Romance of the South Pole: Antarctic voyages and explorations*. London: T. Nelson, 1900. "
 >}}
 
@@ -495,12 +501,12 @@ type: "exhibit"
 >}}
 
 {{< figure src="../78_b431620_web.jpg"
-           headline="The Rhone"
+           headline="Rhone"
            description="Wood. *In the Valley of the Rhone*. London: Macmillan, 1899."
 >}}
 
 {{< figure src="../79_b378982_web.jpg"
-           headline="The Empire of the Hittites"
+           headline="Empire of the Hittites"
            description="Wright. *The Empire of the Hittites*. London: Nisbet, 1884."
 >}}
 
