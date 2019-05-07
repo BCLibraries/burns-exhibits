@@ -54,7 +54,8 @@ type: "exhibit"
 
 {{< figure src="../07_cvb482816_10_web.jpg"
            headline="Egypt to Palestine"
-           description="Bartlett. *[From Egypt to Palestine through Sinai] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21352184490001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Harper & Brothers, 1879."
+           description="Bartlett. *[From Egypt to Palestine through Sinai] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21352184490001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US
+).* New York: Harper & Brothers, 1879."
 >}}
 
 {{< figure src="../08_b772637_web.jpg"
