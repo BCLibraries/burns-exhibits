@@ -39,7 +39,7 @@ type: "exhibit"
 >}}
 
 {{< figure src="../05_b346859_web.jpg"
-           headline="The Alps"
+           headline="Alps"
            description="Ballerini. *The Hunter of the Alps*. New York: D. & J. Sadlier & Company, 1879."
 >}}
 
@@ -186,12 +186,12 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="../28_cvb1358439_10_web.jpg"
-           headline="The Sahara"
+           headline="Sahara"
            description="Du Chaillu. *My Apingi Kingdom: with life in the great Sahara*. New York: Harper, 1871."
 >}}
 
 {{< figure src="../29_cvb1358767_10_web.jpg"
-           headline="The Equator"
+           headline="Equator"
            description="Du Chaillu. *Wild Life Under the Equator: narrated for young people*. New York: Harper & Brothers, 1870."
 >}}
 
@@ -248,7 +248,7 @@ type: "exhibit"
 >}}
 
 {{< figure src="../38_b369288_web.jpg"
-           headline="The North Pole"
+           headline="North Pole"
            description="Hood. *From Nowhere to the North Pole*. London: Chatto and Windus, 1875."
 >}}
 
@@ -272,7 +272,7 @@ type: "exhibit"
 >}}
 
 {{< figure src="../42_cvb1297510_10_web.jpg"
-           headline="The Great Plains"
+           headline="Great Plains"
            description="Judson. *Myths and Legends of the Great Plains*. Chicago: A.C. McClurg & Co., 1913."
 >}}
 
@@ -367,7 +367,7 @@ type: "exhibit"
 >}}
 
 {{< figure src="../58_cvb1311447_10_web.jpg"
-           headline="The North Pole"
+           headline="North Pole"
            description="Peary. *The North Pole: its Discovery in 1909 Under the Auspices of the Peary Arctic Club*. New York: Frederick A. Stokes Co., 1910."
 >}}
 
@@ -405,7 +405,7 @@ type: "exhibit"
 >}}
 
 {{< figure src="../64_b423399_web.jpg"
-           headline="The South Pole"
+           headline="South Pole"
            description="Smith. *The Romance of the South Pole: Antarctic voyages and explorations*. London: T. Nelson, 1900. "
 >}}
 
@@ -495,12 +495,12 @@ type: "exhibit"
 >}}
 
 {{< figure src="../78_b431620_web.jpg"
-           headline="The Rhone"
+           headline="Rhone"
            description="Wood. *In the Valley of the Rhone*. London: Macmillan, 1899."
 >}}
 
 {{< figure src="../79_b378982_web.jpg"
-           headline="The Empire of the Hittites"
+           headline="Empire of the Hittites"
            description="Wright. *The Empire of the Hittites*. London: Nisbet, 1884."
 >}}
 
