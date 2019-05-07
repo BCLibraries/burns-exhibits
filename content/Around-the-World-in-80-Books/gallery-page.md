@@ -16,7 +16,7 @@ type: "exhibit"
 
 {{< figure src="../01_cvb1307340_10_web.jpg"
            headline="America"
-           description="Abbott. *David Crockett: His Life and Adventures. American Pioneers and Patriots Series*."
+           description="Abbott. *[David Crockett: His Life and Adventures. American Pioneers and Patriots Series] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21358548620001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*."
 >}}
 
 {{< figure src="../02_b11271_web.jpg"
