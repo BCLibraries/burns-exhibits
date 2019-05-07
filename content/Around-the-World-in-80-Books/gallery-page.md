@@ -21,7 +21,7 @@ type: "exhibit"
 
 {{< figure src="../02_b11271_web.jpg"
            headline="East of the Sun and West of the Moon"
-           description="Asbjørnsen. *East of the Sun and West of the Moon*. London: Hodder & Stoughton, 1914."
+           description="Asbjørnsen. *[East of the Sun and West of the Moon] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21325791980001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: Hodder & Stoughton, 1914."
 >}}
 
 {{< figure src="../03_not_available_web.jpg"
