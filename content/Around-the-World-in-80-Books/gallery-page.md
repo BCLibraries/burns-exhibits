@@ -130,7 +130,7 @@ type: "exhibit"
 
 {{< figure src="../19_cvb1296707_10_web.jpg"
            headline="New Guinea"
-           description="Chalmers. *Pioneering in New Guinea*. London: The Religious Tract Society. 1887."
+           description="Chalmers. *[Pioneering in New Guinea] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315615070001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: The Religious Tract Society. 1887."
 >}}
 
 {{< figure src="../20_cvb482544_10_web.jpg"
