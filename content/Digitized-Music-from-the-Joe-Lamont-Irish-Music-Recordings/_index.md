@@ -11,7 +11,7 @@ date: 2019-05-07T14:24:36-04:00
 weight: 1 
 
 # Big image on first page.
-front_image: "" 
+front_image: "intro-image.jpg" 
 front_caption_headline: ""
 front_caption_text: ""
 
