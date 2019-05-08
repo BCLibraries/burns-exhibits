@@ -135,7 +135,7 @@ type: "exhibit"
 
 {{< figure src="../20_cvb482544_10_web.jpg"
            headline="Syria"
-           description="Conder. *Heth and Moab: Explorations in Syria in 1881 and 1882*. London: Bentley, 1883."
+           description="Conder. *[Heth and Moab: Explorations in Syria in 1881 and 1882] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21352150070001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: Bentley, 1883."
 >}}
 
 {{< figure src="../21_b7070_web.jpg"
