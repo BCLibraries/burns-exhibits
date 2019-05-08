@@ -121,7 +121,7 @@ type: "exhibit"
 
 {{< figure src="../18_cvb481936_10_web.jpg"
            headline="Cyprus"
-           description="Cesnola. *Cyprus: Its Ancient Cities, Tombs, and Temples*. New York: Harper & Brothers, 1878."
+           description="Cesnola. *[Cyprus: Its Ancient Cities, Tombs, and Temples] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21356528400001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Harper & Brothers, 1878."
 >}}
 
 {{% /galleryrow %}}
