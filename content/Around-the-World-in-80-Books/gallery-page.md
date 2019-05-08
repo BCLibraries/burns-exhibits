@@ -187,7 +187,7 @@ type: "exhibit"
 
 {{< figure src="../28_cvb1358439_10_web.jpg"
            headline="Sahara"
-           description="Du Chaillu. *My Apingi Kingdom: with life in the great Sahara*. New York: Harper, 1871."
+           description="Du Chaillu. *[My Apingi Kingdom: with life in the great Sahara] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21379363760001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Harper, 1871."
 >}}
 
 {{< figure src="../29_cvb1358767_10_web.jpg"
