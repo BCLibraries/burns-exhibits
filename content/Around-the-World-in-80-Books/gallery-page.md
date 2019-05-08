@@ -168,17 +168,17 @@ type: "exhibit"
 
 {{< figure src="../25_b324497_web.jpg"
            headline="Constantinople"
-           description="De Amicis. *Constantinople*. New York: G.P. Putnam's Sons, 1878."
+           description="De Amicis. *[Constantinople] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21383611560001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: G.P. Putnam's Sons, 1878."
 >}}
 
 {{< figure src="../26_b378982_web.jpg"
            headline="Nürnberg"
-           description="De la Ramé. *The Nürnberg Stove*. Boston : J Knight company 1892 [1892])."
+           description="De la Ramé. *[The Nürnberg Stove] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21351462780001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Boston : J Knight company 1892 [1892])."
 >}}
 
 {{< figure src="../27_b354833_web.jpg"
            headline="Colorado River"
-           description="Dellenbaugh. *The Romance of the Colorado River*. New York: G.P. Putnam's Sons, 1902."
+           description="Dellenbaugh. *[The Romance of the Colorado River] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21369276430001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: G.P. Putnam's Sons, 1902."
 >}}
 
 {{% /galleryrow %}}
