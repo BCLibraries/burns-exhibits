@@ -102,8 +102,7 @@ type: "exhibit"
 
 {{< figure src="../15_b297982_web.jpg"
            headline="Boston"
-           description="Butterworth. *[Young Folks History of Boston](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21313515160001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US
-)*. Boston: Estes and Lauriat, 1881."
+           description="Butterworth. *[Young Folks History of Boston] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21313515160001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Boston: Estes and Lauriat, 1881."
 >}}
 
 {{% /galleryrow %}}
