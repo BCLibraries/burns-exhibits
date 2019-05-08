@@ -1,10 +1,10 @@
 ---
 # Title of page
-title: "Narrative page"
+title: "Civil Servant"
 description: ""
 
 # Page order (1 is 1st page, etc.)
-weight: 4
+weight: 7
 alwaysopen: true
 
 # Change to false to publish.
@@ -12,24 +12,29 @@ draft: true
 
 type: "exhibit"
 ---
+**Stated Employment**
 
-Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla.
+After completing his education at University College Dublin, O’Nolan took a position in the Irish civil service, following in the footsteps of his father. Against the backdrop of Ireland’s poor agrarian economy, a government job was considered socially respectable and attractive for the steady if modest income it provided.
 
-{{% figure src="../portrait-image.jpg"
-           headline="Consectetur Ligula Venenatis Vestibulum" 
-           description="Tellus Sem Pharetra Ridiculus" 
-           side="right" %}}
+O’Nolan entered the Department of Local Government and Public Health in 1935 and ascended rapidly. Within two years, he was promoted to the position of private secretary to the chief minister, Seán MacEntee. In 1943, he was appointed as Acting Assistant Principal, and in 1948 put in charge of the Department’s Planning Section.
 
-Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Sed posuere consectetur est at lobortis.
+Beginning in 1940, O’Nolan began writing a daily column for The Irish Times, a generally conservator national newspaper though sometimes out of step with government policy, particularly with regard to censorship and official protection of the Catholic Church. Although some have argued that O’Nolan wrote under pseudonyms to conceal his identity, it was more the case that both editors and ministers cast a benign eye on his sarcastic and sometimes scurrilous articles because their implications were cleverly enough disguised by their rambling form, and because they alternately suited the aims of either the government or the press.
 
-Aenean lacinia bibendum nulla sed consectetur. Sed posuere consectetur est at lobortis. Nulla vitae elit libero, a pharetra augue. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Sed posuere consectetur est at lobortis.
+**Gaelic Galore**
 
-{{% figure src="../intro-image.jpg"
-           headline="Consectetur Ligula Venenatis Vestibulum" 
-           description="Tellus Sem Pharetra Ridiculus" side="left" %}}
+According to his brother Ciarán, O’Nolan pursued a master’s degree at UCD in order to increase the prospect of obtaining a civil service post, for which advanced education was prerequisite. O’Nolan wrote his thesis on medieval Irish nature poetry. Writing it in Irish, he incorporated refractory comments on contemporary Irish language debates to the annoyance of his advisors, who requested substantial revisions prior to the submission of the final version on pink paper.
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Curabitur blandit tempus porttitor.
+Although O’Nolan lambasted policies aimed at making all Irish citizens Irish speakers, he nevertheless cherished the language and wanted to promote its literary heritage and expression. He also applied his imaginative inventiveness to schemes for developing a practical, modern Irish typeface, occasionally doodling Irish letterforms on the margins of his manuscripts and even proposing to the Underwood Typewriter Company how its standard keyboard could be modified to include new characters to represent certain sounds unique to the Irish language.
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+**Nun to Blame?**
 
-Cras mattis consectetur purus sit amet fermentum. Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ullamcorper nulla non metus auctor fringilla.
+One of O’Nolan’s most stressful assignments as secretary to Minister Seán MacEntee must have been serving as a secretary to the public tribunal that MacEntee appointed to investigate the tragic fire that destroyed St. Joseph’s Orphanage in Cavan in February 1943, killing 35 children and an adult staff. The tribunal’s report traced the cause to a faulty wire, but did not find the Electrical Supply Board liable, nor the nuns who operated the orphanage, although loss of life clearly could have been averted had there been a proper evacuation plan.
+
+A notebook that O’Nolan apparently used to take notes during the tribunal survives among his papers. Several pages have been torn out and the remainder filled with doodles and quotations copied from books and articles about the revival of the Irish language. O’Nolan later incorporated the citations into an essay on the subject that remains unpublished, the critical comments left in the margins by his friend Niall Montgomery unaddressed. Was O’Nolan distracted during the inquest (some of the caricatures seem to depict the setting and participants), or did he simply reuse the notebook after removing sensitive information?
+
+O’Nolan’s civil service briefcase and hat are also among the artifacts preserved with his papers in Burns Library.
+
+**Verdigrised Ex-stableboys**
+In May 1943, while completing the tribunal’s report on the Cavan orphanage fire, O’Nolan was informed of his appointment as Acting Assistant Principal in the Department of Local Government and Public Health. Since the appointment was presumably to fill a vacancy he would have known about and perhaps discussed with his supervisor, Minister MacEntee, it is hard to explain why he reacted so angrily to the notification. Was he expecting more pay, or a permanent promotion? Was he upset that no parties were held accountable for the fatal fire? Or was he just foully drunk?
+
+Biographers have tended to blame O’Nolan’s apparent alcoholism for his tiffs with editors and other writers, a perceived decline in the quality of his writing, a visible decline in health and proneness to vehicular accidents, and conflicts around his employment. Alcohol exacerbated his irascible tendencies, but it would be a mistake to regard it as the sole or determinative influence on his creative genius, which is evident even in the vile and sarcastic remarks he added to his copy of the appointment letter.

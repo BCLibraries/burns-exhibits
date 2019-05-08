@@ -1,10 +1,10 @@
 ---
 # Title of page
-title: "Narrative page"
+title: "Plays, Teleplays, and Radio"
 description: ""
 
 # Page order (1 is 1st page, etc.)
-weight: 4
+weight: 6
 alwaysopen: true
 
 # Change to false to publish.
@@ -12,24 +12,34 @@ draft: true
 
 type: "exhibit"
 ---
+**Mass Appeal**
 
-Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla.
+Although critics have tended to dismiss O’Nolan’s shorter fiction as byproducts of failed attempts to establish himself as a novelist, from another perspective they appear to reflect a deeper ambition to reach mass rather than elite audiences, as evidenced by his concurrent forays into writing for the stage, radio, and the new medium of television. He in fact rewrote several of his short stories as dramas. In other cases, he adapted dramatic works by others for the Irish stage or considered publishing his plays.
 
-{{% figure src="../portrait-image.jpg"
-           headline="Consectetur Ligula Venenatis Vestibulum" 
-           description="Tellus Sem Pharetra Ridiculus" 
-           side="right" %}}
+O’Nolan’s attributed most of his dramatic productions to the persona of Myles na Gopaleen (“Myles of the little horses”). There is a certain logic to the choice, as he borrowed the name from a character in Dion Boucicault’s play The Colleen Bawn, or The Brides of Garryowen. Boucicault was a 19th-century Irish actor and playwright renowned for his melodramas.
 
-Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Sed posuere consectetur est at lobortis.
+As a boy, O’Nolan was fascinated with silent movies, which were just coming into vogue. He and his brother Ciarán would painstakingly make filmstrips by drawing storyboards on brown paper, which they would then cover with drippings from paraffin wax candles to make them translucent so that they could project the images using an oil lamp and a large glass lens. Although he never wrote or adapted works for the silver screen, O’Nolan was among the first to script dramas for Irish television after it went on the air in December, 1961.
 
-Aenean lacinia bibendum nulla sed consectetur. Sed posuere consectetur est at lobortis. Nulla vitae elit libero, a pharetra augue. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Sed posuere consectetur est at lobortis.
+**Double Jeopardy**
 
-{{% figure src="../intro-image.jpg"
-           headline="Consectetur Ligula Venenatis Vestibulum" 
-           description="Tellus Sem Pharetra Ridiculus" side="left" %}}
+Dublin’s main mid-century literary journal, The Bell, was founded in the fall of 1940 by short story writer Seán Ó Faoláin, who included essays by O’Nolan in the first two issues, their public spat that earlier year in The Irish Times editorial pages notwithstanding. Like Envoy, The Bell purposed to promote the work of Irish writers and challenge the oppressive censorship laws and Catholic moral culture that had been bolstered by Ireland’s 1937 Constitution.
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Curabitur blandit tempus porttitor.
+The Bell faltered under the editorship of the radical republican Peadar O’Donnell, who took over from Ó Faoláin in 1946, and eventually ceased publication in 1954. One of the last issues included grisly tale by Myles na Gopaleen that epitomizes the use of comic irony in gothic horror. Titled “Two in One,” a taxidermist’s assistant murders his boss, flays his body, and dons his skin in order to escape, only to get arrested and convicted for killing the now missing assistant—himself. In 1962, O’Nolan wrote a dramatized version for television, calling it “The Dead Spit of Kelly.”
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+**Airplane!**
 
-Cras mattis consectetur purus sit amet fermentum. Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ullamcorper nulla non metus auctor fringilla.
+Ireland’s national airline service, Aerlínte Éireann, was renamed Aer Lingus on January 1, 1960. Later that year, it acquired three Boeing 720 jets to provide transatlantic service to New York and Boston.
+
+For a comic television play about air travel that he scripted in 1962, O’Nolan sketched a cutaway view of the interior of an Aer Lingus jet to complement his stage directions.
+
+**Thirst Quenching**
+
+In 1928, English-born actors, producers, and lovers Micheál MacLiammóir and Hilton Edwards settled in Dublin and founded the Gate Theatre. A venue for modern stage drama, it distinguished itself from the Abbey, a literary theatre associated with Yeats and the Celtic Revival.
+
+Two of O’Nolan’s plays were staged at the Abbey Theatre in early 1942, Faustus Kelly, a parody of the German legend, and an adaptation of The Insect Play by the Brothers Čapek. Both were box office failures, but later that year O’Nolan had better success with a one-act play titled Thirst. It was staged at the Gate Theatre as part of a Christmas variety program intended to lift public spirit during the otherwise dark years of the Second World War. A barroom story with popular appeal, Thirst was subsequently adapted for radio and television.
+
+**Let’s Make a Deal**
+
+During the final years of his life, while undergoing x-ray treatments and surgeries for cancer, O’Nolan began selling the typescripts of his novels to American universities with the assistance of friends and agents. A.T. “Dusty” Miller, proprietor of Frank Hollings Bookshop in London, brokered the sale of The Dalkey Archive and other works to the University of Texas.
+
+As a reward and enticement to do further business, O’Nolan offered to fly Miller over from London to see a performance of Hugh Leonard’s stage adaptation of The Dalkey Archive at Dublin’s Gate Theatre. It is doubtful that Miller took him up on the bargain. If they exchanged any further correspondence, it has not survived. O’Nolan would survive only another six months.

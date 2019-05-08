@@ -4,7 +4,7 @@ title: "Further Reading"
 description: ""
 
 # Page order (1 is 1st page, etc.)
-weight: 4
+weight: 10
 alwaysopen: true
 
 # Change to false to publish.
