@@ -116,7 +116,7 @@ type: "exhibit"
 
 {{< figure src="../17_b374125_web.jpg"
            headline="Burgundy"
-           description="*Castles and Chateaux of Old Burgundy and the Border Province*. London: I. Pitman & Sons, 1909."
+           description="*[Castles and Chateaux of Old Burgundy and the Border Province] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21320286930001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US).* London: I. Pitman & Sons, 1909."
 >}}
 
 {{< figure src="../18_cvb481936_10_web.jpg"
