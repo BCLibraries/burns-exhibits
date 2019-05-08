@@ -97,7 +97,7 @@ type: "exhibit"
 
 {{< figure src="../14_cvb1291000_10_web.jpg"
            headline="Medina & Mecca"
-           description="Burton. *Personal Narrative of a Pilgrimage to Al-Madinah & Meccah*. London: Tylston and Edwards, 1893."
+           description="Burton. *[Personal Narrative of a Pilgrimage to Al-Madinah & Meccah] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21351936150001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: Tylston and Edwards, 1893."
 >}}
 
 {{< figure src="../15_b297982_web.jpg"
