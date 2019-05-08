@@ -140,7 +140,7 @@ type: "exhibit"
 
 {{< figure src="../21_b7070_web.jpg"
            headline="Gloucester"
-           description="Connolly. *Out of Gloucester*. New York: Charles Scribner's Sons, 1902."
+           description="Connolly. *[Out of Gloucester] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21374173820001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Charles Scribner's Sons, 1902."
 >}}
 
 {{% /galleryrow %}}
@@ -149,17 +149,17 @@ type: "exhibit"
 
 {{< figure src="../22_b297417_web.jpg"
            headline="Boston"
-           description="Crawford. *Old Boston in Colonial Days*. Boston: L.C. Page & Co., 1922."
+           description="Crawford. *[Old Boston in Colonial Days] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21313423130001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Boston: L.C. Page & Co., 1922."
 >}}
 
 {{< figure src="../23_cvb1303203_10_web.jpg"
            headline="The Plains"
-           description="Custer. *My Life on the Plains. Or, Personal Experiences with Indians*. New York: Sheldon and Company, 1874."
+           description="Custer. *[My Life on the Plains. Or, Personal Experiences with Indians] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21370800890001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Sheldon and Company, 1874."
 >}}
 
 {{< figure src="../24_cvb1298125_10_web.jpg"
            headline="Spanish Main"
-           description="Davidson. *The Romance of the Spanish Main*. Philadelphia: J.B. Lippincott Company, 1916. "
+           description="Davidson. *[The Romance of the Spanish Main] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21319037620001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Philadelphia: J.B. Lippincott Company, 1916. "
 >}}
 
 {{% /galleryrow %}}
