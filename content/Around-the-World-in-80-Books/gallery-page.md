@@ -111,7 +111,7 @@ type: "exhibit"
 
 {{< figure src="../16_cvb1325917_10_web.jpg"
            headline="Land of Haunted Castles"
-           description="Casey. *The Land of Haunted Castles*. New York: The Century Co., 1921."
+           description="Casey. *[The Land of Haunted Castles] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332426610001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: The Century Co., 1921."
 >}}
 
 {{< figure src="../17_b374125_web.jpg"
