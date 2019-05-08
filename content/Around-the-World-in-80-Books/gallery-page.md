@@ -92,7 +92,8 @@ type: "exhibit"
 
 {{< figure src="../13_cvb479636_10_web.jpg"
            headline="East Africa"
-           description="Buchanan. *Three Years of War in East Africa*. London: J. Murray, 1919."
+           description="Buchanan. [*Three Years of War in East Africa] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21340400480001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US
+)*. London: J. Murray, 1919."
 >}}
 
 {{< figure src="../14_cvb1291000_10_web.jpg"
