@@ -19,4 +19,4 @@ Curator: Andrew Isidoro, Public Services Specialist
 
 Originally Displayed: October 1 - December 31, 2014, Burns Library Ford Tower
 
-{{% figure src="../owl.jpg" headline="Consectetur Ligula Venenatis Vestibulum" side="left" %}}
+{{% figure src="../owl.jpg" headline="J.M. Dent logo" side="left" %}}
