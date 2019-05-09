@@ -92,17 +92,17 @@ type: "exhibit"
 
 {{< figure src="../13_cvb479636_10_web.jpg"
            headline="East Africa"
-           description="Buchanan. *Three Years of War in East Africa*. London: J. Murray, 1919."
+           description="Buchanan. [*Three Years of War in East Africa*] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21340400480001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US). London: J. Murray, 1919."
 >}}
 
 {{< figure src="../14_cvb1291000_10_web.jpg"
            headline="Medina & Mecca"
-           description="Burton. *Personal Narrative of a Pilgrimage to Al-Madinah & Meccah*. London: Tylston and Edwards, 1893."
+           description="Burton. *[Personal Narrative of a Pilgrimage to Al-Madinah & Meccah](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21351936150001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: Tylston and Edwards, 1893."
 >}}
 
 {{< figure src="../15_b297982_web.jpg"
            headline="Boston"
-           description="Butterworth. *Young Folks History of Boston*. Boston: Estes and Lauriat, 1881."
+           description="Butterworth. *[Young Folks History of Boston] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21313515160001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Boston: Estes and Lauriat, 1881."
 >}}
 
 {{% /galleryrow %}}
@@ -111,17 +111,17 @@ type: "exhibit"
 
 {{< figure src="../16_cvb1325917_10_web.jpg"
            headline="Land of Haunted Castles"
-           description="Casey. *The Land of Haunted Castles*. New York: The Century Co., 1921."
+           description="Casey. *[The Land of Haunted Castles] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332426610001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: The Century Co., 1921."
 >}}
 
 {{< figure src="../17_b374125_web.jpg"
            headline="Burgundy"
-           description="*Castles and Chateaux of Old Burgundy and the Border Province*. London: I. Pitman & Sons, 1909."
+           description="*[Castles and Chateaux of Old Burgundy and the Border Province] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21320286930001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US).* London: I. Pitman & Sons, 1909."
 >}}
 
 {{< figure src="../18_cvb481936_10_web.jpg"
            headline="Cyprus"
-           description="Cesnola. *Cyprus: Its Ancient Cities, Tombs, and Temples*. New York: Harper & Brothers, 1878."
+           description="Cesnola. *[Cyprus: Its Ancient Cities, Tombs, and Temples] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21356528400001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Harper & Brothers, 1878."
 >}}
 
 {{% /galleryrow %}}
@@ -130,17 +130,17 @@ type: "exhibit"
 
 {{< figure src="../19_cvb1296707_10_web.jpg"
            headline="New Guinea"
-           description="Chalmers. *Pioneering in New Guinea*. London: The Religious Tract Society. 1887."
+           description="Chalmers. *[Pioneering in New Guinea] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315615070001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: The Religious Tract Society. 1887."
 >}}
 
 {{< figure src="../20_cvb482544_10_web.jpg"
            headline="Syria"
-           description="Conder. *Heth and Moab: Explorations in Syria in 1881 and 1882*. London: Bentley, 1883."
+           description="Conder. *[Heth and Moab: Explorations in Syria in 1881 and 1882] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21352150070001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: Bentley, 1883."
 >}}
 
 {{< figure src="../21_b7070_web.jpg"
            headline="Gloucester"
-           description="Connolly. *Out of Gloucester*. New York: Charles Scribner's Sons, 1902."
+           description="Connolly. *[Out of Gloucester] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21374173820001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Charles Scribner's Sons, 1902."
 >}}
 
 {{% /galleryrow %}}
@@ -149,17 +149,17 @@ type: "exhibit"
 
 {{< figure src="../22_b297417_web.jpg"
            headline="Boston"
-           description="Crawford. *Old Boston in Colonial Days*. Boston: L.C. Page & Co., 1922."
+           description="Crawford. *[Old Boston in Colonial Days] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21313423130001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Boston: L.C. Page & Co., 1922."
 >}}
 
 {{< figure src="../23_cvb1303203_10_web.jpg"
            headline="The Plains"
-           description="Custer. *My Life on the Plains. Or, Personal Experiences with Indians*. New York: Sheldon and Company, 1874."
+           description="Custer. *[My Life on the Plains. Or, Personal Experiences with Indians] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21370800890001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Sheldon and Company, 1874."
 >}}
 
 {{< figure src="../24_cvb1298125_10_web.jpg"
            headline="Spanish Main"
-           description="Davidson. *The Romance of the Spanish Main*. Philadelphia: J.B. Lippincott Company, 1916. "
+           description="Davidson. *[The Romance of the Spanish Main] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21319037620001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Philadelphia: J.B. Lippincott Company, 1916. "
 >}}
 
 {{% /galleryrow %}}
@@ -168,17 +168,17 @@ type: "exhibit"
 
 {{< figure src="../25_b324497_web.jpg"
            headline="Constantinople"
-           description="De Amicis. *Constantinople*. New York: G.P. Putnam's Sons, 1878."
+           description="De Amicis. *[Constantinople] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21383611560001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: G.P. Putnam's Sons, 1878."
 >}}
 
 {{< figure src="../26_b378982_web.jpg"
            headline="Nürnberg"
-           description="De la Ramé. *The Nürnberg Stove*. Boston : J Knight company 1892 [1892])."
+           description="De la Ramé. *[The Nürnberg Stove] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21351462780001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Boston : J Knight company 1892 [1892])."
 >}}
 
 {{< figure src="../27_b354833_web.jpg"
            headline="Colorado River"
-           description="Dellenbaugh. *The Romance of the Colorado River*. New York: G.P. Putnam's Sons, 1902."
+           description="Dellenbaugh. *[The Romance of the Colorado River] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21369276430001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: G.P. Putnam's Sons, 1902."
 >}}
 
 {{% /galleryrow %}}
@@ -187,7 +187,7 @@ type: "exhibit"
 
 {{< figure src="../28_cvb1358439_10_web.jpg"
            headline="Sahara"
-           description="Du Chaillu. *My Apingi Kingdom: with life in the great Sahara*. New York: Harper, 1871."
+           description="Du Chaillu. *[My Apingi Kingdom: with life in the great Sahara] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21379363760001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Harper, 1871."
 >}}
 
 {{< figure src="../29_cvb1358767_10_web.jpg"
