@@ -11,15 +11,15 @@ draft: true
 
 type: "exhibit"
 ---
-The images of books written by Thomas Merton (monastic name Fr. Louis) and displayed here are a part of the original Merton Collection at Boston College. Note the inscriptions by Merton to Father Francis W. Sweeney and Father Terence L. Connolly in several of the books. Father Louis, a Trappist monk who had taken solemn vows, did not hesitate to give his books and the typescript to Boston College; in taking those vows, he had renounced ownership of all his possessions.
+The images of books written by Thomas Merton (*monastic name Fr. Louis*) and displayed here are a part of the original Merton Collection at Boston College. Note the inscriptions by Merton to Father Francis W. Sweeney and Father Terence L. Connolly in several of the books. Merton did not hesitate to give his books and the typescript to Boston College; in taking Trappist vows, he had renounced ownership of all his possessions.
 {{% galleryrow %}}
 
-{{% galleryfigure src="../Exile_Lives_In_Glory.jpg" headline="Exile Ends in Glory" %}}
-Merton, Thomas. Exile Ends in Glory : The Life of a Trappistine, Mother M. Berchmans, O.C.S.O. Milwaukee: Bruce Pub., 1948. [BX4705 .M32545 M4 1948 MERTON](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21369978200001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)
+{{% galleryfigure src="../Exile_Lives_In_Glory.jpg" headline="*[Exile Ends in Glory : The Life of a Trappistine](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21369978200001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*" %}}
+BX4705 .M32545 M4 1948 MERTON
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="../Man_In_the_Divided_Sea.jpg" headline="A Man in the Divided Sea" %}}
-Merton, Thomas. Norfolk, Conn. : New Directions, 1946. [PS3525.E7174 M3 1946 MERTON](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21363953180001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)
+{{% galleryfigure src="../Man_In_the_Divided_Sea.jpg" headline="*[A Man in the Divided Sea](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21363953180001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*" %}}
+PS3525.E7174 M3 1946 MERTON
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
