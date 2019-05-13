@@ -472,17 +472,17 @@ type: "exhibit"
 
 {{< figure src="../74_cvb1296683_10_web.jpg"
            headline="New Zealand"
-           description="Wakefield. *New Zealand after Fifty Years*. New York: Cassell & Company Limited, 1889."
+           description="Wakefield. *[New Zealand after Fifty Years](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315617140001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Cassell & Company Limited, 1889."
 >}}
 
 {{< figure src="../75_not_available_web.jpg"
            headline="Paris"
-           description="Whiting. *Paris the Beautiful*. London: Hodder and Stoughton, 1908."
+           description="Whiting. *[Paris the Beautiful](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21386082910001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: Hodder and Stoughton, 1908."
 >}}
 
 {{< figure src="../76_cvb1335021_10_web.jpg"
            headline="California"
-           description="Wiggin. *A Summer in a Cañon : a California story*. Boston: Houghton Mifflin 1890."
+           description="Wiggin. *[A Summer in a Cañon : a California story](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21326191260001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Boston: Houghton Mifflin 1890."
 >}}
 
 {{% /galleryrow %}}
@@ -491,17 +491,17 @@ type: "exhibit"
 
 {{< figure src="../77_b474710_web.jpg"
            headline="Italy"
-           description="Williams. *Plain-Towns of Italy: the cities of old Venetia*. Boston: Houghton Mifflin Company, 1911."
+           description="Williams. *[Plain-Towns of Italy: the cities of old Venetia](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21338128340001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Boston: Houghton Mifflin Company, 1911."
 >}}
 
 {{< figure src="../78_b431620_web.jpg"
            headline="Rhone"
-           description="Wood. *In the Valley of the Rhone*. London: Macmillan, 1899."
+           description="Wood. *[In the Valley of the Rhone](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21369922820001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: Macmillan, 1899."
 >}}
 
 {{< figure src="../79_b378982_web.jpg"
            headline="Empire of the Hittites"
-           description="Wright. *The Empire of the Hittites*. London: Nisbet, 1884."
+           description="Wright. *[The Empire of the Hittites](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21352125020001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: Nisbet, 1884."
 >}}
 
 {{% /galleryrow %}}
@@ -510,12 +510,12 @@ type: "exhibit"
 
 {{< figure src="../80_cvb1291042_10_web.jpg"
            headline="Arabia"
-           description="Zwemer. *Arabia: The Cradle of Islam*. Edinburgh: Oliphant Anderson and Ferrier, 1900."
+           description="Zwemer. *[Arabia: The Cradle of Islam](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21331872750001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Edinburgh: Oliphant Anderson and Ferrier, 1900."
 >}}
 
 {{< figure src="../54_cvb1295581_10_web.jpg"
            headline="Africa"
-           description="Moraes. *Africa Occidental : Album Photographico E Descriptivo*. Lisboa: David Corazzi, 1885."
+           description="Moraes. *[Africa Occidental : Album Photographico E Descriptivo](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21386373040001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Lisboa: David Corazzi, 1885."
 >}}
 
 {{< figure src=""
