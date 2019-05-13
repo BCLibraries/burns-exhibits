@@ -73,11 +73,26 @@ From The Heights, a cartoon celebrating Captain Louis "Luke" Urban and the Eagle
 *Sub Turri*, Boston College' yearbook began publication in 1913, the year the school moved to "The Heights" from its original location in Boston's South End neighborhood. In English, the yearbook's title is Under the Tower.
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="../FootballEchoes_23_LowneyTouchdown1916.jpg" headline="Photograph of Lowney scoring " %}}
+{{% galleryfigure src="../FootballEchoes_23.jpg" headline="Photograph of Lowney scoring " %}}
 John "Scrapper" Lowney, scoring Boston College's first touchdown vs. Holy Cross at Fenway Park, Boston, December 2, 1916
 {{% /galleryfigure %}}
 
 
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{% galleryfigure src="../FootballEchoes_24_Football1916.JPG" headline="Maurice Dullea Fenway park pass, 1954" %}}
+Football from the Boston College vs. Holy Cross game at Fenway Park, 2 December 1916
+{{% /galleryfigure %}}
+
+{{% galleryfigure src="../FootballEchoes_25_Fragment1929.JPG" headline="Goal Post Fragment" %}}
+BC vs. Holy Cross, Braves Field, Boston, 30 November, 1929
+{{% /galleryfigure %}}
+
+{{% galleryfigure src="../FootballEchoes_26_Fragment1938.JPG" headline="Goal Post Fragment" %}}
+BC vs. Detroit, Fenway Park, Boston, 12 October 1938
+{{% /galleryfigure %}}
 
 {{% /galleryrow %}}
 
