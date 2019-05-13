@@ -206,7 +206,7 @@ type: "exhibit"
 
 {{< figure src="../31_b502244_web.jpg"
            headline="The World"
-           description="Fraser. *Round the World on a Wheel*. London: Methuen, 1899."
+           description="Fraser. *[Round the World on a Wheel](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21339040370001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: Methuen, 1899."
 >}}
 
 {{< figure src="../32_b975637_web.jpg"
