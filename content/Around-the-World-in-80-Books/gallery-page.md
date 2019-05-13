@@ -282,17 +282,17 @@ type: "exhibit"
 
 {{< figure src="../43_cvb481161_10_web.jpg"
            headline="Asia"
-           description="Keane. *Asia, with Ethnological Appendix*. London: E. Stanford, 1882."
+           description="Keane. *[Asia, with Ethnological Appendix](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21356363780001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: E. Stanford, 1882."
 >}}
 
 {{< figure src="../44_b499581_web.jpg"
            headline="Central & South America"
-           description="Keane. *Central and South America*. London: E. Stanford, 1909."
+           description="Keane. *[Central and South America](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21355703270001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: E. Stanford, 1909."
 >}}
 
 {{< figure src="../45_cvb1291860_10_web.jpg"
            headline="Burma"
-           description="Kelly. *Burma Painted & Described*. London: Adam and Charles Black, 1912."
+           description="Kelly. *[Burma Painted & Described](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21331955500001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: Adam and Charles Black, 1912."
 >}}
 
 {{% /galleryrow %}}
@@ -301,17 +301,17 @@ type: "exhibit"
 
 {{< figure src="../46_cvb1357500_10_web.jpg"
            headline="Cape Ann"
-           description="Larcom. *Wild Roses of Cape Ann: and other poems*. Boston, Mass.: Houghton Mifflin and Company, 1882."
+           description="Larcom. *[Wild Roses of Cape Ann: and other poems](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21357813180001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Boston, Mass.: Houghton Mifflin and Company, 1882."
 >}}
 
 {{< figure src="../47_cvb1297716_10_web.jpg"
            headline="Jamaica"
-           description="Leader. *Through Jamaica with a Kodak ….with 129 illustrations*. Bristol: J. Wright & Company, 1907."
+           description="Leader. *[Through Jamaica with a Kodak ….with 129 illustrations](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21317705960001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Bristol: J. Wright & Company, 1907."
 >}}
 
 {{< figure src="../48_cvb1297522_10_web.jpg"
            headline="New England"
-           description="Leland. *The Algonquin Legends of New England*. London: S. Low Marston Searle & Rivington, 1884."
+           description="Leland. *[The Algonquin Legends of New England](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21317685940001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: S. Low Marston Searle & Rivington, 1884."
 >}}
 
 {{% /galleryrow %}}
@@ -320,17 +320,17 @@ type: "exhibit"
 
 {{< figure src="../49_b839722_web.jpg"
            headline="Ireland"
-           description="Lovett. *Irish Pictures: drawn with pen and pencil*. London: Religious Tract Society, 1888."
+           description="Lovett. *[Irish Pictures: drawn with pen and pencil](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21329640510001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: Religious Tract Society, 1888."
 >}}
 
 {{< figure src="../50_cvb518464_10_web.jpg"
            headline="Chestnut Hill"
-           description="*Christmas Holidays at Chestnut Hill / by Cousin Mary*. Boston: Phillips Sampson and Company, 1853."
+           description="*[Christmas Holidays at Chestnut Hill / by Cousin Mary](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21314401210001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Boston: Phillips Sampson and Company, 1853."
 >}}
 
 {{< figure src="../51_cvb1297072_10_web.jpg"
            headline="Columbus"
-           description="Mason. *Columbus Came Late*. New York: The Century Co., 1931."
+           description="Mason. *[Columbus Came Late](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21317661040001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: The Century Co., 1931."
 >}}
 
 {{% /galleryrow %}}
