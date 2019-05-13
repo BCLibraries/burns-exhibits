@@ -197,7 +197,7 @@ type: "exhibit"
 
 {{< figure src="../30_b331500_web.jpg"
            headline="A Mexican Mine"
-           description="Duysters. *Opals from a Mexican Mine*. New York: New Amsterdam Book Co., 1896."
+           description="Duysters. *[Opals from a Mexican Mine] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21379412470001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: New Amsterdam Book Co., 1896."
 >}}
 
 {{% /galleryrow %}}
