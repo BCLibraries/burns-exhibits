@@ -211,12 +211,12 @@ type: "exhibit"
 
 {{< figure src="../32_b975637_web.jpg"
            headline="Hawaii"
-           description="Cumming. *Fire Fountains: the Kingdom of Hawaii, its Volcanoes, and the History of its Mission*. Edinburgh: W. Blackwood, 1883."
+           description="Cumming. *[Fire Fountains: the Kingdom of Hawaii, its Volcanoes, and the History of its Mission](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315650700001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Edinburgh: W. Blackwood, 1883."
 >}}
 
 {{< figure src="../33_cvb1291840_10_web.jpg"
            headline="Ceylon"
-           description="Cumming. *Two Happy Years in Ceylon*. Edinburgh: W. Blackwood, 1892."
+           description="Cumming. *[Two Happy Years in Ceylon](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21331958480001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Edinburgh: W. Blackwood, 1892."
 >}}
 
 {{% /galleryrow %}}
@@ -225,17 +225,17 @@ type: "exhibit"
 
 {{< figure src="../34_bc112045_web.jpg"
            headline="Ireland"
-           description="Hall. *Picturesque Ireland: pen and pencil pictures of the great wonderland*. Boston: C.E. Brown, [18--?])."
+           description="Hall. *[Picturesque Ireland: pen and pencil pictures of the great wonderland](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21422636920001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Boston: C.E. Brown, [18--?])."
 >}}
 
 {{< figure src="../35_b668161_web.jpg"
            headline="Japan"
-           description="Hearn. *A Japanese Miscellany*. Boston: Little Brown and Company, 1901."
+           description="Hearn. *[A Japanese Miscellany](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21353585910001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Boston: Little Brown and Company, 1901."
 >}}
 
 {{< figure src="../36_cvb1297719_10_web.jpg"
            headline="Jamaica"
-           description="Henderson. Jamaica; Painted by A. S. Forrest; Described by John Henderson. London: A. and C. Black, 1906."
+           description="Henderson. *[Jamaica; Painted by A. S. Forrest; Described by John Henderson](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21317705660001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: A. and C. Black, 1906."
 >}}
 
 {{% /galleryrow %}}
