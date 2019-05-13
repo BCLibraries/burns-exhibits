@@ -339,17 +339,17 @@ type: "exhibit"
 
 {{< figure src="../52_b1515_web.jpg"
            headline="Quinnebasset"
-           description="May. *Quinnebasset Girls*. Boston: Lee and Shepard, 1878."
+           description="May. *[Quinnebasset Girls](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332816360001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Boston: Lee and Shepard, 1878."
 >}}
 
 {{< figure src="../53_b347238_web.jpg"
            headline="Ireland"
-           description="Miller. *Reference Book of Ireland*. New York: Cooke & Cobb, 1877."
+           description="Miller. *[Reference Book of Ireland](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21361936920001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Cooke & Cobb, 1877."
 >}}
 
 {{< figure src="../55_b322803_web.jpg"
            headline="America"
-           description="Murray. *Lives of the Catholic Heroes and Heroines of America*. New York: J. Sheehy, 1882."
+           description="Murray. *[Lives of the Catholic Heroes and Heroines of America](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21376497910001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: J. Sheehy, 1882."
 >}}
 
 {{% /galleryrow %}}
@@ -358,17 +358,17 @@ type: "exhibit"
 
 {{< figure src="../56_cvb1303305_10_web.jpg"
            headline=""
-           description="Nansen. *Eskimo Life*. London: Longmans Green & Co., 1894. "
+           description="Nansen. *[Eskimo Life](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21370819230001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: Longmans Green & Co., 1894. "
 >}}
 
 {{< figure src="../57_b377314_web.jpg"
            headline="Spain"
-           description="O'Reilly. *Heroic Spain*. New York: Duffield and Company, 1910."
+           description="O'Reilly. *[Heroic Spain](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21312586690001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Duffield and Company, 1910."
 >}}
 
 {{< figure src="../58_cvb1311447_10_web.jpg"
            headline="North Pole"
-           description="Peary. *The North Pole: its Discovery in 1909 Under the Auspices of the Peary Arctic Club*. New York: Frederick A. Stokes Co., 1910."
+           description="Peary. *[The North Pole: its Discovery in 1909 Under the Auspices of the Peary Arctic Club](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21366398590001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Frederick A. Stokes Co., 1910."
 >}}
 
 {{% /galleryrow %}}
@@ -377,17 +377,17 @@ type: "exhibit"
 
 {{< figure src="../59_b323767_web.jpg"
            headline="The Universe"
-           description="Pouchet. *The Universe; or, The infinitely great and the infinitely little*. New York: Scribner, 1871."
+           description="Pouchet. *[The Universe; or, The infinitely great and the infinitely little](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21383540220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Scribner, 1871."
 >}}
 
 {{< figure src="../60_b718664_web.jpg"
            headline="London"
-           description="Roberts. *The Book-Hunter in London*. Chicago: A.C. McClurg, 1895."
+           description="Roberts. *[The Book-Hunter in London](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21330345930001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Chicago: A.C. McClurg, 1895."
 >}}
 
 {{< figure src="../61_b867250_web.jpg"
            headline="The World"
-           description="Robinson. *A History of the World with All Its Great Sensations*. New York: P.F. Collier, 1887."
+           description="Robinson. *[A History of the World with All Its Great Sensations](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21330611410001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: P.F. Collier, 1887."
 >}}
 
 {{% /galleryrow %}}
