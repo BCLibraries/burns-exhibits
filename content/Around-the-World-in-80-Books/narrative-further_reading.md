@@ -15,14 +15,14 @@ type: "exhibit"
 
 University of Alabama. *[Publishers Bindings Online](https://bindings.lib.ua.edu/index.html)*
 
-{{% figure src="../portrait-image.jpg"
-           headline="Consectetur Ligula Venenatis Vestibulum" 
-           description="Tellus Sem Pharetra Ridiculus" 
+{{% figure src=""
+           headline="" 
+           description="" 
            side="right" %}}
 
 
 
-{{% figure src="../intro-image.jpg"
-           headline="Consectetur Ligula Venenatis Vestibulum" 
-           description="Tellus Sem Pharetra Ridiculus" side="left" %}}
+{{% figure src=""
+           headline="" 
+           description="" %}}
 
