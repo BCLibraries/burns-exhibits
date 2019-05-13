@@ -192,12 +192,12 @@ type: "exhibit"
 
 {{< figure src="../29_cvb1358767_10_web.jpg"
            headline="Equator"
-           description="Du Chaillu. *Wild Life Under the Equator: narrated for young people*. New York: Harper & Brothers, 1870."
+           description="Du Chaillu. *[Wild Life Under the Equator: narrated for young people] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21379412470001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Harper & Brothers, 1870."
 >}}
 
 {{< figure src="../30_b331500_web.jpg"
            headline="A Mexican Mine"
-           description="Duysters. *[Opals from a Mexican Mine] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21379412470001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: New Amsterdam Book Co., 1896."
+           description="Duysters. *[Opals from a Mexican Mine] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21320946120001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: New Amsterdam Book Co., 1896."
 >}}
 
 {{% /galleryrow %}}
