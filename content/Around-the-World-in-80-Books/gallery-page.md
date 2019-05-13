@@ -396,17 +396,17 @@ type: "exhibit"
 
 {{< figure src="../62_b668161_web.jpg"
            headline="Persia"
-           description="Rogers. *A History of Ancient Persia*. New York: Charles Scribner's Sons, 1929. "
+           description="Rogers. *[A History of Ancient Persia](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21331919270001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Charles Scribner's Sons, 1929. "
 >}}
 
 {{< figure src="../63_cvb1303511_10_web.jpg"
            headline="African Game Trails"
-           description="Roosevelt. *African Game Trails, an Account of the African Wanderings of an American Hunter-Naturalist*. New York: Charles Scribner's Sons, 1910."
+           description="Roosevelt. *[African Game Trails, an Account of the African Wanderings of an American Hunter-Naturalist](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21370845240001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Charles Scribner's Sons, 1910."
 >}}
 
 {{< figure src="../64_b423399_web.jpg"
            headline="South Pole"
-           description="Smith. *The Romance of the South Pole: Antarctic voyages and explorations*. London: T. Nelson, 1900. "
+           description="Smith. *[The Romance of the South Pole: Antarctic voyages and explorations](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21334446650001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: T. Nelson, 1900. "
 >}}
 
 {{% /galleryrow %}}
@@ -415,17 +415,17 @@ type: "exhibit"
 
 {{< figure src="../65_b840264_web.jpg"
            headline="Connemara"
-           description="Somerville. *Through Connemara in a Governess Cart*. London: W. H. Allen, 1893. "
+           description="Somerville. *[Through Connemara in a Governess Cart](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21329628160001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: W. H. Allen, 1893. "
 >}}
 
 {{< figure src="../66_cvb1298030_10_web.jpg"
            headline="Trinidad"
-           description="Stark. *Stark's Guide-Book and History of Trinidad including Tobago, Granada, and St. Vincent*. Boston: J. H. Stark, 1897."
+           description="Stark. *[Stark's Guide-Book and History of Trinidad including Tobago, Granada, and St. Vincent](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21319026810001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Boston: J. H. Stark, 1897."
 >}}
 
 {{< figure src="../67_cvb1357244_10_web.jpg"
            headline="Gibraltar"
-           description="Stephens. *A History of Gibraltar and its Siege*. London: Provost, 1870."
+           description="Stephens. *[A History of Gibraltar and its Siege](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21357782790001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: Provost, 1870."
 >}}
 
 {{% /galleryrow %}}
@@ -434,17 +434,17 @@ type: "exhibit"
 
 {{< figure src="../68_cvb482983_10_web.jpg"
            headline="Palmyra"
-           description="Strangford and Smythe. *Egyptian Sepulchres and Syrian Shrines, including a Visit to Palmyra*. London: Macmillan and, 1874."
+           description="Strangford and Smythe. *[Egyptian Sepulchres and Syrian Shrines, including a Visit to Palmyra](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21352204660001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: Macmillan and, 1874."
 >}}
 
 {{< figure src="../69_b341948_web.jpg"
            headline="Boston Harbor"
-           description="Sweetser. *King's Handbook of Boston Harbor*. Cambridge, Mass.: Moses King, 1883."
+           description="Sweetser. *[King's Handbook of Boston Harbor](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21372622700001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Cambridge, Mass.: Moses King, 1883."
 >}}
 
 {{< figure src="../70_cvb1295581_10_web.jpg"
            headline="Congo"
-           description="Thonner. *Du Congo à l'Ubangi: Mon Duexième Voyage dans l'Afrique Centrale*. Bruxelles: Misch & Thron, 1910. "
+           description="Thonner. *[Du Congo à l'Ubangi: Mon Duexième Voyage dans l'Afrique Centrale](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21386367710001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Bruxelles: Misch & Thron, 1910. "
 >}}
 
 {{% /galleryrow %}}
