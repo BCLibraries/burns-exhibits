@@ -61,19 +61,23 @@ Members of the football team on the new Alumni Field, 1915. Rear: James Duffy, H
 
 {{% /galleryrow %}}
 
+
 {{% galleryrow %}}
 
-{{% galleryfigure src=".../FootballEchoes_21_HeightsCartoonUrban.jpg" headline="Heights cartoon-Urban with bulldog" %}}
+
+{{% galleryfigure src="../FootballEchoes_21_HeightsCartoonUrban.jpg" headline="Heights cartoon-Urban with bulldog" %}}
 From The Heights, a cartoon celebrating Captain Louis "Luke" Urban and the Eagles' defeat of the Yale Bulldogs in New Haven, October 16, 1920.
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../FootballEchoes_22a_SubTurri1913.jpg" headline="*Sub Turri*, 1913" %}}
-Sub Turri, Boston College' yearbook began publication in 1913, the year the school moved to "The Heights" from its original location in Boston's South End neighborhood. In English, the yearbook's title is Under the Tower.
+*Sub Turri*, Boston College' yearbook began publication in 1913, the year the school moved to "The Heights" from its original location in Boston's South End neighborhood. In English, the yearbook's title is Under the Tower.
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="../FootballEchoes_23_LowneyTouchdown1916.jpg" headline="Photograph of Lowney scoring" %}}
+{{% galleryfigure src="../FootballEchoes_23_LowneyTouchdown1916.jpg" headline="Photograph of Lowney scoring " %}}
 John "Scrapper" Lowney, scoring Boston College's first touchdown vs. Holy Cross at Fenway Park, Boston, December 2, 1916
 {{% /galleryfigure %}}
+
+
 
 {{% /galleryrow %}}
 
