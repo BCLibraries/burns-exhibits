@@ -244,12 +244,12 @@ type: "exhibit"
 
 {{< figure src="../37_b2823_web.jpg"
            headline="The White House"
-           description="Holloway. *The Ladies of the White House*. Philadelphia: Bradley, 1881."
+           description="Holloway. *[The Ladies of the White House](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21361336290001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Philadelphia: Bradley, 1881."
 >}}
 
 {{< figure src="../38_b369288_web.jpg"
            headline="North Pole"
-           description="Hood. *From Nowhere to the North Pole*. London: Chatto and Windus, 1875."
+           description="Hood. *[From Nowhere to the North Pole](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21310970090001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: Chatto and Windus, 1875."
 >}}
 
 {{< figure src="../39_b474885_web.jpg"
@@ -263,17 +263,17 @@ type: "exhibit"
 
 {{< figure src="../40_cvb1296710_10_web.jpg"
            headline="Cannibal-Land"
-           description="Johnson. *Cannibal-land; Adventures with a Camera in the New Hebrides*. Boston: Houghton Mifflin Co., 1922. "
+           description="Johnson. *[Cannibal-land; Adventures with a Camera in the New Hebrides](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315614840001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Boston: Houghton Mifflin Co., 1922. "
 >}}
 
 {{< figure src="../41_cvb1357766_10_web.jpg"
            headline="The World"
-           description="Jones. *The Story of Captain Cook's Three Voyages Round the World*. London: Cassell Petter & Galpin, [1870?]."
+           description="Jones. *[The Story of Captain Cook's Three Voyages Round the World](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21357854200001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: Cassell Petter & Galpin, [1870?]."
 >}}
 
 {{< figure src="../42_cvb1297510_10_web.jpg"
            headline="Great Plains"
-           description="Judson. *Myths and Legends of the Great Plains*. Chicago: A.C. McClurg & Co., 1913."
+           description="Judson. *[Myths and Legends of the Great Plains](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21317687080001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Chicago: A.C. McClurg & Co., 1913."
 >}}
 
 {{% /galleryrow %}}
