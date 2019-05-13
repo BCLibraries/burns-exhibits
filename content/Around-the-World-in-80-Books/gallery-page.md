@@ -453,17 +453,17 @@ type: "exhibit"
 
 {{< figure src="../71_cvb483261_10_web.jpg"
            headline="Holy Land"
-           description="Van Dyke. *Out-of-Doors in the Holy Land*. New York: C. Scribner's Sons, 1908."
+           description="Van Dyke. *[Out-of-Doors in the Holy Land](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21338068720001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: C. Scribner's Sons, 1908."
 >}}
 
 {{< figure src="../72_b168254_web.jpg"
            headline="Land of the White Elephant"
-           description="Vincent. *The Land of the White Elephant: sights and scenes in south-eastern Asia*. New York: Harper & Brothers, 1874."
+           description="Vincent. *[The Land of the White Elephant: sights and scenes in south-eastern Asia](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21382849470001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Harper & Brothers, 1874."
 >}}
 
 {{< figure src="../73_cvb1291819_10_web.jpg"
            headline="Himalayas"
-           description="Waddell. *Among the Himalayas*. Westminster: A. Constable & Co., 1899."
+           description="Waddell. *[Among the Himalayas](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21331961740001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Westminster: A. Constable & Co., 1899."
 >}}
 
 {{% /galleryrow %}}
