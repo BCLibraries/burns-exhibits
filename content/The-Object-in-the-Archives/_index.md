@@ -3,7 +3,7 @@
 title: "Introduction"
 
 # Title of exhibit
-exhibit_title: "Object in the Archive"
+exhibit_title: "The Object in the Archive"
 
 date: 2019-04-18T14:19:50-04:00
 

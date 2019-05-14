@@ -12,6 +12,12 @@ draft: true
 
 type: "exhibit"
 ---
+
+{{% figure src="../12-13-14-ONolans.jpg"
+           headline="Michael V. O'Nolan; Agnes O'Nolan; O'Nolan children ca. 1919" 
+           description="b. 1, f. 61/62/66, Flann O'Brien Papers (MS1997-027)" 
+           side="right" %}}
+		   
 **Border Baby+
 Brian O’Nolan was born on October 5, 1911, in Strabane, now a border town in Northern Ireland. 
 
@@ -34,12 +40,12 @@ During his last two years at Blackrock College, Brian earned medals for English 
 
 {{% galleryrow %}}
 
-{{% galleryfigure src="../039D_UCDImpromptuDebate.jpg" headline="Newark Scale Weights & Ohaus Harvard Trip Balance" %}}
-b. 42, New England Deaconess Hospital School of Nursing (MS1989-008)
+{{% galleryfigure src="../039D_UCDImpromptuDebate.jpg" headline="1931-1932 University College Dublin Literary and Historical Society, silver medal for Impromptu Debate " %}}
+b. 24, Flann O'Brien Papers (MS1997-027)
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="../032A_Debates.jpg" headline="Pharmaceutical Cabinet" %}}
-Josephine Dolan Collection of Nursing History (MS1988-004)
+{{% galleryfigure src="../032A_Debates.jpg" headline="UCD Literary and Historical Society, program of debates, 1931-32" %}}
+b. 17, f. 21, Flann O'Brien Papers (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -50,8 +56,20 @@ Brian’s older brother Ciarán also attended UCD in the early 1930s. Both colla
 
 In the fall of 1934, Brian launched a spoof monthly news magazine called Blather for which Ciarán wrote a few articles. Five issues appeared before Brian began his civil service employment the following year. A 1988 collection of Brian’s early writings edited by critic John Wyse Jackson under the title Myles Before Myles features a cartoon on the cover of a man on a crowded Dublin bus guffawing over a copy of Blather.
 
-{{% figure src="../portrait-image.jpg"
-           headline="Consectetur Ligula Venenatis Vestibulum" 
-           description="Tellus Sem Pharetra Ridiculus" 
-           side="right" %}}
+{{% galleryrow %}}
+
+{{% galleryfigure src="../119_BlatherCover_72.jpg" headline="*Blather*, August 1934" %}}
+Image courtesy of UCD Digital Library from an original in UCD Special Collections
+{{% /galleryfigure %}}
+
+{{% galleryfigure src="../119B_Blather_AngelaExcerpt_72.jpg" headline="Excerpt from *Blather*, August 1934" %}}
+Image courtesy of UCD Digital Library from an original in UCD Special Collections
+{{% /galleryfigure %}}
+
+{{% galleryfigure src="../006A-myles-before-myle.jpg" headline="UCD Literary and Historical Society, program of debates, 1931-32" %}}
+O'Brien, *Myles Before Myles*, PR6029 .N56 M94 1988 O'BRIEN LIBRARY
+{{% /galleryfigure %}}
+
+{{% /galleryrow %}}
+
 
