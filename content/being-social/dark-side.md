@@ -16,7 +16,7 @@ type: "exhibit"
                 headline="Telegram concerning a fake Graham Greene"
                 description="Box 43, Folder 8, [Graham Greene papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21351254200001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) (MS1995-003)"
                 size="large" align="left" %}}
-{{% heading %}}Dark Side{{% /heading %}} 
+{{% heading %}}Dark Side{{% /heading %}}
 We may think of trolling, impersonation, and identity theft as uniquely modern problems brought about by technology, but in fact these bad behaviors have a long legacy behind them -- including escapades such as impersonating a famous British author.
 {{% /largefigure %}}
 
@@ -37,7 +37,7 @@ We may think of trolling, impersonation, and identity theft as uniquely modern p
             description="Box 43, Folder 7, [Graham Greene papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21351254200001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) (MS1995-003)"
 %}}
 {{% figure src="../31a2_BeingSocial_MS1995.003_b43_f8.jpg"
-            headline="Letter about the fake Greene continued"
+            headline="Letter about the fake Greene cont."
             description="Box 43, Folder 7, [Graham Greene papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21351254200001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) (MS1995-003)"
 %}}
 {{% /galleryrow %}}
