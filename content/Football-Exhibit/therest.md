@@ -44,7 +44,6 @@ Letter of congratulations from President Ronald Reagan, February 5, 1985
 
 {{% /galleryrow %}}
 
-
 {{% galleryrow %}}
 
 {{% galleryfigure src="../FootballEchoes_18.jpg" headline="Maurice Dullea Fenway park pass, 1954" %}}
@@ -61,9 +60,7 @@ Members of the football team on the new Alumni Field, 1915. Rear: James Duffy, H
 
 {{% /galleryrow %}}
 
-
 {{% galleryrow %}}
-
 
 {{% galleryfigure src="../FootballEchoes_21_HeightsCartoonUrban.jpg" headline="Heights cartoon-Urban with bulldog" %}}
 From The Heights, a cartoon celebrating Captain Louis "Luke" Urban and the Eagles' defeat of the Yale Bulldogs in New Haven, October 16, 1920.
@@ -73,16 +70,15 @@ From The Heights, a cartoon celebrating Captain Louis "Luke" Urban and the Eagle
 *Sub Turri*, Boston College' yearbook began publication in 1913, the year the school moved to "The Heights" from its original location in Boston's South End neighborhood. In English, the yearbook's title is Under the Tower.
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="../FootballEchoes_23.jpg" headline="Photograph of Lowney scoring " %}}
-John "Scrapper" Lowney, scoring Boston College's first touchdown vs. Holy Cross at Fenway Park, Boston, December 2, 1916
+{{% galleryfigure src="../FootballEchoes_23.jpg" headline="Photograph of Lowney scoring" %}}
+John "Scrapper" Lowney, scoring Boston College's first touchdown vs. Holy Cross at Fenway Park, Boston, December 2, 1916.
 {{% /galleryfigure %}}
-
 
 {{% /galleryrow %}}
 
 {{% galleryrow %}}
 
-{{% galleryfigure src="../FootballEchoes_24_Football1916.JPG" headline="Maurice Dullea Fenway park pass, 1954" %}}
+{{% galleryfigure src="../FootballEchoes_24_Football1916.JPG" headline="Football" %}}
 Football from the Boston College vs. Holy Cross game at Fenway Park, 2 December 1916
 {{% /galleryfigure %}}
 
@@ -96,5 +92,34 @@ BC vs. Detroit, Fenway Park, Boston, 12 October 1938
 
 {{% /galleryrow %}}
 
+{{% galleryrow %}}
 
+{{% galleryfigure src="../FootballEchoes_27_Fragment1939auburn.JPG" headline="Goal Post Fragment" %}}
+BC vs. Auburn, Fenway Park, Boston, 4 November 1939
+{{% /galleryfigure %}}
 
+{{% galleryfigure src="../FootballEchoes_28_Fragment1939hc.JPG" headline="Goal Post Fragment" %}}
+BC vs. Holy Cross, Fenway Park, Boston, 2 December 1939
+{{% /galleryfigure %}}
+
+{{% galleryfigure src="../FootballEchoes_29_BC2014.046.JPG" headline="Pinback Buttons" %}}
+Pinback buttons, 1992 and undated
+{{% /galleryfigure %}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{% galleryfigure src="../FootballEchoes_30_BC2001.032.JPG" headline="Souvenir Beer Mug" %}}
+Tangerine Bowl souvenir beer mug, 1982
+{{% /galleryfigure %}}
+
+{{% galleryfigure src="../FootballEchoes_31_Mug1982.JPG" headline="Souvenir Beer Mug" %}}
+Liberty Bowl souvenir beer mug, 1983
+{{% /galleryfigure %}}
+
+{{% galleryfigure src="../FootballEchoes_32_Mug1983.JPG" headline="Souvenir Beer Mug" %}}
+Cotton Bowl souvenir beer mug, 1985
+{{% /galleryfigure %}}
+
+{{% /galleryrow %}}
