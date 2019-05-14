@@ -13,6 +13,12 @@
     -webkit-transform: rotate(-45deg);
 }
 
+.nav-arrow--left {
+    transform: rotate(135deg);
+    margin-right: .25em;
+    -webkit-transform: rotate(135deg);
+}
+
 /* Transform the previous and next links into buttons on mobile */
 a.next-link,
 a.prev-link {
@@ -59,7 +65,7 @@ form.mobile-menu {
         top: initial;
     }
 
-    a.next-wrapper {
+    .next-wrapper {
         text-align: right;
     }
 }
