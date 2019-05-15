@@ -43,3 +43,7 @@ main {
 footer {
     min-height: 300px;
 }
+
+.exhibit-title {
+    @extend .col-md-12;
+}

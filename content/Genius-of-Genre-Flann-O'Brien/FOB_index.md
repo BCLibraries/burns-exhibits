@@ -11,7 +11,7 @@ date: 2019-05-06T16:57:54-04:00
 weight: 1 
 
 # Big image on first page.
-front_image: "" # Replace with the real image
+front_image: "genius-of-genre-promo.jpg" # Replace with the real image
 front_caption_headline: ""
 front_caption_text: ""
 
