@@ -82,25 +82,6 @@ type: "exhibit"
 >}}
 
 {{< figure src=""
-           headline=""
-           description=""
->}}
-
-{{% /galleryrow %}}
-
-{{% galleryrow %}}
-
-{{< figure src="Bpirate cook cover.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
-           description="Sollicitudin Mollis Venenatis Sit"
->}}
-
-{{< figure src="BCaptain Brand cover decoration.JPG"
-           headline="Porta Tristique Ligula"
-           description="Fringilla Cursus Sollicitudin Dapibus"
->}}
-
-{{< figure src=""
            headline="Amet Pellentesque"
            description="Parturient Nullam Tellus Vehicula"
 >}}
