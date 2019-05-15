@@ -12,7 +12,7 @@ draft: true
 type: "exhibit"
 ---
 
-{{% largefigure src="recusancy_2013_23_web.jpg" headline="The Nevv Testament of Iesvs Christ, 1582" size="x-large" %}}
+{{% largefigure src="../recusancy_2013_11_web.jpg" headline="The Nevv Testament of Iesvs Christ, 1582" size="x-large" %}}
 
 {{% /largefigure %}}
 
