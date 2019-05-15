@@ -24,7 +24,7 @@ type: "exhibit"
 
 {{% largefigure src="Exquemelin title.jpg"
                 headline=""
-                description="Exquemelin, Alexandre Olivier, *Histoire des Adventuries Filibustiers, qui sont Signalez dans les Indes, Contenant ce qu’ils ont fait de Remarquable Depuis Vingt Années* Nouvelle Edition. Paris, 1699." 
+                description="Title page. Exquemelin, Alexandre Olivier. *Histoire des Adventuries Filibustiers, qui sont Signalez dans les Indes, Contenant ce qu’ils ont fait de Remarquable Depuis Vingt Années* Nouvelle Edition. Paris, 1699." 
                 size="large" align="center" %}}
 Alexandre Olivier Exquemelin (c.1645-1707) was a French-born buccaneer surgeon, and author of the influential *The Buccaneers of America, or a true account of the assaults committed upon the coasts of the West Indies, etc.*, which was first published as *De Americaensche Zee-Rovers* in Amsterdam in 1678. Exquemelin traveled to Tortuga as an indentured servant in 1666. He later joined the buccaneers and served under François L’Ollonais and Henry Morgan as a surgeon. He was with Morgan at the sack of Panama in 1671. He returned to Europe, but was in the Caribbean again and participated in the French sack of Cartagena.
 {{% /largefigure %}}
