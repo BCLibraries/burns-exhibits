@@ -81,7 +81,7 @@ type: "exhibit"
            description="Fringilla Cursus Sollicitudin Dapibus"
 >}}
 
-{{< figure src=""
+{{< figure src="BIrish Pirate Ballads.jpg"
            headline="Amet Pellentesque"
            description="Parturient Nullam Tellus Vehicula"
 >}}
