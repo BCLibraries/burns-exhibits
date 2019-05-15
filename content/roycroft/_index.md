@@ -11,8 +11,8 @@ date: 2019-05-15T10:46:19-04:00
 weight: 1 
 
 # Big image on first page.
-front_image: "intro-image.jpg" # Replace with the real image
-front_caption_headline: "Ullamcorper Condimentum Tortor Parturient"
+front_image: "Tagaste.jpg" # Replace with the real image
+front_caption_headline: "City of Tagaste"
 front_caption_text: "Donec id elit non mi porta gravida at eget metus."
 
 # Change to false to publish.
