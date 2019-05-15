@@ -14,17 +14,17 @@ type: "exhibit"
 
 {{% galleryrow %}}
 
-{{< figure src="../portrait-image.jpg"
+{{< figure src="BDaring Deeds of Famous Pirates.jpg"
            headline="Magna Ipsum Vulputate Vehicula Cras"
            description="Sollicitudin Mollis Venenatis Sit"
 >}}
 
-{{< figure src="../portrait-image.jpg"
+{{< figure src="BIrish Captain Blood.JPG"
            headline="Porta Tristique Ligula"
            description="Fringilla Cursus Sollicitudin Dapibus"
 >}}
 
-{{< figure src="../portrait-image.jpg"
+{{< figure src="Bpirate snow cover 2.jpg"
            headline="Amet Pellentesque"
            description="Parturient Nullam Tellus Vehicula"
 >}}
@@ -33,14 +33,72 @@ type: "exhibit"
 
 {{% galleryrow %}}
 
-{{< figure src="../intro-image.jpg"
-           headline="Tellus"
-           description="Pellentesque Vehicula Aenean"
+{{< figure src="BPyle book of pirates.jpg"
+           headline="Magna Ipsum Vulputate Vehicula Cras"
+           description="Sollicitudin Mollis Venenatis Sit"
 >}}
 
-{{< figure src="../intro-image.jpg"
-           headline="Mollis Quam Vehicula Lorem"
-           description="Ullamcorper Egestas Dapibus"
+{{< figure src="BIn Search of Gold cover.jpg"
+           headline="Porta Tristique Ligula"
+           description="Fringilla Cursus Sollicitudin Dapibus"
+>}}
+
+{{< figure src="BRoche.JPG"
+           headline="Amet Pellentesque"
+           description="Parturient Nullam Tellus Vehicula"
+>}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{< figure src="BBradlee.JPG"
+           headline="Magna Ipsum Vulputate Vehicula Cras"
+           description="Sollicitudin Mollis Venenatis Sit"
+>}}
+
+{{< figure src="Bpirate o'clery cover.jpg"
+           headline="Porta Tristique Ligula"
+           description="Fringilla Cursus Sollicitudin Dapibus"
+>}}
+
+{{< figure src="BHoward Pyle Cover.jpg"
+           headline="Amet Pellentesque"
+           description="Parturient Nullam Tellus Vehicula"
+>}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{< figure src="Bpirate cook cover.jpg"
+           headline="Magna Ipsum Vulputate Vehicula Cras"
+           description="Sollicitudin Mollis Venenatis Sit"
+>}}
+
+{{< figure src="BCaptain Brand cover decoration.JPG"
+           headline="Porta Tristique Ligula"
+           description="Fringilla Cursus Sollicitudin Dapibus"
+>}}
+
+{{< figure src=""
+           headline=""
+           description=""
+>}}
+
+{{% /galleryrow %}}
+
+
+{{% galleryrow %}}
+
+{{< figure src=""
+           headline=""
+           description=""
+>}}
+
+{{< figure src=""
+           headline=""
+           description=""
 >}}
 
 {{% /galleryrow %}}
