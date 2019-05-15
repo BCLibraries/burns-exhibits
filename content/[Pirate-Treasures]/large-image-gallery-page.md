@@ -16,9 +16,9 @@ type: "exhibit"
                 headline="Gosse, Philip, My Pirate Library. London, 1926."
                 description="Dapibus Vulputate Sollicitudin Cras"
                 size="x-large" %}}
-*The captain himself was a great reader, and used to carry with him aboard his slaveship a quantity of books in two large chests…One of the pirates, upon opening the cases and seeing what was in them, ‘swore There was Jaw-work enough (as he called it) to serve a Nation, and proposed they might be cast into the sea; for he feared that there might be some books amongst them that might breed Mischief enough, and prevent some of their comrades from going on their Voyage to Hell, whither they were all bound; upon which the Books were all flung out of the cabin-window into the River.’
+The captain himself was a great reader, and used to carry with him aboard his slaveship a quantity of books in two large chests…One of the pirates, upon opening the cases and seeing what was in them, ‘swore There was Jaw-work enough (as he called it) to serve a Nation, and proposed they might be cast into the sea; for he feared that there might be some books amongst them that might breed Mischief enough, and prevent some of their comrades from going on their Voyage to Hell, whither they were all bound; upon which the Books were all flung out of the cabin-window into the River.’
 
-This goes to show that even if the average pirate feared neither God nor man, he at least showed a healthy respect for the power of the pen.*
+This goes to show that even if the average pirate feared neither God nor man, he at least showed a healthy respect for the power of the pen.
 
 {{% /largefigure %}}
 
