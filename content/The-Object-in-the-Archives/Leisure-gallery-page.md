@@ -54,17 +54,19 @@ Anansi (the spider trickster), Parrot, and Chicken Hawk are three characters tha
 
 {{% galleryrow %}} 
 
-{{% galleryfigure src="../Promo-Image.png" headline="NEED IMAGE: Anansi" %}}
+
+{{% galleryfigure src="../033C-Anansi.jpg" headline="Anansi" %}}
 King, Anansi Stories, N7433.4 .K48 A85 1992 FINE PRINT OVERSIZE
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="../Promo-Image.png" headline="NEED IMAGE: parrot" %}}
+{{% galleryfigure src="../033B-Parrot.jpg" headline="Parrot" %}}
 King, Anansi Stories, N7433.4 .K48 A85 1992 FINE PRINT OVERSIZE
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="../Promo-Image.png" headline="NEED IMAGE: chicken hawk " %}}
+{{% galleryfigure src="../033A-Chicken-Hawk.jpg" headline="Chicken Hawk" %}}
 King, Anansi Stories, N7433.4 .K48 A85 1992 FINE PRINT OVERSIZE
 {{% /galleryfigure %}}
+
 
 {{% /galleryrow %}}
 
@@ -104,7 +106,7 @@ Sewing filled women’s working and leisure hours in the 19th century. This need
 b. 1, f. 21, MDugan Collection of Doyle, Evans, and Persse Family Materials (MS2004-056)
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="../Promo-Image.png" headline="NEED IMAGE" %}}
+{{% galleryfigure src="../031B-Sewing-Sample.jpg" headline="Sewing Sample" %}}
 Commissioners of National Education in Ireland, *Simple directions in needle-work and cutting out*, TT710 .C66 1861 IRISH 
 {{% /galleryfigure %}}
 

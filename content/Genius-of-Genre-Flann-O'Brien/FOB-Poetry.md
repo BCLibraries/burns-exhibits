@@ -4,7 +4,7 @@ title: "Poetry"
 description: ""
 
 # Page order (1 is 1st page, etc.)
-weight: 4
+weight: 5
 alwaysopen: true
 
 # Change to false to publish.
@@ -13,6 +13,12 @@ draft: true
 type: "exhibit"
 ---
 **Poetic Beginnings**
+
+{{% figure src="../069_MadSweeney.jpg"
+           headline="" 
+           description="Mad Sweeney" sculpture by John Coll" 
+           side="right" %}}
+
 
 According to his brother Ciarán, “Brian did no creative writing until he was in his last year in Blackrock College. Even then the extent of his output was a few short poems.”
 
