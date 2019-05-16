@@ -15,7 +15,7 @@ type: "exhibit"
 
 University of Alabama. *[Publishers Bindings Online](https://bindings.lib.ua.edu/index.html)*
 
-{{% figure src=""
+{{% figure src="poster.jpg"
            headline="" 
            description="" 
            side="right" %}}
