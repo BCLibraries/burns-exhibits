@@ -85,12 +85,12 @@ Boston College purchased most of O’Nolan’s remaining papers from his younges
 
 {{% galleryrow %}}
 
-{{% galleryfigure src="../105_HardLifeAnnotated.png" headline="Annotated Copy of the Hard Life Typescript" %}}
-b. 3, f. 13, Flann O'Brien Papers (MS1997-027)
+{{% galleryfigure src="../072-Daiken.png" headline="Leslie Daiken to O'Nolan, 19 Oct 1960, re: brokering sale of mss. to America" %}}
+b. 1, f. 8, Flann O'Brien Papers (MS1997-027)
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="../002B_HardLifeGreeneDedicationi.jpg" headline="NEED IMAGE OF HARD LIFE DUSTJACKET" %}}
-O'Brien, *The Hard Life*, PR6029 .N56 H3 1962 O'BRIEN LIBRARY
+{{% galleryfigure src="../075-Daiken.png" headline="O'Nolan carbon copy letter to Leslie Daiken, 23 Oct 1960 re: sale of mss. to America" %}}
+b. 1, f. 19, Flann O'Brien Papers (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -100,3 +100,14 @@ Whether restricted to bed or forced to walk with a cane, O’Nolan kept up his s
 
 Six months before his death, he hobbled to Dublin’s Gate Theatre to watch a performance of Hugh Leonard’s stage adaptation of The Dalkey Archive, his latest and last novel, published the previous year. The next day, he complained vociferously to a friend, the British actor Denis Carey, about the poor portrayal of the character of Augustine. He slyly suggested that Carey show his letter to producer Phyllis Ryan, demanding that the bumbling performer be fired.
 
+{{% galleryrow %}}
+
+{{% galleryfigure src="../071-carey.png" headline="Brian O'Nolan TLS to Denis Carey, 16 Oct 1965" %}}
+b. 1, f. 7, Flann O'Brien Papers (MS1997-027)
+{{% /galleryfigure %}}
+
+{{% galleryfigure src="../064_Cane.jpg" headline="O'Nolan' cane" %}}
+object: cane, Flann O'Brien Papers (MS1997-027)
+{{% /galleryfigure %}}
+
+{{% /galleryrow %}}
