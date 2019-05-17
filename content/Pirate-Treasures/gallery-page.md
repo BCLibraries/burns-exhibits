@@ -20,7 +20,7 @@ type: "exhibit"
 >}}
 
 {{< figure src="BIrish Captain Blood.JPG"
-           headline="Sabatini, Raphael. *[Caiftin Blood] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21368923980001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US). Dublin, 1937."
+           headline="Sabatini, Raphael. *[Caiftin Blood] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21368923980001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US). Dublin, 1937*."
            description=""
 >}}
 
