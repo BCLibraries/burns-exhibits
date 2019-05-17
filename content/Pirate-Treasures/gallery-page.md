@@ -15,7 +15,7 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="BDaring Deeds of Famous Pirates.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
+           headline="Chatterton, Edward Keble. *[Daring Deeds of Famous Pirates: True Stories of the Stirring Adventures, Bravery and Resource of Pirates, Filibusters and Buccaneers] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21319057930001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*.  London, 1917."
            description="Sollicitudin Mollis Venenatis Sit"
 >}}
 
