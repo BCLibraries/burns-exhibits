@@ -55,3 +55,5 @@ It is easy to see the influence of *Biblia Aurea Veteris ac Noui Testamenti Voci
 
 
 {{% /largefigure %}}
+
+Utopia (1893) by Thomas More is covered in a limp vellum binding with silk ribbon ties and a gold spine title made by T.J. Cobden-Sanderson. Limp binding means a book that does not have stiff covers, but instead has flexible sides which could be made from various materials. Cobden-Sanderson became a bookbinder after becoming dissatisfied with his legal career.
