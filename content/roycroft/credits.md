@@ -15,10 +15,9 @@ type: "exhibit"
 
 Sponsored by Boston College Libraries
 
-Curator(s): Person, Title
+Curators: Barbara Adams Hebard, Conservator, John J. Burns Library, Boston College
 
-Person, Title
+Andrew Isidoro, Public Services Specialist, John J. Burns Library, Boston College
 
-Person, Title
 
-Originally displayed: Location, Month - Month 2017
+Originally displayed: Burns Library, June - October 2018
