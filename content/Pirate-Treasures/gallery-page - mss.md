@@ -20,14 +20,16 @@ type: "exhibit"
 privateer carrying contraband, 1686"
 >}}
 
-{{< figure src="BIrish Captain Blood.JPG"
-           headline="Porta Tristique Ligula"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+{{< figure src="Broughton address leaf.jpg"
+           headline="Broughton, William."
+           description="Letter to William Braithwaite following
+the 1692 Port Royal, Jamaica earthquake, 1692 June 27. Address leaf."
 >}}
 
-{{< figure src="Bpirate snow cover 2.jpg"
-           headline="Amet Pellentesque"
-           description="Parturient Nullam Tellus Vehicula"
+{{< figure src="Broughton letter.jpg"
+           headline=""
+           description="Letter to William Braithwaite following
+the 1692 Port Royal, Jamaica earthquake, 1692 June 27."
 >}}
 
 {{% /galleryrow %}}
