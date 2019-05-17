@@ -4,7 +4,7 @@ title: "Poetry"
 description: ""
 
 # Page order (1 is 1st page, etc.)
-weight: 4
+weight: 5
 alwaysopen: true
 
 # Change to false to publish.
@@ -14,6 +14,12 @@ type: "exhibit"
 ---
 **Poetic Beginnings**
 
+{{% figure src="../069_MadSweeney.jpg"
+           headline=""
+           description="'Mad Sweeney' sculpture by John Coll" 
+           side="right" %}}
+
+
 According to his brother Ciarán, “Brian did no creative writing until he was in his last year in Blackrock College. Even then the extent of his output was a few short poems.”
 
 One hardly thinks of O’Nolan or his alter egos Flann O’Brien and Myles na Gopaleen as poets, but so it was in the beginning with each, for each embedded bits of original verse and occasionally whole poems in their novels, dramas, and columns.
@@ -22,7 +28,7 @@ In a 1939 essay titled “When Fiction Lives in Fiction,” the avant-garde Arge
 
 **For the Bards**
 
-O’Nolan never published a poem as such, much less collections of poetry like William Butler Yeats and other Irish literary revivalists and modernist writers. Yet he did dabble in the genre, if only for amusement or for the opportunities it gave him to parody traditions of versifying. 
+O’Nolan never published a poem as such, much less collections of poetry like William Butler Yeats and other Irish literary revivalists and modernist writers. Yet he did dabble in the genre, if only for amusement or for the opportunities it gave him to parody traditions of versifying.
 
 O’Nolan’s archives preserve unpublished poetic fragments, such as bits of doggerel jotted in the pages of a banking passbook. A draft of one of his “Cruiskeen Lawn” columns for The Irish Times includes a quatrain he composed in Irish about St. Columcille (or Columba), the 6th-century bardic poet and apostle descended from ancient Celtic kings.
 
