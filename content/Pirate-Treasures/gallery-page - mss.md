@@ -16,7 +16,7 @@ type: "exhibit"
 
 {{< figure src="CBarros letter p1.jpg"
            headline="Barros, Alonso"
-           description=". Report on America and capture of English
+           description="Report on America and capture of English
 privateer carrying contraband, 1686"
 >}}
 
