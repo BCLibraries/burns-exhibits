@@ -3,7 +3,7 @@ title: "Manuscripts"
 description: ""
 
 # Page order
-weight:  4
+weight:  3
 alwaysopen: true
 
 # Change to false to publish.
