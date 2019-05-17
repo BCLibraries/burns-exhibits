@@ -21,22 +21,28 @@ William Morris, already well known for his decorative arts—including tapestrie
 {{% /largefigure %}}
 
 
-{{% largefigure src="../child chrictopher title page.jpg"
-                headline="Title Page"
-                description="Morris, [Child Christopher and Goldilind the fair](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21324903000001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), 04-13988 FINE PRINT" 
-                size="large" align="center" %}}
-The title page of *Child Christopher and Goldilind the Fair* (v. 1, 1895) by the Kelmscott Press is an exquisite example of the types of design that the Roycrofters were influenced by and trying to reproduce. The floral motifs can be found throughout the works of the Roycrofters.
 
-{{% /largefigure %}}
+The title page of *Child Christopher and Goldilind the Fair* (v. 1, 1895) by the Kelmscott Press is an exquisite example of the types of design that the Roycrofters were influenced by and trying to reproduce. The floral motifs can be found throughout the works of the Roycrofters. *Little Journeys to the Homes of Eminent Artists: Gainsborough* (1902) is a shining example of the title pages found in many of the Roycrofters’ works. The similarities to the Kelmscott press are clearly visible in the layout, font, and floral patterns of the title page.
 
 
-{{% largefigure src="../gainsborough.jpg"
-                headline="Title Page"
+
+
+
+{{% galleryrow %}}
+
+{{< figure src="../child chrictopher title page.jpg"
+           headline="Title Page"
+                description="Morris, [Child Christopher and Goldilind the fair](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21324903000001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), 04-13988 FINE PRINT"
+>}}
+
+{{< figure src="../gainsborough.jpg"
+           headline="Title Page"
                 description="Hubbard, [Little journeys to the Homes of Eminent Artists: Gainsborough](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21342177330001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), ND497.G2 H8 1902 GENERAL"
-                size="small" %}}
-*Little Journeys to the Homes of Eminent Artists: Gainsborough* (1902) is a shining example of the title pages found in many of the Roycrofters’ works. The similarities to the Kelmscott press are clearly visible in the layout, font, and floral patterns of the title page.
+>}}
 
-{{% /largefigure %}}
+
+{{% /galleryrow %}}
+
 
 
 
@@ -57,6 +63,5 @@ The colophon, a statement at the end of a book giving information about its auth
            description="Hubbard, [So Here Cometh White hyacinths: Being a Book of the Heart](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21334388030001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PS2042 .S6 1907 GENERAL"
 >}}
 
->}}
 
 {{% /galleryrow %}}
