@@ -33,57 +33,57 @@ type: "exhibit"
 
 {{% galleryrow %}}
 
-{{< figure src="BPyle book of pirates.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
-           description="Sollicitudin Mollis Venenatis Sit"
+{{< figure src=""
+           headline=""
+           description=""
 >}}
 
-{{< figure src="BIn Search of Gold cover.jpg"
+{{< figure src=""
            headline="Porta Tristique Ligula"
            description="Fringilla Cursus Sollicitudin Dapibus"
 >}}
 
-{{< figure src="BRoche.JPG"
-           headline="Amet Pellentesque"
-           description="Parturient Nullam Tellus Vehicula"
+{{< figure src=""
+           headline=""
+           description=""
 >}}
 
 {{% /galleryrow %}}
 
 {{% galleryrow %}}
 
-{{< figure src="BBradlee.JPG"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
-           description="Sollicitudin Mollis Venenatis Sit"
+{{< figure src=""
+           headline=""
+           description=""
 >}}
 
-{{< figure src="Bpirate o'clery cover.jpg"
-           headline="Porta Tristique Ligula"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+{{< figure src=""
+           headline=""
+           description=""
 >}}
 
-{{< figure src="BHoward Pyle Cover.jpg"
-           headline="Amet Pellentesque"
-           description="Parturient Nullam Tellus Vehicula"
+{{< figure src=""
+           headline=""
+           description=""
 >}}
 
 {{% /galleryrow %}}
 
 {{% galleryrow %}}
 
-{{< figure src="Bpirate cook cover.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
-           description="Sollicitudin Mollis Venenatis Sit"
+{{< figure src=""
+           headline=""
+           description=""
 >}}
 
-{{< figure src="BCaptain Brand cover decoration.JPG"
-           headline="Porta Tristique Ligula"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+{{< figure src=""
+           headline=""
+           description=""
 >}}
 
-{{< figure src="BIrish Pirate Ballads.jpg"
-           headline="Amet Pellentesque"
-           description="Parturient Nullam Tellus Vehicula"
+{{< figure src=""
+           headline=""
+           description=""
 >}}
 
 {{% /galleryrow %}}
