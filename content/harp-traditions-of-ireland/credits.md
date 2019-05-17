@@ -12,10 +12,11 @@ draft: true
 
 type: "exhibit"
 ---
-
+{{% largefigure src="../EganHarp.png" headline="" description="" align="right" %}}
 Sponsored by Boston College Libraries
 
-Curator(s): Beth Sweeney, Irish Music Librarian,
-            Nancy Hurrell, harp consultant
+Curated by Beth Sweeney, Irish Music Librarian, and Nancy Hurrell, harp consultant
 
 Originally displayed: Burns Library, Summer 2010
+
+{{% /largefigure %}}
