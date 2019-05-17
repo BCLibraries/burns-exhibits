@@ -1,5 +1,5 @@
 ---
-title: "Gallery page"
+title: "Lawson & The Complete Writings of Elbert Hubbard"
 description: ""
 
 # Page order
