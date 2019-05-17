@@ -20,7 +20,7 @@ type: "exhibit"
 >}}
 
 {{< figure src="Broughton address leaf.jpg"
-           headline="Broughton, William."
+           headline="Broughton, William"
            description="Letter to William Braithwaite following the 1692 Port Royal, Jamaica earthquake, 1692 June 27. Address leaf."
 >}}
 
@@ -33,9 +33,9 @@ type: "exhibit"
 
 {{% galleryrow %}}
 
-{{< figure src=""
-           headline=""
-           description=""
+{{< figure src="Senex nd detail.jpg"
+           headline="map detail, showing Port Royal"
+           description="*English Empire in the Ocean of America or West Indies*, revised by I. Senex, engraved by I. Harris, undated."
 >}}
 
 {{< figure src=""
