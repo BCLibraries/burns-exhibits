@@ -16,20 +16,17 @@ type: "exhibit"
 
 {{< figure src="CBarros letter p1.jpg"
            headline="Barros, Alonso"
-           description="Report on America and capture of English
-privateer carrying contraband, 1686"
+           description="Report on America and capture of English privateer carrying contraband, 1686"
 >}}
 
 {{< figure src="Broughton address leaf.jpg"
            headline="Broughton, William."
-           description="Letter to William Braithwaite following
-the 1692 Port Royal, Jamaica earthquake, 1692 June 27. Address leaf."
+           description="Letter to William Braithwaite following the 1692 Port Royal, Jamaica earthquake, 1692 June 27. Address leaf."
 >}}
 
 {{< figure src="Broughton letter.jpg"
            headline=""
-           description="Letter to William Braithwaite following
-the 1692 Port Royal, Jamaica earthquake, 1692 June 27."
+           description="Letter to William Braithwaite following the 1692 Port Royal, Jamaica earthquake, 1692 June 27."
 >}}
 
 {{% /galleryrow %}}
