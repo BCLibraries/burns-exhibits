@@ -43,34 +43,27 @@ Have you ever invented the next big thing, but didn’t have the cash to make it
 {{% /galleryrow %}}
 
 {{% galleryrow %}}
-{{% figure src="../25a_BeingSocial_Shaw_sMother.jpg"
-            headline="Bernard Shaw's mother (with the original sepia filter)"
-            description="Box 5, Folder 15, [Samuel N. Freedman collection of Bernard Shaw]https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21354365750001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) (MS2002-044)"
-%}}
-{{% figure src="../25b_BeingSocial_MS2002.044_b5_f15.jpg"
-            headline="Notes on the back of photograph of Shaw's mother"
-            description="Box 5, Folder 15, [Samuel N. Freedman collection of Bernard Shaw](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21354365750001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) (MS2002-044)"
+{{% figure src="../41_BeingSocial_AntiCoercion.jpg"
+            headline="Irish National League Anti-Coercion Fund certificate"
+            description="Box 6, Folder 8, [George D. Cahill papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21354365750001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) (MS1993-041)"
 %}}
 {{% /galleryrow %}}
 
 {{% galleryrow %}}
-{{% figure src="../28a_BeingSocial_SubTurriCandids.jpg"
-            headline="Candids from Boston College's yearbook (1924)"
-            description="Boston College, [Sub Turri: the yearbook of Boston College](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21387089960001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) LD478. S8 REF"
+{{% figure src="../44_BeingSocial_MS1993.041_b5_f29_a.jpg"
+            headline="Irish National League dues payment cards"
+            description="Box 5, Folder 29, [George D. Cahill papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21354365750001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) (MS1993-041)"
 %}}
-{{% figure src="../28b_BeingSocial_SubTurriCandids.jpg"
-            headline="Candids from Boston College's yearbook (1924)"
-            description="Boston College, [Sub Turri: the yearbook of Boston College](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21387089960001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) LD478. S8 REF"
+{{% figure src="../44_BeingSocial_MS1993.041_b5_f29_b.jpg"
+            headline="Irish National League dues payment cards"
+            description="Box 5, Folder 29, [George D. Cahill papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21354365750001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) (MS1993-041)"
 %}}
 {{% /galleryrow %}}
 
 {{% galleryrow %}}
-{{% figure src="../29a_BeingSocial_PhotoAlbums.jpg"
-            headline="AHANA Photo album "
-            description="Box 7, [Thea Bowman AHANA and Intercultural Center records](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21476642360001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) (BC1986-023)"
-%}}
-{{% figure src="../29b_BeingSocial.jpg"
-            headline="Photo from AHANA Photo album "
-            description="Box 7, [Thea Bowman AHANA and Intercultural Center records](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21476642360001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) (BC1986-023)"
+{{% figure src="../43_BeingSocial_LawnPartyPhotos_BC1986032ref270001.jpg"
+            headline="Lawn Party Fundraiser 1908"
+            description="Box 4, Folder 34 [Boston College Special Guests and Events photographs](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21425342270001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (BC1986-010)"
+            align="center"
 %}}
 {{% /galleryrow %}}

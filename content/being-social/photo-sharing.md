@@ -45,7 +45,7 @@ Some things don’t change. Since the technology to fix images through a chemica
 {{% galleryrow %}}
 {{% figure src="../25a_BeingSocial_Shaw_sMother.jpg"
             headline="Bernard Shaw's mother (with the original sepia filter)"
-            description="Box 5, Folder 15, [Samuel N. Freedman collection of Bernard Shaw]https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21354365750001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) (MS2002-044)"
+            description="Box 5, Folder 15, [Samuel N. Freedman collection of Bernard Shaw](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21354365750001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) (MS2002-044)"
 %}}
 {{% figure src="../25b_BeingSocial_MS2002.044_b5_f15.jpg"
             headline="Notes on the back of photograph of Shaw's mother"

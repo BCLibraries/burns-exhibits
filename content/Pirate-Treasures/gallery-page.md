@@ -1,5 +1,5 @@
 ---
-title: "Gallery page"
+title: "Books"
 description: ""
 
 # Page order
@@ -15,13 +15,13 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="BDaring Deeds of Famous Pirates.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
-           description="Sollicitudin Mollis Venenatis Sit"
+           headline="Chatterton, Edward Keble. *[Daring Deeds of Famous Pirates: True Stories of the Stirring Adventures, Bravery and Resource of Pirates, Filibusters and Buccaneers] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21319057930001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*.  London, 1917."
+           description=""
 >}}
 
 {{< figure src="BIrish Captain Blood.JPG"
-           headline="Porta Tristique Ligula"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+           headline="Sabatini, Raphael. *[Caiftin Blood] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21368923980001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US). Dublin, 1937*."
+           description=""
 >}}
 
 {{< figure src="Bpirate snow cover 2.jpg"

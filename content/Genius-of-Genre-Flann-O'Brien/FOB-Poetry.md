@@ -15,8 +15,8 @@ type: "exhibit"
 **Poetic Beginnings**
 
 {{% figure src="../069_MadSweeney.jpg"
-           headline="" 
-           description="Mad Sweeney sculpture by John Coll" 
+           headline=""
+           description="Mad Sweeney sculpture by John Coll"
            side="right" %}}
 
 
@@ -28,13 +28,13 @@ In a 1939 essay titled “When Fiction Lives in Fiction,” the avant-garde Arge
 
 **For the Bards**
 
-O’Nolan never published a poem as such, much less collections of poetry like William Butler Yeats and other Irish literary revivalists and modernist writers. Yet he did dabble in the genre, if only for amusement or for the opportunities it gave him to parody traditions of versifying. 
+O’Nolan never published a poem as such, much less collections of poetry like William Butler Yeats and other Irish literary revivalists and modernist writers. Yet he did dabble in the genre, if only for amusement or for the opportunities it gave him to parody traditions of versifying.
 
 O’Nolan’s archives preserve unpublished poetic fragments, such as bits of doggerel jotted in the pages of a banking passbook. A draft of one of his “Cruiskeen Lawn” columns for The Irish Times includes a quatrain he composed in Irish about St. Columcille (or Columba), the 6th-century bardic poet and apostle descended from ancient Celtic kings.
 
 {{% galleryrow%}}
 
-{{% figure src="../048A_NCBNotebook.jpg" headline="National City Bank notebook, with ms. poem "I deem it most tough ..."" %}}
+{{% figure src="../048A_NCBNotebook.jpg" headline="National City Bank notebook, with ms. poem 'I deem it most tough...'" %}}
 b. 24, Flann O'Brien Papers (MS1997-027)
 {{% /figure %}}
 

@@ -15,9 +15,8 @@ type: "exhibit"
 
 Sponsored by Boston College Libraries
 
-Curators: Barbara Adams Hebard, Conservator, John J. Burns Library, Boston College
+Curator(s): Barbara Adams Hebard, Conservator
 
-Andrew Isidoro, Public Services Specialist, John J. Burns Library, Boston College
+Originally displayed: Burns Library, June - August 2013
 
-
-Originally displayed: Burns Library, June - October 2018
+Theology & Ministry Library, September - December 2013
