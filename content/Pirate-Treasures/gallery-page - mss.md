@@ -19,12 +19,12 @@ type: "exhibit"
            description="Report on America and capture of English privateer carrying contraband, 1686."
 >}}
 
-{{< figure src="CBroughton address leaf.jpg"
+{{< figure src="CBroughton letter.jpg"
            headline="Broughton, William"
            description="Letter from William Broughton to William Braithwaite following the 1692 Port Royal, Jamaica earthquake. 27 June 1692."
 >}}
 
-{{< figure src="CBroughton letter.jpg"
+{{< figure src="CBroughton address leaf.jpg"
            headline="address leaf"
            description="Broughton to Braithwaite. 27 June 1692."
 >}}
