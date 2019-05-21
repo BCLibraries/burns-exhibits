@@ -77,8 +77,8 @@ type: "exhibit"
 >}}
 
 {{< figure src="BCaptain Brand cover decoration.JPG"
-           headline="Porta Tristique Ligula"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+           headline=""
+           description="Gringo, Harry. *[Captain Brand of the Centipede. A Pirate of Eminence in the West Indies: His Loves and Exploits](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21347650770001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York, 1864."
 >}}
 
 {{< figure src="BIrish Pirate Ballads.jpg"
