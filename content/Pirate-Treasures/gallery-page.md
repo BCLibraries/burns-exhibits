@@ -15,7 +15,7 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="de Lussan (2).JPG"
-           headline="de Lussan, Raveneau, *[Journal du Voyage Fait à la Mer de Sud avec les Filibustiers de l’Amérique, en 1684 & années suivantes (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21354813720001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*.  Paris, 1690."
+           headline="de Lussan, Raveneau, *[Journal du Voyage Fait à la Mer de Sud avec les Filibustiers de l’Amérique, en 1684 & années suivantes](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21354813720001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*.  Paris, 1690."
            description="Sollicitudin Mollis Venenatis Sit"
 >}}
 
