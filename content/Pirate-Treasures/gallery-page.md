@@ -39,8 +39,8 @@ type: "exhibit"
 >}}
 
 {{< figure src="BIn Search of Gold cover.jpg"
-           headline="Porta Tristique Ligula"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+           headline=""
+           description="Fordyce, W. Dingwall. *[In Search of Gold](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21319079620001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London, 1924."
 >}}
 
 {{< figure src="BRoche.JPG"
