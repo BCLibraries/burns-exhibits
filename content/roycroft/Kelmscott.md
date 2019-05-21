@@ -65,3 +65,12 @@ The colophon, a statement at the end of a book giving information about its auth
 
 
 {{% /galleryrow %}}
+
+{{% largefigure src="../Utopia.jpg"
+                headline=""
+                description="More, [*Utopia*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21312191480001021&context=L&vid=bclib_new&search_scope=lib_LAW&tab=bcl_only&lang=en_US), More HX810.5 .E54 1893"
+				size="medium"
+                align="left" %}}
+
+*Utopia* (1893) by Thomas More is covered in a limp vellum binding with silk ribbon ties and a gold spine title made by T.J. Cobden-Sanderson. Limp binding means a book that does not have stiff covers, but instead has flexible sides which could be made from various materials. Cobden-Sanderson, British lawyer turned bookbinder, ran Doves Bindery. He was a friend of William Morris and embraced Morris’s socialist views, known as Libertarian Socialism; seeking a non-hierarchical society and encouraging beauty for all in everyday life.
+{{% /largefigure %}}

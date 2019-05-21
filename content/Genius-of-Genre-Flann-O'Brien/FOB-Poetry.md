@@ -34,17 +34,17 @@ O’Nolan’s archives preserve unpublished poetic fragments, such as bits of do
 
 {{% galleryrow%}}
 
-{{% figure src="../048A_NCBNotebook.jpg" headline="National City Bank notebook, with ms. poem 'I deem it most tough...'" %}}
-b. 24, Flann O'Brien Papers (MS1997-027)
-{{% /figure %}}
+{{% figure src="../048A_NCBNotebook.jpg" headline="National City Bank notebook, with ms. poem 'I deem it most tough...'"
+description="b. 24, Flann O'Brien Papers (MS1997-027)"
+%}}
 
-{{% figure src="../127_CruiskeenLawnTypescript_p4.jpg" headline="Longhand manuscript for Cruiskeen Lawn column that includes a quatrain poem about Columcille." %}}
-b. 3, f. 33, Flann O'Brien Papers (MS1997-027)
-{{% /figure %}}
+{{% figure src="../127_CruiskeenLawnTypescript_p4.jpg" headline="Longhand manuscript for Cruiskeen Lawn column that includes a quatrain poem about Columcille."
+description="b. 3, f. 33, Flann O'Brien Papers (MS1997-027)"
+%}}
 
-{{% figure src="../047B_FountainPen.jpg" headline="Brian O'Nolan's fountain pen" %}}
-b. 24, f. 21, Flann O'Brien Papers (MS1997-027)
-{{% /figure %}}
+{{% figure src="../047B_FountainPen.jpg" headline="Brian O'Nolan's fountain pen"
+description="b. 24, f. 21, Flann O'Brien Papers (MS1997-027)"
+%}}
 
 {{% /galleryrow%}}
 **Plain Crazy**
@@ -56,12 +56,11 @@ Another section of *At Swim-Two-Birds* contains Flann’s famous pub poem, “Wo
 In one of the columns selected for the Best of Myles compilation, O’Nolan chastises poetry itself, contending sardonically that it bears “no excuse,” for it “gives no adequate return in money.”
 {{% galleryrow%}}
 
-{{% figure src="../003B-2_AtSwim2Birds_P94-95.jpg" headline="" %}}
-b. 24, Flann O'Brien Papers (MS1997-027)
-{{% /figure %}}
+{{% figure src="../003B-2_AtSwim2Birds_P94-95.jpg" headline=""
+description="b. 24, Flann O'Brien Papers (MS1997-027)"
+%}}
 
-{{% figure src="../127_CruiskeenLawnTypescript_p4.jpg" headline="NEED IMAGE 126A" %}}
-b. 3, f. 33, Flann O'Brien Papers (MS1997-027)
-{{% /figure %}}
+{{% figure src="../127_CruiskeenLawnTypescript_p4.jpg" headline="NEED IMAGE 126A"
+desription="b. 3, f. 33, Flann O'Brien Papers (MS1997-027)"%}}
 
 {{% /galleryrow%}}

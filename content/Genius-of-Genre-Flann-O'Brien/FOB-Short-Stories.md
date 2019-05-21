@@ -15,8 +15,8 @@ type: "exhibit"
 **Pulp Fiction?**
 
 {{% figure src="../128_Envoy_Cover.jpg"
-           headline="Envoy Cover" 
-           description="Nolan, "The Martyr's Crown," Envoy 1, no. 3 (1950), PR6029 .N56 M37 1950 O'BRIEN LIBRARY" 
+           headline="Envoy Cover"
+           description="Nolan, 'The Martyr's Crown,' Envoy 1, no. 3 (1950), PR6029 .N56 M37 1950 O'BRIEN LIBRARY" 
            side="right" %}}
 
 Until the publication of The Short Fiction of Flann O’Brien in 2013, O’Nolan’s reputation rested primarily on his novels and newspaper columns. Yet over the course of his life, he wrote a dozen or so short stories in both Irish and English, publishing them in a range of periodicals, from student magazines to Irish, British, and American literary reviews, using a variety of pen names in addition to his own.
@@ -25,8 +25,8 @@ A story titled “I’m Telling You No Lie!” is attributed to Lir O’Connor, 
 
 **Banned in Dublin**
 {{% figure src="../131_JohnDuffysBrother_p3.jpg"
-           headline="Undated typescript and carbon copy of 'John Duffy's Brother,' [ca. 1940]" 
-           description="b. 5, f. 14, Flann O'Brien Papers (MS1997-027)" 
+           headline="Undated typescript and carbon copy of 'John Duffy's Brother,' [ca. 1940]"
+           description="b. 5, f. 14, Flann O'Brien Papers (MS1997-027)"
            side="left" %}}
 
 “John Duffy’s Brother,” a tale about a man who thinks he is a train, combines steam punk and surrealism. O’Nolan wrote and published it right around the time he was working on The Third Policeman, whose similarly nameless protagonist also suffers a crisis of psychological identity.
@@ -51,7 +51,7 @@ b. 5, f. 15 , Flann O'Brien Papers (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../130_MartyrsCrown_p4.jpg" headline="Typescript for 'The Martyr's Crown' which has a completely different opening and ending than “For Ireland Home and Beauty”. p. 4" %}}
-b. 5, f. 15 , Flann O'Brien Papers (MS1997-027) 
+b. 5, f. 15 , Flann O'Brien Papers (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
