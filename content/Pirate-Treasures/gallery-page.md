@@ -45,7 +45,7 @@ type: "exhibit"
 
 {{< figure src="BRoche.JPG"
            headline=""
-           description="Roche, James Jeffrey. *[By-ways of war; the story of the filibusters](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21317684530001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*"
+           description="Roche, James Jeffrey. *[By-ways of war; the story of the filibusters](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21317684530001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Boston, 1891."
 >}}
 
 {{% /galleryrow %}}
