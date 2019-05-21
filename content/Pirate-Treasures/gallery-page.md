@@ -72,8 +72,8 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="Bpirate cook cover.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
-           description="Sollicitudin Mollis Venenatis Sit"
+           headline=""
+           description="Cook, Judith. *[Pirate queen : the life of Grace O'Malley, 1530-1603](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21323448510001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Cork, 2004."
 >}}
 
 {{< figure src="BCaptain Brand cover decoration.JPG"
