@@ -63,8 +63,8 @@ type: "exhibit"
 >}}
 
 {{< figure src="BHoward Pyle Cover.jpg"
-           headline="Amet Pellentesque"
-           description="Parturient Nullam Tellus Vehicula"
+           headline=""
+           description="Exquemelin, A. O., edited by Howard Pyle. *[The Buccaneers and Marooners of America](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21319036910001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London, 1897."
 >}}
 
 {{% /galleryrow %}}
