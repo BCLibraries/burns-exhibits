@@ -1,9 +1,9 @@
 ---
-title: "Books"
-description: ""
+title: "Gallery page"
+description: "Books II"
 
 # Page order
-weight:  2
+weight:  4
 alwaysopen: true
 
 # Change to false to publish.
@@ -14,17 +14,17 @@ type: "exhibit"
 
 {{% galleryrow %}}
 
-{{< figure src="BDaring Deeds of Famous Pirates.jpg"
-           headline="Chatterton, Edward Keble. *[Daring Deeds of Famous Pirates: True Stories of the Stirring Adventures, Bravery and Resource of Pirates, Filibusters and Buccaneers] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21319057930001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*.  London, 1917."
-           description=""
+{{< figure src="de Lussan (2).JPG"
+           headline=""
+           description="de Lussan, Raveneau, *[Journal du Voyage Fait à la Mer de Sud avec les Filibustiers de l’Amérique, en 1684 & années suivantes](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21354813720001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*.  Paris, 1690."
 >}}
 
-{{< figure src="BIrish Captain Blood.JPG"
-           headline="Sabatini, Raphael. *[Caiftin Blood] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21368923980001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US). Dublin, 1937*."
-           description=""
+{{< figure src="../portrait-image.jpg"
+           headline="Porta Tristique Ligula"
+           description="Fringilla Cursus Sollicitudin Dapibus"
 >}}
 
-{{< figure src="Bpirate snow cover 2.jpg"
+{{< figure src="../portrait-image.jpg"
            headline="Amet Pellentesque"
            description="Parturient Nullam Tellus Vehicula"
 >}}
@@ -33,57 +33,14 @@ type: "exhibit"
 
 {{% galleryrow %}}
 
-{{< figure src="BPyle book of pirates.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
-           description="Sollicitudin Mollis Venenatis Sit"
+{{< figure src="../intro-image.jpg"
+           headline="Tellus"
+           description="Pellentesque Vehicula Aenean"
 >}}
 
-{{< figure src="BIn Search of Gold cover.jpg"
-           headline="Porta Tristique Ligula"
-           description="Fringilla Cursus Sollicitudin Dapibus"
->}}
-
-{{< figure src="BRoche.JPG"
-           headline="Amet Pellentesque"
-           description="Parturient Nullam Tellus Vehicula"
->}}
-
-{{% /galleryrow %}}
-
-{{% galleryrow %}}
-
-{{< figure src="BBradlee.JPG"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
-           description="Sollicitudin Mollis Venenatis Sit"
->}}
-
-{{< figure src="Bpirate o'clery cover.jpg"
-           headline="Porta Tristique Ligula"
-           description="Fringilla Cursus Sollicitudin Dapibus"
->}}
-
-{{< figure src="BHoward Pyle Cover.jpg"
-           headline="Amet Pellentesque"
-           description="Parturient Nullam Tellus Vehicula"
->}}
-
-{{% /galleryrow %}}
-
-{{% galleryrow %}}
-
-{{< figure src="Bpirate cook cover.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
-           description="Sollicitudin Mollis Venenatis Sit"
->}}
-
-{{< figure src="BCaptain Brand cover decoration.JPG"
-           headline="Porta Tristique Ligula"
-           description="Fringilla Cursus Sollicitudin Dapibus"
->}}
-
-{{< figure src="BIrish Pirate Ballads.jpg"
-           headline="Amet Pellentesque"
-           description="Parturient Nullam Tellus Vehicula"
+{{< figure src="../intro-image.jpg"
+           headline="Mollis Quam Vehicula Lorem"
+           description="Ullamcorper Egestas Dapibus"
 >}}
 
 {{% /galleryrow %}}
