@@ -53,8 +53,8 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="BBradlee.JPG"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
-           description="Sollicitudin Mollis Venenatis Sit"
+           headline=""
+           description="Bradlee, Francis Boardman Crowninshield. *[Piracy in the West Indies and its Suppression](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21317708480001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Salem, 1923."
 >}}
 
 {{< figure src="Bpirate o'clery cover.jpg"
