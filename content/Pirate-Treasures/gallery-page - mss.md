@@ -21,7 +21,7 @@ type: "exhibit"
 
 {{< figure src="CBroughton address leaf.jpg"
            headline="Broughton, William"
-           description="Letter to William Braithwaite following the 1692 Port Royal, Jamaica earthquake. 27 June 1692. Address leaf."
+           description="Letter to Braithwaite. Address leaf."
 >}}
 
 {{< figure src="CBroughton letter.jpg"
