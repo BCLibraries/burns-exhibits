@@ -56,4 +56,25 @@ It is easy to see the influence of *Biblia Aurea Veteris ac Noui Testamenti Voci
 
 {{% /largefigure %}}
 
-Utopia (1893) by Thomas More is covered in a limp vellum binding with silk ribbon ties and a gold spine title made by T.J. Cobden-Sanderson. Limp binding means a book that does not have stiff covers, but instead has flexible sides which could be made from various materials. Cobden-Sanderson became a bookbinder after becoming dissatisfied with his legal career.
+
+
+
+Samuel and Thomas Roycroft were 17th century London printers and inspiration for the Roycrofters name.
+
+
+
+
+{{% galleryrow %}}
+
+{{< figure src="../Samuel Roycroft printable.jpg"
+           headline="Title Page"
+                description="Robertson, [Thesaurus linguæ sanctæ](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21347681820001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PJ4805 .R7 1686 WILLIAMS"
+>}}
+
+{{< figure src="../Thomas Roycroft printable.jpg"
+           headline="Title Page"
+                description="Churchill, [Divi Britannici](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21384298200001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), DA130 .C56 1675 OVERSIZE"
+>}}
+
+
+{{% /galleryrow %}}
