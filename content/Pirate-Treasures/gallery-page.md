@@ -3,7 +3,7 @@ title: "Gallery page"
 description: "Books II"
 
 # Page order
-weight:  5
+weight:  4
 alwaysopen: true
 
 # Change to false to publish.
