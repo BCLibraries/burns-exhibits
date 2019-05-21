@@ -82,8 +82,8 @@ type: "exhibit"
 >}}
 
 {{< figure src="BIrish Pirate Ballads.jpg"
-           headline="Amet Pellentesque"
-           description="Parturient Nullam Tellus Vehicula"
+           headline=""
+           description="*[Irish pirate ballads and other songs of the sea](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21348345090001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Washington, D.C., 2009."
 >}}
 
 {{% /galleryrow %}}
