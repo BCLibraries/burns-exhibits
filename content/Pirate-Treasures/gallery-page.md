@@ -34,8 +34,8 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="BPyle book of pirates.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
-           description="Sollicitudin Mollis Venenatis Sit"
+           headline=""
+           description="Pyle, Howard. *[Howard Pyle's Book of pirates : fiction, fact & fancy concerning the buccaneers & marooners of the Spanish Main](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21344547700001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York, 1921."
 >}}
 
 {{< figure src="BIn Search of Gold cover.jpg"
