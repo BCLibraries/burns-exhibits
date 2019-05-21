@@ -58,8 +58,8 @@ type: "exhibit"
 >}}
 
 {{< figure src="Bpirate o'clery cover.jpg"
-           headline="Porta Tristique Ligula"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+           headline=""
+           description="O'Clery, Helen. *[Rebel sea queen: the story of Grace O'Malley](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21328275280001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York, 1965."
 >}}
 
 {{< figure src="BHoward Pyle Cover.jpg"
