@@ -25,8 +25,8 @@ type: "exhibit"
 >}}
 
 {{< figure src="Bpirate snow cover 2.jpg"
-           headline="Amet Pellentesque"
-           description="Parturient Nullam Tellus Vehicula"
+           headline=""
+           description="Snow, Edward Rowe. *[Pirates and Buccaneers of the Atlantic Coast] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21330196270001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Boston, 1944."
 >}}
 
 {{% /galleryrow %}}
