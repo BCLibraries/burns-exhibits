@@ -15,13 +15,13 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="BDaring Deeds of Famous Pirates.jpg"
-           headline="Chatterton, Edward Keble. *[Daring Deeds of Famous Pirates: True Stories of the Stirring Adventures, Bravery and Resource of Pirates, Filibusters and Buccaneers] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21319057930001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*.  London, 1917."
-           description=""
+           headline=""
+           description="Chatterton, Edward Keble. *[Daring Deeds of Famous Pirates: True Stories of the Stirring Adventures, Bravery and Resource of Pirates, Filibusters and Buccaneers] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21319057930001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*.  London, 1917."
 >}}
 
 {{< figure src="BIrish Captain Blood.JPG"
-           headline="Sabatini, Raphael. *[Caiftin Blood] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21368923980001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US). Dublin, 1937*."
-           description=""
+           headline=""
+           description="Sabatini, Raphael. *[Caiftin Blood] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21368923980001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US). Dublin, 1937*."
 >}}
 
 {{< figure src="Bpirate snow cover 2.jpg"
