@@ -4,7 +4,7 @@ title: "Columnist"
 description: ""
 
 # Page order (1 is 1st page, etc.)
-weight: 8
+weight: 9
 alwaysopen: true
 
 # Change to false to publish.
@@ -84,7 +84,7 @@ b. 20, Flann O'Brien Papers (MS1997-027)
 
 **Early Dismissal**
 
-{{% figure src="../096-PeepShow.jpg"
+{{% figure src="../intro-image.jpg"
            headline="NEED SCAN OF 150: Return of Myles typescript (1953) "
            description="b. 2, f. 39, Flann O'Brien Papers (MS1997-027)"
            side="left" %}}
