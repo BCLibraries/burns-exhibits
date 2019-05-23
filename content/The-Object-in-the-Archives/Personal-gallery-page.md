@@ -54,7 +54,7 @@ Similar to Graham Greene’s many passports, Nancy Ward Martin’s diaries (also
 
 {{% galleryrow %}}
 
-{{% galleryfigure src="" headline="NEED IMAGE: Nancy Ward's Diaries and Address Books" %}}
+{{% galleryfigure src="../057-Ward-Diaries.jpg" headline="Nancy Ward's Diaries and Address Books" %}}
 b. 2, Ward Family Papers (MS2003-053)
 {{% /galleryfigure %}}
 
@@ -72,7 +72,7 @@ John Boyle O’Reilly, an Irish nationalist, was arrested by the British and tra
 b. 6, John Boyle O'Reilly Papers (MS2004-093)
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="" headline="NEED IMAGE: Rock, unknown significance" %}}
+{{% galleryfigure src="../048-rock.jpg" headline="Rock, unknown significance" %}}
 b. 4, John Boyle O'Reilly Papers (MS2004-093)
 {{% /galleryfigure %}}
 
@@ -82,12 +82,12 @@ This hairbrush and shaving brush are engaging in their familiarity and connotati
 
 {{% galleryrow %}}
 
-{{% galleryfigure src="." headline="NEED IMAGE: John Lawrence Sullivan Hairbrush" %}}
+{{% galleryfigure src="../052-Sullivan-Brush.jpg" headline="John Lawrence Sullivan's Hairbrush" %}}
 b. 3, John Lawrence Sullivan Papers (MS2012-013)
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="" headline="NEED IMAGE: Shaving Brush " %}}
-William F. and Michael C. Hanafin Family Papers (IM-M143-2005)
+{{% galleryfigure src="../065-Hanafin-Shaving-Brush.jpg" headline="Shaving Brush " %}}
+b. 3, William F. and Michael C. Hanafin Family Papers (IM-M143-2005)
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}

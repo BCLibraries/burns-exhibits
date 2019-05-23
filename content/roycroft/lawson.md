@@ -1,5 +1,5 @@
 ---
-title: "Lawson & The Complete Writings of Elbert Hubbard"
+title: "Thomas W. Lawson & The Complete Writings of Elbert Hubbard"
 description: ""
 
 # Page order
@@ -15,11 +15,13 @@ type: "exhibit"
            headline="Thomas W. Lawson"
            description="Lawson, [Frenzied Finance volume I, The Crime of Amalgamated](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21328502220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), Z1236 .L5 LAC 10174"
            side="left"
+		   
+		   
 %}}
 
 Thomas W. Lawson (1857-1925) was a Boston millionaire, stockbroker, and author. With the wealth Lawson amassed from copper mining he built a vast estate, Dreamwold, in Scituate, MA. The manor house boasted a large library, and he commissioned special bindings from the Roycrofters. The beautiful, coppery-toned leather on the covers displayed here may be a nod to the source of Lawson’s wealth. By the time of his death, Thomas Lawson had lost all of his wealth.   
 
-The Lawson commissioned books are bound in calfskin. The covers were created by leather modeling, with areas cut away to add depth to the figures, and other areas padded to add fullness. The leather, toned with pigment, has a copper appearance.
+The Lawson commissioned books are bound in calfskin. The covers were created by leather modeling, with areas cut away to add depth to the figures, and other areas padded to add fullness. The leather, toned with pigment, has a copper appearance. This is a deluxe, expensive set, with brown silk endleaves and gold decorating the top of the text pages. Endleaves, sometimes called endpapers, are blank leaves sewn in at the beginning and end of the text pages.
 
 
 
@@ -85,6 +87,19 @@ The Lawson commissioned books are bound in calfskin. The covers were created by 
 >}}
 
 {{% /galleryrow %}}
+
+
+
+Elbert Hubbard signed volume one with a handwritten note to Thomas W. Lawson. Printers call this type of page a “dedication page,” since it is inscribed by the author and is the page located immediately after the main title page. This type of inscription can prove helpful in determining who owned the books.
+
+
+
+{{%figure src="../inscription Lawson book.jpg"
+           headline="Volume One Inscription"
+           description="Hubbard, [The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), 09-000029023 GENERAL"
+           side="center"
+		   
+%}}
 
 
 
