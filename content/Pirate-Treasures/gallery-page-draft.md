@@ -1,6 +1,6 @@
 ---
-title: "Gallery page"
-description: "Books II"
+title: "Books II"
+description: ""
 
 # Page order
 weight:  5
@@ -14,20 +14,20 @@ type: "exhibit"
 
 {{% galleryrow %}}
 
-{{< figure src="de Lussan (2).JPG"
-           headline=""
-           description="de Lussan, Raveneau, *[Journal du Voyage Fait à la Mer de Sud avec les Filibustiers de l’Amérique, en 1684 & années suivantes](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21354813720001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*.  Paris, 1690."
+{{< figure src="Greene ti.jpg"
+           headline="Stevenson, Robert Louis. *[Treasure Island](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21359133280001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London. Casell, 1903."
+           description="Cover, Author Graham Greene's personal copy of 'Treasure Island'"
 >}}
 
 Raveneau de Lussan (1663-) was a French filibuster. In 'My Pirate Library,' Philip Gosse describes this title ‘A rare and charming little book’ and says of de Lussan, ‘one of the religious pirates, and he never allowed a Spanish town to be plundered until his crew had attended Mass in the Cathedral. He was also a great ‘ladies’ man.’’
 
-{{< figure src=""
-           headline=""
-           description=""
+{{< figure src="Greene ti opp p258.jpg"
+           headline="illustration"
+           description="Graham Greene's 'Treasure Island.'"
 >}}
 
-{{< figure src=""
-           headline=""
+{{< figure src="popup ti.JPG"
+           headline="illustration"
            description=""
 >}}
 
