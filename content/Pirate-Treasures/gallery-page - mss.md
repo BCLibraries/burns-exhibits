@@ -52,9 +52,9 @@ type: "exhibit"
 
 {{% galleryrow %}}
 
-{{< figure src=""
-           headline=""
-           description=""
+{{< figure src="Williams Collection Map.jpg"
+           headline="Cuba"
+           description="New chart of the seas surrounding the island of Cuba…and a map of the island itself. 1762."
 >}}
 
 {{< figure src=""
