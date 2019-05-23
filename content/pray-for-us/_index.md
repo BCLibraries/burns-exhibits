@@ -8,12 +8,12 @@ exhibit_title: "Pray for Us"
 date: 2019-05-21T14:34:16-04:00
 
 # Page order (1 is 1st page, etc.)
-weight: 1 
+weight: 1
 
 # Big image on first page.
-front_image: "intro-image.jpg" # Replace with the real image
-front_caption_headline: "Ullamcorper Condimentum Tortor Parturient"
-front_caption_text: "Donec id elit non mi porta gravida at eget metus."
+front_image: "pray-for-us-poster.png" # Replace with the real image
+front_caption_headline: ""
+front_caption_text: ""
 
 # Change to false to publish.
 draft: true
@@ -21,6 +21,6 @@ draft: true
 type: "exhibit"
 ---
 
-Vestibulum id ligula porta felis euismod semper. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+Holy cards—small images of saints and shrines, often with a prayer or scripture verse on the reverse—have been part of Catholic life since the 15th century. Used to commemorate religious events such as pilgrimages, sacraments, or memorial Masses, they work as spiritual mementos that can be carried or stored in bibles, books, wallets, mirrors and other easily accessible places. Also known as prayer cards, these small, devotional objects have been collected as works of art, a means to learn specific prayers or scripture, reminders of spiritual life in a secular world, and other devotional expressions.
 
-Curabitur blandit tempus porttitor. Maecenas sed diam eget risus varius blandit sit amet non magna. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sed diam eget risus varius blandit sit amet non magna.
+Holy cards are almost always smaller than 3 x 5 inches; we have greatly increased the original size to make details more visible while on exhibit. This exhibit, drawn from more than a dozen collections within Burns Library, highlights holy cards of different styles, eras, locations, and subjects. We made selections based on visual appeal and an attempt at gender and geographical equality (within the limits of the holdings), so please explore this sample now, and the rest of the holy cards available for research at your leisure.

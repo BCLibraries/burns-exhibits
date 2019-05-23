@@ -33,8 +33,8 @@ type: "exhibit"
 
 {{% galleryrow %}}
 
-{{< figure src="Senex nd detail.jpg"
-           headline="map detail, showing Port Royal"
+{{< figure src="Senex nd detail2.jpg"
+           headline="detail, showing Port Royal"
            description="*English Empire in the Ocean of America or West Indies*, revised by I. Senex, engraved by I. Harris, undated."
 >}}
 
