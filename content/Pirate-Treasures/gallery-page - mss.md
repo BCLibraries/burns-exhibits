@@ -71,9 +71,9 @@ type: "exhibit"
 
 {{% galleryrow %}}
 
-{{< figure src=""
-           headline=""
-           description=""
+{{< figure src="1676 Basset detail.jpg"
+           headline="Jamaica & Barbados"
+           description="Jamaica and Barbados, sold by Thomas Basset in Fleetstreet, 1676."
 >}}
 
 {{< figure src=""
