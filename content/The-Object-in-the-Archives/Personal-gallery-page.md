@@ -72,7 +72,7 @@ John Boyle O’Reilly, an Irish nationalist, was arrested by the British and tra
 b. 6, John Boyle O'Reilly Papers (MS2004-093)
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="" headline="NEED IMAGE: Rock, unknown significance" %}}
+{{% galleryfigure src="../048-rock.jpg" headline="Rock, unknown significance" %}}
 b. 4, John Boyle O'Reilly Papers (MS2004-093)
 {{% /galleryfigure %}}
 
@@ -82,7 +82,7 @@ This hairbrush and shaving brush are engaging in their familiarity and connotati
 
 {{% galleryrow %}}
 
-{{% galleryfigure src="../052-Sullivan-Brush.jpg" headline="ohn Lawrence Sullivan's Hairbrush" %}}
+{{% galleryfigure src="../052-Sullivan-Brush.jpg" headline="John Lawrence Sullivan's Hairbrush" %}}
 b. 3, John Lawrence Sullivan Papers (MS2012-013)
 {{% /galleryfigure %}}
 
