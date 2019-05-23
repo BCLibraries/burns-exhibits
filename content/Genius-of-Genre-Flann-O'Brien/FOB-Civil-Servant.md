@@ -29,12 +29,12 @@ Beginning in 1940, O’Nolan began writing a daily column for The Irish Times, a
 According to his brother Ciarán, O’Nolan pursued a master’s degree at UCD in order to increase the prospect of obtaining a civil service post, for which advanced education was prerequisite. O’Nolan wrote his thesis on medieval Irish nature poetry. Writing it in Irish, he incorporated refractory comments on contemporary Irish language debates to the annoyance of his advisors, who requested substantial revisions prior to the submission of the final version on pink paper.
 {{% galleryrow %}}
 
-{{% galleryfigure src="../005B_TwoInOne.jpg" headline="The Bell" %}}
-na Gopaleen, "Two in One," The Bell XIX, no. 8 (1954), PR6029 .N56 T96 1954 O'BRIEN LIBRARY
+{{% galleryfigure src="../" headline="NEED  IMAGE 094: UCD THESIS" %}}
+b. 2, f. 29, Flann O'Brien Papers (MS1997-027)
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="../113-Dead-Spit_TP.png" headline="Typescript for 'Dead Spit of Kelly'" %}}
-b. 5, f. 2 , Flann O'Brien Papers (MS1997-027)
+{{% galleryfigure src="../" headline="NEED  IMAGE 098: Sceal" %}}
+b. 2, f. 48, Flann O'Brien Papers (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% galleryrow %}}
@@ -42,15 +42,20 @@ b. 5, f. 2 , Flann O'Brien Papers (MS1997-027)
 Although O’Nolan lambasted policies aimed at making all Irish citizens Irish speakers, he nevertheless cherished the language and wanted to promote its literary heritage and expression. He also applied his imaginative inventiveness to schemes for developing a practical, modern Irish typeface, occasionally doodling Irish letterforms on the margins of his manuscripts and even proposing to the Underwood Typewriter Company how its standard keyboard could be modified to include new characters to represent certain sounds unique to the Irish language.
 {{% galleryrow %}}
 
-{{% galleryfigure src="../005B_TwoInOne.jpg" headline="The Bell" %}}
-na Gopaleen, "Two in One," The Bell XIX, no. 8 (1954), PR6029 .N56 T96 1954 O'BRIEN LIBRARY
+{{% galleryfigure src="../081-Underwood.jpg" headline="Letter to Underwood re: Irish language typewriter scheme, 15 Dec 1964" %}}
+b. 1, f. 40, Flann O'Brien Papers (MS1997-027)
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="../113-Dead-Spit_TP.png" headline="Typescript for 'Dead Spit of Kelly'" %}}
-b. 5, f. 2 , Flann O'Brien Papers (MS1997-027)
+{{% galleryfigure src="../081A-Underwood.jpg" headline="Letter to Underwood re: Irish language typewriter scheme, 15 Dec 1964" %}}
+b. 1, f. 40, Flann O'Brien Papers (MS1997-027)
+{{% /galleryfigure %}}
+
+{{% galleryfigure src="../080-Ryan.jpg" headline="Bryan Ryan for Underwood to O'Nolan re: Irish language typewriter scheme, 18 Dec 1964" %}}
+b. 2, f. 40, Flann O'Brien Papers (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% galleryrow %}}
+
 **Nun to Blame?**
 
 One of O’Nolan’s most stressful assignments as secretary to Minister Seán MacEntee must have been serving as a secretary to the public tribunal that MacEntee appointed to investigate the tragic fire that destroyed St. Joseph’s Orphanage in Cavan in February 1943, killing 35 children and an adult staff. The tribunal’s report traced the cause to a faulty wire, but did not find the Electrical Supply Board liable, nor the nuns who operated the orphanage, although loss of life clearly could have been averted had there been a proper evacuation plan.
