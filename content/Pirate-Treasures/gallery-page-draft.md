@@ -21,14 +21,14 @@ type: "exhibit"
 
 Raveneau de Lussan (1663-) was a French filibuster. In 'My Pirate Library,' Philip Gosse describes this title ‘A rare and charming little book’ and says of de Lussan, ‘one of the religious pirates, and he never allowed a Spanish town to be plundered until his crew had attended Mass in the Cathedral. He was also a great ‘ladies’ man.’’
 
-{{< figure src="../portrait-image.jpg"
-           headline="Porta Tristique Ligula"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+{{< figure src=""
+           headline=""
+           description=""
 >}}
 
-{{< figure src="../portrait-image.jpg"
-           headline="Amet Pellentesque"
-           description="Parturient Nullam Tellus Vehicula"
+{{< figure src=""
+           headline=""
+           description=""
 >}}
 
 {{% /galleryrow %}}
