@@ -1,9 +1,9 @@
 ---
-title: "My Pirate Library"
+title: "Large image gallery page"
 description: ""
 
 # Page order (1 is 1st page, etc.)
-weight:  4
+weight:  3
 alwaysopen: true
 
 # Change to false to publish.
@@ -12,37 +12,30 @@ draft: true
 type: "exhibit"
 ---
 
-{{% largefigure src="My Pirate Library.JPG"
-                headline="Gosse, Philip, *My Pirate Library*. London, 1926."
-                description=""
+{{% largefigure src="../intro-image.jpg"
+                headline="Venenatis Euismod Tristique"
+                description="Dapibus Vulputate Sollicitudin Cras"
                 size="x-large" %}}
-				
-				
-*The captain himself was a great reader, and used to carry with him aboard his slaveship a quantity of books in two large chests…One of the pirates, upon opening the cases and seeing what was in them, ‘swore There was Jaw-work enough (as he called it) to serve a Nation, and proposed they might be cast into the sea; for he feared that there might be some books amongst them that might breed Mischief enough, and prevent some of their comrades from going on their Voyage to Hell, whither they were all bound; upon which the Books were all flung out of the cabin-window into the River.’*
-
-*This goes to show that even if the average pirate feared neither God nor man, he at least showed a healthy respect for the power of the pen.* -- Philip Gosse, *My Pirate Library*.
-
+Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Curabitur blandit tempus porttitor.
 {{% /largefigure %}}
 
-{{% largefigure src="Exquemelin title.jpg"
-                headline=""
-                description="Title page. Exquemelin, Alexandre Olivier. *Histoire des Adventuries Filibustiers, qui sont Signalez dans les Indes, Contenant ce qu’ils ont fait de Remarquable Depuis Vingt Années* Nouvelle Edition. Paris, 1699." 
+{{% largefigure src="../portrait-image.jpg"
+                headline="Venenatis Euismod Tristique"
+                description="Fringilla Quam Consectetur Commodo" 
                 size="large" align="center" %}}
-Alexandre Olivier Exquemelin (c.1645-1707) was a French-born buccaneer surgeon, and author of the influential *The Buccaneers of America, or a true account of the assaults committed upon the coasts of the West Indies, etc.*, which was first published as *De Americaensche Zee-Rovers* in Amsterdam in 1678. Exquemelin traveled to Tortuga as an indentured servant in 1666. He later joined the buccaneers and served under François L’Ollonais and Henry Morgan as a surgeon. He was with Morgan at the sack of Panama in 1671. He returned to Europe, but was in the Caribbean again and participated in the French sack of Cartagena.
+Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
 {{% /largefigure %}}
 
-
-{{% largefigure src="Dampier vol. 1.JPG"
-                headline=""
-                description="Dampier, William, *A New Voyage Round the World: Describing Particularly the Isthmus of America, Several Coasts and Islands of the West Indies, the Isles of Cape Verde, the Passage of Terra del Fuego, etc.*, volumes I & II. London, 1699."
-                size="small" %}}
-William Dampier (1651-1715), was an English buccaneer, navigator and explorer. He circumnavigated the globe three times. His published journals were celebrated for valuable observations of winds, currents, flora and fauna. Dampier influenced the work of Charles Darwin and Daniel Defoe, but his works were also of interest to the early “armchair traveler” in an age of intellectual inquiry.
+{{% largefigure src="../intro-image.jpg"
+                headline="Venenatis Euismod Tristique"
+                size="medium"
+                align="left" %}}
+Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
 {{% /largefigure %}}
 
-
-{{% largefigure src="de Lussan (2).JPG"
-                headline=""
-                description="de Lussan, Raveneau, Journal du Voyage Fait à la Mer de Sud avec les Filibustiers de l’Amérique, en 1684 & années suivantes.  Paris, 1690."
+{{% largefigure src="../portrait-image.jpg"
+                headline="Venenatis Euismod Tristique"
+                description="Pharetra Mattis Inceptos"
                 size="small" %}}
-Raveneau de Lussan (1663-) was a French filibuster. In My Pirate Library, Philip Gosse describes this title ‘A rare and charming little book’ and says of de Lussan, ‘One of the religious pirates, and he never allowed a Spanish town to be plundered until his crew had attended Mass in the Cathedral. He was also a great ladies’ man.’
+Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean lacinia bibendum nulla sed consectetur.
 {{% /largefigure %}}
