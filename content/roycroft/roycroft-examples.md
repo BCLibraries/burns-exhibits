@@ -41,22 +41,22 @@ This work contains two preachments—or unwelcome or tedious sermons—by Elbert
 Alice Moore Hubbard published *Woman’s Work* (1908) to disseminate her views on women’s suffrage and guaranteed stipends for mothers. Among her many duties for the Roycrofters, Alice was the general manager of the Print Shop. The beautifully designed pages of this book are the work of Dard Hunter.
 {{% /largefigure %}}
 
-Little Journeys, a series of books by Hubbard, was available in a range of binding styles and prices, with the most affordable produced in greatest numbers. Displayed here: the most expensive, Joaquin Miller (1903), with leather and marbled paper cover; the mid-range Pericles (1903), bound in cloth and paper cover; and the most affordable Plato (1908), with a cover made of unsupported printed-paper.
+Little Journeys, a series of books by Hubbard, was available in a range of binding styles and prices, with the most affordable produced in greatest numbers. Displayed here: the most expensive, *Joaquin Miller* (1903), with leather and marbled paper cover; the mid-range *Pericles* (1903), bound in cloth and paper cover; and the most affordable *Plato* (1908), with a cover made of unsupported printed-paper.
 
 {{% galleryrow %}}
 
 
-{{< figure src="../volume 1 front cover.jpg"
+{{< figure src="../Miller.jpg"
            headline="Cover"
            description="Hubbard, [So Here Then is a Little Journey to the Home of Joaquin Miller](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21320319070001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PS2398 .H8 1903 GENERAL "
 >}}
 
-{{< figure src="../volume 2 front cover.jpg"
+{{< figure src="../pericles.jpg"
            headline="Cover"
            description="Hubbard, [Little Journeys to the Homes of Eminent Orators: Pericles](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21339974320001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), DF228.P4 H85 GENERAL"
 >}}
 
-{{< figure src="../volume 3 front cover.jpg"
+{{< figure src="../plato.jpg"
            headline="Cover"
            description="Hubbard, [Little journeys to the Homes of Great Teachers: Plato](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21335517720001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), 07-000022175 GENERAL"
 >}}

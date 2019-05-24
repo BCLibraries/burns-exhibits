@@ -12,30 +12,31 @@ draft: true
 type: "exhibit"
 ---
 
-{{% largefigure src="../intro-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                description="Dapibus Vulputate Sollicitudin Cras"
-                size="x-large" %}}
-Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Curabitur blandit tempus porttitor.
+{{% largefigure src="../roycroft.jpg"
+                headline="Elbert Hubbard"
+                description="Hubbard, [So Here Cometh White Hyacinths: Being a Book of the Heart](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21334388030001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PS2042 .S6 1907 GENERAL"
+                size="medium" %}}
+				
+After the untimely death of Elbert Hubbard in 1915, his son Elbert “Bert” Hubbard II kept the press and bindery running until 1938. The quality of the work produced was less innovative than that made during Hubbard Sr.’s lifetime, as Bert often recycled old text block designs, initials, and decorations.  
+
+The number of skilled bookbinders had also declined by 1915. Bert was not a writer, so he re-used the works written by his father. All the content in the volumes below is found in earlier Roycroft editions. The Roycroft dreams of art and glory by no means were lost. Roycroft artisans trained and nurtured by Elbert Hubbard continued to influence the printing and binding communities: Dard Hunter became an authority on papermaking, W.W. Denslow was highly regarded as a book illustrator, and Louis Kinder’s *Formulas for Bookbinders* served to carry on the training taught in the Roycroft Trades School.
 {{% /largefigure %}}
 
-{{% largefigure src="../portrait-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                description="Fringilla Quam Consectetur Commodo" 
-                size="large" align="center" %}}
-Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-{{% /largefigure %}}
+*Notebook of Elbert Hubbard* (1927), with the same text, recycled by his son, Bert Hubbard, but different cover styles and prices. One edition has a less expensive printed, cloth-backed paper covering and laces securing the text block. The second—with a brown suede cover stamped with foliage themed borders and gilt stamped titling— would have been higher priced due to more expensive materials.
 
-{{% largefigure src="../intro-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                size="medium"
-                align="left" %}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
-{{% /largefigure %}}
 
-{{% largefigure src="../portrait-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                description="Pharetra Mattis Inceptos"
-                size="small" %}}
-Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean lacinia bibendum nulla sed consectetur.
-{{% /largefigure %}}
+{{% galleryrow %}}
+
+
+{{< figure src="../leathernotebook.jpg"
+           headline="Limp Leather Cover"
+           description="Hubbard, [The Note Book of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21314669930001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) PS2040 .A35 1927b GENERAL  " 
+>}}
+
+{{< figure src="../papernotebook.jpg"
+           headline="Paper Cover"
+           description="Hubbard, [The Note Book of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21381824670001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PS2040 .A35 1927 GENERAL "
+>}}
+
+
+{{% /galleryrow %}}
