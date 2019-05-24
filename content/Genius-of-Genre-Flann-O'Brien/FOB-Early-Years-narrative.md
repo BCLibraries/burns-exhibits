@@ -16,7 +16,7 @@ type: "exhibit"
 {{% figure src="../12-13-14-ONolans.jpg"
            headline="Michael V. O'Nolan; Agnes O'Nolan; O'Nolan children ca. 1919" 
            description="b. 1, f. 61/62/66, Flann O'Brien Papers (MS1997-027)" 
-           side="right" %}}
+           side="center" size="large"%}}
 		   
 **Border Baby**
 

@@ -16,7 +16,7 @@ type: "exhibit"
 
 
 {{% figure src="../059A-typewriter.jpg"
-           headline="Typewriter, pastel, 1948" 
+           headline="O'Nuallain, Micheál, Typewriter, pastel, 1948" 
            description="b. 27, f. 8, Flann O'Brien Papers (MS1997-027)" 
            side="right" %}}
 
@@ -102,8 +102,8 @@ Published posthumously, *The Third Policeman* bears the trappings of a cult clas
 O'Brien, The Third Policeman, PR6029 .N56 .T5 1967b O'BRIEN LIBRARY
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="../050_Passport1936.jpg" headline="NEED IMAGE" %}}
-b. 24, Flann O'Brien Papers (MS1997-027)
+{{% galleryfigure src="../portrait-image.jpg" headline="NEED IMAGE first edition - show front cover of dj" %}}
+O'Brien, *The Third Policeman*, PR6029 .N56 T5 1967 O'BRIEN LIBRARY
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../019B_ThirdPolicemanTypescript.jpg" headline="The Third Policeman, annotated typescript, 1940 January" %}}
@@ -115,7 +115,7 @@ b. 4, f. 4, Flann O'Brien Papers (MS1997-027)
 
 In February 1940, O’Nolan sent novelist and playwright William Saroyan a synopsis, asking his help to find a publisher in America and advise him on whether to turn it into a play. Saroyan could not help with the former, but encouraged the latter. Two years before his death, O’Nolan did manage to publish another novel loosely based on The Third Policeman. Irish dramatist Hugh Leonard scripted a version for the stage.
 
-O’Nolan’s widow, Evelyn, managed his literary estate. She worked with a London publisher to bring out The Third Policeman the year after his death. It was subsequently translated into more than two dozen languages, increasing the royalties that helped support her.
+O’Nolan’s widow, Evelyn, managed his literary estate. She worked with a London publisher to bring out *The Third Policeman* the year after his death. It was subsequently translated into more than two dozen languages, increasing the royalties that helped support her.
 
 {{% galleryrow %}}
 
@@ -123,12 +123,12 @@ O’Nolan’s widow, Evelyn, managed his literary estate. She worked with a Lond
 O'Brien, The Third Policeman, PR6029 .N56 .T5 1967b O'BRIEN LIBRARY
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="../050_Passport1936.jpg" headline="NEED IMAGE104" %}}
+{{% galleryfigure src="../portrait-image.jpg" headline="NEED SCAN IMAGE104" %}}
 b. 5, f. 22, Flann O'Brien Papers (MS1997-027)
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="../019B_ThirdPolicemanTypescript.jpg" headline="NEED IMAGE102" %}}
-b. 4, f. 4, Flann O'Brien Papers (MS1997-027)
+{{% galleryfigure src="../portrait-image.jpg" headline="NEED SCAN IMAGE 102" %}}
+O'Brien, *Der Dritte Polizist*, PR6029 .N56 T515 1975 O'BRIEN LIBRARY
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
