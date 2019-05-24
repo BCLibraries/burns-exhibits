@@ -66,6 +66,7 @@ Yet another acquaintance (surely a Frenchman by his handwriting style) jotted on
 
 {{% galleryfigure src="../009_GrahamGreene.jpg" headline="Graham Greene to Flann O'Brien, October 25, 1961" %}}
 b. 1, f. 14, Flann O'Brien Papers (MS1997-027)
+{{% /galleryfigure %}}
 
 {{% galleryfigure src="../002B_HardLifeGreeneDedicationi.jpg" headline="Dedication to Graham Greene" %}}
 O'Brien, *The Hard Life*, PR6029 .N56 H3 1962 O'BRIEN LIBRARY
