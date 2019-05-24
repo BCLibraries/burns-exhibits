@@ -32,12 +32,12 @@ The title page of *Child Christopher and Goldilind the Fair* (v. 1, 1895) by the
 
 {{< figure src="../child chrictopher title page.jpg"
            headline="Title Page"
-                description="Morris, [Child Christopher and Goldilind the fair](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21324903000001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), 04-13988 FINE PRINT"
+                description="Morris, [Child Christopher and Goldilind the Fair](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21324903000001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), 04-13988 FINE PRINT"
 >}}
 
 {{< figure src="../gainsborough.jpg"
            headline="Title Page"
-                description="Hubbard, [Little journeys to the Homes of Eminent Artists: Gainsborough](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21342177330001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), ND497.G2 H8 1902 GENERAL"
+                description="Hubbard, [Little Journeys to the Homes of Eminent Artists: Gainsborough](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21342177330001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), ND497.G2 H8 1902 GENERAL"
 >}}
 
 

@@ -38,7 +38,7 @@ The invention of the printing press by Johannes Gutenberg around 1440 revolution
 
 {{% largefigure src="../incunable.jpg"
                 headline="An incunable"
-                description="Rampegolo, [*Biblia aurea veteris ac noui testame[n]ti vocitatus*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21326410440001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) , BS543 .R36 1495"
+                description="Rampegolo, [*Biblia Aurea Veteris ac Noui Testamenti Vocitatus*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21326410440001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) , BS543 .R36 1495"
 				size="medium"
                 align="center" %}}
 *Biblia Aurea Veteris ac Noui Testamenti Vocitatus* (1495) is one of about 80 incunables held by Burns Library. It is a theological work on the Old and New Testaments published in Strassburg by Johann Grüniger.				
@@ -68,7 +68,7 @@ Samuel and Thomas Roycroft were 17th century London printers and inspiration for
 
 {{< figure src="../Samuel Roycroft printable.jpg"
            headline="Title Page"
-                description="Robertson, [Thesaurus linguæ sanctæ](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21347681820001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PJ4805 .R7 1686 WILLIAMS"
+                description="Robertson, [Thesaurus Linguæ Sanctæ](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21347681820001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PJ4805 .R7 1686 WILLIAMS"
 >}}
 
 {{< figure src="../Thomas Roycroft printable.jpg"
