@@ -33,7 +33,7 @@ b. 2, f. 29, Flann O'Brien Papers (MS1997-027)
 b. 2, f. 48, Flann O'Brien Papers (MS1997-027)
 {{% /galleryfigure %}}
 
-{{% galleryrow %}}
+{{% /galleryrow %}}
 
 Although O’Nolan lambasted policies aimed at making all Irish citizens Irish speakers, he nevertheless cherished the language and wanted to promote its literary heritage and expression. He also applied his imaginative inventiveness to schemes for developing a practical, modern Irish typeface, occasionally doodling Irish letterforms on the margins of his manuscripts and even proposing to the Underwood Typewriter Company how its standard keyboard could be modified to include new characters to represent certain sounds unique to the Irish language.
 {{% galleryrow %}}
@@ -50,7 +50,7 @@ b. 1, f. 40, Flann O'Brien Papers (MS1997-027)
 b. 2, f. 40, Flann O'Brien Papers (MS1997-027)
 {{% /galleryfigure %}}
 
-{{% galleryrow %}}
+{{% /galleryrow %}}
 
 **Nun to Blame?**
 
@@ -72,7 +72,7 @@ b. 5, f. 16, Flann O'Brien Papers (MS1997-027)
 b. 2, f. 40, Flann O'Brien Papers (MS1997-027)
 {{% /galleryfigure %}}
 
-{{% galleryrow %}}
+{{% /galleryrow %}}
 
 O’Nolan’s civil service briefcase and hat are also among the artifacts preserved with his papers in Burns Library.
 
@@ -85,6 +85,8 @@ b. 25, Flann O'Brien Papers (MS1997-027)
 {{% galleryfigure src="../061_Briefcase.jpg" headline="Brian O'Nolan's Briefcase" %}}
 b. 29, Flann O'Brien Papers (MS1997-027)
 {{% /galleryfigure %}}
+
+{{% /galleryrow %}}
 
 **Verdigrised Ex-stableboys**
 

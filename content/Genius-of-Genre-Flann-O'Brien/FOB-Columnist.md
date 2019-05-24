@@ -56,7 +56,7 @@ b. 14, Flann O'Brien Papers (MS1997-027)
 b. 1, f. 41, Flann O'Brien Papers (MS1997-027)
 {{% /galleryfigure %}}
 
-{{% galleryrow %}}
+{{% /galleryrow %}}
 
 **Clocked Out**
 
@@ -80,7 +80,7 @@ b. 20, Flann O'Brien Papers (MS1997-027)
 b. 20, Flann O'Brien Papers (MS1997-027)
 {{% /galleryfigure %}}
 
-{{% galleryrow %}}
+{{% /galleryrow %}}
 
 **Early Dismissal**
 
