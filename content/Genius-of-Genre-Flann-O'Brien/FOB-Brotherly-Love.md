@@ -15,7 +15,7 @@ type: "exhibit"
 **Brotherly Love**
 
 {{% figure src="../FOB-Portrait.jpg"
-           headline="O'Nuallain, Micheal, 'Brian O'Nolan' [NEED: Medium, Date of Creation], Irish Room, John J. Burns Library, Boston College "
+           headline="O'Nuallain, Micheál, 'Brian O'Nolan' [NEED: Medium, Date of Creation], Irish Room, John J. Burns Library, Boston College"
            description="Flann O'Brien Papers (MS1997-027)"
            side="left" %}}
 
@@ -33,8 +33,8 @@ Within two hours, the portrait was finished. Micheál swung the easel around and
 
 **Sugar-coated**
 
-{{% figure src="../057_ O_Nuallain, Micheal, hat and coat, charcoal study.jpg"
-           headline="O'Nuallain, Micheal, 'Hat and Coat,' charcoal study, 1948"
+{{% figure src="../057_ O_Nuallain, Micheál, hat and coat, charcoal study.jpg"
+           headline="O'Nuallain, Micheál, 'Hat and Coat,' charcoal study, 1948"
            description="b. 27, f. 6, Flann O'Brien Papers (MS1997-027)"
            side="left" %}}
 
