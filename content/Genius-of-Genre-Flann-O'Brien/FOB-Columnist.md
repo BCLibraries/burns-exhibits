@@ -24,7 +24,7 @@ Totaling some 4,212 installments, “Cruiskeen Lawn” continued regularly until
 
 **Calling Card Games**
 
-{{% figure src="../043_BrianONolanBusinessCard.jpg"
+{{% figure src="../043-060_Wallet_BusinessCards.jpg"
            headline="Wallet with Cards"
            description="b. 24, Flann O'Brien Papers (MS1997-027)"
            side="left" %}}

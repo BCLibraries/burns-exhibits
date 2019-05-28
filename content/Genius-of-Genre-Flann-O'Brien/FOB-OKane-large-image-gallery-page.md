@@ -25,11 +25,11 @@ My childhood summers were spent in Strabane, and I have lived across the border 
 
 {{% galleryrow %}}
 
-{{% galleryfigure src="../Flann-O’Brien-I.jpg" headline="Flann O'Brien I, 2011" %}}
+{{% galleryfigure src="../Flann-OBrien-II.jpg" headline="Flann O'Brien II, 2011" %}}
 Edward O'Kane, acrylic on canvas
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="../portrait-image.jpg" headline="Gormley’s Bookshop, 2019" %}}
+{{% galleryfigure src="../Flann-O’Brien-I.jpg" headline="Flann O'Brien I, 2011" %}}
 Edward O'Kane, acrylic on canvas
 {{% /galleryfigure %}}
 
@@ -40,7 +40,7 @@ Edward O'Kane, acrylic on canvas
 {{% /galleryrow %}}
 
 
-{{% largefigure src="../intro-image.jpg" headline="Macasamhail (The Double)"
+{{% largefigure src="../Macasamhail-The-Double)Edward-OKane.jpg" headline="Macasamhail (The Double)"
                 description="Edward O'Kane, oil on canvas"
                 size="large"
                 align="left"
