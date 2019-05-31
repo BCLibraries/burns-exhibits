@@ -26,14 +26,14 @@ Specialized equipment was once required to record thoughts, events, and contacts
            description="Box 21, [Helen Landreth papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21359576400001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS2001-044)"
 %}}
 
-{{% figure src="../2_BeingSocial_MS1997.027_Typewriter.jpg"
+{{% figure src="../060_UnderwoodTypewriter.jpg"
             headline="Typewriter"
             description="[Flann O'Brien papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-021)"
 %}}
 {{% /galleryrow %}}
 
 {{% galleryrow %}}
-{{% figure src="../3_BeingSocial_Pen.jpg"
+{{% figure src="../047_FountainPen.jpg"
             headline="Pen"
             description="[Flann O'Brien papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-021)"
 %}}
