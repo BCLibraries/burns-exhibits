@@ -93,13 +93,15 @@ type: "exhibit"
            description="Patronages: mothers, expectant mothers, ranchers"
 >}}
 
-{{< figure src="../PrayForUs022.png"
-           headline="Judith"
-           description="A book in the Catholic Old Testament that includes the story of Judith, who, upset with the Jewish people for not trusting God to deliver them from their conquerors, gains the trust of the Assyrian general, Holofernes. She cuts Holofernes’ head off and and takes it back to her people, who rally and defeat their enemy."
->}}
-
 {{< figure src="../PrayForUs023.png"
            headline="St. Andrew, Roman Empire, 5 BC - 62 CE"
            description="Patronages: fishermen, rope-makers, textile workers, miners"
 >}}
 {{% /galleryrow %}}
+
+
+{{% figure src="../PrayForUs022.png" headline="Judith" 
+description="" side="left" size="small" %}}
+
+A book in the Catholic Old Testament that includes the story of Judith, who, upset with the Jewish people for not trusting God to deliver them from their conquerors, gains the trust of the Assyrian general, Holofernes. She cuts Holofernes’ head off and and takes it back to her people, who rally and defeat their enemy.
+
