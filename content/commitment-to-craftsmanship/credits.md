@@ -15,14 +15,13 @@ type: "exhibit"
 
 Sponsored by Boston College Libraries
 
-Curator(s):
-
-Barbara Adams Hebard, Conservator, John J. Burns Library 
+Curator: Barbara Adams Hebard, Conservator, John J. Burns Library 
 
 
 Originally displayed: Burns Library, October 2014 - January 2015
 
-Curator’s Thank You
+**Curator’s Thank You**
+
 I could not have created this exhibit without the help of many to whom I am most grateful.
 
 At Boston College:

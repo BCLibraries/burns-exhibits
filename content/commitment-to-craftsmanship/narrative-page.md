@@ -13,11 +13,18 @@ draft: true
 type: "exhibit"
 ---
 
+Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla.
 
-{{% figure src="../esserconservation.jpg"
-           headline="Mark Esser" 
-           description="" 
+{{% figure src="../portrait-image.jpg"
+           headline="Consectetur Ligula Venenatis Vestibulum" 
+           description="Tellus Sem Pharetra Ridiculus" 
            side="right" %}}
+
+
+
+{{% figure src="../intro-image.jpg"
+           headline="Consectetur Ligula Venenatis Vestibulum" 
+           description="Tellus Sem Pharetra Ridiculus" side="left" %}}
 
 Mark Esser began his training in bookbinding in 1979 at Boston’s Harcourt Bindery, which was founded in 1900. In addition to owning and running the largest hand bindery in the country, Sam Ellenport had also started the Harcourt School of Bookbinding, and there trained many renowned American bookbinders, including Mark Esser.
 
