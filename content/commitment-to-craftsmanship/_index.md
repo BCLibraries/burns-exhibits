@@ -11,9 +11,9 @@ date: 2019-06-03T12:53:54-04:00
 weight: 1 
 
 # Big image on first page.
-front_image: "esserconservation.jpg" # Replace with the real image
-front_caption_headline: "Mark Esser"
-front_caption_text: "Photo by Gary Gilbert"
+front_image: "Commitment.png" # Replace with the real image
+front_caption_headline: ""
+front_caption_text: ""
 
 # Change to false to publish.
 draft: true

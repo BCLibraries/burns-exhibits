@@ -12,24 +12,31 @@ draft: true
 type: "exhibit"
 ---
 
+Mark on the joy of crafting bookbindings“It is very satisfying. When done properly, a book has almost an organic feel to it. The cover and the pages become integrated in a unit that moves as one”. 
+
+These books, some of which were bound by Mark Esser, were on display as part of a Boston College class assignment. 
+
+
 {{% galleryrow %}}
 
-{{< figure src="../portrait-image.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
-           description="Sollicitudin Mollis Venenatis Sit"
+{{< figure src="../Early medieval binding.jpg"
+           headline="Early Medieval book (uncovered to show structure) A finished volume would have been covered in pigskin."
+           description="Book Model Collection, Preservation & Conservation Department, University of Iowa Libraries, Iowa City http://digital.lib.uiowa.edu/binding/ Photographs by Steven Tatum."
 >}}
 
-{{< figure src="../portrait-image.jpg"
-           headline="Porta Tristique Ligula"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+{{< figure src="../Account-book-binding.jpg"
+           headline="Early account book (limp vellum structure)"
+           description="Book Model Collection, Preservation & Conservation Department, University of Iowa Libraries, Iowa City http://digital.lib.uiowa.edu/binding/ Photographs by Steven Tatum."
 >}}
 
-{{< figure src="../portrait-image.jpg"
-           headline="Amet Pellentesque"
-           description="Parturient Nullam Tellus Vehicula"
+{{< figure src="../Ethiopian-coptic-binding.jpg"
+           headline="Ethiopian binding with Coptic end bands"
+           description="Book Model Collection, Preservation & Conservation Department, University of Iowa Libraries, Iowa City http://digital.lib.uiowa.edu/binding/ Photographs by Steven Tatum."
 >}}
 
 {{% /galleryrow %}}
+
+Mark made these three book structures while he was an apprentice to William Anthony at the University of Iowa.
 
 {{% galleryrow %}}
 

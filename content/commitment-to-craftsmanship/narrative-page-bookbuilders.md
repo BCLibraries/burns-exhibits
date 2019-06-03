@@ -1,6 +1,6 @@
 ---
 # Title of page
-title: "Narrative page"
+title: "Bookbuilders of Boston"
 description: ""
 
 # Page order (1 is 1st page, etc.)
@@ -13,7 +13,7 @@ draft: true
 type: "exhibit"
 ---
 
-Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla.
+
 
 {{% figure src="../portrait-image.jpg"
            headline="Consectetur Ligula Venenatis Vestibulum" 
@@ -21,8 +21,4 @@ Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean eu leo quam
            side="right" %}}
 
 Bookbuilders of Boston, a non-profit organization founded in 1937, has a membership representing all areas of the book industry: editing, design, production, manufacturing, and marketing. This organization created a scholarship fund to support, encourage, and promote publishing-related education. Participating educational institutions, such as Boston College, award the scholarships to students who plan to pursue careers in publishing anticipating that, upon graduation, they will contribute their knowledge and unique talent to the field. The Boston College Library has participated in this program since 1992.
-
-{{% figure src="../intro-image.jpg"
-           headline="Consectetur Ligula Venenatis Vestibulum" 
-           description="Tellus Sem Pharetra Ridiculus" side="left" %}}
 
