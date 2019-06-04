@@ -35,7 +35,6 @@ Mark made these three book structures while he was an apprentice to William Anth
 
 {{% /galleryrow %}}
 
-
 {{% largefigure src="../Disputatio-brown-Theses-navy-Disputatio-red.jpg"
                 headline=""
                 description=""
@@ -46,11 +45,11 @@ Mark made these three book structures while he was an apprentice to William Anth
 + Center: Erhardt, [*Theses theoligicæ de distincione divinorum attributorum in catholica et electorali Universitate Ingolstadiensi*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21364801190001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), BT100 .E74 1672 JESUITICA  
 + Right: Drattenberger, [*Disputatio theologica de scientia Dei, quam in alma, catholica et episcopali Universitate Dilingana*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21319679500001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), BT100 .D73 1688 JESUITICA 
 
-{{< largefigure src="../Soveraigne-povver-L-True-Relation-R.jpg"
-           headline=""
-           description=""
-		   size="large" %}}
-
+{{% largefigure src="../Soveraigne-povver-L-True-Relation-R.jpg"
+                headline=""
+                description=""
+                size="large" %}}
+				
 + Left:Prynne, [*The soveraigne povver of parliaments & kingdomes*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21338145230001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), JN534 .P8 1643 GENERAL  
 + Right: Coffin,  [*A true relation of the last sickness and death of Cardinal Bellarmine…*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21357337180001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US),  BX4700.B25 C64 1622 JESUITICA 
 
