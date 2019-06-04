@@ -21,18 +21,15 @@ These books, some of which were bound by Mark Esser, were on display as part of 
 
 {{< figure src="../Early-medieval-binding.jpg"
            headline="Early Medieval book (uncovered to show structure)."
-           description="[Book Model Collection, Preservation & Conservation Department, University of Iowa Libraries, Iowa City](http://digital.lib.uiowa.edu/binding/) Photographs by Steven Tatum."
->}}
+           description="[Book Model Collection, Preservation & Conservation Department, University of Iowa Libraries, Iowa City](http://digital.lib.uiowa.edu/binding/) Photographs by Steven Tatum.">}}
 
 {{< figure src="../Account-book-binding.jpg"
            headline="Early account book (limp vellum structure)"
-           description="[Book Model Collection, Preservation & Conservation Department, University of Iowa Libraries, Iowa City](http://digital.lib.uiowa.edu/binding/) Photographs by Steven Tatum."
->}}
+           description="[Book Model Collection, Preservation & Conservation Department, University of Iowa Libraries, Iowa City](http://digital.lib.uiowa.edu/binding/) Photographs by Steven Tatum.">}}
 
 {{< figure src="../Ethiopian-coptic-binding.jpg"
            headline="Ethiopian binding with Coptic end bands"
-           description="[Book Model Collection, Preservation & Conservation Department, University of Iowa Libraries, Iowa City](http://digital.lib.uiowa.edu/binding/) Photographs by Steven Tatum."
->}}
+           description="[Book Model Collection, Preservation & Conservation Department, University of Iowa Libraries, Iowa City](http://digital.lib.uiowa.edu/binding/) Photographs by Steven Tatum.">}}
 
 {{% /galleryrow %}}
 
@@ -44,24 +41,25 @@ Mark made these three book structures while he was an apprentice to William Anth
            side="center" %}}
 
 Left to Right
-+  Bryant, [Disputatio philosophica de authore naturæ quam in catholica, et electorali Universitate Ingolstadiensi](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21319678650001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), BT100 .B79 1683 JESUITICA
-+  Erhardt, [Theses theoligicæ de distincione divinorum attributorum in catholica et electorali Universitate Ingolstadiensi](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21364801190001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), BT100 .E74 1672 JESUITICA  
-+  Drattenberger, [Disputatio theologica de scientia Dei, quam in alma, catholica et episcopali Universitate Dilingana](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21319679500001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), BT100 .D73 1688 JESUITICA 
+
++ Bryant, [*Disputatio philosophica de authore naturæ quam in catholica, et electorali Universitate Ingolstadiensi*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21319678650001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), BT100 .B79 1683 JESUITICA
++ Erhardt, [*Theses theoligicæ de distincione divinorum attributorum in catholica et electorali Universitate Ingolstadiensi*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21364801190001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), BT100 .E74 1672 JESUITICA  
++ Drattenberger, [*Disputatio theologica de scientia Dei, quam in alma, catholica et episcopali Universitate Dilingana*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21319679500001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), BT100 .D73 1688 JESUITICA 
 {{% galleryrow %}}
 
-{{< figure src="../intro-image.jpg"
+{{< figure src="../Soveraigne-povver-L-True-Relation-R.jpg"
            headline="Tellus"
-           description="Pellentesque Vehicula Aenean"
+           description="Prynne, [*The soveraigne povver of parliaments & kingdomes*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21338145230001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), JN534 .P8 1643 GENERAL"
 >}}
 
 {{< figure src="../intro-image.jpg"
            headline="Mollis Quam Vehicula Lorem"
-           description="Ullamcorper Egestas Dapibus"
+           description="Coffin,  [*A true relation of the last sickness and death of Cardinal Bellarmine…*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21357337180001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US),  BX4700.B25 C64 1622 JESUITICA  "
 >}}
 
 {{< figure src="../intro-image.jpg"
            headline="Mollis Quam Vehicula Lorem"
-           description="Ullamcorper Egestas Dapibus"
+           description="Erasmus, [*Moriae encomium*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21363400060001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PA8514 .E5 1713 RARE"
 >}}
 
 {{% /galleryrow %}}
