@@ -39,7 +39,7 @@ Mark made these three book structures while he was an apprentice to William Anth
                 headline=""
                 description=""
                 size="x-large" 
-%}}
+{{% /largefigure %}}
 				
 
 + Left: Bryant, [*Disputatio philosophica de authore naturæ quam in catholica, et electorali Universitate Ingolstadiensi*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21319678650001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), BT100 .B79 1683 JESUITICA
@@ -50,7 +50,7 @@ Mark made these three book structures while he was an apprentice to William Anth
                 headline=""
                 description=""
                 size="x-large"
-%}}
+{{% /largefigure %}}
 				
 + Left:Prynne, [*The soveraigne povver of parliaments & kingdomes*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21338145230001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), JN534 .P8 1643 GENERAL  
 + Right: Coffin,  [*A true relation of the last sickness and death of Cardinal Bellarmine…*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21357337180001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US),  BX4700.B25 C64 1622 JESUITICA 
@@ -59,7 +59,7 @@ Mark made these three book structures while he was an apprentice to William Anth
            headline=""
            description=""
 		  size="x-large"
-%}}
+{{% /largefigure %}}
 
 + Left: Erasmus, [*Moriae encomium*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21363400060001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PA8514 .E5 1713 RARE
 + Right: Quarles, [*Emblemes*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21377284200001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PR3652 .E52 1684 GENERAL
@@ -68,7 +68,7 @@ Mark made these three book structures while he was an apprentice to William Anth
            headline=""
            description=""
 		   size="x-large"
-%}}		
+{{% /largefigure %}}	
 		   
 + Left: Argenti, [*Ad Sigismundum tertium Poloniæ & Sueciæ regem potentissimum, magnum Lithuaniæ ducem*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21377485240001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), BX3745 .P6 A74 1616 JESUITICA 
 + Right: Torsellino, [*The admirable life of S. Francis Xavier*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21330192510001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), BX4700 .F8 T613 1632 JESUITICA
@@ -77,7 +77,7 @@ Mark made these three book structures while he was an apprentice to William Anth
            headline=""
            description=""
 		   size="x-large" 
-%}}
+{{% /largefigure %}}
 		   
    
 + Left: Jacques de Montesquiou, [*Instruction pastorale de Monseigneur l’Evêque de Sarlat*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315068380001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), BX3731 .M66 1765 JESUITICA
@@ -87,7 +87,7 @@ Mark made these three book structures while he was an apprentice to William Anth
            headline=""
            description=""
 		   size="x-large"
-%}}
+{{% /largefigure %}}
 		   
 + Left: Ferrer, [*Sermones sancti Vincentii fratris ordinis predicator[um] sacre theologie professoris eximii de sanctis per totum annum in hoc libro contine[n]tur*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21355361830001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), BX890 .V56 S37 1485 OVERSIZE
 + Right: Biel,  [*Canonis Missae expositio*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21355368440001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), BX2230 .B464 1528 OVERSIZE
