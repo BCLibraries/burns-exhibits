@@ -12,12 +12,10 @@ draft: true
 type: "exhibit"
 ---
 
-Mark on the joy of crafting bookbindings “It is very satisfying. When done properly, a book has almost an organic feel to it. The cover and the pages become integrated in a unit that moves as one”. 
+Mark on the joy of crafting bookbindings“It is very satisfying. When done properly, a book has almost an organic feel to it. The cover and the pages become integrated in a unit that moves as one”. 
 
-These books, some of which were bound by Mark Esser, were on display. 
+These books, some of which were bound by Mark Esser, were on display as part of a Boston College class assignment. 
 
-
-Mark made these three book structures while he was an apprentice to William Anthony at the University of Iowa.
 
 {{% galleryrow %}}
 
@@ -35,6 +33,7 @@ Mark made these three book structures while he was an apprentice to William Anth
 
 {{% /galleryrow %}}
 
+Mark made these three book structures while he was an apprentice to William Anthony at the University of Iowa.
 
 {{% largefigure src="../Disputatio-brown-Theses-navy-Disputatio-red.jpg"
                 headline=""
@@ -49,7 +48,7 @@ Mark made these three book structures while he was an apprentice to William Anth
 {{< largefigure src="../Soveraigne-povver-L-True-Relation-R.jpg"
            headline=""
            description=""
-		   size="large" %}}
+		   size="large"%}}
 
 + Left:Prynne, [*The soveraigne povver of parliaments & kingdomes*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21338145230001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), JN534 .P8 1643 GENERAL  
 + Right: Coffin,  [*A true relation of the last sickness and death of Cardinal Bellarmine…*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21357337180001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US),  BX4700.B25 C64 1622 JESUITICA 
