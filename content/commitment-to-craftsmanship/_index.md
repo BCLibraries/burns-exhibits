@@ -21,4 +21,4 @@ draft: true
 type: "exhibit"
 ---
 
-Mark Esser was Rare Book Conservator in John J. Burns Library at Boston College from 1994 to 2008, after training, apprenticing, and working in the field of book binding for decades,. This exhibit, designed to introduce Boston College students to bookbinding and book conservation, explores the training Mark received, his background as a teacher at the North Bennet Street School (NBSS), and showcases some of the conservation bindings that he produced for John J. Burns Library.
+Mark Esser was Rare Book Conservator in John J. Burns Library at Boston College from 1994 to 2008, after training, apprenticing, and working in the field of book binding for decades. This exhibit, designed to introduce Boston College students to bookbinding and book conservation, explores the training Mark received, his background as a teacher at the North Bennet Street School (NBSS), and showcases some of the conservation bindings that he produced for John J. Burns Library.

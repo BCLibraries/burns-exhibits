@@ -33,4 +33,30 @@ Mark then worked in the Conservation Bindery at the Newberry Library in Chicago 
            description="" 
            side="left" %}}
 
-Anthony acted as a traditional master when training Mark Esser. Mark is quoted describing the apprenticeship, “He made me responsible for my own learning. He would give me five or six books to work on and among the pile of books would be some new work with no explanation. I had to ask the questions. I always asked a lot of questions, but it was up to me to draw out the answers.” While William Anthony’s apprentice, Mark made models of historic bindings. Images of some of the models, courtesy of the University of Iowa, are shown in the exhibit.
+Anthony acted as a traditional master when training Mark Esser. Mark is quoted describing the apprenticeship, “He made me responsible for my own learning. He would give me five or six books to work on and among the pile of books would be some new work with no explanation. I had to ask the questions. I always asked a lot of questions, but it was up to me to draw out the answers.” While William Anthony’s apprentice, Mark made models of historic bindings. 
+
+Bookbinding tools, equipment and materials
+
+{{% galleryrow %}}
+
+{{< figure src="../leather-and-tools.jpg"
+           headline="Leather and Tools"
+           description="">}}
+
+{{< figure src="../sewing-frame.jpg"
+           headline="Sewing Frame"
+           description="">}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{< figure src="../paste-paper.jpg"
+           headline="Paste Paper"
+           description="">}}
+
+{{< figure src="../finishing-tools.jpg"
+           headline="Finishing Tools "
+           description="">}}
+
+{{% /galleryrow %}}
