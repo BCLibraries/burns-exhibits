@@ -109,3 +109,18 @@ Pinback buttons, 1992 and undated
 
 {{% /galleryrow %}}
 
+{{% galleryrow %}}
+
+{{% galleryfigure src="../FootballEchoes_30_BC2001.032.JPG" headline="Souvenir Beer Mug" %}}
+Tangerine Bowl souvenir beer mug, 1982
+{{% /galleryfigure %}}
+
+{{% galleryfigure src="../FootballEchoes_31_Mug1982.JPG" headline="Souvenir Beer Mug" %}}
+Liberty Bowl souvenir beer mug, 1983
+{{% /galleryfigure %}}
+
+{{% galleryfigure src="../FootballEchoes_32_Mug1983.JPG" headline="Souvenir Beer Mug" %}}
+Cotton Bowl souvenir beer mug, 1985
+{{% /galleryfigure %}}
+
+{{% /galleryrow %}}
