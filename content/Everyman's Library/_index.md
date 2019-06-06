@@ -32,13 +32,10 @@ one schilling. The name “Everyman” comes from the medieval play of the same 
 the character Knowledge says the following to the character Everyman:
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Everyman, I will go with thee*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*and be thy guide,*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*In thy most need to go*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*by thy side.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Everyman, I will go with thee*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*and be thy guide,*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*In thy most need to go*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*by thy side.*  
 
 
 The library began publication in February 1906 and four years later 500 volumes had already

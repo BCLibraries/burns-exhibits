@@ -78,6 +78,7 @@ John "Scrapper" Lowney, scoring Boston College's first touchdown vs. Holy Cross 
 
 {{% galleryrow %}}
 
+
 {{% galleryfigure src="../FootballEchoes_24_Football1916.JPG" headline="Football" %}}
 Football from the Boston College vs. Holy Cross game at Fenway Park, 2 December 1916
 {{% /galleryfigure %}}
@@ -108,18 +109,3 @@ Pinback buttons, 1992 and undated
 
 {{% /galleryrow %}}
 
-{{% galleryrow %}}
-
-{{% galleryfigure src="../FootballEchoes_30_BC2001.032.JPG" headline="Souvenir Beer Mug" %}}
-Tangerine Bowl souvenir beer mug, 1982
-{{% /galleryfigure %}}
-
-{{% galleryfigure src="../FootballEchoes_31_Mug1982.JPG" headline="Souvenir Beer Mug" %}}
-Liberty Bowl souvenir beer mug, 1983
-{{% /galleryfigure %}}
-
-{{% galleryfigure src="../FootballEchoes_32_Mug1983.JPG" headline="Souvenir Beer Mug" %}}
-Cotton Bowl souvenir beer mug, 1985
-{{% /galleryfigure %}}
-
-{{% /galleryrow %}}
