@@ -14,7 +14,11 @@ type: "exhibit"
 ---
 {{% figure src="../Rex-Stout-1931.jpg" headline="Rex Stout" side="right" %}}
 
-**Rex Stout**
+
+One easy way of showing exactly how ubiquitious the Everyman's Library was, is to highlight the fact that almost all of the different collections in Burns Library have at least one EML book among its holdings. From Irish to British Catholic Authors, Rex Stout to Peter Hebblethwait, they can be found among the personal libraries of some of the most influential 20th century writers and throughout out stacks. Following is a brief description of each collection, along with an example of an EML book from the collection.
+
+
+**Rex Stout Library**
 
 Rex Stout was born on December 1, 1886 in
 Noblesville, Indiana, but spent most of his youth in Topeka,
@@ -31,8 +35,9 @@ organizations such as the Writers War Boards, the Society for the
 Prevention of World War III, The Authors Guild, the Writers
 Board for World Government, and Mystery Writers of America.
 He died on October 27, 1975 at the age of 89 in High Meadow,
-CT.
-The collection consists of Stout&#39;s correspondence, financial
+CT.  
+
+[The collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21323242860001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) consists of Stout&#39;s correspondence, financial
 records, manuscripts of a number of novels and novellas,
 documentation relating to his political activities during and after
 the Second World War and his library of about 200 books. Also
@@ -40,10 +45,11 @@ included are clippings and other material relating to Stout and
 some financial records. Manuscripts of many of Stout&#39;s literary
 works comprise a large portion of the collection.
 
-{{% figure src="../The-pretenders-and-two-other-plays-08-000000212-STOUT-B695658.jpg" headline="The Pretenders and Two Other Plays" side="center" %}}
+{{% figure src="../The-pretenders-and-two-other-plays-08-000000212-STOUT-B695658.jpg" headline="Title Page"
+description= "Ibsen, [*The Pretenders and Two Other Plays*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21359958390001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), 08-000000212 STOUT" side="center" %}}
 
 
-**Peter Hebblethwaite**
+**Peter Hebblethwaite Library**
 
 {{% figure src="../hebblethwaite.jpg" headline="Peter Hebblethwaite" side="right" %}}
 
@@ -62,19 +68,21 @@ In 1973, Hebblethwaite left the Jesuits, probably because of a
 clamp-down on the liberal views espoused by himself and other
 Month contributors. Hebblethwaite continued to write for a number
 of journals and newspapers on Vatican affairs and the Catholic
-Church for the rest of his life. He died in 1994.
-The Peter Hebblethwaite Papers contain correspondence pertaining
+Church for the rest of his life. He died in 1994.  
+
+[The Peter Hebblethwaite Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21352764590001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) contain correspondence pertaining
 to the research and publication of Hebblethwaite’s books,
 published and unpublished writings, teaching materials, personal
 papers, and photographs, as well as an array of printed materials,
 sound recordings, and publications. Hebblethwaite’s personal
 library of over 2,300 books is also in the collection.
 
-{{% figure src="../Tales from Henryk Sienkiewicz 04-6791 HEBBLETHWAITE LIBRARY B442243.jpg" headline="Tales from Henryk Sienkiewicz " side="center" %}}
+{{% figure src="../Tales from Henryk Sienkiewicz 04-6791 HEBBLETHWAITE LIBRARY B442243.jpg" headline="Paste-down"
+description="Sienkiewicz, [*Tales from Henryk Sienkiewicz*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21382417970001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), 04-6791 HEBBLETHWAITE LIBRARY" side="center" %}}
 
 
 
-**The Williams Ethnological Collection**
+**Joseph J. Williams, SJ ethnological collection**
 
 {{% figure src="../2013-08-30 11-50-07 4.jpg" headline="Williams Collection Bookplate" side="right" %}}
 
@@ -90,8 +98,9 @@ the department of anthropology at BC. He also established an
 ethnological library containing Africana and Caribbeana; the
 library is named in honor of his father, Nicholas M. Williams and
 contains over 7,000 volumes. Williams died at Shadowbrook on
-October 28, 1940 after suffering a severe heart attack.
-The collection compiled by Fr. Williams during his missionary and
+October 28, 1940 after suffering a severe heart attack.  
+
+[The collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21345055540001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) compiled by Fr. Williams during his missionary and
 academic career primarily documents variations of the Jamaican
 Anancy (Anansi) folktale. Other materials pertain to Jamaica, other
 Caribbean islands, and/or Africa and include: writings about
@@ -101,9 +110,10 @@ correspondence between London and the British colonial
 government in Jamaica; maps; lithographs, engravings, and
 woodcuts.
 
-{{% figure src="../Ancient Hebrew literature BS895 .T2 WILLIAMS CVB1305047-10.jpg" headline="Ancient Hebrew Literature" side="center" %}}
+{{% figure src="../Ancient Hebrew literature BS895 .T2 WILLIAMS CVB1305047-10.jpg" headline="Title Page"
+description="Taylor, [*Ancient Hebrew Literature*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21339876050001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), BS895 .T2 WILLIAMS" side="center" %}}
 
-**Flann O'Brien**
+**Flann O'Brien Library**
 {{% figure src="../obrien.jpg" headline="Flann O'Brien" side="right" %}}
 
 Flann O'Brien is a pen name of Brian O'Nolan, the Irish author,
@@ -122,15 +132,16 @@ of postmodernism. In later years he won fame for his column "An
 Cruiskeen Lawn" in *The Irish Times*. O'Nolan died of a heart
 attack on April 1, 1966.
 
-The Flann O'Brien Collection contains a wide variety of materials:
+[The Flann O'Brien Collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) contains a wide variety of materials:
 papers, books, art works, personal memorabilia, and O’Brien’s
 personal library of over 500 books. Most of the materials date
 between 1935 and 1975.
 
-{{% figure src="../marcopolo.jpg" headline="The Travels of Marco Polo the Venetian" side="center" %}}
+{{% figure src="../marcopolo.jpg" headline="Title Page"
+description="Polo, [*The Travels of Marco Polo the Venetian*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21372495820001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), G370 .P72 1907 O'BRIEN LIBRARY" side="center" %}}
 
 
-**Hilaire Belloc/King's Land**
+**Hilaire Belloc Library: King's Land**
 
 {{% figure src="../Belloc_side.jpg" headline="Hilaire Belloc" side="right" %}}
 
@@ -149,7 +160,7 @@ course of his life. On July 12, 1953, Belloc accidentally fell into
 his fireplace while sleeping beside it. He was badly burned and
 died soon afterward on July 16, 1953.
 
-The bulk of the materials in the collection are published and
+The bulk of the materials in [the collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21311957810001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) are published and
 unpublished writings of Hilaire Belloc, including manuscripts,
 typescripts, proofs, galleys, and reprints of various articles, essays,
 reviews, poetry, plays, prose, notes, and about eighty of Belloc's
@@ -157,9 +168,10 @@ books. Also contained in the collection is Belloc's personal library
 of about 400 books, named after his house in West Sussex, King’s
 Land.
 
-{{% figure src="../A smaller classical dictionary 07-000002031 KINGSLAND B590208.jpg" headline="A Smaller Classical Dictionary" side="center" %}}
+{{% figure src="../A smaller classical dictionary 07-000002031 KINGSLAND B590208.jpg" headline="Paste-down"
+description="Blakeney, [*A Smaller Classical Dictionary*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21375548930001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), 07-000002031 KINGSLAND" side="center" %}}
 
-**Graham Greene**
+**Graham Greene Library**
 
 {{% figure src="../Greene1.jpg" headline="Graham Greene" side="right" %}}
 
@@ -179,14 +191,15 @@ and had multiple romantic relationships that influenced his works.
 Greene died from complication of a blood disease on April 3, 1991 in
 Switzerland.
 
-The Collection is composed mainly of manuscripts and correspondence
+[The collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21351254200001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) is composed mainly of manuscripts and correspondence
 of Greene. Correspondence is with a wide range of literary and other
 figures and includes copies of Greene's outgoing letters. There are also
 various subject files which touch on travel, business and other issues
 important to Greene, articles about him, reviews, interviews,
 clippings, photographs, and his personal library of over 2,500 books.
 
-{{% figure src="../Conversations of Goethe with Eckermann. PT2027 .C5 O8 1930 GREENE'S LIBRARY B557153 (2).jpg" headline="Conversations of Goethe with Eckermann" side="center" %}}
+{{% figure src="../Conversations of Goethe with Eckermann. PT2027 .C5 O8 1930 GREENE'S LIBRARY B557153 (2).jpg" headline="Greene's Annotations"
+description="Goethe, [*Conversations of Goethe with Eckermann*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21372791870001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PT2027 .C5 O8 1930 GREENE'S LIBRARY" side="center" %}}
 
 **British Catholic Authors: Gerard Manley Hopkins**
 
@@ -211,33 +224,31 @@ posthumously in 1918. He soon became known as one of the great
 religious poets, attaining a popularity which lasts until the present
 day.
 
-The Hopkins Family Papers is composed of materials relating to
+[The Hopkins Family Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21380054540001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) is composed of materials relating to
 members of the Hopkins family. There are clippings, photos and
 correspondence of Gerard Manley Hopkins.
 
-{{% figure src="../Gerard Manley Hopkins  the major poems PR4803.H44 A17 1979 BRITISH CATHOLIC AUTHORS CVB1309540-10.jpg" headline="Gerard Manley Hopkins: The Major Poems" side="center" %}}
 
-**Liturgy and Life**
+{{% figure src="../Gerard Manley Hopkins  the major poems PR4803.H44 A17 1979 BRITISH CATHOLIC AUTHORS CVB1309540-10.jpg" headline="Cover"
+description="Hopkins, [*Gerard Manley Hopkins: The Major Poems*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21334740000001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PR4803.H44 A17 1979 BRITISH CATHOLIC AUTHORS" side="center" size="medium" %}}  
+
+
+
+
+**Liturgy and Life Collection**
 
 {{% figure src="../liturgy-and-life.jpg" headline="" side="right" %}}
 
-This collection was established by the Boston College theologian
-and liturgical specialist William J. Leonard, S.J. in 1978 to
-document the liturgical movement in the American Catholic
-Church from 1925 to the introduction of the Second Vatican
-Council's reforms. The collection has grown exponentially to
-include some 30,000 volumes, and is considered to be the most
-comprehensive archive in America on the pre-Vatican Catholic
-Church. The book collection is complemented by sizable holdings
-of manuscripts, pamphlets, ephemera, artifacts, and photographs.
+[This collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21440260550001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) was established by the Boston College theologian and liturgical specialist William J. Leonard, S.J. in 1978 to document the liturgical movement in the American Catholic Church from 1925 to the introduction of the Second Vatican Council's reforms. The collection has grown exponentially to include some 30,000 volumes, and is considered to be the most comprehensive archive in America on the pre-Vatican Catholic Church. The book collection is complemented by sizable holdings of manuscripts, pamphlets, ephemera, artifacts, and photographs.
 
-{{% figure src="../Apologia pro vita sua BX4705.N5 A3 1912 & LITURGY AND LIFE CVB1353117-10.jpg" headline="Apologia Pro Vita Sua" side="center" %}}
+{{% figure src="../Apologia pro vita sua BX4705.N5 A3 1912 & LITURGY AND LIFE CVB1353117-10.jpg" headline="Title Page"
+description="Newman, [*Apologia Pro Vita Sua*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21312461760001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), BX4705.N5 A3 1912 LITURGY AND LIFE" side="center" %}}
 
 **Irish Collection**
 
 {{% figure src="../Irish.jpg" headline="" side="right" %}}
 
-The Irish Collection at Burns is widely regarded as one of the most
+[The Irish Collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,Irish,AND&pfilter=pfilter,exact,archives,AND&tab=bcl_only&search_scope=lib_BURNS&sortby=rank&vid=bclib_new&lang=en_US&mode=advanced&offset=0) at Burns is widely regarded as one of the most
 comprehensive collections of its kind outside Ireland. Noted early
 on for its strong holdings of books, pamphlets, manuscripts,
 newspapers, periodicals and landholding records documenting
