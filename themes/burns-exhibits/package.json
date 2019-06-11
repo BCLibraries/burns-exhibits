@@ -11,6 +11,7 @@
     "webpack-cli": "^3.3.0"
   },
   "dependencies": {
-    "a11y-dialog": "^5.2.0"
+    "a11y-dialog": "^5.2.0",
+    "micromodal": "^0.4.0"
   }
 }

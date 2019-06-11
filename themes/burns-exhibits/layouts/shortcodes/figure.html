@@ -7,13 +7,21 @@
 {{ $name := replace (.Get "src") "../" "" }}
 {{ with $raw_img := .Page.CurrentSection.Resources.GetMatch $name }}
 {{ $resized := $raw_img.Resize "480x q80"}}
-<figure class="embedded-figure embedded-figure--{{ $side }}">
-        <img class="embedded-figure__img" src={{ $resized.RelPermalink }} alt="{{ $alt }}">
+
+
+{{ $modal_id := $raw_img | urlize }}
+{{ $figure_context := (dict "context" . "modal_id" $modal_id "img" $resized)}}
+
+<div>
+    <figure class="embedded-figure embedded-figure--{{ $side }}">
+        <img class="embedded-figure__img lightbox__launch-button" src={{ $resized.RelPermalink }} alt="{{ $alt }}" data-micromodal-trigger="lightbox-{{ $modal_id }}">
         <figcaption class="embedded-figure__caption">
             <h4>{{ $headline }}</h4>
             {{ if ne $description "" }}
-                <p>{{ $description }}</p>
+            <p>{{ $description }}</p>
             {{ end }}
         </figcaption>
-</figure>
+    </figure>
+    {{ partial "modal" $figure_context }}
+</div>
 {{ end }}
