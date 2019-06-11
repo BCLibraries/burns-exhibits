@@ -15,10 +15,10 @@ type: "exhibit"
 
 Sponsored by Boston College Libraries
 
-Curator(s): 
+Curator(s):
 
 Katherine Fox, Head Librarian, Public Services & Engagement, Burns Library
 
-Kathleen Monahan, Reference, Instruction & Digital Services Libraria, Burns Library
+Kathleen Monahan, Reference, Instruction & Digital Services Librarian, Burns Library
 
 Originally displayed: Burns Library, June - September, 2019
