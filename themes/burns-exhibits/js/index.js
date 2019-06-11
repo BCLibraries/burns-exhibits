@@ -1,3 +1,5 @@
-import buildLightboxes from './Lightbox.js';
+import MicroModal from 'micromodal'; 
 
-buildLightboxes();
+MicroModal.init();
+
+console.log('showed');

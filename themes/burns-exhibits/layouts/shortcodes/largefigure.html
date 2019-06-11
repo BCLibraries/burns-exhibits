@@ -13,24 +13,27 @@
 {{ with $raw_img := .Page.CurrentSection.Resources.GetMatch $name }}
 {{ $resized := $raw_img.Resize "600x q80"}}
 
+{{ $modal_id := $raw_img | urlize }}
+{{ $figure_context := (dict "context" . "modal_id" $modal_id "img" $resized)}}
+
 <div class="large-gallery-figure {{ $size_class }} {{ $align_class }}">
     {{ if eq $align "right" }}
         <div class="large-gallery-figure__accompanying-text">
             {{ $inner }}
         </div>{{end}}
     <figure>
-        <img src="{{ $resized.RelPermalink }}" alt="{{ $alt }}" class="large-gallery-figure__img">
+        <img src="{{ $resized.RelPermalink }}" alt="{{ $alt }}" class="large-gallery-figure__img" data-micromodal-trigger="lightbox-{{ $modal_id }}">
         <figcaption class="large-gallery-figure__caption">
             <h4>{{ $headline }}</h4>
             {{ if ne $description "" }}
                 <p>{{ $description }}</p>
             {{ end }}
         </figcaption>
-        
     </figure>
     {{ if ne $align "right" }}
     <div class="large-gallery-figure__accompanying-text">
         {{ $inner }}
     </div>{{end}}
+    {{ partial "modal" $figure_context }}
 </div>
 {{ end }}
