@@ -1,5 +1,5 @@
 ---
-title: "The prayer cards of Ade Bethune"
+title: "The holy cards of Ade Bethune"
 description: "Cards designed by artist Ade Bethune"
 
 # Page order

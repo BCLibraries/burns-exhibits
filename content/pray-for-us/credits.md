@@ -12,6 +12,7 @@ draft: true
 
 type: "exhibit"
 ---
+{{% figure src="../pray-for-us-poster.jpg" headline="" size="x-large" %}}
 
 Sponsored by Boston College Libraries
 
