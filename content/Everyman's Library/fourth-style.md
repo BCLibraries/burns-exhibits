@@ -34,7 +34,7 @@ example. Both examples of Style IV are from Graham Greene's Library.
 {{% /largefigure %}}
 
 {{% largefigure src="../The-red-room-PT9813.R6E51967-GREENE'S-LIBRARY-B608499-TITLE.jpg" headline="Title Page"
-description="Gaskell, [Wives & Daughters](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21372792390001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PR4710 .W5 1966 GREENE'S LIBRARY" size="medium" %}}
+description="Gaskell, [*Wives & Daughters*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21372792390001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PR4710 .W5 1966 GREENE'S LIBRARY" size="medium" %}}
 
 **Title Page**
 

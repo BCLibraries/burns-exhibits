@@ -13,7 +13,7 @@ type: "exhibit"
 ---
 
 {{% largefigure src="../Minor-poets-of-the-17th-century-PR1209.M561931-GREENE'S-LIBRARY-B503542.JPG" headline="Spine"
-description="Howarth, [*Minor Poets of the 17th Century*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315611240001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)  PR1209 .M56 1931 GREENE'S LIBRARY" size="large" %}}
+description="Howarth, [*Minor Poets of the 17th Century*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315611240001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PR1209 .M56 1931 GREENE'S LIBRARY" size="large" %}}
 **Binding**
 
 This 1931 edition of [*Minor Poets of the 17th Century*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315611240001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) is an example of the second binding

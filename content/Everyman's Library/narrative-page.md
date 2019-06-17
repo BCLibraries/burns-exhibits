@@ -114,7 +114,8 @@ woodcuts.
 description="Taylor, [*Ancient Hebrew Literature*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21339876050001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), BS895 .T2 WILLIAMS" side="center" %}}
 
 **Flann O'Brien Library**
-{{% figure src="../obrien.jpg" headline="Flann O'Brien" side="right" %}}
+{{% figure src="../obrien.jpg" headline="Flann O'Brien"
+description="Box 2, Folder 17, [Flann O'Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21332671220001021), MS1997-27" side="right" %}}
 
 Flann O'Brien is a pen name of Brian O'Nolan, the Irish author,
 playwright and satirist, considered a major figure in twentieth
@@ -143,7 +144,8 @@ description="Polo, [*The Travels of Marco Polo the Venetian*](https://bc-primo.h
 
 **Hilaire Belloc Library: King's Land**
 
-{{% figure src="../Belloc_side.jpg" headline="Hilaire Belloc" side="right" %}}
+{{% figure src="../ms1998-004-221ahbelloc.jpg" headline="Hilaire Belloc"
+description="Box 2, Folder 21, [Hilaire Belloc Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21311957810001021), MS2005-03" side="right" %}}
 
 The English writer Joseph Hilaire Peter Belloc was born in Celle
 Saint-Cloud, France, on 27 July 1870. His mother was an English
@@ -173,7 +175,8 @@ description="Blakeney, [*A Smaller Classical Dictionary*](https://bc-primo.hoste
 
 **Graham Greene Library**
 
-{{% figure src="../Greene1.jpg" headline="Graham Greene" side="right" %}}
+{{% figure src="../Greene1.jpg" headline="Graham Greene"
+description="Box 68, Folder, 13, [Graham Greene Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351254200001021), MS1995-03" side="right" %}}
 
 Henry Graham Greene was born on October 4, 1904 in
 Berkhamstead, Hertfordshire. Greene endured a difficult childhood,
@@ -203,7 +206,8 @@ description="Goethe, [*Conversations of Goethe with Eckermann*](https://bc-primo
 
 **British Catholic Authors: Gerard Manley Hopkins**
 
-{{% figure src="../Gerard_Manley_Hopkins.jpg" headline="Gerard Manley Hopkins" side="right" %}}
+{{% figure src="../GMH item 28.jpg" headline="Gerard Manley Hopkins, reproduction of portrait"
+description="Box 13, Folder 1, [Hopkins Family Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21380054540001021), MS1991-23" side="right" %}}
 
 The British Catholic Authors Collection features the manuscripts and
 published works of leading Catholic writers in the British Isles from
@@ -237,7 +241,8 @@ description="Hopkins, [*Gerard Manley Hopkins: The Major Poems*](https://bc-prim
 
 **Liturgy and Life Collection**
 
-{{% figure src="../liturgy-and-life.jpg" headline="" side="right" %}}
+{{% figure src="../liturgy-and-life.jpg" headline="[Burse](https://hdl.handle.net/2345/7902)"
+description="Box 211, Folder 5, [Liturgy and Life Collection](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21440260550001021), BC2013-17" side="right" %}}
 
 [This collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21440260550001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) was established by the Boston College theologian and liturgical specialist William J. Leonard, S.J. in 1978 to document the liturgical movement in the American Catholic Church from 1925 to the introduction of the Second Vatican Council's reforms. The collection has grown exponentially to include some 30,000 volumes, and is considered to be the most comprehensive archive in America on the pre-Vatican Catholic Church. The book collection is complemented by sizable holdings of manuscripts, pamphlets, ephemera, artifacts, and photographs.
 
@@ -246,22 +251,10 @@ description="Newman, [*Apologia Pro Vita Sua*](https://bc-primo.hosted.exlibrisg
 
 **Irish Collection**
 
-{{% figure src="../Irish.jpg" headline="" side="right" %}}
+{{% figure src="../Irish.jpg" headline="Cover Detail"
+description="Wakeman, [*The Tourists' Picturesque Guide to Ireland*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21328691500001021), DA975 .W3 1888 IRISH" side="right" %}}
 
-[The Irish Collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,Irish,AND&pfilter=pfilter,exact,archives,AND&tab=bcl_only&search_scope=lib_BURNS&sortby=rank&vid=bclib_new&lang=en_US&mode=advanced&offset=0) at Burns is widely regarded as one of the most
-comprehensive collections of its kind outside Ireland. Noted early
-on for its strong holdings of books, pamphlets, manuscripts,
-newspapers, periodicals and landholding records documenting
-Irish history and society from the late 1700's to the present, the
-Collection in recent years has made impressive gains in the areas
-of literature, art (especially the book arts), music, agricultural
-history, and economic history. Its literary collections of Samuel
-Beckett, William Butler Yeats and Seamus Heaney, for example,
-are ranked among the best in the world. To promote greater
-awareness and use of the impressive holdings, the University in
-1991 established The Burns Library Visiting Scholar in Irish
-Studies Chair, which is open on an annual basis to scholars who
-have distinguished themselves in the areas of Irish history, culture
-and life.
+[The Irish Collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,Irish,AND&pfilter=pfilter,exact,archives,AND&tab=bcl_only&search_scope=lib_BURNS&sortby=rank&vid=bclib_new&lang=en_US&mode=advanced&offset=0) at Burns is widely regarded as one of the most comprehensive collections of its kind outside Ireland. Noted early on for its strong holdings of books, pamphlets, manuscripts, newspapers, periodicals and landholding records documenting Irish history and society from the late 1700's to the present, the Collection in recent years has made impressive gains in the areas of literature, art (especially the book arts), music, agricultural history, and economic history. Its literary collections of Samuel Beckett, William Butler Yeats and Seamus Heaney, for example, are ranked among the best in the world. To promote greater awareness and use of the impressive holdings, the University in 1991 established The Burns Library Visiting Scholar in Irish Studies Chair, which is open on an annual basis to scholars who have distinguished themselves in the areas of Irish history, culture and life.
 
-{{% figure src="../The Mabinogion PB2363.M2 G8 1910 IRISH B315003.jpg" headline="The Mabinogion" side="center" %}}
+{{% figure src="../The Mabinogion PB2363.M2 G8 1910 IRISH B315003.jpg" headline="Title Page"
+description="Guest, [*The Mabinogion*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21377025320001021), PB2363.M2 G8 1910 IRISH" side="center" %}}

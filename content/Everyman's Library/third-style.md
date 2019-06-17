@@ -13,7 +13,7 @@ type: "exhibit"
 ---
 
 {{% largefigure src="../The-Aeneid-03-37943-KINGSLAND-B365035.JPG" headline="Spine"
-description="Virgil, [*The Aenid*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21378029070001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) 03-37943 KINGSLAND" size="large" %}}
+description="Virgil, [*The Aenid*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21378029070001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), 03-37943 KINGSLAND" size="large" %}}
 **Binding**
 
 This 1933 edition of [*The Aenid*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21378029070001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) is an example of the third binding style. It is the

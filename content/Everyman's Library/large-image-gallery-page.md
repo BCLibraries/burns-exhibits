@@ -13,7 +13,7 @@ type: "exhibit"
 ---
 
 {{% largefigure src="../The-conquest-of-Mexico-F1230.P965-WILLIAMS-CVB1297407-10.JPG" headline="Spine"
-description="Prescott, [*The Conquest of Mexico*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21317673900001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) F1230 .P965 WILLIAMS" size="large" %}}
+description="Prescott, [*The Conquest of Mexico*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21317673900001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), F1230 .P965 WILLIAMS" size="large" %}}
 **Standard Binding**
 
 This 1911 edition of [*The Conquest of Mexico*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21317673900001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) exhibits the first binding style that was in use
@@ -21,14 +21,14 @@ from 1906-1928. The gilt floral decoration was designed by Reginald Knowles. Thi
 {{% /largefigure %}}
 
 {{% largefigure src="../At-the-sign-of-the-cat-and-racket-and-other-stories-PQ2160.A71914-O'BRIEN LIBRARY B819238.JPG" headline="Spine Compariosn"
-description="Balzac, [At the Sign of the Cat and Racket & Other Stories](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21372482530001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) PQ2160 .A7 1914 O'BRIEN LIBRARY and Prescott, [*The Conquest of Mexico*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21317673900001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) F1230 .P965 WILLIAMS" size="large" %}}
+description="Balzac, [*At the Sign of the Cat and Racket & Other Stories*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21372482530001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PQ2160 .A7 1914 O'BRIEN LIBRARY and Prescott, [*The Conquest of Mexico*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21317673900001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), F1230 .P965 WILLIAMS" size="large" %}}
 Because of shortages during World War I, some titles in EML printed from 1914-1927 used imitation gold
 leaf, and therefore have a faded appearance. This 1914 edition of [*At the Sign of the Cat and
 Racket &amp; Other Stories*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21372482530001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) by Balzac is an example of this imitation gold leaf and is easily distinguishable when laid beside one of the real gold volumes. This volume is from Flann O’Brien's Library.
 {{% /largefigure %}}
 
 {{% largefigure src="../Essays-literary-and-critical-03-23781-KINGSLAND-B344412.JPG" headline="Spine"
-description="Arnold, [*Essays Literary and Critical*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21377522700001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) 03-23781 KINGSLAND" size="large" %}}
+description="Arnold, [*Essays Literary and Critical*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21377522700001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), 03-23781 KINGSLAND" size="large" %}}
 **Quarter Pigskin Binding**
 
 This 1909 edition of [*Essays Literary and Critical*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21377522700001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) by Matthew Arnold is an example of the
