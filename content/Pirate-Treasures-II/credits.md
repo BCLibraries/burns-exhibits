@@ -15,6 +15,6 @@ type: "exhibit"
 
 Sponsored by Boston College Libraries
 
-Curator(s): Shelley Barber, Outreach & Reference Specialist
+Curator: Shelley Barber, Outreach & Reference Specialist
 
-Originally displayed: Location, October 2008 - January 2009
+Originally displayed: Thompson Room, October 2008 - January 2009
