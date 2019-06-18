@@ -1,7 +1,7 @@
 ---
 # Title of page
 title: "Credits"
-description: ""
+description: "Pirate Treasures from the Burns Library"
 
 # Page order (1 is 1st page, etc.)
 weight: 1000
@@ -15,10 +15,6 @@ type: "exhibit"
 
 Sponsored by Boston College Libraries
 
-Curator(s): Person, Title
+Curator(s): Shelley Barber, Outreach & Reference Specialist
 
-Person, Title
-
-Person, Title
-
-Originally displayed: Location, Month - Month 2017
+Originally displayed: Location, October 2008 - January 2009
