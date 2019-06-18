@@ -46,7 +46,7 @@ The year after O’Nolan’s death, O’Keeffe brought out *The Third Policeman*
 b. 3, f. 13, Flann O'Brien Papers (MS1997-027)
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="../002B_HardLifeGreeneDedicationi.jpg" headline="NEED IMAGE OF HARD LIFE DUSTJACKET" %}}
+{{% galleryfigure src="../intro-image.jpg" headline="NEED IMAGE OF HARD LIFE DUSTJACKET" %}}
 O'Brien, *The Hard Life*, PR6029 .N56 H3 1962 O'BRIEN LIBRARY
 {{% /galleryfigure %}}
 
@@ -66,6 +66,7 @@ Yet another acquaintance (surely a Frenchman by his handwriting style) jotted on
 
 {{% galleryfigure src="../009_GrahamGreene.jpg" headline="Graham Greene to Flann O'Brien, October 25, 1961" %}}
 b. 1, f. 14, Flann O'Brien Papers (MS1997-027)
+{{% /galleryfigure %}}
 
 {{% galleryfigure src="../002B_HardLifeGreeneDedicationi.jpg" headline="Dedication to Graham Greene" %}}
 O'Brien, *The Hard Life*, PR6029 .N56 H3 1962 O'BRIEN LIBRARY

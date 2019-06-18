@@ -4,7 +4,7 @@ title: "Brotherly Love"
 description: ""
 
 # Page order (1 is 1st page, etc.)
-weight: 9
+weight: 10
 alwaysopen: true
 
 # Change to false to publish.
@@ -13,6 +13,11 @@ draft: true
 type: "exhibit"
 ---
 **Brotherly Love**
+
+{{% figure src="../FOB-Portrait.jpg"
+           headline="O'Nuallain, Micheál, 'Brian O'Nolan' [NEED: Medium, Date of Creation], Irish Room, John J. Burns Library, Boston College"
+           description="Flann O'Brien Papers (MS1997-027)"
+           side="left" %}}
 
 The O’Nolans were a large family. Brian was the third oldest and Micheál the youngest of 11 children with 16 years between them. 
 
@@ -27,6 +32,12 @@ One day, Micheál pulled out the canvas he had kept hidden, and without showing 
 Within two hours, the portrait was finished. Micheál swung the easel around and showed the likeness to his brother. “How can you remember all that detail, the bookcase, my table and typewriter?” he asked, bewildered. Without batting an eyelid, Micheál boasted: “I have a photographic memory!”
 
 **Sugar-coated**
+
+{{% figure src="../057-ONuallain-hat-and-coat.jpg"
+           headline="O'Nuallain, Micheál, 'Hat and Coat,' charcoal study, 1948"
+           description="b. 27, f. 6, Flann O'Brien Papers (MS1997-027)"
+           side="left" %}}
+
 
 In his memoir titled *The Brother (Myles)*, Micheál Ó Nualláin presents another nostalgic image of his elder sibling:
 

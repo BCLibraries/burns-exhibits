@@ -53,14 +53,14 @@ In his novel *At Swim-Two-Birds*, O’Nolan, writing as Flann O’Brien, has the
 
 Another section of *At Swim-Two-Birds* contains Flann’s famous pub poem, “Workman’s Friend,” which celebrates the emblematic pint of plain porter (think Guinness), and his praise for the “Plain People of Ireland,” whom he will alternately champion and chastise in the “Cruiskeen Lawn” under the guise of Myles na Gopaleen.
 
-In one of the columns selected for the Best of Myles compilation, O’Nolan chastises poetry itself, contending sardonically that it bears “no excuse,” for it “gives no adequate return in money.”
+In one of the columns selected for the *Best of Myles* compilation, O’Nolan chastises poetry itself, contending sardonically that it bears “no excuse,” for it “gives no adequate return in money.”
 {{% galleryrow%}}
 
 {{% figure src="../003B-2_AtSwim2Birds_P94-95.jpg" headline=""
 description="b. 24, Flann O'Brien Papers (MS1997-027)"
 %}}
 
-{{% figure src="../127_CruiskeenLawnTypescript_p4.jpg" headline="NEED IMAGE 126A"
-desription="b. 3, f. 33, Flann O'Brien Papers (MS1997-027)"%}}
+{{% figure src="../126A_BestofMyles_p238-239.jpg" headline="'... there is no excuse for poetry.'"
+desription="O'Brien, *The Best of Myles*, PR6029 .N56 B4 1968 O'BRIEN LIBRARY "%}}
 
 {{% /galleryrow%}}
