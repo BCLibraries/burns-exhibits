@@ -3,7 +3,7 @@ title: "Assorted Pirates"
 description: ""
 
 # Page order
-weight:  4
+weight:  5
 alwaysopen: true
 
 # Change to false to publish.
