@@ -13,9 +13,9 @@ draft: true
 type: "exhibit"
 ---
 
-{{% figure src="../portrait-image.jpg" headline="" size="x-large" %}}
+{{% figure src="G_Pyle book of pirates.jpg" %}}
 
-Collection Used: David Goldstein and Martha Moore Avery Papers [(MS1986-167)](https://link-to-collection.edu)  
+Collection Used: Joseph J. Williams Ethnological Collection [(MS2009-030)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21345055540001021)  
 
 __Heading__
 

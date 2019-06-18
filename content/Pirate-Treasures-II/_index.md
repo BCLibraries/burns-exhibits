@@ -3,17 +3,17 @@
 title: "Introduction"
 
 # Title of exhibit
-exhibit_title: "Pirate Treasures II"
+exhibit_title: "Pirate Treasures"
 
-date: 2019-06-18T12:59:25-04:00
+date: 2019-05-15T12:28:48-04:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1 
 
 # Big image on first page.
-front_image: "intro-image.jpg" # Replace with the real image
-front_caption_headline: "Ullamcorper Condimentum Tortor Parturient"
-front_caption_text: "Donec id elit non mi porta gravida at eget metus."
+front_image: "Williams Collection books.jpg" # Replace with the real image
+front_caption_headline: "An Exhibit of Maps and Books"
+front_caption_text: ""
 
 # Change to false to publish.
 draft: true
@@ -21,6 +21,8 @@ draft: true
 type: "exhibit"
 ---
 
-Vestibulum id ligula porta felis euismod semper. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+Pirates were – and are – brutal, violent plunderers, but pirates also exist in public imagination as bold and daring adventurers whose exploits as often entertain as horrify. The popularity of the movie series *Pirates of the Caribbean* exemplifies the present-day appeal of pirates, but this appeal is nothing new. “Pirate Treasures” includes material published between 1690 and 2009, most from the Nicholas M. Williams Collection.
 
-Curabitur blandit tempus porttitor. Maecenas sed diam eget risus varius blandit sit amet non magna. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sed diam eget risus varius blandit sit amet non magna.
+Williams entered the Society of Jesus in 1893 and was ordained to the priesthood in 1907. He was the author of several books on religion and anthropology. He lived for a number of years as a missionary in Jamaica. A Boston College alumnus, Williams returned to lecture in 1932, and helped establish Boston College’s Department of Anthropology. His collection reflects his interest in the history, customs, beliefs and folklore of the people of the Caribbean. 
+
+Piracy is the primary subject of nearly 100 books in the Williams Collection. Among the earliest of these is navigator and pirate William Dampier’s *New Voyage Round the World*, published in London in 1698. Also included in this exhibit is buccaneer surgeon Alexandre Olivier Exquemelin’s *Histoire des Adventuriers Filibustiers, qui se sont Signalez dans les Indies*, published in Paris in 1699. As European nations colonized and exploited America and the islands of the Caribbean, pirates, buccaneers and privateers plundered colonists, natives and one another on land and sea – sometimes with the approval of their governments and sometimes without. Works by Dampier, Exquemelin and others in this exhibit continue to influence our perception of piracy. Also represented in this exhibit are pirates from the imaginations of Defoe, Scott, Byron, Stevenson, Sabatini and others.

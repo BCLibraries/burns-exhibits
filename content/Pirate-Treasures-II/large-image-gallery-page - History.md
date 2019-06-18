@@ -1,5 +1,5 @@
 ---
-title: "Pirate Histories"
+title: "Histories"
 description: ""
 
 # Page order (1 is 1st page, etc.)
