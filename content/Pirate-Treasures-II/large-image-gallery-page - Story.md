@@ -32,7 +32,6 @@ English writer Daniel Defoe (1659/61 – 1731) was the author of Robinson Crusoe
 				description="Defoe, Daniel. *[The Life and Strange Surprising Adventures of Robinson Crusoe: Of York, Mariner: Who Lived Eight and Twenty Years All Alone in an Un-inhabited Island on the Coast of America, near the Mouth of the Great River of Oroonoque; Having Been Cast on Shore by Shipwreck, Wherein All the Men Perished but Himself. With an Account How He Was at Last as Strangely Deliver'd by Pyrates](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21385678240001021)*. The 3d ed. London: W. Taylor, 1719."
                 size="medium"
                 align="left" %}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
 {{% /largefigure %}}
 
 {{% largefigure src="C4_O'Brien's RC 2.JPG"
