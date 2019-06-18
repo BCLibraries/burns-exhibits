@@ -3,7 +3,7 @@ title: "Stories"
 description: ""
 
 # Page order (1 is 1st page, etc.)
-weight:  3
+weight:  4
 alwaysopen: true
 
 # Change to false to publish.
