@@ -16,7 +16,7 @@ type: "exhibit"
                 headline="Robinson Crusoe Pop-Up"
                 description="Defoe, Daniel. *[Robinson Crusoe: A Unique Book of Color Pop-up Changing Pictures](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21372769920001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*. New York: Merrimack Pub. 196?."
                 size="x-large" %}}
-This presentation copy to Graham Greene from his wife Vivien dated December 10 reads "I am still frantically hunting for something “post-able” & that you might not have already. Please take this as an IOU for a present which perhaps I can put in your hands when you are next over here, V”
+This presentation copy to Graham Greene from his wife Vivien dated December 10 reads "I am still frantically hunting for something post-able & that you might not have already. Please take this as an IOU for a present which perhaps I can put in your hands when you are next over here, V”
 {{% /largefigure %}}
 
 {{% largefigure src="C2_DefoeFrontispiece.JPG"
@@ -24,7 +24,7 @@ This presentation copy to Graham Greene from his wife Vivien dated December 10 r
 				description="Defoe, Daniel. *[The Life and Adventures of Robinson Crusoe: Who Lived Twenty-eight Years in an Uninhabited Island. With an Account of His Deliverance](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21357802090001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*. Philadelphia: T. Wardle, 1845."
                 size="medium"
                 align="left" %}}
-English writer Daniel Defoe (1659/61 – 1731) was the author of Robinson Crusoe. One of its likeliest inspirations was the story of castaway Alexander Selkirk, who sailed with –and was later rescued by – William Dampier. Defoe’s second novel, Captain Singleton, included the story of the main character’s experiences as a pirate.
+English writer Daniel Defoe (1660–1731) was the author of Robinson Crusoe. One of its likeliest inspirations was the story of castaway Alexander Selkirk, who sailed with – and was later rescued by – William Dampier. Defoe’s second novel, Captain Singleton, included the story of the main character’s experiences as a pirate.
 {{% /largefigure %}}
 
 {{% largefigure src="C3_DefoeTitle.jpg"
@@ -49,21 +49,21 @@ English writer Daniel Defoe (1659/61 – 1731) was the author of Robinson Crusoe
 {{% /largefigure %}}
 
 {{% largefigure src="C6_Roderick Random.JPG"
-                headline="The Adventures of Roderick Random"
+                headline="Smollett's The Adventures of Roderick Random"
 				description="Smollett, Tobias George. *[The Works of Tobias Smollett, M.D. with Memoirs of His Life; to which is Prefixed, a View of the Commencement and Progress of Romance, by John Moore, M.D. Volume II, The Adventures of Roderick Random](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21347415000001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*. London: Printed for B. Law [etc.], 1797."
                 size="medium"
                 align="left" %}}
 {{% /largefigure %}}
 
 {{% largefigure src="C7_Corsair poem beginning.jpg"
-                headline="The Corsair"
+                headline="Byron's The Corsair"
 				description="Byron, George Gordon Byron. *[The Corsair: A Tale](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21325454510001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*. 5th ed. London: Printed for John Murray ... by Thomas Davison ..., 1814."
                 size="medium"
                 align="left" %}}
 {{% /largefigure %}}
 
 {{% largefigure src="C8_Scott ill.JPG"
-                headline="The Pirate"
+                headline="Scott's The Pirate"
 				description="Scott, Sir Walter. *[The Pirate](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21320287990001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*. London: T. Nelson & Sons, [19--?]."
                 size="medium"
                 align="left" %}}
