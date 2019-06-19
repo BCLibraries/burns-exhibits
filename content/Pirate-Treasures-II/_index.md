@@ -3,7 +3,7 @@
 title: "Introduction"
 
 # Title of exhibit
-exhibit_title: "Pirate Treasures"
+exhibit_title: "Pirate Treasures II"
 
 date: 2019-05-15T12:28:48-04:00
 
