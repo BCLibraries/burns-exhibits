@@ -40,9 +40,10 @@ type: "exhibit"
                 headline="“*[The Irish Songbook. 75 Songs Collected, Adapted, Written, and Sung by the Clancy Brothers & Tommy Makem](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315692330001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*. New York: Oak Publications, 1979."
                 size="medium"
                 align="left" %}}
-Óró, you are welcome home! Padraic Pearse (1879-1916)
+Óró, you are welcome home! 
+Padraic Pearse (1879-1916)
 
-Welcome o woman who was so afflicted, 
+Welcome O woman who was so afflicted, 
 It was our ruin that you were in bondage 
 Our fine land in the possession of thieves, 
 Sold to the foreigners. 
@@ -66,12 +67,10 @@ And they will rout the Foreigners.
                 headline="Granuaile"
                 description="Davey, Shaun., Connolly, Rita, O'Flynn, Liam, and Hudson, Gareth. *[Granuaile]( https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21364286420001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*, 1985."
                 size="small" %}}
-Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean lacinia bibendum nulla sed consectetur.
 {{% /largefigure %}}
 
 {{% largefigure src="E6_PirateBallads.jpg"
                 headline="Irish Pirate Ballads"
                 description="Milner, Dan., Moloney, Mick, Madden, Joanie, Doyle, John, Collins, Tim, Concertina Player, Donohue, Gabriel, McKeown, Susan, O'Connell, Robbie, Conway, Brian, Conroy, Bob, and Johnson Girls. *[Irish Pirate Ballads and Other Songs of the Sea](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21348345090001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US). 2009."
                 size="small" %}}
-Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean lacinia bibendum nulla sed consectetur.
 {{% /largefigure %}}

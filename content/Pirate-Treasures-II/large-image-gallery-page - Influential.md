@@ -12,12 +12,6 @@ draft: true
 type: "exhibit"
 ---
 
-{{% largefigure src="A1_BonnyandReadWhosWhoGosse.JPG"
-                headline=""
-                description="Gosse, Philip. *[The Pirates’ Who’s Who, Giving the Particulars of the lives and deaths of the Pirates and Buccaneers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21319058110001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: Dulau and Company, 1924."
-                size="x-large" %}}
-
-{{% /largefigure %}}
 
 {{% largefigure src="A2_HowardPyleCover.jpg"
                 headline=""

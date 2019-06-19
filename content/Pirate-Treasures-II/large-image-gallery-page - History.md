@@ -63,3 +63,10 @@ French Jesuit Pierre-François-Xavier Charlevoix, SJ (1682-1761), wrote narrativ
                 align="right" %}}
 {{% /largefigure %}}
 
+{{% largefigure src="A1_BonnyandReadWhosWhoGosse.JPG"
+                headline=""
+                description="Gosse, Philip. *[The Pirates’ Who’s Who, Giving the Particulars of the lives and deaths of the Pirates and Buccaneers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21319058110001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: Dulau and Company, 1924."
+                size="large"
+                align="left" %}}
+{{% /largefigure %}}
+
