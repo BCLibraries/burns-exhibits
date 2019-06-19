@@ -40,7 +40,8 @@ type: "exhibit"
                 headline="“*[The Irish Songbook. 75 Songs Collected, Adapted, Written, and Sung by the Clancy Brothers & Tommy Makem](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315692330001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*. New York: Oak Publications, 1979."
                 size="medium"
                 align="left" %}}
-Óró, you are welcome home! 
+Óró, You are Welcome Home! 
+
 Padraic Pearse (1879-1916)
 
 Welcome O woman who was so afflicted, 
