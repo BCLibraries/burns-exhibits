@@ -102,7 +102,7 @@ Published posthumously, *The Third Policeman* bears the trappings of a cult clas
 O'Brien, [*The Third Policeman*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21369740650001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PR6029 .N56 .T5 1967b O'BRIEN LIBRARY
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="../portrait-image.jpg" headline="NEED IMAGE first edition - show front cover of dj" %}}
+{{% galleryfigure src="../FOB008.jpg" headline="" %}}
 O'Brien, [*The Third Policeman*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21336684660001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PR6029 .N56 T5 1967 O'BRIEN LIBRARY
 {{% /galleryfigure %}}
 
@@ -123,11 +123,11 @@ O’Nolan’s widow, Evelyn, managed his literary estate. She worked with a Lond
 O'Brien, [*The Third Policeman*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21369740650001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PR6029 .N56 .T5 1967b O'BRIEN LIBRARY
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="../portrait-image.jpg" headline="NEED SCAN IMAGE104" %}}
+{{% galleryfigure src="../FOB104.jpg" headline="Advance and Royalties Statement for *The Third Policeman*" %}}
 b. 5, f. 22, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="../portrait-image.jpg" headline="NEED SCAN IMAGE 102" %}}
+{{% galleryfigure src="../FOB102.jpg" headline="" %}}
 O'Brien, [*Der Dritte Polizist*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21386714490001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PR6029 .N56 T515 1975 O'BRIEN LIBRARY
 {{% /galleryfigure %}}
 
