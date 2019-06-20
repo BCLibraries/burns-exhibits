@@ -1,5 +1,5 @@
 ---
-title: "The prayer cards of Ade Bethune"
+title: "The holy cards of Ade Bethune"
 description: "Cards designed by artist Ade Bethune"
 
 # Page order
@@ -11,6 +11,7 @@ draft: true
 
 type: "exhibit"
 ---
+These holy cards were all designed by Ade Bethune. Ade Bethune (1914-2002) was born in Belgium and immigrated to the United States in 1928. She studied at the National Academy of Design in New York City and became involved with Dorothy Day's Catholic Worker Movement. Her art reflects her involvement in this movement, frequently depicting images of saints, Biblical figures, and working-class men and women performing acts of mercy.
 
 {{% galleryrow %}}
 
@@ -97,11 +98,8 @@ type: "exhibit"
            headline="St. Andrew, Roman Empire, 5 BC - 62 CE"
            description="Patronages: fishermen, rope-makers, textile workers, miners"
 >}}
+
+{{% figure src="../PrayForUs022.png" headline="Judith"
+description="A figure from the Catholic Old Testament who, upset with the Jewish people for not trusting God to deliver them from their conquerors, gains the trust of the Assyrian general, Holofernes. She cuts Holofernes’ head off and takes it back to her people, who rally and defeat their enemy." side="left" size="small" %}}
+
 {{% /galleryrow %}}
-
-
-{{% figure src="../PrayForUs022.png" headline="Judith" 
-description="" side="left" size="small" %}}
-
-A book in the Catholic Old Testament that includes the story of Judith, who, upset with the Jewish people for not trusting God to deliver them from their conquerors, gains the trust of the Assyrian general, Holofernes. She cuts Holofernes’ head off and and takes it back to her people, who rally and defeat their enemy.
-

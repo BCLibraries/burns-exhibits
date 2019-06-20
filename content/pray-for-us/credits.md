@@ -12,13 +12,14 @@ draft: true
 
 type: "exhibit"
 ---
+{{% figure src="../pray-for-us-poster.jpg" headline="" size="x-large" %}}
 
 Sponsored by Boston College Libraries
 
-Curator(s): 
+Curator(s):
 
 Katherine Fox, Head Librarian, Public Services & Engagement, Burns Library
 
-Kathleen Monahan, Reference, Instruction & Digital Services Libraria, Burns Library
+Kathleen Monahan, Reference, Instruction & Digital Services Librarian, Burns Library
 
 Originally displayed: Burns Library, June - September, 2019

@@ -1,5 +1,5 @@
 ---
-title: "Manuscripts"
+title: "Manuscripts & Maps"
 description: ""
 
 # Page order
@@ -34,7 +34,7 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="Senex nd detail2.jpg"
-           headline="detail, showing Port Royal"
+           headline="detail, showing Port Royal, Jamaica"
            description="*English Empire in the Ocean of America or West Indies*, revised by I. Senex, engraved by I. Harris, undated."
 >}}
 
@@ -52,9 +52,9 @@ type: "exhibit"
 
 {{% galleryrow %}}
 
-{{< figure src=""
-           headline=""
-           description=""
+{{< figure src="Williams Collection Map.jpg"
+           headline="Cuba"
+           description="New chart of the seas surrounding the island of Cuba…and a map of the island itself. 1762."
 >}}
 
 {{< figure src=""
@@ -71,9 +71,9 @@ type: "exhibit"
 
 {{% galleryrow %}}
 
-{{< figure src=""
-           headline=""
-           description=""
+{{< figure src="1676 Basset detail.jpg"
+           headline="detail, showing Port Royal, Jamaica"
+           description="Jamaica and Barbados, sold by Thomas Basset in Fleetstreet, 1676."
 >}}
 
 {{< figure src=""
