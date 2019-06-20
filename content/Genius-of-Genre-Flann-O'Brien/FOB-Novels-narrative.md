@@ -17,7 +17,7 @@ type: "exhibit"
 
 {{% figure src="../059A-typewriter.jpg"
            headline="O'Nuallain, Micheál, Typewriter, pastel, 1948" 
-           description="b. 27, f. 8, Flann O'Brien Papers (MS1997-027)" 
+           description="b. 27, f. 8, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)" 
            side="right" %}}
 
 O’Nolan first used his most enduring pseudonym in an exchange of letters with playwright Frank O’Connor and short story write Sean O’Faoláin published in The Irish Times in January 1939.
@@ -37,15 +37,15 @@ O’Nolan both admired and envied Joyce, reputedly commenting: “I declare to G
 {{% galleryrow %}}
 
 {{% galleryfigure src="../068G_DieHarzweise.jpg" headline="O'Nolan's annotated copy of *Die Harzweise*" %}}
-Heine, *Die Harzweise8, PT2309 .H2 V3 1929 O'BRIEN LIBRARY
+Heine, [*Die Harzweise*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21372462260001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PT2309 .H2 V3 1929 O'BRIEN LIBRARY
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../050_Passport1936.jpg" headline="Brian O'Nolan's passport, 1936" %}}
-b. 24, Flann O'Brien Papers (MS1997-027)
+b. 24, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../100_UlyssesBrianONolan_.jpg" headline="Brian O'Nolan's personal copy of James Joyce's *Ulysses*" %}}
-Joyce, *Ulysses*,  PR6019 .O9 U4 1932 O'BRIEN LIBRARY  
+Joyce, [*Ulysses*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21347982330001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US),  PR6019 .O9 U4 1932 O'BRIEN LIBRARY  
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -59,11 +59,11 @@ Published in London in 1939 by Longman’s at the recommendation of Graham Green
 {{% galleryrow %}}
 
 {{% galleryfigure src="../011A_MVONolanNotebook.jpg" headline="Michael V. O'Nolan's noteboook" %}}
-b. 1, f. 58, Flann O'Brien Papers (MS1997-027)
+b. 1, f. 58, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../003_AtSwim2Birds.jpg" headline="First Edition of *At Swim Two Birds*, 1939" %}}
-O'Brien, *At Swim Two Birds*, PR6029 .N56 A8 1939b O'BRIEN LIBRARY
+O'Brien, [*At Swim Two Birds*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21372432100001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PR6029 .N56 A8 1939b O'BRIEN LIBRARY
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -81,11 +81,11 @@ An English translation was published in New York in 1974 as *The Poor Mouth*, aw
 {{% galleryrow %}}
 
 {{% galleryfigure src="../009N-A_ABealBocht_ToPeggy.jpg" headline="" %}}
-b. 1, f. 33, Flann O'Brien Papers (MS1997-027)
+b. 1, f. 33, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../101B_AnBealBoct.jpg" headline="*An béal boċt*" %}}
-O'Brien, *An béal boċt*, PB 1399 .059 B4 1964  O'BRIEN LIBRARY c. 3
+O'Brien, [*An béal boċt*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21311293170001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PB1399 .059 B4 1964  O'BRIEN LIBRARY c. 3
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -99,15 +99,15 @@ Published posthumously, *The Third Policeman* bears the trappings of a cult clas
 {{% galleryrow %}}
 
 {{% galleryfigure src="../007_ThirdPolicemanProof.jpg" headline="*The Third Policeman* Proof" %}}
-O'Brien, The Third Policeman, PR6029 .N56 .T5 1967b O'BRIEN LIBRARY
+O'Brien, [*The Third Policeman*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21369740650001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PR6029 .N56 .T5 1967b O'BRIEN LIBRARY
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../portrait-image.jpg" headline="NEED IMAGE first edition - show front cover of dj" %}}
-O'Brien, *The Third Policeman*, PR6029 .N56 T5 1967 O'BRIEN LIBRARY
+O'Brien, [*The Third Policeman*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21336684660001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PR6029 .N56 T5 1967 O'BRIEN LIBRARY
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../019B_ThirdPolicemanTypescript.jpg" headline="The Third Policeman, annotated typescript, 1940 January" %}}
-b. 4, f. 4, Flann O'Brien Papers (MS1997-027)
+b. 4, f. 4, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -120,15 +120,15 @@ O’Nolan’s widow, Evelyn, managed his literary estate. She worked with a Lond
 {{% galleryrow %}}
 
 {{% galleryfigure src="../019A_ThirdPolicemanExtractFromNotes.jpg" headline="*The Third Policeman* Proof" %}}
-O'Brien, The Third Policeman, PR6029 .N56 .T5 1967b O'BRIEN LIBRARY
+O'Brien, [*The Third Policeman*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21369740650001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PR6029 .N56 .T5 1967b O'BRIEN LIBRARY
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../portrait-image.jpg" headline="NEED SCAN IMAGE104" %}}
-b. 5, f. 22, Flann O'Brien Papers (MS1997-027)
+b. 5, f. 22, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../portrait-image.jpg" headline="NEED SCAN IMAGE 102" %}}
-O'Brien, *Der Dritte Polizist*, PR6029 .N56 T515 1975 O'BRIEN LIBRARY
+O'Brien, [*Der Dritte Polizist*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21386714490001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PR6029 .N56 T515 1975 O'BRIEN LIBRARY
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}

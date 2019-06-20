@@ -26,7 +26,7 @@ Totaling some 4,212 installments, “Cruiskeen Lawn” continued regularly until
 
 {{% figure src="../043-060_Wallet_BusinessCards.jpg"
            headline="Wallet with Cards"
-           description="b. 24, Flann O'Brien Papers (MS1997-027)"
+           description="b. 24, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)"
            side="left" %}}
 
 In addition to a visiting card representing his official status as a private secretary to a government minister, O’Nolan created calling cards to represent his identity as Myles na Gopaleen. One version indicates Myles’ affiliation with The Irish Times and provides O’Nolan’s actual home address. Another whimsically offers Myles’ fictive domicile in Santry, a northside Dublin suburb.
@@ -45,15 +45,15 @@ Smyllie rebuffed O’Nolan’s initial petitions for more pay, but after a year 
 {{% galleryrow %}}
 
 {{% galleryfigure src="../083.jpg" headline="Draft of letter *The Irish Times,* asking for pay increase for Cruiskeen Lawn, 21 Oct 1942 " %}}
-b. 1, f. 41, Flann O'Brien Papers (MS1997-027)
+b. 1, f. 41, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../152_CruiskeenLawn.jpg" headline="An Cruiskeen Lawn, scrapbook, 1950 September-1952 February" %}}
-b. 14, Flann O'Brien Papers (MS1997-027)
+b. 14, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../082.jpg" headline="*Irish Times* to O'Nolan with increase offer for Cruiskeen Lawn, 29 Oct 1943" %}}
-b. 1, f. 41, Flann O'Brien Papers (MS1997-027)
+b. 1, f. 41, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -69,15 +69,15 @@ In 1951, Clarkin was elected mayor. He urged citizens to spruce up the exterior 
 {{% galleryrow %}}
 
 {{% galleryfigure src="../153A_CruiskeenLawn.jpg" headline="Draft of letter *The Irish Times,* asking for pay increase for Cruiskeen Lawn, 21 Oct 1942 " %}}
-b. 20, Flann O'Brien Papers (MS1997-027)
+b. 20, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../153B_CruiskeenLawn.jpg" headline="An Cruiskeen Lawn, scrapbook, 1950 September-1952 February" %}}
-b. 20, Flann O'Brien Papers (MS1997-027)
+b. 20, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../153C_CruiskeenLawn.jpg" headline="*Irish Times* to O'Nolan with increase offer for Cruiskeen Lawn, 29 Oct 1943" %}}
-b. 20, Flann O'Brien Papers (MS1997-027)
+b. 20, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -86,7 +86,7 @@ b. 20, Flann O'Brien Papers (MS1997-027)
 
 {{% figure src="../intro-image.jpg"
            headline="NEED SCAN OF 150: Return of Myles typescript (1953) "
-           description="b. 2, f. 39, Flann O'Brien Papers (MS1997-027)"
+           description="b. 2, f. 39, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)"
            side="left" %}}
 
 The ACCIS shaming campaign against the popular mayor earned O’Nolan little favor, but when subsequent columns poked at another senior politician, the minister he served as private secretary was forced to order his dismissal. Increasing absenteeism and alcoholism were added to the list of causes, but since the latter was just then gaining recognition as a disease, allowed O’Nolan to resign for medical reasons and receive a pension.
@@ -97,7 +97,7 @@ The ACCIS shaming campaign against the popular mayor earned O’Nolan little fav
 
 {{% figure src="../096-PeepShow.jpg"
            headline="'George Knowall's Peep Show'(29/3/66) "
-           description="b. 2, f. 33, Flann O'Brien Papers (MS1997-027)"
+           description="b. 2, f. 33, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)"
            side="left" %}}
 		   
 After forfeiting his civil service employment, O’Nolan supplemented his government pension and income from his “Cruiskeen Lawn” columns with earnings from other sources, including columns he wrote for other newspapers. For The Carlow Nationalist and Leinster Times, he wrote a humorous column under the pen name George Knowall (read: Know-all, a play on O’Nolan).
