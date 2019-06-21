@@ -16,7 +16,7 @@ type: "exhibit"
 
 {{% figure src="../128_Envoy_Cover.jpg"
            headline="Envoy Cover"
-           description="Nolan, 'The Martyr's Crown,' [*Envoy8}(https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21347982900001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) 1, no. 3 (1950), PR6029 .N56 M37 1950 O'BRIEN LIBRARY" 
+           description="Nolan, 'The Martyr's Crown,' [*Envoy*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21347982900001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) 1, no. 3 (1950), PR6029 .N56 M37 1950 O'BRIEN LIBRARY" 
            side="right" %}}
 
 Until the publication of The Short Fiction of Flann O’Brien in 2013, O’Nolan’s reputation rested primarily on his novels and newspaper columns. Yet over the course of his life, he wrote a dozen or so short stories in both Irish and English, publishing them in a range of periodicals, from student magazines to Irish, British, and American literary reviews, using a variety of pen names in addition to his own.

@@ -84,8 +84,8 @@ b. 20, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-
 
 **Early Dismissal**
 
-{{% figure src="../intro-image.jpg"
-           headline="NEED SCAN OF 150: Return of Myles typescript (1953) "
+{{% figure src="../FOB150.jpg"
+           headline="Return of Myles typescript (1953) "
            description="b. 2, f. 39, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)"
            side="left" %}}
 

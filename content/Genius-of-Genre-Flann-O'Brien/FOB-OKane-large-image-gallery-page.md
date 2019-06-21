@@ -72,7 +72,5 @@ These three paintings feature in the animated sequence Manufacturing a Countenan
 This painting is inspired by old Phillip Mathers, the murder victim from *The Third Policeman*. He is depicted in a circle of books, each with a different mask placed upon it. The image was originally conceived as the poster for the IV International Flann O’Brien Conference held in Salzburg in 2017. It has since functioned as a study for an animated sequence.
 {{% /largefigure %}}
 
-{{% largefigure src="../intro-image.jpg" headline="Three Policemen, 2019" description="David O'Kane, oil on canvas" size="large" align="left"%}}
-This painting depicts three policemen inspired by the absurd characters in O’Nolan’s novel. They are reminiscent of automata, collaged together from disparate, inhuman elements to create ludicrous and monstrous mechanical figures. They occupy a liminal space beyond logic and rationality that transcends planes of existence. The painting emphasizes their sinister authoritarian undercurrents, which are all the more malevolent and horrific against the backdrop of cruel, apathetic humor.
-{{% /largefigure %}}
+
 

@@ -46,7 +46,7 @@ The year after O’Nolan’s death, O’Keeffe brought out *The Third Policeman*
 b. 3, f. 13, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="../intro-image.jpg" headline="NEED IMAGE OF HARD LIFE DUSTJACKET" %}}
+{{% galleryfigure src="../FOB002A.jpg" headline="" %}}
 O'Brien, *The Hard Life*, PR6029 .N56 H3 1962 O'BRIEN LIBRARY
 {{% /galleryfigure %}}
 
