@@ -3,7 +3,7 @@ title: "The holy cards of Ade Bethune"
 description: "Cards designed by artist Ade Bethune"
 
 # Page order
-weight:  2
+weight:  4
 alwaysopen: true
 
 # Change to false to publish.
@@ -11,7 +11,7 @@ draft: true
 
 type: "exhibit"
 ---
-These holy cards were all designed by Ade Bethune. Ade Bethune (1914-2002) was born in Belgium and immigrated to the United States in 1928. She studied at the National Academy of Design in New York City and became involved with Dorothy Day's Catholic Worker Movement. Her art reflects her involvement in this movement, frequently depicting images of saints, Biblical figures, and working-class men and women performing acts of mercy.
+These holy cards were all designed by Ade Bethune( (1914-2002)), who was born in Belgium and immigrated to the United States in 1928. She studied at the National Academy of Design in New York City and became involved with Dorothy Day's Catholic Worker Movement. Her art reflects her involvement in this movement, frequently depicting images of saints, Biblical figures, and working-class men and women performing acts of mercy.
 
 {{% galleryrow %}}
 
@@ -99,7 +99,9 @@ These holy cards were all designed by Ade Bethune. Ade Bethune (1914-2002) was b
            description="Patronages: fishermen, rope-makers, textile workers, miners"
 >}}
 
+{{% /galleryrow %}}
+
 {{% figure src="../PrayForUs022.png" headline="Judith"
 description="A figure from the Catholic Old Testament who, upset with the Jewish people for not trusting God to deliver them from their conquerors, gains the trust of the Assyrian general, Holofernes. She cuts Holofernes’ head off and takes it back to her people, who rally and defeat their enemy." side="left" size="small" %}}
 
-{{% /galleryrow %}}
+

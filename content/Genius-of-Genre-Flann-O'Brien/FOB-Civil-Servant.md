@@ -26,11 +26,11 @@ According to his brother Ciarán, O’Nolan pursued a master’s degree at UCD i
 {{% galleryrow %}}
 
 {{% galleryfigure src="../094A-Thesis.jpg" headline="Trachtas ar Naduir-Fhiliocht na Gaedhilge maille le Duanaire" %}}
-b. 2, f. 29, Flann O'Brien Papers (MS1997-027)
+b. 2, f. 29, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)(MS1997-027)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../098-Sceal.jpg" headline="'Sceal' manuscript" %}}
-b. 2, f. 48, Flann O'Brien Papers (MS1997-027)
+b. 2, f. 48, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)(MS1997-027)
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -39,15 +39,15 @@ Although O’Nolan lambasted policies aimed at making all Irish citizens Irish s
 {{% galleryrow %}}
 
 {{% galleryfigure src="../081-Underwood.jpg" headline="Letter to Underwood re: Irish language typewriter scheme, 15 Dec 1964" %}}
-b. 1, f. 40, Flann O'Brien Papers (MS1997-027)
+b. 1, f. 40, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)(MS1997-027)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../081A-Underwood.jpg" headline="Letter to Underwood re: Irish language typewriter scheme, 15 Dec 1964" %}}
-b. 1, f. 40, Flann O'Brien Papers (MS1997-027)
+b. 1, f. 40, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)(MS1997-027)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../080-Ryan.jpg" headline="Bryan Ryan for Underwood to O'Nolan re: Irish language typewriter scheme, 18 Dec 1964" %}}
-b. 2, f. 40, Flann O'Brien Papers (MS1997-027)
+b. 2, f. 40, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)(MS1997-027)
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -61,11 +61,11 @@ A notebook that O’Nolan apparently used to take notes during the tribunal surv
 {{% galleryrow %}}
 
 {{% galleryfigure src="../020A_TribunalInquiry_300.jpg" headline="*Tribunal of Inquiry into the Fire at St. Joseph's Orphanage Cavan*, report [1943]" %}}
-b. 5, f. 16, Flann O'Brien Papers (MS1997-027)
+b. 5, f. 16, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../067_ Cavan Tribunal Notebook - front cover.jpg" headline="Notebook O’Nolan used to take notes during the tribunal" %}}
-b. 5, f. 16, Flann O'Brien Papers (MS1997-027)
+b. 5, f. 16, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)(MS1997-027)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../097-Pathology-Revivalism.jpg" headline="'The Pathology of Revivalism' typescript" %}}
@@ -79,11 +79,11 @@ O’Nolan’s civil service briefcase and hat are also among the artifacts prese
 {{% galleryrow %}}
 
 {{% galleryfigure src="../053A_Hat.jpg" headline="Brian O'Nolan's Hat" %}}
-b. 25, Flann O'Brien Papers (MS1997-027)
+b. 25, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../061_Briefcase.jpg" headline="Brian O'Nolan's Briefcase" %}}
-b. 29, Flann O'Brien Papers (MS1997-027)
+b. 29, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -92,7 +92,7 @@ b. 29, Flann O'Brien Papers (MS1997-027)
 
 {{% figure src="../078.jpg"
            headline="Letter informing O'Nuallain of his temporary post of Assistant Principal, 25 May 1943" 
-           description="b. 1, f. 38, Flann O'Brien Papers (MS1997-027)" 
+           description="b. 1, f. 38, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)" 
            side="left" %}}
 In May 1943, while completing the tribunal’s report on the Cavan orphanage fire, O’Nolan was informed of his appointment as Acting Assistant Principal in the Department of Local Government and Public Health. Since the appointment was presumably to fill a vacancy he would have known about and perhaps discussed with his supervisor, Minister MacEntee, it is hard to explain why he reacted so angrily to the notification. Was he expecting more pay, or a permanent promotion? Was he upset that no parties were held accountable for the fatal fire? Or was he just foully drunk?
 

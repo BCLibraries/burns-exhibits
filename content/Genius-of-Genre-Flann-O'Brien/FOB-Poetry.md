@@ -35,15 +35,15 @@ O’Nolan’s archives preserve unpublished poetic fragments, such as bits of do
 {{% galleryrow%}}
 
 {{% figure src="../048A_NCBNotebook.jpg" headline="National City Bank notebook, with ms. poem 'I deem it most tough...'"
-description="b. 24, Flann O'Brien Papers (MS1997-027)"
+description="b. 24, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)"
 %}}
 
 {{% figure src="../127_CruiskeenLawnTypescript_p4.jpg" headline="Longhand manuscript for Cruiskeen Lawn column that includes a quatrain poem about Columcille."
-description="b. 3, f. 33, Flann O'Brien Papers (MS1997-027)"
+description="b. 3, f. 33, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)"
 %}}
 
 {{% figure src="../047B_FountainPen.jpg" headline="Brian O'Nolan's fountain pen"
-description="b. 24, f. 21, Flann O'Brien Papers (MS1997-027)"
+description="b. 24, f. 21, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)"
 %}}
 
 {{% /galleryrow%}}
@@ -57,10 +57,10 @@ In one of the columns selected for the *Best of Myles* compilation, O’Nolan ch
 {{% galleryrow%}}
 
 {{% figure src="../003B-2_AtSwim2Birds_P94-95.jpg" headline=""
-description="b. 24, Flann O'Brien Papers (MS1997-027)"
+description="b. 24, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)"
 %}}
 
 {{% figure src="../126A_BestofMyles_p238-239.jpg" headline="'... there is no excuse for poetry.'"
-desription="O'Brien, *The Best of Myles*, PR6029 .N56 B4 1968 O'BRIEN LIBRARY "%}}
+desription="O'Brien, [*The Best of Myles*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332439120001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PR6029 .N56 B4 1968 O'BRIEN LIBRARY "%}}
 
 {{% /galleryrow%}}

@@ -16,7 +16,7 @@ type: "exhibit"
 
 {{% figure src="../009I-B_FaustusKelly.jpg"
            headline="Abbey Theatre Program, Faustus Kelly"
-           description="b. 1, f. 46, Flann O'Brien Papers (MS1997-027)"
+           description="b. 1, f. 46, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)"
            side="right" %}}
 
 Although critics have tended to dismiss O’Nolan’s shorter fiction as byproducts of failed attempts to establish himself as a novelist, from another perspective they appear to reflect a deeper ambition to reach mass rather than elite audiences, as evidenced by his concurrent forays into writing for the stage, radio, and the new medium of television. He in fact rewrote several of his short stories as dramas. In other cases, he adapted dramatic works by others for the Irish stage or considered publishing his plays.
@@ -33,15 +33,15 @@ Dublin’s main mid-century literary journal, *The Bell*, was founded in the fal
 {{% galleryrow %}}
 
 {{% galleryfigure src="../005B_TwoInOne.jpg" headline="The Bell" %}}
-na Gopaleen, "Two in One," The Bell XIX, no. 8 (1954), PR6029 .N56 T96 1954 O'BRIEN LIBRARY
+na Gopaleen, "Two in One," [*The Bell XIX*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21347983050001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), no. 8 (1954), PR6029 .N56 T96 1954 O'BRIEN LIBRARY
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../113-Dead-Spit_TP.png" headline="Typescript for 'Dead Spit of Kelly'" %}}
-b. 5, f. 2 , Flann O'Brien Papers (MS1997-027)
+b. 5, f. 2 , [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../113-Deadspit-p-4.png" headline="'Dead Spit of Kelly', TV play, dramatised version of Myles na Gopaleen's 'Two in One,' 1962" %}}
-b. 5, f. 2 , Flann O'Brien Papers (MS1997-027)
+b. 5, f. 2 , [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -50,7 +50,7 @@ b. 5, f. 2 , Flann O'Brien Papers (MS1997-027)
 
 {{% figure src="../114-Flight.png"
            headline="'Flight,' TV playscript, 1962"
-           description="b. 5, f. 5, Flann O'Brien Papers (MS1997-027)"
+           description="b. 5, f. 5, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)"
            side="right" %}}
 
 Ireland’s national airline service, Aerlínte Éireann, was renamed Aer Lingus on January 1, 1960. Later that year, it acquired three Boeing 720 jets to provide transatlantic service to New York and Boston.
@@ -66,19 +66,19 @@ Two of O’Nolan’s plays were staged at the Abbey Theatre in early 1942, Faust
 {{% galleryrow %}}
 
 {{% galleryfigure src="../009I-B_FaustusKelly.jpg" headline="Abbey Theatre Program, Faustus Kelly, 1943" %}}
-b. 1, f. 49 , Flann O'Brien Papers (MS1997-027)
+b. 1, f. 49 , [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../112-Thirst-Playscript.png" headline="'Thirst', playscript for stage, carbon copy" %}}
-b. 4, f. 14 , Flann O'Brien Papers (MS1997-027)
+b. 4, f. 14 , [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../110-Thirst-Radio.png" headline="'Make it a Double!' adaptation of 'Thirst' for radio" %}}
-b. 4, f. 14 , Flann O'Brien Papers (MS1997-027)
+b. 4, f. 14 , [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../111-Thirst-TV.png" headline="Television script for 'Thirst,' no date" %}}
-b. 4, f. 14 , Flann O'Brien Papers (MS1997-027)
+b. 4, f. 14 , [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -92,11 +92,11 @@ As a reward and enticement to do further business, O’Nolan offered to fly Mill
 {{% galleryrow %}}
 
 {{% galleryfigure src="../074-CCL-to-Miller.png" headline="O'Nolan carbon copy letter to A.T. Miller, 14 Oct 1965, re: sale of mss. to America" %}}
-b. 1, f. 19 , Flann O'Brien Papers (MS1997-027)
+b. 1, f. 19 , [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../009M_SaintsMarching.jpg" headline="*When The Saints go Cycling In, Gate Theatre Program, 1965" %}}
-b. 4, f. 50 , Flann O'Brien Papers (MS1997-027)
+b. 4, f. 50 , [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}

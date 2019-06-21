@@ -23,4 +23,5 @@ The interpretative labels owe much to scholarship that has flourished around Fla
 Gracious thanks are due to the many staff of Burns Library who contributed to the concept, design, editing, and installation of this exhibit, as well as the processing and preservation of Flann’s documentary legacy.
 
 Christian Dupont
+
 Burns Librarian
