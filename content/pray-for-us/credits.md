@@ -4,7 +4,7 @@ title: "Credits"
 description: ""
 
 # Page order (1 is 1st page, etc.)
-weight: 1000
+weight: 5
 alwaysopen: true
 
 # Change to false to publish.

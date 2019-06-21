@@ -3,7 +3,7 @@ title: "Inscriptions"
 description: "Inscriptions on prayer cards"
 
 # Page order
-weight:  2
+weight:  3
 alwaysopen: true
 
 # Change to false to publish.
