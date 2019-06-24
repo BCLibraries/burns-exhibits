@@ -10,6 +10,7 @@
 @import 'exhibit-nav.scss';
 @import 'prev-next-nav';
 @import 'breadcrumbs';
+@import 'exhibit-list.scss';
 
 // Shortcodes
 @import 'shortcodes/large-gallery-figure';
@@ -49,4 +50,14 @@ footer {
 
 .exhibit-title {
     @extend .col-md-12;
+    font-weight: 600;
+    margin-bottom: 1em;
+}
+
+.exhibit-subtitle {
+    margin-top: .5em;
+    display: block;
+    color: #7a7a7a;
+    font-size: .75em;
+    font-weight: 400;
 }

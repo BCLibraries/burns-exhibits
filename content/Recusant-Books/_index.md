@@ -3,7 +3,8 @@
 title: "Introduction"
 
 # Title of exhibit
-exhibit_title: "Recusant Books: Catholike Life & Literature In an Age of Persecution"
+exhibit_title: "Recusant Books"
+exhibit_subtitle: "Catholike Life & Literature In an Age of Persecution"
 
 date: 2019-04-18T14:19:02-04:00
 

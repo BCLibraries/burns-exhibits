@@ -3,7 +3,8 @@
 title: "Introduction"
 
 # Title of exhibit
-exhibit_title: "Around the World in 80 Books: A Selection of Publishers Trade Bindings"
+exhibit_title: "Around the World in 80 Books"
+exhibit_subtitle: "A Selection of Publishers Trade Bindings"
 
 date: 2019-05-02T15:53:26-04:00
 

@@ -3,7 +3,8 @@
 title: "Introduction"
 
 # Title of exhibit
-exhibit_title: "A Common Cause: The Lives and Work of David Goldstein and Martha Moore Avery"
+exhibit_title: "A Common Cause"
+exhibit_subtitle: "The Lives and Work of David Goldstein and Martha Moore Avery"
 
 date: 2019-04-17T15:02:05-04:00
 
