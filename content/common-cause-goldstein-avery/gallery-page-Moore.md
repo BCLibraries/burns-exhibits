@@ -24,7 +24,7 @@ When Avery was 19, her grandfather set up her in business as a milliner in Ellsw
 
 
 **Socialism and the Karl Marx Class**
-{{% largefigure src="../022-022BMarxClass.jpg" headline="Karl Marx class in Social Economics flier, 1899-1902." description="b. 42, f. 25, David Goldstein and Martha Moore Avery Papers [(MS1986-167)](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21387017070001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)" size="large" %}}
+{{% largefigure src="../022-022BMarxClass.jpg" headline="Karl Marx class in Social Economics fliers, 1899-1902." description="b. 42, f. 25, David Goldstein and Martha Moore Avery Papers [(MS1986-167)](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21387017070001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)" size="large" %}}
 In Boston Avery was exposed to a wide variety of new philosophies and social reform movements. A Unitarian, she became interested in Theosophy and Christian Science; she also studied metaphysics with Charles D. Sherman and joined the Nationalist Club, an elite Boston organization that supported the nationalization of all industry. Avery soon became dissatisfied with Nationalism, and joined the Socialist Labor Party in 1891. She became such a popular public speaker for the party that she was able to make her living that way. In 1896, she founded the Karl Marx Class (later the Boston School of Political Economy) because she was afraid that American Socialists did not have a clear understanding of Marx’s theories; it was around this time that she met fellow Socialist Labor Party member David Goldstein, who would become her staunchest ally and lifelong friend. In 1900, after an unsuccessful internal coup attempt by Avery, Avery and Goldstein left the Socialist Labor Party and joined the Socialist Party, which had formed from a splinter group dubbed the Kangaroos.
 {{% /largefigure %}}
 
@@ -52,6 +52,6 @@ Avery was instrumental in founding the Philomatheia Club, a ladies auxiliary to 
 
 
 **Convert from Marx to Christ**
-{{% largefigure src="../032_ConvertMarxChrist.JPG.jpg" headline="Convert from Marx to Christ” card, undated." description="b. 81, f. 51, David Goldstein and Martha Moore Avery Papers [(MS1986-167)](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21387017070001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)" size="small" %}}
+{{% largefigure src="../032_ConvertMarxChrist.JPG.jpg" headline="Convert from Marx to Christ card, undated." description="b. 81, f. 51, David Goldstein and Martha Moore Avery Papers [(MS1986-167)](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21387017070001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)" size="small" %}}
 Avery continued lecturing and advocating for Catholicism and Catholic education until her death on August 8, 1929. This card is likely her funeral card; the phrase “Convert from Marx to Christ” is also engraved on her tombstone.
 {{% /largefigure %}}
