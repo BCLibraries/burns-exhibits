@@ -320,6 +320,19 @@ type: "exhibit"
 {{% /galleryrow %}}
 
 {{% galleryrow %}}
+
+{{< figure src="../PrayForUs039.png"
+           headline="Santo Bambino di Aracoeli Roma (Holy Boy of Aracoeli, Rome), c. 15th century"
+           description="A venerated wooden image of an infant Jesus, associated with healing, originally located in the Basilica of Santa Maria in Aracoeli, Rome. "
+>}}
+{{< figure src="../PrayForUs039A.png"
+           headline="Santo Bambino di Aracoeli Roma(verso)"
+           description=""
+>}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
 {{< figure src="../PrayForUs035.png"
            headline="St. Ludovicus (Louis), France, 1214 - 1270"
            description="Feast Day: August 25. Patronages: French monarchy, lacemakers, hairdressers"

@@ -95,7 +95,7 @@ As a reward and enticement to do further business, O’Nolan offered to fly Mill
 b. 1, f. 19 , [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
 {{% /galleryfigure %}}
 
-{{% galleryfigure src="../009M_SaintsMarching.jpg" headline="*When The Saints go Cycling In, Gate Theatre Program, 1965" %}}
+{{% galleryfigure src="../009M_SaintsMarching.jpg" headline="*When The Saints go Cycling In*, Gate Theatre Program, 1965" %}}
 b. 4, f. 50 , [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
 {{% /galleryfigure %}}
 

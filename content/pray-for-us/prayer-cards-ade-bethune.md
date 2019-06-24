@@ -3,7 +3,7 @@ title: "The holy cards of Ade Bethune"
 description: "Cards designed by artist Ade Bethune"
 
 # Page order
-weight:  4
+weight:  3
 alwaysopen: true
 
 # Change to false to publish.
