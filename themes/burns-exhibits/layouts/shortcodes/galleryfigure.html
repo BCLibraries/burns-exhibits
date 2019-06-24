@@ -9,9 +9,11 @@
 
 {{ $modal_id := $raw_img | urlize }}
 {{ $figure_context := (dict "context" . "modal_id" $modal_id "img" $resized)}}
-<div>
-    <figure class="gallery-figure">
-        <img class="gallery-figure__img" src={{ $resized.RelPermalink }} alt="{{ $alt }}" data-micromodal-trigger="lightbox-{{ $modal_id }}">
+<div class="gallery-figure">
+    <figure class="gallery-figure__figure">
+        <div class="gallery-figure__img_holder">
+            <img class="gallery-figure__img" src={{ $resized.RelPermalink }} alt="{{ $alt }}" data-micromodal-trigger="lightbox-{{ $modal_id }}">
+        </div>
         <figcaption class="gallery-figure__caption">
             <h4>{{ $headline }}</h3>
                 <p>{{ $inner }}</p>

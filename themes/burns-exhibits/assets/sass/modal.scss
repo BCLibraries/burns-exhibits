@@ -26,7 +26,7 @@
 
 .modal__container {
     background: transparent;
-    overflow: hidden;
+    overflow: visible;
     padding: 0;
     max-height: 95vh;
     border-radius: 4px;
@@ -51,10 +51,11 @@
 
 .modal__close {
     background: transparent;
+    color: white;
     border: 0;
     position: absolute;
-    top: 2em;
-    right: .5em;
+    top: 0;
+    right: -1em;
 }
 
 .modal__header .modal__close:before {
