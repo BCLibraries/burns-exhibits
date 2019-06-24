@@ -44,13 +44,17 @@ main {
     }
 }
 
+h1, h2, h3, h4, h5 {
+    font-family: $font-family-serif;
+    font-weight: 400;
+}
+
 footer {
     min-height: 300px;
 }
 
 .exhibit-title {
     @extend .col-md-12;
-    font-weight: 600;
     margin-bottom: 1em;
 }
 
