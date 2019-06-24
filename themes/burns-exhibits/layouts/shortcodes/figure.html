@@ -13,7 +13,9 @@
 
 <div class="embedded-figure">
     <figure class="embedded-figure__figure embedded-figure--{{ $side }}">
-        <img class="embedded-figure__img lightbox__launch-button" src={{ $resized.RelPermalink }} alt="{{ $alt }}" data-micromodal-trigger="lightbox-{{ $modal_id }}">
+        <div class="embedded-figure__img-holder">
+            <img class="embedded-figure__img lightbox__launch-button" src={{ $resized.RelPermalink }} alt="{{ $alt }}" data-micromodal-trigger="lightbox-{{ $modal_id }}">
+        </div>
         <figcaption class="embedded-figure__caption">
             <h4>{{ $headline }}</h4>
             {{ if ne $description "" }}
