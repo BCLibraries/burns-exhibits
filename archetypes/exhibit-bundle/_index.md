@@ -4,6 +4,7 @@ title: "Introduction"
 
 # Title of exhibit
 exhibit_title: "{{ replace .Name "-" " " | title }}"
+exhibit_subtitle: ""
 
 date: {{ .Date }}
 
