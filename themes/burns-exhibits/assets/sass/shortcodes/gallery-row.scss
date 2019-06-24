@@ -15,7 +15,7 @@
         align-items: flex-end;
         margin-bottom: 5em;
 
-        .embedded-figure {
+        .embedded-figure__figure {
             max-width: 100%;
             padding: 1rem;
             margin: .5em 1em .5em 1em;
@@ -50,7 +50,7 @@
     /* For backwards compatibility. There used to be a 
        {{<galleryfigure>}} shortcode, but we just use 
        {{<figure>}} for everything now. */
-    .gallery-figure {
+    .gallery-figure__figure {
         margin: .5em 1em .5em 1em;
     }
 
@@ -60,6 +60,6 @@
 
     .gallery-figure__img {
         max-height: 400px;
-        cursor: pointer;
+
     }
 }

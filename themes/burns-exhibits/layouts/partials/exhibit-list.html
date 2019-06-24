@@ -1,9 +1,29 @@
 <nav>
     <h2>Exhibits</h2>
     <ul>
-        {{ range where .Site.Pages "Kind" "section" }}
+        {{/* Get all the sections */}}
+        {{ $section := where .Site.Pages "Kind" "section"  }}
+
+        {{/* Gets the first eight exhibits */}}
+        {{ $eight :=  first 8 $section}}
+        
+        {{/* Gets the first two of the first eight */}}
+        {{ $first_two := first 2 $section }}
+
+        {{/* Gets the last six of the first eight */}}
+        {{ $last_six := last 6 $section }}
+
+        {{ range $first_two }}
         <li>
-            <a href="{{ .RelPermalink}}">
+            <a href="{{ .RelPermalink}}" style="font-weight: bold;">
+            {{safeHTML .Params.Pre}}{{.Params.exhibit_title}}{{safeHTML .Params.Post}}
+            </a>
+        </li>
+        {{ end }}
+
+        {{ range $last_six }}
+        <li>
+            <a href="{{ .RelPermalink}}" style="font-size: .85em;">
             {{safeHTML .Params.Pre}}{{.Params.exhibit_title}}{{safeHTML .Params.Post}}
             </a>
         </li>
