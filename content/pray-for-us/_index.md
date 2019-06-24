@@ -15,6 +15,9 @@ front_image: "pray-for-us-poster.png" # Replace with the real image
 front_caption_headline: ""
 front_caption_text: ""
 
+# Change to false if this exhibit is not currently running.
+current: true
+
 # Change to false to publish.
 draft: true
 
