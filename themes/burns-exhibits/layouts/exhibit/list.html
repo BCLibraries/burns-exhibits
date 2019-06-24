@@ -10,7 +10,7 @@
         {{ end }}
         <figcaption>
             <h3>{{ .Params.front_caption_headline }}</h3>
-            <p>{{ .Params.front_caption_text }}</p>
+            <p>{{ .Params.front_caption_text | markdownify }}</p>
         </figcaption>
     </figure>
 </div>
