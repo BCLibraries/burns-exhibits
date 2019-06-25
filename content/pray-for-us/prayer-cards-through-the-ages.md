@@ -133,7 +133,7 @@ type: "exhibit"
 
 {{< figure src="../PrayForUs049a.png"
            headline="Jesus Mercy, Mary Help (verso)"
-           description="A small prayer that can be said often throughout the day when faced with temptations or trials"
+           description=""
 >}}
 
 {{% /galleryrow %}}
@@ -144,9 +144,23 @@ type: "exhibit"
            headline="Prayer to our Blessed Mother, circa 1955"
            description="Honoring Mary, the mother of God, and asking her, as a host of heaven, for help as we struggle on earth"
 >}}
+
+{{< figure src="../PrayForUs048A.png"
+           headline="Prayer to our Blessed Mother (verso)"
+           description=""
+>}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
 {{< figure src="../PrayForUs024.png"
            headline="St. Charles Borromeo Milan, Italy (1538 - 1584)"
            description="Feast Day: November 4. Patronages: apple orchards, intestinal disorders, spiritual leaders"
+>}}
+
+{{< figure src="../PrayForUs024A.png"
+           headline="St. Charles Borromeo Milan (verso)"
+           description=""
 >}}
 
 {{% /galleryrow %}}
@@ -156,24 +170,47 @@ type: "exhibit"
            headline="Priez pour moi"
            description="Pray for me"
 >}}
+
+{{< figure src="../PrayForUs030A.png"
+           headline="Priez pour moi (verso)"
+           description=""
+>}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
 {{< figure src="../PrayForUs031.png"
            headline="The Cross in My Pocket"
            description="A portable reminder of faith and a source of comfort."
 >}}
-
+{{< figure src="../PrayForUs031A.png"
+           headline="The Cross in My Pocket (verso)"
+           description=""
+>}}
 {{% /galleryrow %}}
 
 {{% galleryrow %}}
 
 {{< figure src="../PrayForUs033.png"
            headline="John 1:1-5"
-           description="In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. All things came into being through him, and without him not one thing came into being.What has come into being in him was life,and the life was the light of all people. The light shines in the darkness, and the darkness did not overcome it."
+           description="In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. All things came into being through him, and without him not one thing came into being. What has come into being in him was life, and the life was the light of all people. The light shines in the darkness, and the darkness did not overcome it."
 >}}
+
+{{< figure src="../PrayForUs033A.png"
+           headline="John 1:1-5 (verso)"
+           description=""
+>}}
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
 {{< figure src="../PrayForUs025.png"
            headline=""
            description=""
 >}}
-
+{{< figure src="../PrayForUs025A.png"
+           headline=""
+           description=""
+>}}
 {{% /galleryrow %}}
 
 {{% galleryrow %}}
@@ -182,9 +219,21 @@ type: "exhibit"
            headline="Spring: Monastery Farm (last line); Thomas Merton, original by Jorge Carrera Andrade, 1948"
            description="For, for all of these, their spring is their necessity; Which, by Your Cross and your grace, is made our glory and our Sacrament; As every golden moment mints the Christ Who keeps us free."
 >}}
+
+{{< figure src="../PrayForUs027A.png"
+           headline="Spring: Monastery Farm (verso)"
+           description=""
+>}}
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
 {{< figure src="../PrayForUs037.png"
            headline="Adeste Fideles"
            description="Christmas carol attributed to different authors and centuries. Verse 8: Jesu infanti corda praebeamus;(We to the Christ-child, bring our hearts oblations)"
+>}}
+{{< figure src="../PrayForUs037A.png"
+           headline="Adeste Fideles (verso)"
+           description="
 >}}
 
 {{% /galleryrow %}}
@@ -336,5 +385,9 @@ type: "exhibit"
 {{< figure src="../PrayForUs035.png"
            headline="St. Ludovicus (Louis), France, 1214 - 1270"
            description="Feast Day: August 25. Patronages: French monarchy, lacemakers, hairdressers"
+>}}
+{< figure src="../PrayForUs035A.png"
+           headline="St. Ludovicus (Louis), (verso)"
+           description=""
 >}}
 {{% /galleryrow %}}
