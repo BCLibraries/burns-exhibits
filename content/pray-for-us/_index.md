@@ -11,7 +11,7 @@ date: 2019-05-21T14:34:16-04:00
 weight: 1
 
 # Big image on first page.
-front_image: "pray-for-us-poster.png" # Replace with the real image
+front_image: "PrayForUs-banner.png" # Replace with the real image
 front_caption_headline: ""
 front_caption_text: ""
 

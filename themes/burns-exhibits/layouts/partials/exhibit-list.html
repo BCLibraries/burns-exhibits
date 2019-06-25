@@ -1,12 +1,12 @@
-<nav>
-    <h2>Exhibits</h2>
-    <ul>
+<nav class="exhibit-list">
+    <h2 class="exhibit-list__heading">Exhibits</h2>
+    <ul class="exhibit-list__list">
         {{/* Get all the sections */}}
         {{ $section := where .Site.Pages "Kind" "section"  }}
 
         {{/* Gets the first eight exhibits */}}
         {{ $eight :=  first 8 $section}}
-        
+
         {{/* Gets the first two of the first eight */}}
         {{ $first_two := first 2 $section }}
 
@@ -22,9 +22,14 @@
         {{ end }}
 
         {{ range $section }}
-        <li>
-            <a href="{{ .RelPermalink}}" style="font-size: .85em;">
-            {{safeHTML .Params.Pre}}{{.Params.exhibit_title}}{{safeHTML .Params.Post}}
+        <li class="exhibit-list__exhibit">
+            <a class="exhibit-list__link" href="{{ .RelPermalink}}">
+                {{safeHTML .Params.Pre}}
+                <span class="exhibit-list__title">{{.Params.exhibit_title}}</span>
+                {{ if isset .Params "exhibit_subtitle" | and (ne .Params.exhibit_subtitle "")}}
+                <span class="exhibit-list__subtitle">{{.Params.exhibit_subtitle}}</span>
+                {{ end }}
+                {{safeHTML .Params.Post}}
             </a>
         </li>
         {{ end }}

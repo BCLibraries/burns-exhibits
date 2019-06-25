@@ -1,6 +1,9 @@
+{{ define "exhibit-heading" }}
+{{ partial "exhibit-heading.html" . }}
+{{ end }}
+
 {{ define "main" }}
 
-<h2 class="exhibit-title">{{.Params.exhibit_title}}</h2>
 <div class="col-md-12 main-image">
     <figure>
         {{ if isset .Params "front_image" | and (ne .Params.front_image "") }}
@@ -18,6 +21,6 @@
     {{ .Content }}
 </div>
 <div class="col-md-12">
-        {{ partial "prev-next.html" . }}
+    {{ partial "prev-next.html" . }}
 </div>
 {{ end }}

@@ -1,0 +1,5 @@
+<h2 class="exhibit-title">{{.Params.exhibit_title}}
+    {{ if isset .Params "exhibit_subtitle" | and (ne .Params.exhibit_subtitle "")}}
+    <span class="exhibit-subtitle">{{ .Params.exhibit_subtitle }}</span>
+    {{ end }}
+</h2>
