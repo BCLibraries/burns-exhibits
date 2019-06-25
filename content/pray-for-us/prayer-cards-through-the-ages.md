@@ -233,7 +233,7 @@ type: "exhibit"
 >}}
 {{< figure src="../PrayForUs037A.png"
            headline="Adeste Fideles (verso)"
-           description="
+           description=""
 >}}
 
 {{% /galleryrow %}}
@@ -349,7 +349,7 @@ type: "exhibit"
            description=""
 >}}
 {{< figure src="../PrayForUs032A.png"
-           headline="(verso)"
+           headline="Mater Pietatis (verso)"
            description=""
 >}}
 
