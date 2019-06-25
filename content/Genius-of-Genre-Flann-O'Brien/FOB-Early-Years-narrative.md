@@ -13,10 +13,12 @@ draft: true
 type: "exhibit"
 ---
 
+
 {{% figure src="../12-13-14-ONolans.jpg"
            headline="Michael V. O'Nolan; Agnes O'Nolan; O'Nolan children ca. 1919" 
            description="b. 1, f. 61/62/66, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)" 
            side="center" size="large"%}}
+
 		   
 **Border Baby**
 
@@ -33,7 +35,7 @@ Unlike James Joyce and Samuel Beckett—Irish-born writers who gained greater fa
 **Father Figure**
 
 {{% figure src="../Studio-Session-836.jpg" headline="Pocket Missal" 
-description="b. 24, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)" side="center" size="large" %}}
+description="b. 24, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)" side="left"  size="small" %}}
 
 Michael Victor O'Nolan died suddenly of a heart attack in 1937, leaving Brian as the primary breadwinner for his mother and ten siblings, of which he was the third. Having recently finished his studies and taken a job in the civil service like his father, he supported the family by acting as secretary to a series of senior ministers until a controversy forced his resignation in 1953.
 
