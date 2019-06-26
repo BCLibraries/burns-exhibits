@@ -13,7 +13,7 @@ draft: true
 type: "exhibit"
 ---
 
-{{% figure src="../pray-for-us-poster.jpg" headline="" size="x-large" %}}
+{{% largefigure src="../pray-for-us-poster.jpg" headline="" size="large" %}}
 
 __Collections Used:__
  Hilaire Belloc Papers [(MS2007-012), (MS2005-003)](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21311957810001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)
