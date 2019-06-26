@@ -15,6 +15,10 @@
             </div>
         </div>
 
+        <div class="row exhibit-title-row">
+            {{- block "exhibit-heading" . }}{{- end }}
+        </div>
+
         <div class="row main-page-stuff">
         <div class="col-md-3">
             {{ if ne .Kind "home" }}

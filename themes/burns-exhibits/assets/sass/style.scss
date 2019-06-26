@@ -10,6 +10,7 @@
 @import 'exhibit-nav.scss';
 @import 'prev-next-nav';
 @import 'breadcrumbs';
+@import 'exhibit-list.scss';
 
 // Shortcodes
 @import 'shortcodes/large-gallery-figure';
@@ -43,10 +44,24 @@ main {
     }
 }
 
+h1, h2, h3, h4, h5 {
+    font-family: $font-family-serif;
+    font-weight: 400;
+}
+
 footer {
     min-height: 300px;
 }
 
 .exhibit-title {
     @extend .col-md-12;
+    margin-bottom: 1em;
+}
+
+.exhibit-subtitle {
+    margin-top: .5em;
+    display: block;
+    color: #7a7a7a;
+    font-size: .75em;
+    font-weight: 400;
 }

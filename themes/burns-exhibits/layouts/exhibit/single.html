@@ -1,15 +1,20 @@
-{{ define "main" }}
+{{ define "exhibit-heading" }}
 {{ with .Site.GetPage .Section }}
-<h2 class="exhibit-title">{{.Params.exhibit_title}}</h2>
+{{ partial "exhibit-heading.html" . }}
 {{ end }}
-<div class="title-row col-md-12">
-    <h3 class="page-title">{{.Title}}</h3>
-</div>
-<div class="col-md-12">
-    {{ .Content }}
-</div>
-<div class="col-md-12">
-    {{ partial "prev-next.html" . }}
+{{ end }}
+
+{{ define "main" }}
+<div class="exhibit-interior">
+    <div class="title-row col-md-12">
+        <h3 class="page-title">{{.Title}}</h3>
+    </div>
+    <div class="col-md-12">
+        {{ .Content }}
+    </div>
+    <div class="col-md-12">
+        {{ partial "prev-next.html" . }}
+    </div>
 </div>
 </div>
 {{ end }}

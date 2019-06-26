@@ -63,8 +63,8 @@
 }
 
 .large-gallery-figure__img {
-    width: 100%;
-    cursor: pointer
+    cursor: pointer;
+    max-height: 400px;
 }
 
 .large-gallery-figure__caption {

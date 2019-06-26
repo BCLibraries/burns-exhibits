@@ -3,7 +3,7 @@ title: "The holy cards of Ade Bethune"
 description: "Cards designed by artist Ade Bethune"
 
 # Page order
-weight:  4
+weight:  3
 alwaysopen: true
 
 # Change to false to publish.
@@ -26,19 +26,24 @@ These holy cards were all designed by Ade Bethune( (1914-2002)), who was born in
            description="Patronages: fathers, immigrants, workers"
 >}}
 
-{{< figure src="../PrayForUs011.png"
-           headline="St. Joan of Arc, France, 1412 - 1431"
-           description="Patronages: France, martyrs, captives"
->}}
+
 
 {{% /galleryrow %}}
 
 {{% galleryrow %}}
 
+{{< figure src="../PrayForUs011.png"
+           headline="St. Joan of Arc, France, 1412 - 1431"
+           description="Patronages: France, martyrs, captives"
+>}}
+
 {{< figure src="../PrayForUs012.png"
            headline="St. Martin de Porres, Peru, 1579 - 1639"
            description="Patronages: race relations, public education, lottery winners"
 >}}
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
 
 {{< figure src="../PrayForUs013.png"
            headline="St. George, Roman Empire, Died 303"
@@ -63,18 +68,23 @@ These holy cards were all designed by Ade Bethune( (1914-2002)), who was born in
            description="Patronages: missionaries, HIV/AIDS sufferers, tuberculosis sufferers"
 >}}
 
-{{< figure src="../PrayForUs017.png"
-           headline="St. Isaac Jogues, New France, North America, 1607 - 1646"
-           description="Patronages: North America"
->}}
+
 {{% /galleryrow %}}
 
 {{% galleryrow %}}
 
+{{< figure src="../PrayForUs017.png"
+           headline="St. Isaac Jogues, New France, North America, 1607 - 1646"
+           description="Patronages: North America"
+>}}
 {{< figure src="../PrayForUs018.png"
            headline="St. Margaret, Queen of Scotland, Scotland, c. 1045 - 1093"
            description="Patronages: Scotland,  Anglo-Scottish relations"
 >}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
 
 {{< figure src="../PrayForUs019.png"
            headline="St. Gaspar del Bufalo, Rome, Italy, 1786 - 1837"
@@ -101,7 +111,11 @@ These holy cards were all designed by Ade Bethune( (1914-2002)), who was born in
 
 {{% /galleryrow %}}
 
+{{% galleryrow %}}
+
 {{% figure src="../PrayForUs022.png" headline="Judith"
 description="A figure from the Catholic Old Testament who, upset with the Jewish people for not trusting God to deliver them from their conquerors, gains the trust of the Assyrian general, Holofernes. She cuts Holofernes’ head off and takes it back to her people, who rally and defeat their enemy." side="left" size="small" %}}
+
+{{% /galleryrow %}}
 
 

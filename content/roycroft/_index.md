@@ -3,7 +3,8 @@
 title: "Introduction"
 
 # Title of exhibit
-exhibit_title: "Dreams of Art & Glory: Book Craft by the Roycrofters"
+exhibit_title: "Dreams of Art & Glory"
+exhibit_subtitle: "Book Craft by the Roycrofters"
 
 date: 2019-05-15T10:46:19-04:00
 

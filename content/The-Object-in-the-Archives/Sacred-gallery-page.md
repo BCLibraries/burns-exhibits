@@ -17,7 +17,7 @@ The Ursuline Convent Academy, opened in 1820, was the first Catholic girls’ sc
 {{% galleryrow %}}
 
 {{% galleryfigure src="../038-VellumTrunk1.jpg" headline="Vellum Trunk" %}}
-b. 2, Elizabeth Hayward Collection of Ursuline Academy Materials (MS2011-027)
+b. 2, [Elizabeth Hayward Collection of Ursuline Academy Materials](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21419981350001021&context=L&vid=bclib_new&search_scope=onesearch&tab=onesearch&lang=en_US) (MS2011-027)
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -27,7 +27,7 @@ The Sisters of the Holy Cross and the Seven Dolours used this iron to crimp the 
 {{% galleryrow %}}
 
 {{% galleryfigure src="../043-fluter-double.jpg" headline="Geneva Hand Fluter" %}}
-b. 21, Liturgy and Life Collection (BC2013-017)
+b. 21, [Liturgy and Life Collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21440260550001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (BC2013-017)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../Wimple.png" headline="Sisters of Holy Cross fluted wimple" %}}
@@ -41,15 +41,15 @@ Liturgical vestments worn by clergy are meant to both glorify God and denote the
 {{% galleryrow %}}
 
 {{% galleryfigure src="../046-Skullcap.jpg" headline="Zucchetto" %}}
-b. 103, Liturgy and Life Collection (BC2013-017)
+b. 103, [Liturgy and Life Collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21440260550001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (BC2013-017)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../044-Mitre2.jpg" headline="Mitre" %}}
-b. 103, Liturgy and Life Collection (BC2013-017)
+b. 103, [Liturgy and Life Collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21440260550001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (BC2013-017)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../041-Chasuble2.jpg" headline="Chasuble, or outer vestment worn by clergy while celebrating mass" %}}
-b. 272, Liturgy and Life Collection (BC2013-017)
+b. 272, [Liturgy and Life Collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21440260550001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (BC2013-017)
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -59,15 +59,15 @@ Sick call sets, often kept by lay people, are used by priests performing the sac
 {{% galleryrow %}}
 
 {{% galleryfigure src="../040-SickCallSet.jpg" headline="Sick call set" %}}
-b. 88, Liturgy and Life Collection (BC2013-017)
+b. 88, [Liturgy and Life Collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21440260550001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (BC2013-017)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../040-SickCallSetInstruction.jpg" headline="Sick Call Instructions" %}}
-b. 88, Liturgy and Life Collection (BC2013-017)
+b. 88, [Liturgy and Life Collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21440260550001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (BC2013-017)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../042-Clapper.jpg" headline="Clapper" %}}
-b. 84, Liturgy and Life Collection (BC2013-017)
+b. 84, [Liturgy and Life Collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21440260550001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (BC2013-017)
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
