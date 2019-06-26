@@ -20,7 +20,7 @@ The [Williams Collection](http://hdl.handle.net/2345/1022), in addition to its b
 {{% /largefigure %}}
 
 {{% largefigure src="F6A_1762Cuba.JPG"
-                headline="map detail
+                headline="map detail"
                 description="A *New Chart of the Seas Surrounding the Island of Cuba.* For the London Magazine. 1762." 
                 size="large" align="center" %}}
 			
