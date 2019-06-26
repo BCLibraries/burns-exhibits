@@ -3,7 +3,7 @@ title: "Maps & Manuscripts from the Williams Collection"
 description: ""
 
 # Page order (1 is 1st page, etc.)
-weight:  8
+weight:  6
 alwaysopen: true
 
 # Change to false to publish.
@@ -23,6 +23,7 @@ The [Williams Collection](http://hdl.handle.net/2345/1022), in addition to its b
                 headline="map detail
                 description="A *New Chart of the Seas Surrounding the Island of Cuba.* For the London Magazine. 1762." 
                 size="large" align="center" %}}
+			
 {{% /largefigure %}}
 
 {{% largefigure src="../intro-image.jpg"
