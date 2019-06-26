@@ -27,16 +27,18 @@ A weather report, birthday wish, major life event, or news flash -- all can be p
             description="Box 1, Folder 4, Hilaire Belloc papers (MS2007-005)"
             align="center"
         %}}
-
+{{% /largefigure %}}
 {{% largefigure src="../13a_BeingSocial_GreeneTelegram.jpg"
             headline="Telegram"
             description="Box 59, Folder 8, [Graham Greene papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21351254200001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1995-003)"
             align="center"
 
 %}}
+{{% /largefigure %}}
 {{% largefigure src="../13b_BeingSocial_GreeneTelegram.jpg"
             headline="Telegram"
             description="Box 59, Folder 8, [Graham Greene papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21351254200001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1995-003)"
             align="center"
 
 %}}
+{{% /largefigure %}}
