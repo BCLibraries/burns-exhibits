@@ -14,7 +14,7 @@ type: "exhibit"
 
 {{% largefigure src="F4A_1676SpeedPortRoyal.jpg"
                 headline="map detail"
-                description="Speed, John. *A Map of Jamaica and Barbados. Sold by Thomas Bassett in Fleetstreet and Richard Chiswell in St. Pauls Churchyard.* London, 1676."
+                description="Speed, John. *A Map of Jamaica and Barbados. Sold by Thomas Basset in Fleetstreet and Richard Chiswell in St. Pauls Churchyard.* London, 1676."
                 size="x-large" %}}
 The [Williams Collection](http://hdl.handle.net/2345/1022), in addition to its books, also includes maps and manuscripts. This selection from the collection connects to the theme of “pirate treasures” and includes images of several maps, along with two documents – one, a letter describing the capture of an English privateer in 1682, and the other about the disastrous earthquake of 1692 which devastated Port Royal, Jamaica.
 {{% /largefigure %}}
@@ -26,11 +26,53 @@ The [Williams Collection](http://hdl.handle.net/2345/1022), in addition to its b
 			
 {{% /largefigure %}}
 
-{{% largefigure src="../intro-image.jpg"
+{{% largefigure src="F_Barros letter p1.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="left" %}}
 Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+{{% /largefigure %}}
+
+{{% largefigure src="F_Broughton letter.jpg"
+                headline="Venenatis Euismod Tristique"
+                size="medium"
+                align="right" %}}
+Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+{{% /largefigure %}}
+
+{{% largefigure src="F3A_1672Visscher.JPG"
+                headline="map detail"
+                description="Visscher, Nicolaes. *Insulae Americanae in Oceano Septentrionali ac regiones adiacentes: a C. de May usque ad Lineam Aequinoctialem  per Nicolaum Visscher.* 1672." 
+                size="large" align="center" %}}
+			
+{{% /largefigure %}}
+
+{{% largefigure src="F3B_1672Visscher.JPG"
+                headline="map detail"
+                description="Visscher, Nicolaes. *Insulae Americanae in Oceano Septentrionali ac regiones adiacentes: a C. de May usque ad Lineam Aequinoctialem  per Nicolaum Visscher.* 1672." 
+                size="large" align="center" %}}
+			
+{{% /largefigure %}}
+
+{{% largefigure src="F4B_1676SpeedPortRoyal.JPG"
+                headline="map detail"
+                size="medium"
+                align="left" %}}
+Speed, John. *A Map of Jamaica and Barbados. Sold by Thomas Bassett in Fleetstreet and Richard Chiswell in St. Pauls Churchyard.* London, 1676.
+{{% /largefigure %}}
+
+{{% largefigure src="F4C_1676SpeedPortRoyal.JPG"
+                headline="map detail"
+                size="medium"
+                align="right" %}}
+Speed, John. *A Map of Jamaica and Barbados. Sold by Thomas Bassett in Fleetstreet and Richard Chiswell in St. Pauls Churchyard.* London, 1676.
+{{% /largefigure %}}
+
+{{% largefigure src="F4D_1676SpeedPortRoyal.JPG"
+                headline="map detail"
+                size="medium"
+                align="left" %}}
+Speed, John. *A Map of Jamaica and Barbados. Sold by Thomas Bassett in Fleetstreet and Richard Chiswell in St. Pauls Churchyard.* London, 1676.
 {{% /largefigure %}}
 
 {{% largefigure src="../portrait-image.jpg"
