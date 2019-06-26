@@ -13,9 +13,10 @@ draft: true
 type: "exhibit"
 ---
 
-{{% figure src="../pray-for-us-poster.jpg" headline="" size="x-large" %}}
+{{% largefigure src="../pray-for-us-poster.png" headline="" size="large" align="right" %}}
 
 __Collections Used:__
+
  Hilaire Belloc Papers [(MS2007-012), (MS2005-003)](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21311957810001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)
 
 Ade Bethune Collection [(MS2003-025)](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21318075630001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)  
@@ -39,3 +40,5 @@ Thomas Merton Collection [(MS1986-063)](https://bc-primo.hosted.exlibrisgroup.co
 Richard G. Shea, SJ Papers [(BC2005-005)](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21351288840001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)
 
 Stanbrook Abbey Press Collection [(MS2003-020)](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21352762460001021&context=L&vid=bclib_new&lang=en_US&search_scope=bcl&adaptor=Local%20Search%20Engine&tab=bcl_only&query=any,contains,stanbrook%20abbey%20press&offset=0)
+
+{{% /largefigure %}}

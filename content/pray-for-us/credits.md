@@ -12,7 +12,7 @@ draft: true
 
 type: "exhibit"
 ---
-{{% figure src="../pray-for-us-poster.jpg" headline="" size="x-large" %}}
+{{% largefigure src="../pray-for-us-poster.png" headline="" size="medium" align="right" %}}
 
 Sponsored by Boston College Libraries
 
@@ -23,3 +23,5 @@ Katherine Fox, Head Librarian, Public Services & Engagement, Burns Library
 Kathleen Monahan, Reference, Instruction & Digital Services Librarian, Burns Library
 
 Originally displayed: Burns Library, June - September, 2019
+
+{{% /largefigure %}}

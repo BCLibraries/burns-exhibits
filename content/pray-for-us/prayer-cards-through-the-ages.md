@@ -382,12 +382,14 @@ type: "exhibit"
 {{% /galleryrow %}}
 
 {{% galleryrow %}}
+
 {{< figure src="../PrayForUs035.png"
            headline="St. Ludovicus (Louis), France, 1214 - 1270"
            description="Feast Day: August 25. Patronages: French monarchy, lacemakers, hairdressers"
 >}}
-{< figure src="../PrayForUs035A.png"
+{{< figure src="../PrayForUs035A.png"
            headline="St. Ludovicus (Louis), (verso)"
            description=""
 >}}
+
 {{% /galleryrow %}}
