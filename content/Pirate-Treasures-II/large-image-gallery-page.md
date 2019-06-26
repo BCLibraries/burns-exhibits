@@ -75,9 +75,30 @@ Speed, John. *A Map of Jamaica and Barbados. Sold by Thomas Bassett in Fleetstre
 Speed, John. *A Map of Jamaica and Barbados. Sold by Thomas Bassett in Fleetstreet and Richard Chiswell in St. Pauls Churchyard.* London, 1676.
 {{% /largefigure %}}
 
-{{% largefigure src="../portrait-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                description="Pharetra Mattis Inceptos"
-                size="small" %}}
-Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean lacinia bibendum nulla sed consectetur.
+{{% largefigure src="F5A_1721Harris.JPG"
+                headline="map detail"
+                size="medium"
+                align="left" %}}
+Harris, John, revised by John Senex. *A new Map of the Island of Jamaica most humbly inscribed to the right honorable Thomas Earl of Stamford, Etc. with inset map of the harbour of Port Royal. Part of A New Map of the English Empire in the Ocean of America or West Indies.* London, 1721.
+{{% /largefigure %}}
+
+{{% largefigure src="F5B_1721Harris.JPG"
+                headline="map detail"
+                size="medium"
+                align="right" %}}
+Harris, John, revised by John Senex. *A new Map of the Island of Jamaica most humbly inscribed to the right honorable Thomas Earl of Stamford, Etc. with inset map of the harbour of Port Royal. Part of A New Map of the English Empire in the Ocean of America or West Indies.* London, 1721.
+{{% /largefigure %}}
+
+{{% largefigure src="F6B_1762Cuba.JPG"
+                headline="map detail"
+                size="large"
+                align="left" %}}
+A *New Chart of the Seas Surrounding the Island of Cuba.* For the London Magazine. 1762.
+{{% /largefigure %}}
+
+{{% largefigure src="F6C_1762Cuba.JPG"
+                headline="map detail"
+                size="medium"
+                align="right" %}}
+A *New Chart of the Seas Surrounding the Island of Cuba.* For the London Magazine. 1762.
 {{% /largefigure %}}
