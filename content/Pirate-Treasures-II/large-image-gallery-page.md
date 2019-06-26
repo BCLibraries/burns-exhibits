@@ -1,5 +1,5 @@
 ---
-title: "Large image gallery page"
+title: "Maps & Manuscripts from the Williams Collection"
 description: ""
 
 # Page order (1 is 1st page, etc.)
@@ -12,18 +12,17 @@ draft: true
 type: "exhibit"
 ---
 
-{{% largefigure src="../intro-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                description="Dapibus Vulputate Sollicitudin Cras"
+{{% largefigure src="F4A_1676SpeedPortRoyal.jpg"
+                headline="map detail"
+                description="Speed, John. *A Map of Jamaica and Barbados. Sold by Thomas Bassett in Fleetstreet and Richard Chiswell in St. Pauls Churchyard. London, 1676."
                 size="x-large" %}}
-Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Curabitur blandit tempus porttitor.
+The [Williams Collection](http://hdl.handle.net/2345/1022), in addition to its books, also includes maps and manuscripts. This selection from the collection connects to the theme of “pirate treasures” and includes images of several maps, along with two documents – one, a letter describing the capture of an English privateer in 1682, and the other about the disastrous earthquake of 1692 which devastated Port Royal, Jamaica.
 {{% /largefigure %}}
 
-{{% largefigure src="../portrait-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                description="Fringilla Quam Consectetur Commodo" 
+{{% largefigure src="F6A_1762Cuba.JPG"
+                headline="map detail
+                description="A *New Chart of the Seas Surrounding the Island of Cuba.* For the London Magazine. 1762." 
                 size="large" align="center" %}}
-Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
 {{% /largefigure %}}
 
 {{% largefigure src="../intro-image.jpg"
