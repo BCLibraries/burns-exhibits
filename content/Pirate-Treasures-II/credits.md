@@ -13,6 +13,8 @@ draft: true
 type: "exhibit"
 ---
 
+{{% figure src="G_Fin_DeLusan.JPG" %}}
+
 Sponsored by Boston College Libraries
 
 Curator: Shelley Barber, Outreach & Reference Specialist

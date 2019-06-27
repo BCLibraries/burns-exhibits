@@ -3,7 +3,8 @@
 title: "Introduction"
 
 # Title of exhibit
-exhibit_title: "For Boston: Echoes of Football History"
+exhibit_title: "For Boston"
+exhibit_subtitle: "Echoes of Football History"
 
 date: 2019-03-05T14:44:40-05:00
 

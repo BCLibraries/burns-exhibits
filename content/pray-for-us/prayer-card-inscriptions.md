@@ -3,7 +3,7 @@ title: "Inscriptions"
 description: "Inscriptions on prayer cards"
 
 # Page order
-weight:  2
+weight:  3
 alwaysopen: true
 
 # Change to false to publish.
@@ -16,7 +16,7 @@ Holy cards are often given as gifts, with a message to the recipient written on 
 {{% galleryrow %}}
 
 {{< figure src="../PrayForUs001.png"
-           headline="Momento of Ordination/First Mass"
+           headline="Memento of Ordination/First Mass"
            description="1933"
 >}}
 

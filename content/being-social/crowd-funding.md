@@ -42,12 +42,12 @@ Have you ever invented the next big thing, but didn’t have the cash to make it
 %}}
 {{% /galleryrow %}}
 
-{{% galleryrow %}}
-{{% figure src="../41_BeingSocial_AntiCoercion.jpg"
+{{% largefigure src="../41_BeingSocial_AntiCoercion.jpg"
             headline="Irish National League Anti-Coercion Fund certificate"
             description="Box 6, Folder 8, [George D. Cahill papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21354365750001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) (MS1993-041)"
+            align="center" size="x-large"
 %}}
-{{% /galleryrow %}}
+{{% /largefigure %}}
 
 {{% galleryrow %}}
 {{% figure src="../44_BeingSocial_MS1993.041_b5_f29_a.jpg"
@@ -60,10 +60,9 @@ Have you ever invented the next big thing, but didn’t have the cash to make it
 %}}
 {{% /galleryrow %}}
 
-{{% galleryrow %}}
-{{% figure src="../43_BeingSocial_LawnPartyPhotos_BC1986032ref270001.jpg"
+{{%  largefigure src="../43_BeingSocial_LawnPartyPhotos_BC1986032ref270001.jpg"
             headline="Lawn Party Fundraiser 1908"
             description="Box 4, Folder 34 [Boston College Special Guests and Events photographs](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21425342270001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (BC1986-010)"
             align="center"
 %}}
-{{% /galleryrow %}}
+{{% /largefigure %}}

@@ -6,14 +6,12 @@
 /* At iPad/mobile breakpoints, figures should occupy 100% of 
    text width. */
 .embedded-figure {
-    max-width: 100%;
     padding: 1rem;
 }
 
 /* Styles for desktop. */
 @media (min-width: #{map-get($grid-breakpoints, "lg")}) {
     .embedded-figure {
-        max-width: 33%;
         padding: 1rem;
     }
 

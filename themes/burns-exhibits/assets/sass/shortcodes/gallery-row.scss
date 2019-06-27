@@ -7,27 +7,38 @@
 /* Defines how figures appear in gallery rows. Only applies
    to breakpoints larger than Bootstrap's "medium", which 
    is iPad width. */
-@media (min-width: #{map-get($grid-breakpoints, "md")}) {
+@media (min-width: #{map-get($grid-breakpoints, "lg")}) {
     .gallery-row {
         display: flex;
         flex-wrap: nowrap;
         justify-content: space-evenly;
-        align-items: flex-end;
-        margin-bottom: 5em;
+        align-items: flex-start;
+        margin-bottom: 0;
 
-        .embedded-figure {
+        .gallery-figure, .embedded-figure {
+          flex-basis: 0;
+          flex-grow: 1;  
+        }
+
+        .gallery-figure__figure, .embedded-figure__figure {
             max-width: 100%;
             padding: 1rem;
             margin: .5em 1em .5em 1em;
         }
 
-        .embedded-figure__caption {
-            height: 5em;
+        .gallery-figure__caption, .embedded-figure__caption {
             font-size: $font-size-sm;
         }
 
-        .embedded-figure__img {
-            max-height: 400px;
+        .gallery-figure__img_holder, .embedded-figure__img-holder {
+            position: relative;
+            height: 400px;
+        }
+
+        .gallery-figure__img, .embedded-figure__img {
+            max-height: 100%;
+            position: absolute;
+            bottom: 0;
         }
 
         /* Remove right/left/center positioning for figures in 
@@ -45,21 +56,5 @@
         .embedded-figure--center {
             max-width: initial;
         }
-    }
-
-    /* For backwards compatibility. There used to be a 
-       {{<galleryfigure>}} shortcode, but we just use 
-       {{<figure>}} for everything now. */
-    .gallery-figure {
-        margin: .5em 1em .5em 1em;
-    }
-
-    .gallery-figure__caption {
-        height: 5em;
-    }
-
-    .gallery-figure__img {
-        max-height: 400px;
-        cursor: pointer;
     }
 }

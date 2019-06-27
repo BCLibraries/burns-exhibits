@@ -27,7 +27,7 @@ type: "exhibit"
 {{% largefigure src="E3_OClery.jpg"
                 headline="Rebel Sea Queen"
                 description="O’Clery, Helen. *[Rebel Sea Queen: the story of Grace O'Malley](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21328275280001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: F. Watts, 1965." 
-                size="large" align="center" %}}
+                size="large" align="right" %}}
 {{% /largefigure %}}
 
 {{% largefigure src="E4_Cook.jpg"
@@ -39,7 +39,7 @@ type: "exhibit"
 {{% largefigure src="E7_Songbook.jpg"
                 headline="“*[The Irish Songbook. 75 Songs Collected, Adapted, Written, and Sung by the Clancy Brothers & Tommy Makem](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315692330001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*. New York: Oak Publications, 1979."
                 size="medium"
-                align="left" %}}
+                align="right" %}}
 Óró, You are Welcome Home! 
 
 Padraic Pearse (1879-1916)
@@ -65,13 +65,13 @@ And they will rout the Foreigners.
 {{% /largefigure %}}
 
 {{% largefigure src="E5_Granuaile.jpg"
-                headline="Granuaile"
+                headline="*Granuaile*"
                 description="Davey, Shaun., Connolly, Rita, O'Flynn, Liam, and Hudson, Gareth. *[Granuaile]( https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21364286420001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*, 1985."
                 size="small" %}}
 {{% /largefigure %}}
 
 {{% largefigure src="E6_PirateBallads.jpg"
-                headline="Irish Pirate Ballads"
+                headline="*Irish Pirate Ballads*"
                 description="Milner, Dan., Moloney, Mick, Madden, Joanie, Doyle, John, Collins, Tim, Concertina Player, Donohue, Gabriel, McKeown, Susan, O'Connell, Robbie, Conway, Brian, Conroy, Bob, and Johnson Girls. *[Irish Pirate Ballads and Other Songs of the Sea](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21348345090001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US). 2009."
                 size="small" %}}
 {{% /largefigure %}}

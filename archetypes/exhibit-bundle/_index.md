@@ -4,6 +4,7 @@ title: "Introduction"
 
 # Title of exhibit
 exhibit_title: "{{ replace .Name "-" " " | title }}"
+exhibit_subtitle: ""
 
 date: {{ .Date }}
 
@@ -14,6 +15,9 @@ weight: 1
 front_image: "intro-image.jpg" # Replace with the real image
 front_caption_headline: "Ullamcorper Condimentum Tortor Parturient"
 front_caption_text: "Donec id elit non mi porta gravida at eget metus."
+
+# Change to true if this exhibit is currently running.
+current: false
 
 # Change to false to publish.
 draft: true
