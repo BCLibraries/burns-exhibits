@@ -15,6 +15,7 @@
             </div>
         </div>
 
+<!-- SINGLE ENTRY -->
         <div class="row main-page-stuff">
         <div class="col-md-3">
             {{ if ne .Kind "home" }}
@@ -26,6 +27,13 @@
             {{- block "main" . }}{{- end }}
         </main>
         </div>
+<!-- END SINGLE ENTRY-->
+
+<!-- HOMEPAGE ONLY -->
+    <div class="homepage">
+        {{- block "homepage" . }}{{- end }}
+    </div>
+<!-- END HOMEPAGE -->
 
         <footer class="cold-md-12">
             {{- partial "footer.html" . -}}
