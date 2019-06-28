@@ -68,6 +68,6 @@ Esser, Mark. [“Covering in Leather”](https://guildofbookworkers.org/sites/gu
 
 McCrady, Ellen. ["LBS Conference, Part II"](http://cool.conservation-us.org/byorg/abbey/an/an11/an11-8/an11-802.html) Volume 11, number 8 (December 1987).
 
-Minter, Bill, et al. “Bill Anthony’s Influence on Apprentices: a panel Discussion”  *[Collection Management]*(https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21346992870001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)vol 31, No. 1/2 (2006): 127-138
+Minter, Bill, et al. “Bill Anthony’s Influence on Apprentices: a panel Discussion”  [*Collection Management*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21346992870001021) vol 31, No. 1/2 (2006): 127-138
 
 Organizing for Preservation in ARL Libraries SPEC Kit #116, (July-August 1985): 59

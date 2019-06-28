@@ -4,6 +4,7 @@ title: "Introduction"
 
 # Title of exhibit
 exhibit_title: "Pirate Treasures II"
+exhibit_subtitle: "An Exhibit of Maps and Books"
 
 date: 2019-05-15T12:28:48-04:00
 
@@ -12,7 +13,7 @@ weight: 1
 
 # Big image on first page.
 front_image: "Williams Collection books.jpg" # Replace with the real image
-front_caption_headline: "An Exhibit of Maps and Books"
+front_caption_headline: ""
 front_caption_text: ""
 
 # Change to false to publish.

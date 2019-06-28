@@ -4,6 +4,7 @@ title: "Introduction"
 
 # Title of exhibit
 exhibit_title: "The Object in the Archive"
+exhibit_subtitle: "Networks and Materiality at the Burns Library"
 
 date: 2019-04-18T14:19:50-04:00
 

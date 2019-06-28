@@ -3,7 +3,8 @@
 title: "Introduction"
 
 # Title of exhibit
-exhibit_title: "Genius of Genre: Flann O'Brien"
+exhibit_title: "Genius of Genre: "
+exhibit_subtitle: "The Pen Names and Personas of Flann O'Brien"
 
 date: 2019-05-06T16:57:54-04:00
 
