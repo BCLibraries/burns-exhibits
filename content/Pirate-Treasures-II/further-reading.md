@@ -13,11 +13,10 @@ draft: true
 type: "exhibit"
 ---
 
-{{% figure src="G_Pyle book of pirates.jpg" %}}
+{{% figure src="G_Captain Kidd buries his bible.jpg" %}}
 
-Collection Used: Joseph J. Williams Ethnological Collection [(MS2009-030)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21345055540001021)  
+Joseph J. Williams Ethnological Collection [(MS2009-030)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21345055540001021)  
 
-__Heading__
 
 Cordingly, David. *[Under the Black Flag: The Romance and the Reality of Life among the Pirates](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21347021170001021)*. New York: Random House, 1995.
 

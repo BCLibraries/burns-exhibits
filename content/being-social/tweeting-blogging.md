@@ -20,24 +20,25 @@ type: "exhibit"
 A weather report, birthday wish, major life event, or news flash -- all can be posted in a matter of seconds on many platforms. Although it wasn’t always instantaneous or widely available, people found ways to share quick updates or messages about their day or plans. With some services, like telegrams, there was a pay-per-word policy -- a great incentive to stay under 140 characters!
 {{% /largefigure %}}
 
-{{% galleryrow %}}
-{{% figure src="../12_BeingSocial_LineADayDiaries_cropped.jpg"
-            headline="Line-a-Day Diary"
-            description="Box 2, [Margaret Fitzgerald papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21372539030001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS2000-019)"
-%}}
-{{% figure src="../14_BeingSocial_BellocTelegram.jpg"
+
+
+{{% largefigure src="../14_BeingSocial_BellocTelegram.jpg"
             headline="Telegram"
             description="Box 1, Folder 4, Hilaire Belloc papers (MS2007-005)"
-%}}
-{{% /galleryrow %}}
+            align="center"
+        %}}
+{{% /largefigure %}}
+{{% largefigure src="../13a_BeingSocial_GreeneTelegram.jpg"
+            headline="Telegram"
+            description="Box 59, Folder 8, [Graham Greene papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21351254200001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1995-003)"
+            align="center"
 
-{{% galleryrow %}}
-{{% figure src="../13a_BeingSocial_GreeneTelegram.jpg"
+%}}
+{{% /largefigure %}}
+{{% largefigure src="../13b_BeingSocial_GreeneTelegram.jpg"
             headline="Telegram"
             description="Box 59, Folder 8, [Graham Greene papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21351254200001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1995-003)"
+            align="center"
+
 %}}
-{{% figure src="../13b_BeingSocial_GreeneTelegram.jpg"
-            headline="Telegram"
-            description="Box 59, Folder 8, [Graham Greene papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21351254200001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1995-003)"
-%}}
-{{% /galleryrow %}}
+{{% /largefigure %}}

@@ -26,10 +26,11 @@ Specialized equipment was once required to record thoughts, events, and contacts
            description="Box 21, [Helen Landreth papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21359576400001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS2001-044)"
 %}}
 
-{{% figure src="../060_UnderwoodTypewriter.jpg"
-            headline="Typewriter"
-            description="[Flann O'Brien papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-021)"
+{{% figure src="../5_BeingSocial-FilmCannisters.jpg"
+            headline="Film Cannisters"
+            description="University Archives"
 %}}
+
 {{% /galleryrow %}}
 
 {{% galleryrow %}}
@@ -37,19 +38,23 @@ Specialized equipment was once required to record thoughts, events, and contacts
             headline="Pen"
             description="[Flann O'Brien papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-021)"
 %}}
-{{% figure src="../4_BeingSocial_Camera.jpg"
-            headline="Camera"
-            description="James W. Skehan Faculty Papers (BC2014-006)"
+
+{{% figure src="../060_UnderwoodTypewriter.jpg"
+            headline="Typewriter"
+            description="[Flann O'Brien papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-021)"
 %}}
+
 {{% /galleryrow %}}
 
 {{% galleryrow %}}
-{{% figure src="../5_BeingSocial-FilmCannisters.jpg"
-            headline="Film Cannisters"
-            description="University Archives"
-%}}
+
 {{% figure src="../6_BeingSocial_AudiaTapes.jpg"
             headline="Audio Tapes"
             description="Box 49, [New England Deaconness Hospital School of Nursing Records](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21352763480001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1998-008)"
+%}}
+
+{{% figure src="../4_BeingSocial_Camera.jpg"
+            headline="Camera"
+            description="James W. Skehan Faculty Papers (BC2014-006)"
 %}}
 {{% /galleryrow %}}
