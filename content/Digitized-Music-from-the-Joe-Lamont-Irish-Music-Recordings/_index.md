@@ -15,8 +15,13 @@ front_image: "intro-image.jpg"
 front_caption_headline: ""
 front_caption_text: ""
 
+# Change to true if this exhibit is currently running.
+current: false
+
 # Change to false to publish.
 draft: true
+
+
 
 type: "exhibit"
 ---

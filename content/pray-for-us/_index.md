@@ -4,6 +4,7 @@ title: "Introduction"
 
 # Title of exhibit
 exhibit_title: "Pray for Us"
+exhibit_subtitle: "Holy Cards from the John J. Burns Library Collections"
 
 date: 2019-05-21T14:34:16-04:00
 

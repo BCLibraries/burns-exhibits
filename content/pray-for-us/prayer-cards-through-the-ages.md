@@ -57,7 +57,7 @@ type: "exhibit"
 >}}
 
 {{< figure src="../PrayForUs051A.png"
-           headline="St. Gemma Galgani (Verso)"
+           headline="St. Gemma Galgani (verso)"
            description=""
 >}}
 {{% /galleryrow %}}
@@ -107,12 +107,13 @@ type: "exhibit"
            description="Painting of the Virgin Mary embracing Christ, with John the Baptist looking on, by Italian Renaissance artist Raphael"
 >}}
 {{< figure src="../PrayForUs052A.png"
-           headline="Madonna of the Chair (Verso)"
+           headline="Madonna of the Chair (verso)"
            description=""
 >}}
 {{% /galleryrow %}}
 
 {{% galleryrow %}}
+
 {{< figure src="../PrayForUs053.png"
            headline="Matthew 28:20"
            description="And teaching them to obey everything that I have commanded you. And remember, I am with you always, to the end of the age"
@@ -153,6 +154,7 @@ type: "exhibit"
 {{% /galleryrow %}}
 
 {{% galleryrow %}}
+
 {{< figure src="../PrayForUs024.png"
            headline="St. Charles Borromeo Milan, Italy (1538 - 1584)"
            description="Feast Day: November 4. Patronages: apple orchards, intestinal disorders, spiritual leaders"
@@ -166,6 +168,7 @@ type: "exhibit"
 {{% /galleryrow %}}
 
 {{% galleryrow %}}
+
 {{< figure src="../PrayForUs030.png"
            headline="Priez pour moi"
            description="Pray for me"
@@ -179,6 +182,7 @@ type: "exhibit"
 {{% /galleryrow %}}
 
 {{% galleryrow %}}
+
 {{< figure src="../PrayForUs031.png"
            headline="The Cross in My Pocket"
            description="A portable reminder of faith and a source of comfort."
@@ -323,7 +327,7 @@ type: "exhibit"
            description="The Thorns of the Earth and the Roses of the Sky; My heart changes into joy the pains that resigned loves endured."
 >}}
 {{< figure src="../PrayForUs034A.png"
-           headline="Les Epines de la Terre et les Roses du Ciel(verso)"
+           headline="Les Epines de la Terre et les Roses du Ciel (verso)"
            description=""
 >}}
 
@@ -336,7 +340,7 @@ type: "exhibit"
            description="Feast Day: October 22. Patronages: World Youth Day, young Catholics, families"
 >}}
 {{< figure src="../PrayForUs026A.png"
-           headline="St. John Paul II(verso)"
+           headline="St. John Paul II (verso)"
            description=""
 >}}
 
@@ -362,7 +366,7 @@ type: "exhibit"
            description="According to tradition, this was the spot where the Virgin Mary’s earthly life ended before being taken up to Heaven. "
 >}}
 {{< figure src="../PrayForUs038A.png"
-           headline="Abbey of the Dormition(verso)"
+           headline="Abbey of the Dormition (verso)"
            description=""
 >}}
 
@@ -375,7 +379,7 @@ type: "exhibit"
            description="A venerated wooden image of an infant Jesus, associated with healing, originally located in the Basilica of Santa Maria in Aracoeli, Rome. "
 >}}
 {{< figure src="../PrayForUs039A.png"
-           headline="Santo Bambino di Aracoeli Roma(verso)"
+           headline="Santo Bambino di Aracoeli Roma (verso)"
            description=""
 >}}
 
@@ -388,8 +392,8 @@ type: "exhibit"
            description="Feast Day: August 25. Patronages: French monarchy, lacemakers, hairdressers"
 >}}
 {{< figure src="../PrayForUs035A.png"
-           headline="St. Ludovicus (Louis), (verso)"
-           description=""
+           headline="St. Ludovicus (Louis) (verso)"
+description=""
 >}}
 
 {{% /galleryrow %}}
