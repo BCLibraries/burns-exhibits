@@ -18,7 +18,7 @@ Jacobs did not want to leave her readers with a sense of doom and gloom, but rat
 
 Random House also changed the dustjacket background color from cream (used for *Systems of Survival* and other books by Jacobs) to a dark red.
 
-** An Inveterate Writer**
+**An Inveterate Writer**
 
 Jacobs continuously worked and reworked her writing, sometimes in response to the comments of an editor (as written in green ink on this page from a penultimate draft of Dark Age Ahead), but more often upon her own re-reading (as evidenced by changes she marked in blue ink).
 
