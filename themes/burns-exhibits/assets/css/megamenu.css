@@ -27,7 +27,9 @@
 
 
 /* Mega Menu */
-.blackbar #megamenu-refresh .navbar-default .navbar-brand {
+.blackbar #megamenu-refresh .navbar-default .navbar-brand,
+.blackbar .navbar-brand 
+ {
     text-shadow: 0px 2px 6px rgba(0, 0, 0,0.85);
     color: #fff;
     font-size: 18px;
@@ -35,7 +37,7 @@
     letter-spacing: 1.5px;
     text-transform: uppercase;
     font-weight: 200;
-    padding-left: 17px;
+    padding: 10px 0;
 }
 
 .blackbar #megamenu-refresh .navbar-default {
@@ -858,60 +860,4 @@
     content:"\e686";
     font-size: 35px;
     line-height: 0.8;
-}
-
-
-/* Image sprites for library thumbnails */
-.libsprite {
-    background: url('/theme/img/librarypane/libthumb-spritesheet.jpg') no-repeat;
-    display: block;
-    border: 2px solid #990000;
-}
-
-.libsprite-librarythumbnails_bapst {
-    width: 150px;
-    height: 150px;
-    background-position: -5px -5px;
-}
-
-.libsprite-librarythumbnails_burns {
-    width: 150px;
-    height: 150px;
-    background-position: -165px -5px;
-}
-
- .libsprite-librarythumbnails_ed {
-    width: 150px;
-    height: 150px;
-    background-position: -5px -165px;
-}
-
-.libsprite-librarythumbnails_law {
-    width: 150px;
-    height: 150px;
-    background-position: -165px -165px;
-}
-
-.libsprite-librarythumbnails_oconnor {
-    width: 150px;
-    height: 150px;
-    background-position: -325px -5px;
-}
-
-.blackbar .libsprite-librarythumbnails_oneill {
-    width: 150px;
-    height: 150px;
-    background-position: -325px -165px;
-}
-
- .libsprite-librarythumbnails_swl {
-    width: 150px;
-    height: 150px;
-    background-position: -5px -325px;
-}
-
-.libsprite-librarythumbnails_tml {
-    width: 150px;
-    height: 150px;
-    background-position: -165px -325px;
 }
