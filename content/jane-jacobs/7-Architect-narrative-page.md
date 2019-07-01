@@ -4,7 +4,7 @@ title: "Architecture "
 description: ""
 
 # Page order (1 is 1st page, etc.)
-weight: 11
+weight: 8
 alwaysopen: true
 
 # Change to false to publish.

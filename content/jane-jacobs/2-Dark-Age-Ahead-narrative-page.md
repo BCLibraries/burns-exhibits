@@ -24,13 +24,21 @@ The five main chapters of the book investigate what Jacobs calls “five jeopard
 
 Jacobs comments that it may seem surprising that she does not single out such obvious and outward failings as racism, environmental destruction, crime, political distrust, and income inequality. She contends that they are symptomatic of breakdowns in the fundamental domains she analyzes.
 
-In the opening line of *Dark Age Ahead*, Jacobs characterizes it as “both a gloomy and a hopeful book”:
+**Fear for Civilization**
 
-<blockquote>A culture is unsalvageable if stabilizing forces themselves become ruined and irrelevant. This is what I fear for our own culture, and what I have written this cautionary book in hopeful  expectation that time remains for corrective actions. —*Dark Age Ahead*, p. 24</blockquote>
+In the opening line of *Dark Age Ahead*, Jacobs characterizes it as “both a gloomy and a hopeful book”, stating "A culture is unsalvageable if stabilizing forces themselves become ruined and irrelevant. This is what I fear for our own culture, and what I have written this cautionary book in hopeful  expectation that time remains for corrective actions. (Jacobs, *Dark Age Ahead*, p. 24).
 
 Jacobs is particularly critical of trends in higher education that have been turning it into a credentialing process for the sake of economic efficiency rather than preparation for participation in civil society. “Nurturing and instructing human beings in a complex culture demands redundancy of mentors and examples,” she observes, adding: “Redundancy is expensive but indispensable.”
 
+**A Cautionary Tale**
 
+Jacobs did not want to leave her readers with a sense of doom and gloom, but rather to raise a cautionary signal. She proposed to title her book *Caution: Dark Age Ahead or A Dark Age Caution*, as indicated by her annotations on the draft typescript shown here. Her publisher later persuaded her to relinquish “caution” in a favor of a shorter, more arresting title.
+
+Random House also changed the dustjacket background color from cream (used for *Systems of Survival* and other books by Jacobs) to a dark red.
+
+**An Inveterate Writer**
+
+Jacobs continuously worked and reworked her writing, sometimes in response to the comments of an editor (as written in green ink on this page from a penultimate draft of Dark Age Ahead), but more often upon her own re-reading (as evidenced by changes she marked in blue ink).
 
 {{% figure src="../portrait-image.jpg"
            headline="Consectetur Ligula Venenatis Vestibulum" 
