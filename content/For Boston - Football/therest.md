@@ -77,38 +77,6 @@ John "Scrapper" Lowney, scoring Boston College's first touchdown vs. Holy Cross 
 
 {{% /galleryrow %}}
 
-{{% galleryrow %}}
-
-
-{{% galleryfigure src="../FootballEchoes_24_Football1916.JPG" headline="Football" %}}
-Football from the Boston College vs. Holy Cross game at Fenway Park, 2 December 1916, Boston College Artifacts Collection, BC1989-059
-{{% /galleryfigure %}}
-
-{{% galleryfigure src="../FootballEchoes_25_Fragment1929.JPG" headline="Goal Post Fragment" %}}
-BC vs. Holy Cross, Braves Field, Boston, 30 November, 1929, Boston College Artifacts Collection, BC2004-031 
-{{% /galleryfigure %}}
-
-{{% galleryfigure src="../FootballEchoes_26_Fragment1938.JPG" headline="Goal Post Fragment" %}}
-BC vs. Detroit, Fenway Park, Boston, 12 October 1938, Boston College Artifacts Collection, BC1990-36
-{{% /galleryfigure %}}
-
-{{% /galleryrow %}}
-
-{{% galleryrow %}}
-
-{{% galleryfigure src="../FootballEchoes_27_Fragment1939auburn.JPG" headline="Goal Post Fragment" %}}
-BC vs. Auburn, Fenway Park, Boston, 4 November 1939, Boston College Artifacts Collection, BC1990-36
-{{% /galleryfigure %}}
-
-{{% galleryfigure src="../FootballEchoes_28_Fragment1939hc.JPG" headline="Goal Post Fragment" %}}
-BC vs. Holy Cross, Fenway Park, Boston, 2 December 1939, Boston College Artifacts Collection, BC1990-36
-{{% /galleryfigure %}}
-
-{{% galleryfigure src="../FootballEchoes_29_BC2014.046.JPG" headline="Pinback Buttons" %}}
-Pinback buttons, 1992 and undated, Boston College Artifacts Collection, BC2001-32 and BC2014-46
-{{% /galleryfigure %}}
-
-{{% /galleryrow %}}
 
 {{% galleryrow %}}
 
@@ -125,3 +93,46 @@ Cotton Bowl souvenir beer mug, 1985, Boston College Artifacts Collection, BC1991
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
+
+
+
+{{% galleryrow %}}
+
+
+{{% galleryfigure src="../FootballEchoes_24_Football1916.JPG" headline="Football" %}}
+Football from the Boston College vs. Holy Cross game at Fenway Park, 2 December 1916, Boston College Artifacts Collection, BC1989-059
+{{% /galleryfigure %}}
+
+{{% galleryfigure src="../FootballEchoes_29_BC2014.046.JPG" headline="Pinback Buttons" %}}
+Pinback buttons, 1992 and undated, Boston College Artifacts Collection, BC2001-32 and BC2014-46
+{{% /galleryfigure %}}
+
+{{% /galleryrow %}}
+
+
+
+{{% galleryrow %}}
+
+{{% galleryfigure src="../FootballEchoes_25_Fragment1929.JPG" headline="Goal Post Fragment" %}}
+BC vs. Holy Cross, Braves Field, Boston, 30 November, 1929, Boston College Artifacts Collection, BC2004-031 
+{{% /galleryfigure %}}
+
+{{% galleryfigure src="../FootballEchoes_26_Fragment1938.JPG" headline="Goal Post Fragment" %}}
+BC vs. Detroit, Fenway Park, Boston, 12 October 1938, Boston College Artifacts Collection, BC1990-36
+{{% /galleryfigure %}}
+
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{% galleryfigure src="../FootballEchoes_27_Fragment1939auburn.JPG" headline="Goal Post Fragment" %}}
+BC vs. Auburn, Fenway Park, Boston, 4 November 1939, Boston College Artifacts Collection, BC1990-36
+{{% /galleryfigure %}}
+
+{{% galleryfigure src="../FootballEchoes_28_Fragment1939hc.JPG" headline="Goal Post Fragment" %}}
+BC vs. Holy Cross, Fenway Park, Boston, 2 December 1939, Boston College Artifacts Collection, BC1990-36
+{{% /galleryfigure %}}
+
+{{% /galleryrow %}}
+
