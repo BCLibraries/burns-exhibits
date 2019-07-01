@@ -4,7 +4,7 @@ title: "Journalist"
 description: ""
 
 # Page order (1 is 1st page, etc.)
-weight: 6
+weight: 5
 alwaysopen: true
 
 # Change to false to publish.
@@ -12,7 +12,7 @@ draft: true
 
 type: "exhibit"
 ---
-Jacobs wrote a number of articles for industrial and architectural trade journals, many of them unsigned, before she undertook the groundbreaking study of city planning and urban life that brought her lasting fame and influence.
+Jacobs wrote a number of articles for industrial and architectural trade journals, many of them unsigned, before she undertook the groundbreaking study of city planning and urban life that brought her lasting fame and influence, *The Death and Life of Great American Cities*, published in 1961.
 
 It may be surprising that such an acclaimed writer never completed a college degree. For as much as she loved to learn, the young Jane Butzner resisted becoming a model student. To the contrary, she challenged the authority of her teachers, got poor marks, and once got herself expelled. After graduation, she remained in her hometown of Scranton for a year to get her bearings, working as an unpaid assistant for the local newspaper.
 
