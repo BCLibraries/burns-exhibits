@@ -20,7 +20,7 @@ type: "exhibit"
 Some things don’t change. Since the technology to fix images through a chemical process was first invented in the 1840s, we’ve been sharing photographs. This invention allowed those who couldn’t sketch to show off a prized possession, share a silly moment, or capture their own best side in a selfie. This last one was pretty tricky before the addition of timers to cameras!
 {{% /largefigure %}}
 
-{{% galleryrow %}}
+{{% galleryrow layout="landscape" %}}
 {{% figure src="../22_BeingSocial_MBO_R.jpg"
             headline="Photo of Mary Boyle O'Reilly, signed to a friend"
             description="Box 1, Folder 7, [Mary Boyle O'Reilly papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21380118680001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS2003-045)"

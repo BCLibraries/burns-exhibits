@@ -1,3 +1,6 @@
-<div class="gallery-row">
+{{ $layout := .Get "layout" | default "portrait" }}
+{{ $layout_class := print "gallery-row__" $layout }}
+
+<div class="gallery-row {{ $layout_class }}">
     {{ .Inner }}
 </div>

@@ -20,7 +20,7 @@ type: "exhibit"
 It’s not hard to connect online with people who share our interests, profession, or causes. With the advent of these more immediate forms of networking, we have lost some the once-prevalent trinkets we collected as card-carrying members of our affinity groups. These were the tangible ways we used to let everyone know who we are and where we belong.
 {{% /largefigure %}}
 
-{{% galleryrow %}}
+{{% galleryrow layout="landscape" %}}
 {{% figure src="../46e_BeingSocial_CIS_Harrigan.jpg"
             headline="Charitable Irish Society Membership Card, 1886"
             description="Box 33 [Charitable Irish Society Records](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21341047400001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1993-012)"
@@ -31,7 +31,7 @@ It’s not hard to connect online with people who share our interests, professio
 %}}
 {{% /galleryrow %}}
 
-{{% galleryrow %}}
+{{% galleryrow layout="landscape" %}}
 {{% figure src="../49_BeingSocial_LizzieBorden.jpg"
             headline="Society of the Friends of Lizzie Borden membersip certificate, 1963"
             description="Box 64, Folder 1, [Rex Stout papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21323242860001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1986-096)"

@@ -49,7 +49,7 @@ Have you ever invented the next big thing, but didn’t have the cash to make it
 %}}
 {{% /largefigure %}}
 
-{{% galleryrow %}}
+{{% galleryrow layout="landscape" %}}
 {{% figure src="../44_BeingSocial_MS1993.041_b5_f29_a.jpg"
             headline="Irish National League dues payment cards"
             description="Box 5, Folder 29, [George D. Cahill papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21354365750001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) (MS1993-041)"

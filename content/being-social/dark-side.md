@@ -42,7 +42,7 @@ We may think of trolling, impersonation, and identity theft as uniquely modern p
 %}}
 {{% /galleryrow %}}
 
-{{% galleryrow %}}
+{{% galleryrow layout="landscape" %}}
 {{% figure src="../33a_BeingSocial_Urgent.jpg"
             headline="Urgent Telegram regarding the fake Greene"
             description="Box 43, Folder 7, [Graham Greene papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21351254200001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) (MS1995-003)"
