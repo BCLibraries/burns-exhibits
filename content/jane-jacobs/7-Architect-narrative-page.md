@@ -1,6 +1,6 @@
 ---
 # Title of page
-title: "Architecture "
+title: "Architect?"
 description: ""
 
 # Page order (1 is 1st page, etc.)
