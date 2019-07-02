@@ -30,7 +30,21 @@
             font-size: $font-size-sm;
         }
 
-        .gallery-figure__img_holder, .embedded-figure__img-holder {
+        &.gallery-row__landscape .gallery-figure__img_holder {
+            position: relative;
+            height: 200px
+        }
+
+        &.gallery-row__landscape .embedded-figure__img-holder {
+            position: relative;
+            height: 200px
+        }
+
+        &.gallery-row__portrait .gallery-figure__img_holder {
+            position: relative;
+            height: 400px;
+        }
+        &.gallery-row__portrait .embedded-figure__img-holder {
             position: relative;
             height: 400px;
         }

@@ -31,7 +31,7 @@ Scrolling through your Facebook and Instagram feeds, you’re awash in posts abo
 %}}
 {{% /galleryrow %}}
 
-{{% galleryrow %}}
+{{% galleryrow layout="landscape" %}}
 {{% figure src="../55a_BeingSocial_HKC.jpg"
             headline="Candid photograph from Heather Kelley Carr"
             description="Box 1, Folder 16, [Heather Kelley Carr alumni papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21470000720001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS2015-026)"
@@ -42,7 +42,7 @@ Scrolling through your Facebook and Instagram feeds, you’re awash in posts abo
 %}}
 {{% /galleryrow %}}
 
-{{% galleryrow %}}
+{{% galleryrow layout="landscape" %}}
 {{% figure src="../56a_BeingSocial_CarteDeVisite.jpg"
             headline="Carte de visite of foriegn locales"
             description="Box 2, Folder 6, [Katherine E. Conway papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21360409610001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1994-015)"
