@@ -14,6 +14,7 @@ weight: 1
 front_image: "Thomas_Merton.jpg"
 front_caption_headline: "Thomas Merton"
 front_caption_text: "Box 4, James H. Forest- Thomas Merton Collection (MS1989-021)"
+front_image_layout: "portrait"
 
 # Change to false to publish.
 draft: true
