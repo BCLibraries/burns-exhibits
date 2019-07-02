@@ -15,7 +15,8 @@ type: "exhibit"
 {{% figure src="../Dark-Age-Ahead-dustjacket.jpg"
            headline="" 
            description="Jacobs, [*Dark Age Ahead*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21368978770001021), CB19 .J33 2004 GENERAL" 
-           side="left" %}}In her last book, *Dark Age Ahead*, published in 2004, Jacobs expands her earlier analyses of what makes cities successful to encompass the full scope of human civilization in its historical and global dimensions. She prophesies that unless dangerous dynamics are reversed, our culture risks falling into another dark age, when even the knowledge of what has been lost will be lost.
+           side="left" %}}
+		   In her last book, *Dark Age Ahead*, published in 2004, Jacobs expands her earlier analyses of what makes cities successful to encompass the full scope of human civilization in its historical and global dimensions. She prophesies that unless dangerous dynamics are reversed, our culture risks falling into another dark age, when even the knowledge of what has been lost will be lost.
 
 The five main chapters of the book investigate what Jacobs calls “five jeopardized pillars” of North American culture:
 
