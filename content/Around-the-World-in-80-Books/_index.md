@@ -6,10 +6,10 @@ title: "Introduction"
 exhibit_title: "Around the World in 80 Books"
 exhibit_subtitle: "A Selection of Publishers Trade Bindings"
 
-date: 2019-05-02T15:53:26-04:00
+date: 2013-11-01T15:53:26-04:00
 
 # Page order (1 is 1st page, etc.)
-weight: 1 
+weight: 1
 
 # Big image on first page.
 front_image: "UniverseDetail.JPG" # Replace with the real image

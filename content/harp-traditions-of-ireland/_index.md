@@ -5,7 +5,7 @@ title: "Introduction"
 # Title of exhibit
 exhibit_title: "Harp Traditions of Ireland"
 
-date: 2019-04-18T10:09:26-04:00
+date: 2010-06-01T10:09:26-04:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1

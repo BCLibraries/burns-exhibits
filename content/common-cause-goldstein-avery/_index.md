@@ -6,13 +6,13 @@ title: "Introduction"
 exhibit_title: "A Common Cause"
 exhibit_subtitle: "The Lives and Work of David Goldstein and Martha Moore Avery"
 
-date: 2019-04-17T15:02:05-04:00
+date: 2015-01-01T15:02:05-04:00
 
 # Page order (1 is 1st page, etc.)
-weight: 1 
+weight: 1
 
 # Big image on first page.
-front_image: "GA-intro-image.jpg.jpg" 
+front_image: "GA-intro-image.jpg.jpg"
 front_caption_headline: ""
 front_caption_text: ""
 
