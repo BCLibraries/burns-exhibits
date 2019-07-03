@@ -22,5 +22,4 @@ Annalisa Moretti, Archives Assistant
 
 Adrienne Pruitt, Processing Archivist
 
-Originally displayed: Ford Tower, January - February 2015
-	
+Originally displayed: Burns Library Ford Tower, January - February 2015

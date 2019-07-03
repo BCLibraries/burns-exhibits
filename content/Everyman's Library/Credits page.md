@@ -22,6 +22,5 @@ Sponsored by Boston College Libraries
 
 Curator: Andrew Isidoro, Public Services Specialist
 
-Originally Displayed: October 1 - December 31, 2014, Burns Library Ford Tower
-
+Originally Displayed: Burns Library Ford Tower, October 1 - December 31, 2014
 {{% /largefigure %}}
