@@ -1,5 +1,5 @@
 ---
-title: "Large image gallery page"
+title: "The Buildings "
 description: ""
 
 # Page order (1 is 1st page, etc.)
@@ -12,30 +12,98 @@ draft: true
 type: "exhibit"
 ---
 
-{{% largefigure src="../intro-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                description="Dapibus Vulputate Sollicitudin Cras"
-                size="x-large" %}}
-Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Curabitur blandit tempus porttitor.
+{{% largefigure src="../ghost campus title and bkgd5.png"
+                headline=""
+                description=""
+                size="x-large" align="center" %}}
 {{% /largefigure %}}
 
-{{% largefigure src="../portrait-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                description="Fringilla Quam Consectetur Commodo" 
-                size="large" align="center" %}}
-Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+{{% largefigure src="../Ghost campus repros6.png"
+                headline=""
+                description="" 
+                size="x-large" align="center" %}}
+
 {{% /largefigure %}}
 
-{{% largefigure src="../intro-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                size="medium"
-                align="left" %}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+{{% largefigure src="../Ghost campus repros7.png"
+                headline=""
+                description="" 
+                size="x-large" align="center" %}}
+
 {{% /largefigure %}}
 
-{{% largefigure src="../portrait-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                description="Pharetra Mattis Inceptos"
-                size="small" %}}
-Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean lacinia bibendum nulla sed consectetur.
+{{% largefigure src="../Ghost campus repros8.png"
+                headline=""
+                description="" 
+                size="x-large" align="center" %}}
+
 {{% /largefigure %}}
+
+{{% galleryrow %}}
+
+{{< figure src="../Ghost campus repros11.png"
+           headline=""
+           description=""
+>}}
+
+{{< figure src="../Ghost campus repros12.png"
+           headline=""
+           description=""
+>}}
+
+{{< figure src="../Ghost campus repros13.png"
+           headline=""
+           description=""
+>}}
+{{% /galleryrow %}}
+
+
+{{% largefigure src="../Ghost campus repros9.png"
+                headline=""
+                description="" 
+               size="x-large" align="center" %}}
+
+{{% /largefigure %}}
+
+
+{{% largefigure src="../ghost campus title and bkgd6.png"
+                headline=""
+                description=""
+                size="x-large" align="center" %}}
+{{% /largefigure %}}
+
+{{% largefigure src="../Alumni-Hall.png"
+                headline=""
+                description=""
+                size="x-large" align="center" %}}
+{{% /largefigure %}}
+
+{{% largefigure src="../Ghost campus repros2.png"
+                headline=""
+                description="" 
+                size="x-large" align="center" %}}
+
+{{% /largefigure %}}
+
+{{% largefigure src="../Ghost campus repros3.png"
+                headline=""
+                description="" 
+                size="x-large" align="center" %}}
+
+{{% /largefigure %}}
+
+{{% largefigure src="../Ghost campus repros4.png"
+                headline=""
+                description="" 
+                size="x-large" align="center" %}}
+
+{{% /largefigure %}}
+
+{{% largefigure src="../Ghost campus repros5.png"
+                headline=""
+                description="" 
+                size="x-large" align="center" %}}
+
+{{% /largefigure %}}
+
+

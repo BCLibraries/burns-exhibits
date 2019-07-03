@@ -13,6 +13,6 @@ draft: true
 type: "exhibit"
 ---
 
-Collection Used: Boston College building and campus images  [(BC1987-012)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)  
+All images used in this exhibit are from the [Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021) collection. (BC1987-012)
 
-Selected photographs from the larger Boston College building and campus images collection held in the Burns Library are also available [online](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC81487718330001021). 
+Selected photographs from this collection are also available [online](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC81487718330001021). 
