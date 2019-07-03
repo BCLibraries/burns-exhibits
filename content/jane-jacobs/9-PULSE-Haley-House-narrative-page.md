@@ -4,7 +4,7 @@ title: "PULSE and Haley House"
 description: ""
 
 # Page order (1 is 1st page, etc.)
-weight: 9
+weight: 10
 
 alwaysopen: true
 
