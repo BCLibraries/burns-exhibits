@@ -16,4 +16,4 @@ Sponsored by Boston College Libraries
 
 Curator(s): Kathleen Williams, Irish Studies Librarian
 
-Originally Displayed: Spring 2013, O'Neill Reading Room
+Originally Displayed: O'Neill Reading Room, Spring 2013

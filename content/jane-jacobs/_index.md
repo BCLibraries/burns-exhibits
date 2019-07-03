@@ -6,10 +6,10 @@ title: "Introduction"
 exhibit_title: "Dark Age Ahead or Systems of Survival?"
 exhibit_subtitle: "Jane Jacobs and the Ethics of Economies"
 
-date: 2019-06-28T13:03:31-04:00
+date: 2017-04-10T13:03:31-04:00
 
 # Page order (1 is 1st page, etc.)
-weight: 1 
+weight: 1
 
 # Big image on first page.
 front_image: "JJacobsIntroPanel.jpg" # Replace with the real image

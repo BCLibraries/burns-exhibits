@@ -6,10 +6,10 @@ title: "Introduction"
 exhibit_title: "Commitment to Craftsmanship:"
 exhibit_subtitle: "Conservation Bookbindings by Mark Esser"
 
-date: 2019-06-03T12:53:54-04:00
+date: 2014-10-01T12:53:54-04:00
 
 # Page order (1 is 1st page, etc.)
-weight: 1 
+weight: 1
 
 # Big image on first page.
 front_image: "Commitment.png" # Replace with the real image

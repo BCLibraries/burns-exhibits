@@ -6,10 +6,10 @@ title: "Introduction"
 exhibit_title: "The Everyman's Library"
 
 
-date: 2019-02-13T15:36:41-05:00
+date: 2014-10-01T15:36:41-05:00
 
 # Page order (1 is 1st page, etc.)
-weight: 1 
+weight: 1
 
 # Big image on first page.
 front_image: "allspines.JPG" # Replace with the real image
@@ -55,5 +55,3 @@ decades it was in print, and second to show the variety of collections at the Bu
 contain volumes of the series. From the Irish collection to the Liturgy and Life Collection, the
 personal libraries of authors Rex Stout and Flann O’Brien, copies of the EML can be found in all
 of the major collections in the Burns Library.
-
-

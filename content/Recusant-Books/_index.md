@@ -6,14 +6,14 @@ title: "Introduction"
 exhibit_title: "Recusant Books"
 exhibit_subtitle: "Catholike Life & Literature In an Age of Persecution"
 
-date: 2019-04-18T14:19:02-04:00
+date: 2013-06-01T14:19:02-04:00
 
 # Page order (1 is 1st page, etc.)
-weight: 1 
+weight: 1
 
 
 # Big image on first page.
-front_image: "elizabeth_i_armada_portrait_web.jpg" 
+front_image: "elizabeth_i_armada_portrait_web.jpg"
 front_caption_headline: "Elizabeth I by George Gower, ca. 1588."
 
 # Change to false to publish.

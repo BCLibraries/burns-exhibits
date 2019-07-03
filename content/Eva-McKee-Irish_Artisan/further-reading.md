@@ -14,8 +14,8 @@ type: "exhibit"
 ---
 **Collections Used**
 
-Eva McKee art works ([MS2005-006](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21355787120001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US))
+[Eva McKee art works](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21355787120001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS2005-006)
 
 **Bibliography**
 
-Book of Kells ([IE TCD MS 58](https://digitalcollections.tcd.ie/home/index.php?DRIS_ID=MS58_003v)), Trinity College Dublin
+[Book of Kells](https://digitalcollections.tcd.ie/home/index.php?DRIS_ID=MS58_003v) (IE TCD MS 58), Trinity College Dublin

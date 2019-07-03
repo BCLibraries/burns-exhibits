@@ -25,13 +25,11 @@ In medieval times, the harpers had a high status in the clans of Gaelic Ireland.
 
 Harp playing in Ireland was an oral tradition, with the tunes passed from master to pupil. Many harpers were blind, and little is known about the actual music played on the ancient harps, as it was not transcribed.  Early accounts by 12th century Norman priest Giraldus Cambrensis, in his *[Topographia Hibernica](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21312690460001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*, express the highest praise for the rapid fingerwork and musicality of the Irish harpers.  
 
-
 {{% /largefigure %}}
 
 {{% largefigure src="../b433868.jpg" headline="Engraving of early harp." description="Walker, *[Historical Memoirs of the Irish Bards](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21366766910001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)* ML3654 .W35 1786 Irish" size="medium" align="left" %}}
 
 The medieval harps were carved out of a single log of wood (willow or bog oak), strung with heavy brass wire strings, and played with long fingernails. The oldest extant harps are from the 14th century: the Trinity College Harp (Dublin), and the [Queen Mary](https://www.nms.ac.uk/explore-our-collections/stories/scottish-history-and-archaeology/mary-queen-of-scots/mary-queen-of-scots/queen-mary-harp/) and [Lamont Harps](https://nms.scran.ac.uk/database/record.php?usi=000-190-001-134-C) (Edinburgh). The Trinity Harp is the model for the symbol of Ireland on coins, flags and building
-
 
 {{% /largefigure %}}
 
@@ -40,7 +38,5 @@ The medieval harps were carved out of a single log of wood (willow or bog oak), 
 {{% largefigure src="../b41639.jpg" headline="Illustration of a cláirseach." description="Moore, *[Irish Melodies](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21327961130001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)* PR5054 .I8 1846 Irish" size="medium" align="right" %}}
 
 In the 16th century, the chieftains began to lose their power and lands, and the role of the professional harper changed. Harpers found patrons in the great houses of Ireland and Scotland. The itinerant harper travelled from house to house, providing music and teaching harp to family members. In Ireland, larger *cláirseachs* were made. Fewer than twenty of these Gaelic harps still exist today, and most are in the National Museum of Ireland. The Museum of Fine Arts in Boston holds the [Bunsworth harp](https://www.mfa.org/collections/object/harp-cl%C3%A1irseach-50327) (1734).
-
-
 
 {{% /largefigure %}}

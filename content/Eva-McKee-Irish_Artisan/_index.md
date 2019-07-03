@@ -5,7 +5,7 @@ title: "Introduction"
 # Title of exhibit
 exhibit_title: "Eva McKee: Irish Artisan"
 
-date: 2019-02-14T10:19:08-05:00
+date: 2013-02-01T10:19:08-05:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1

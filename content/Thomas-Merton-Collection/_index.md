@@ -5,7 +5,7 @@ title: "Introduction"
 # Title of exhibit
 exhibit_title: "Thomas Merton Collection"
 
-date: 2019-03-01T15:28:54-05:00
+date: 2013-06-01T15:28:54-05:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1
@@ -30,4 +30,4 @@ At the time that Merton donated the typescript, Terence L. Connolly, S.J. headed
 
 Brendan C. Connolly, S.J.  was named Director of the Boston College Library after the death of Fr. Terence Connolly. The new librarian was eager to continue developing the Merton Collection, and made sure that the loan system established by Fr. Terence Connolly remained in place. The collection eventually grew to include drawings by Merton, photographic images, and correspondence.
 
-This exhibit reproduces some of the 1949 exhibit and explores some of Merton’s correspondence with the three Boston College Jesuits. Additional material from the [Thomas Merton Collection (MS1986-063)](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21313130790001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) is available for research in the [John J. Burns Library](https://libguides.bc.edu/burns). 
+This exhibit reproduces some of the 1949 exhibit and explores some of Merton’s correspondence with the three Boston College Jesuits. Additional material from the [Thomas Merton Collection (MS1986-063)](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21313130790001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) is available for research in the [John J. Burns Library](https://libguides.bc.edu/burns).
