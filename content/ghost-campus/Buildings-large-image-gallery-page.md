@@ -73,7 +73,7 @@ type: "exhibit"
 {{% /largefigure %}}
 
 {{% largefigure src="../Alumni-Hall.png"
-                headline=""
+                headline="Alumni Hall (1903-1988) used for Alumni Association, administrative, and The Heights offices"
                 description=""
                 size="x-large" align="center" %}}
 {{% /largefigure %}}

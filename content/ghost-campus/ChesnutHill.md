@@ -1,5 +1,5 @@
 ---
-title: "Chestnut Hill "
+title: "Chestnut Hill"
 description: ""
 
 # Page order (1 is 1st page, etc.)
@@ -12,16 +12,16 @@ draft: true
 type: "exhibit"
 ---
 
-{{% largefigure src="../ghostcampustitleandbkgd3.png"
+{{% largefigure src="../orchard.png"
                 headline=""
                 description=""
-                size="x-large" align="center" %}}
+                size="large" align="center" %}}
 {{% /largefigure %}}
 
-{{% largefigure src="../ghostcampustitleand bkgd4.png"
+{{% largefigure src="../reservoir.png"
                 headline=""
                 description="" 
-                size="x-large" align="center" %}}
+                size="large" align="center" %}}
 
 {{% /largefigure %}}
 
