@@ -26,7 +26,7 @@ type: "exhibit"
 
 {{< figure src="../03_not_available_web.jpg"
            headline="New England"
-           description="Bacon. *[Historic Pilgrimages in New England: Among Landmarks of Pilgrim and Puritan Days and of the Provincial and Revolutionary Periods] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21374972640001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Silver Burdett & Company, [c1898])."
+           description="Bacon. *[Historic Pilgrimages in New England: Among Landmarks of Pilgrim and Puritan Days and of the Provincial and Revolutionary Periods] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21374972640001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Silver Burdett & Company, c.1898."
 >}}
 
 {{% /galleryrow %}}
