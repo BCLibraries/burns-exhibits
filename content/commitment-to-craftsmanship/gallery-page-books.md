@@ -3,7 +3,7 @@ title: "The Books"
 description: ""
 
 # Page order
-weight:  5
+weight:  4
 alwaysopen: true
 
 # Change to false to publish.
