@@ -20,7 +20,17 @@
   <link href="https://fonts.googleapis.com/css?family=Merriweather:400,700|Open+Sans:300,400,400i,600,700&display=swap" rel="stylesheet">
 
   {{ $style := resources.Get "sass/style.scss" | resources.ToCSS |  resources.Minify | resources.Fingerprint }}
-<link rel="stylesheet" href="{{ $style.RelPermalink }}">
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+  
+  {{ $footstyle := resources.Get "css/footer.css" }}
+  <link rel="stylesheet" href="{{ $footstyle.RelPermalink }}">
+  
+  {{ $megastyle := resources.Get "css/megamenu.css" }}
+  <link rel="stylesheet" href="{{ $megastyle.RelPermalink }}"> 
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
 
   {{ $stylesheet := $.Site.Data.assets.app }}
   {{ with $stylesheet.css }}
@@ -34,4 +44,7 @@
   {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
   {{ template "_internal/google_analytics_async.html" . }}
   {{ end }}
+
+  <script src="https://kit.fontawesome.com/768ae6e528.js"></script>
+
 </head>

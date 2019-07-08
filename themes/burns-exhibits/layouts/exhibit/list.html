@@ -2,22 +2,29 @@
 {{ partial "exhibit-heading.html" . }}
 {{ end }}
 
-{{ define "main" }}
 
-<div class="col-md-12 main-image">
-    <figure>
+
+{{ define "main" }}
+<div class="col-md-12 intro-content">
         {{ if isset .Params "front_image" | and (ne .Params.front_image "") }}
+
+        {{ $front_image_layout := .Params.front_image_layout | default "landscape" }}
+        {{ $front_image_layout_class := print "front_image__" $front_image_layout }}    
+
+    <figure class="{{ $front_image_layout_class }}">
         {{ $img := $.Resources.GetMatch .Params.front_image }}
         {{ $resized := $img.Resize "800x q50" }}
         <img src="{{ $resized.RelPermalink }}">
-        {{ end }}
+
+        {{ if isset .Params "front_caption_headline" | and (ne .Params.front_caption_headline "") }}
         <figcaption>
-            <h3>{{ .Params.front_caption_headline }}</h3>
-            <p>{{ .Params.front_caption_text | markdownify }}</p>
-        </figcaption>
+                <h3>{{ .Params.front_caption_headline }}</h3>
+                <p>{{ .Params.front_caption_text | markdownify }}</p>
+            </figcaption>
+        {{ end }}
+
     </figure>
-</div>
-<div class="col-md-12 intro-content">
+    {{ end }}
     {{ .Content }}
 </div>
 <div class="col-md-12">

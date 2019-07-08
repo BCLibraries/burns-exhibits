@@ -3,7 +3,8 @@
 title: "Introduction"
 
 # Title of exhibit
-exhibit_title: "Genius of Genre: Flann O'Brien"
+exhibit_title: "Genius of Genre: "
+exhibit_subtitle: "The Pen Names and Personas of Flann O'Brien"
 
 date: 2019-05-06T16:57:54-04:00
 
@@ -14,6 +15,7 @@ weight: 1
 front_image: "genius-of-genre-promo.jpg" # Replace with the real image
 front_caption_headline: ""
 front_caption_text: ""
+front_image_layout: "portrait"
 
 # Change to false to publish.
 draft: true

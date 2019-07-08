@@ -58,7 +58,18 @@
     }
 
     figure {
+
         @extend .col-md-12;
+
+        width: -webkit-min-content;
+        width: -moz-min-content;
+        width: min-content;
+        margin: 0 auto;
+        max-width: max-content;
+
+        img {
+            max-width: initial;
+        }
     }
 }
 

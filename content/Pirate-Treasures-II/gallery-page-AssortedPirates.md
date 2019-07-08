@@ -42,7 +42,7 @@ type: "exhibit"
            description="Bradlee, Francis Boardman Crowninshield. *[Piracy in the West Indies and its Suppression](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21317708480001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Salem, Mass.: Essex Institute, 1923."
 >}}
 
-{{< figure src="D6_WakeVerrill.jpg"
+{{< figure src="D6_WakeVerrill.jpg" 
            headline="Wake of the Buccaneers"
            description="Verrill, Alpheus Hyatt. *[In the Wake of the Buccaneers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21319036120001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York, London: Century, 1923."
 >}}

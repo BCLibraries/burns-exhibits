@@ -6,8 +6,16 @@
     <header class="row">
         <div class="col-md-12">
             {{- partial "library-header.html" . -}}
+            {{- partial "blackbar.html" . -}}
         </div>
     </header>
+
+<!-- FIX THIS 
+    <div class="blackbar">
+            {{- partial "megamenu.html" . -}}
+    </div>
+-->
+
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -35,11 +43,21 @@
     </div>
 <!-- END HOMEPAGE -->
 
-        <footer class="cold-md-12">
-            {{- partial "footer.html" . -}}
-        </footer>
     </div>
+
+    <footer>
+            {{- partial "footer.html" . -}}
+    </footer>
+
     {{ $script := resources.Get "js/main.js" }}
     <script src="{{ $script.RelPermalink }}"></script>
+
+    {{ $scripthours := resources.Get "js/hours.js" }}
+    <script src="{{ $scripthours.RelPermalink }}"></script>
+
+
+    {{ $scriptmenu := resources.Get "js/megamenu.js" }}
+    <script src="{{ $scriptmenu.RelPermalink }}"></script>
+
 </body>
 </html>
