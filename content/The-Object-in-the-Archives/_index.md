@@ -15,6 +15,7 @@ weight: 1
 front_image: "Promo-Image.png"
 front_caption_headline: ""
 front_caption_text: ""
+front_image_layout: "portrait"
 
 # Change to false to publish.
 draft: true

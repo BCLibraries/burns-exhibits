@@ -15,6 +15,7 @@ weight: 1
 # Big image on first page.
 front_image: "elizabeth_i_armada_portrait_web.jpg"
 front_caption_headline: "Elizabeth I by George Gower, ca. 1588."
+front_image_layout: "landscape"
 
 # Change to false to publish.
 draft: true
