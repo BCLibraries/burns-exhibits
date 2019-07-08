@@ -14,7 +14,7 @@ type: "exhibit"
 ---
 
 Curator: Shelley Barber, Archives & Reference Specialist, John J. Burns Library.
-Originally displayed: Nov. 2013–Jan. 2014, Burns Library, Ford Tower.
+Originally displayed: Burns Library, Ford Tower. November 2013 – January 2014.
 
 {{% figure src="41_cvb1357766_10_web.jpg"
            headline="Credits" 
