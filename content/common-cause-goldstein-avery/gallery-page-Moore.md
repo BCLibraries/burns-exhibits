@@ -29,7 +29,7 @@ In Boston Avery was exposed to a wide variety of new philosophies and social ref
 {{% /largefigure %}}
 
 **Katherine Avery and Conversion to Catholicism**
-{{% largefigure src="../011_KatherineAvery.JPG.jpg" headline="Photograph of Katherine Avery with David Goldstein, after 1930." description="b. 34, f. 6, [David Goldstein and Martha Moore Avery Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21387017070001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)" MS1986-167"size="small" %}}
+{{% largefigure src="../011_KatherineAvery.JPG.jpg" headline="Photograph of Katherine Avery with David Goldstein, after 1930." description="b. 34, f. 6, [David Goldstein and Martha Moore Avery Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21387017070001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1986-167" size="small" %}}
 In 1899, Avery sent her daughter Katherine to a Catholic boarding school in Montreal. This had unexpected consequences when Katherine converted to Catholicism in 1900 and became a nun in 1902, taking the name Sister St. Mary Martha. Avery, too, was becoming more interested in religion and specifically the lack of it in Socialism. At the State Convention of the Socialist Party in 1902, Avery and Goldstein quarreled with the leadership about atheism and free love; they introduced a motion to denounce speakers “who attack theological doctrines or dogmas, who advocate violence, free love or other doctrines,” but it was soundly defeated. In response, Avery resigned from the Socialist Party and converted to Catholicism in 1903.
 {{% /largefigure %}}
 
