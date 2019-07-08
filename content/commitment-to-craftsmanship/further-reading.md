@@ -15,21 +15,27 @@ type: "exhibit"
 Collections Used: 
 
 **Jesuitica**
+
 The Jesuitica collection contains more than 10,000 volumes published by or about the Jesuits prior to the order’s suppression in 1773. This collection documents the varied and significant contributions of Jesuits to a wide range of disciplines in the early modern period, including many rare and seminal works. In addition to printed books, the collection also includes original letters of St. Francis Xavier, St. Robert Bellarmine, and St. Francis Borgia.
 
 **Nicholas M. Williams Ethnological Collection**
+
 Assembled by the Jesuit missionary and ethnologist, Joseph J. Williams, S.J., and named in honor of his father, this collection includes more than 10,000 volumes documenting the history, life and culture of the people of Jamaica and their African antecedents. It also includes the largest manuscript collection of Anansi folk tales in existence.
 
 **General Collection**
+
 The General Collection consists of miscellaneous works housed in the John J. Burns Library because of their date of publication, their rarity or intrinsic value, or their relationship to other named collections.
 
 **Irish Music Archives**
+
 The Irish Music Center of the John J. Burns Library is an archival and listening center, committed to documenting the history of Irish traditional music in America. The center’s archives include commercial and field recordings, video recordings, sheet music, manuscripts, photographs, memorabilia, and books about music. Many of the center’s archival holdings have been generously donated, including 78-rpm and LP recordings of solo instrumental music, sean nόs singing, ensemble performances, céilí bands, and fold songs and ballads
 
 **University Archives**
+
 The Boston College Archives is the official repository for non-current University records having permanent historical, legal, fiscal, or administrative value. The primary mission of the Archives is to identify, collect, preserve, arrange, and describe records documenting the history of administrative and academic units and the activities of Boston College faculty, staff, and students. At present the University Archives is centered in the John J. Burns Library, and is comprised of more than 3,000 linear feet of records. While most of the material originates from the various Boston College offices, the Archives also serves as the repository for records of the Boston College Jesuit Community and Newton College of the Sacred Heart.
 
 **Incunabula**
+
 The John J. Burns Library owns 75 books from the incunable period, that is, that were printed before 1501 in Europe. The books in the Burns collection were printed in cities such as Rome, Augsburg, Cologne, and Venice. While most are in Latin, other European languages are represented as well.  
 
 **Other Mark Esser exhibitions:**
