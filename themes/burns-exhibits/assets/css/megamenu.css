@@ -4,6 +4,11 @@
  * 
  * @geedmo - Licensed under the MIT license
  */
+
+ .blackbar {
+    margin: 0 0 50px 0;
+ }
+
 .blackbar .yamm .nav,
 .blackbar .yamm .collapse,
 .blackbar .yamm .dropup,
