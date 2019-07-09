@@ -66,6 +66,7 @@ Speed, John. *A Map of Jamaica and Barbados. Sold by Thomas Bassett in Fleetstre
 
 {{% largefigure src="F4C_1676SpeedPortRoyal.JPG"
                 headline="map detail"
+				description="b.24, Williams Collection, MS2009.030."
                 size="medium"
                 align="right" %}}
 Speed, John. *A Map of Jamaica and Barbados. Sold by Thomas Bassett in Fleetstreet and Richard Chiswell in St. Pauls Churchyard.* London, 1676.
@@ -73,6 +74,7 @@ Speed, John. *A Map of Jamaica and Barbados. Sold by Thomas Bassett in Fleetstre
 
 {{% largefigure src="F4D_1676SpeedPortRoyal.JPG"
                 headline="map detail"
+				description="b.24, Williams Collection, MS2009.030."
                 size="medium"
                 align="left" %}}
 Speed, John. *A Map of Jamaica and Barbados. Sold by Thomas Bassett in Fleetstreet and Richard Chiswell in St. Pauls Churchyard.* London, 1676.
