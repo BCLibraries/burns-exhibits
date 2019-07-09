@@ -173,7 +173,7 @@ type: "exhibit"
 
 {{< figure src="../26_b378982_web.jpg"
            headline="Nürnberg"
-           description="De la Ramé. *[The Nürnberg Stove] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21351462780001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Boston : J Knight company 1892 [1892])."
+           description="De la Ramé. *[The Nürnberg Stove] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21351462780001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Boston: J. Knight Company, 1892."
 >}}
 
 {{< figure src="../27_b354833_web.jpg"
