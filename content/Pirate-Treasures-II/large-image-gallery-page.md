@@ -28,7 +28,7 @@ The [Williams Collection](http://hdl.handle.net/2345/1022), in addition to its b
 
 {{% largefigure src="F_Barros letter p1.jpg"
                 headline="Barros, Alonzo. Report on America and capture of English privateer carrying contraband, 1682."
-                description="b.13, f.47, Williams Collection, MS2009-030"				
+                description="b.13, f.47, Williams Collection, MS2009-030."				
                 size="medium"
                 align="left" %}}
 
@@ -36,7 +36,7 @@ The [Williams Collection](http://hdl.handle.net/2345/1022), in addition to its b
 
 {{% largefigure src="F_Broughton letter.jpg"
                 headline="Broughton, William. Letter to William Braithwaite following the 1692 Port Royal, Jamaica earthquake, 27 June, 1692."
-				                description="b.21, f.3, Williams Collection, MS2009-030"
+				                description="b.21, f.3, Williams Collection, MS2009-030."
                 size="medium"
                 align="right" %}}
 
