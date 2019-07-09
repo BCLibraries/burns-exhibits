@@ -1,68 +1,43 @@
 /* FETCH LIBRARY HOURS */
-
+<!-- Script for updating Burns Lib hours-->
+<script>
 $(document).ready(function(){
-    // list of library names as keys
-    // dom class name as values
-    var libs2 = {
-                "O'Neill Library": ".lib-oneill",
-                "Bapst Library": ".lib-bapst",
-                "Burns Library": ".lib-burns",
-                "Educational Resource Center": ".lib-erc",
-                "Law Library": ".lib-law",
-                "Social Work Library": ".lib-swl",
-                "Theology and Ministry Library": ".lib-tml"
-                };
-
-    var months = ["January","February","March","April","May","June","July","August","September","October","November","December"];
-
+    var libID = 507;
+    var libName = "BurnsLibrary";
     // grab each library's data from the output and place it where it needs to go
     function setHours(data){
-        // set today's date
-        var today = new Date();
-        var year = today.getFullYear();
-        var month = today.getMonth();
-        var day = today.getDate()
-        var date = months[month] + " " + day + ", " + year;
-        $(".hours-todays-date").text(date);
+        var libList = $(data["out"]).find("ul#" + libID);
+        var todaysHours = $(data["out"]).find("ul.today li.hours").html();
 
-        if ("locations" in data) {
-            //console.log(date);
-            $.each(data["locations"], function(index, loc) {
-                var cat = loc.category;
-                var name = loc.name;
-                if ((cat == "library") && (name in libs2)) {
-                    //console.log(loc.name);
-                    //console.log("found " + name);
-                    var rendered = loc.rendered;
-                    if (loc.rendered.length >= 12) {
-                        //console.log("adding font-small class to output");
-                        rendered = "<span class='font-small'>" + rendered + "</span>";
-                    }
+        if (libList && libList.length > 0){
+            $("div#" + libName).append(todaysHours);
+            $("div#weekly_hours_container").append(libList.clone());
+        }
 
-                    if (loc.name == "O'Neill Library" && loc.rendered.includes('*')) {
-                        $('.onl-asterisk-notice').show();
-                    }
-
-                    $(libs2[name]).html(rendered);
-                }
-            });
+        if ($("#libstatus") && $("#libstatus").length){
+            var isopen = $("#nowopen");
+            var libstatus = "closed"
+            if (isopen && isopen.length){
+                libstatus = "Open";
+            }
+            $("#libstatus").html("<strong>" + libstatus + "</strong>");
         }
     };
 
     // call to the hours api
     $.ajax({
         type: "GET",
-        url: "//api3.libcal.com/api_hours_today.php?iid=609&lid=0&format=json&system_time=0",
+        url: "//arc.bc.edu/libhours/libweeklyhours.php",
         jsonp: "callback",
         dataType: "jsonp",
         cache: true,
         contentType: "application/javascript",
-        data: {l: '0'},
+        data: {l: libID},
         headers: {'Cache-Control': 'max-age=60'},
         success: setHours,
         error: function(){
-            console.log("could not retrieve hours!");
-            $.each("div.mini_hours_container").html("Error retrieving hours");
+            $("div#weekly_hours_container").html("Error retrieving hours");
         },
     });
 });
+</script>
