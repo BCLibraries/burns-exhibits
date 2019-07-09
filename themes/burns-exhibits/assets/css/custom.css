@@ -2,9 +2,23 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Merriweather';
 }
 
-.main-page-stuff, .breadcrumb {
-    display: none;
+/* HEADER FIXES */
+
+header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    overflow-x: hidden; 
+    display: inline-block;
+    z-index: 1;
 }
+
+.container.content {
+    margin-top: 100px;
+}
+
+/* HOMEPAGE CSS */
 
 .homepage .intro {
    width: 100%;
@@ -106,3 +120,15 @@ a:hover .hp_title, a:active .hp_title {
 .oldgallery:nth-child(n+1):nth-child(-n+4) {
     display: none;
 }
+
+/* HOURS */ 
+
+
+#weekly_hours_container {border: 1px solid #fff; border-bottom:none;}
+#weekly_hours_container ul.dailyhours {padding:2px 0; border-bottom:1px solid #fff;}
+/*#weekly_hours_container ul.dailyhours:nth-child(odd) {background-color:#EAEAEA;}*/
+#weekly_hours_container ul.today {font-weight:600; background-color:#DCB8A0; color:#000;}
+#weekly_hours_container ul.dailyhours li {display:inline-block; margin:0; vertical-align:center; padding: 1px 0 1px 4px;}
+#weekly_hours_container ul.dailyhours li.day {width:30%;}
+#weekly_hours_container ul.dailyhours li.date {width:30%;}
+#weekly_hours_container ul.dailyhours li.hours {width:40%;}
