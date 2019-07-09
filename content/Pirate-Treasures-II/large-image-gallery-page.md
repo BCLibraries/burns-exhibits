@@ -20,8 +20,8 @@ The [Williams Collection](http://hdl.handle.net/2345/1022), in addition to its b
 {{% /largefigure %}}
 
 {{% largefigure src="F6A_1762Cuba.JPG"
-                headline="map detail"
-                description="A *New Chart of the Seas Surrounding the Island of Cuba.* 1762." 
+                headline="A *New Chart of the Seas Surrounding the Island of Cuba.* 1762, map detail."
+                description="b.21, f.5, Williams Collection, MS2009.030." 
                 size="large" align="center" %}}
       		
 {{% /largefigure %}}
@@ -43,15 +43,15 @@ The [Williams Collection](http://hdl.handle.net/2345/1022), in addition to its b
 {{% /largefigure %}}
 
 {{% largefigure src="F3A_1672Visscher.JPG"
-                headline="map detail"
-                description="Visscher, Nicolaes. *Insulae Americanae in Oceano Septentrionali ac regiones adiacentes: a C. de May usque ad Lineam Aequinoctialem  per Nicolaum Visscher.* 1672." 
+                headline="Visscher, Nicolaes. *Insulae Americanae in Oceano Septentrionali ac regiones adiacentes: a C. de May usque ad Lineam Aequinoctialem  per Nicolaum Visscher.* 1672., map detail."
+                description="b.23, Williams Collection, MS2009.030." 
                 size="large" align="center" %}}
 			
 {{% /largefigure %}}
 
 {{% largefigure src="F3B_1672Visscher.JPG"
-                headline="map detail"
-                description="Visscher, Nicolaes. *Insulae Americanae in Oceano Septentrionali ac regiones adiacentes: a C. de May usque ad Lineam Aequinoctialem  per Nicolaum Visscher.* 1672." 
+                headline="Insulae Americanae in Oceano Septentrionali ac regiones adiacentes: a C. de May usque ad Lineam Aequinoctialem  per Nicolaum Visscher.* 1672, map detail."
+                description="Visscher, Nicolaes. *b.23, Williams Collection, MS2009.030." 
                 size="large" align="center" %}}
 			
 {{% /largefigure %}}
