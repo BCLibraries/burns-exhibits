@@ -17,7 +17,7 @@ type: "exhibit"
 
 {{% figure src="../GoldsteinAvery024.jpg" headline="" size="x-large" %}}
 
-Collection Used: David Goldstein and Martha Moore Avery Papers [(MS1986-167)](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21387017070001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)  
+Collection Used: [David Goldstein and Martha Moore Avery Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21387017070001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1986-167)
 
 __Avery__
 

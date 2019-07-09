@@ -16,7 +16,7 @@ type: "exhibit"
 
 {{% figure src="../12-13-14-ONolans.jpg"
            headline="Michael V. O'Nolan; Agnes O'Nolan; O'Nolan children ca. 1919" 
-           description="b. 1, f. 61/62/66, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)" 
+           description="b. 1, f. 61/62/66, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027" 
            side="center" size="large"%}}
 
 		   
@@ -35,7 +35,7 @@ Unlike James Joyce and Samuel Beckett—Irish-born writers who gained greater fa
 **Father Figure**
 
 {{% figure src="../Studio-Session-836.jpg" headline="Pocket Missal" 
-description="b. 24, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)" side="left"  size="small" %}}
+description="b. 24, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027" side="left"  size="small" %}}
 
 Michael Victor O'Nolan died suddenly of a heart attack in 1937, leaving Brian as the primary breadwinner for his mother and ten siblings, of which he was the third. Having recently finished his studies and taken a job in the civil service like his father, he supported the family by acting as secretary to a series of senior ministers until a controversy forced his resignation in 1953.
 
@@ -48,11 +48,11 @@ During his last two years at Blackrock College, Brian earned medals for English 
 {{% galleryrow %}}
 
 {{% galleryfigure src="../039D_UCDImpromptuDebate.jpg" headline="1931-1932 University College Dublin Literary and Historical Society, silver medal for Impromptu Debate " %}}
-b. 24, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
+b. 24, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../032A_Debates.jpg" headline="UCD Literary and Historical Society, program of debates, 1931-32" %}}
-b. 17, f. 21, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
+b. 17, f. 21, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}

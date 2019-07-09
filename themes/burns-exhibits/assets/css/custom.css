@@ -1,0 +1,108 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Merriweather';
+}
+
+.main-page-stuff, .breadcrumb {
+    display: none;
+}
+
+.homepage .intro {
+   width: 100%;
+   padding: 15px 0;
+   margin: 0px 0 25px 0;
+}
+
+.homepage .intro h2 {
+    text-align: center;
+}
+
+.intro p {
+    font-size: .92em;
+}
+
+.current_exhibits {
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+.current_exhibits h3 {
+    font-size: 1.7rem;
+    border-bottom: 2px solid black;
+    margin-bottom: 25px;
+}
+
+.past_exhibits {
+    margin-bottom: 1.5em;
+}
+
+.past_exhibits h4 {
+    font-size: 1.5rem;
+    border-bottom: 2px solid black;
+    margin: 1.2em 0 1em 0;
+}
+
+.hp_img {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    border: 2px solid #b29d6c;
+}
+
+.current_exhibits .hp_img {
+    min-height: 305px;
+    background-position: 50% 50% !important;
+    background-size: cover !important;
+}
+
+.past_exhibits .hp_img {
+    min-height: 255px;
+    background-position: 50% 0% !important;
+    background-size: cover !important;
+}
+
+.hp_title {
+    position: absolute;
+    border-top: 2px solid #b29d6c;
+    padding: 5px 0;
+    text-align: center;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.current_exhibits .hp_title {
+    min-height: 50px;
+}
+
+.past_exhibits .hp_title {
+    min-height: 25px;
+ }
+
+.current_exhibits a .hp_title {
+    font-size: 2rem;
+}
+
+.past_exhibits a .hp_title {
+    font-size: 1rem;
+}
+
+a .hp_title {
+    color: black;
+    font-size: 2rem;
+    background: rgba(255,255,255,.9);
+    transition: ease .5s;
+}
+
+a:hover .hp_title, a:active .hp_title {
+    background: rgba(255,255,255,1);
+    color: #430000;
+}
+
+.oldgallery {
+    margin: 0 0 1.5em 0;
+}
+
+/* SILLY HACK TO HIGHLIGHT FIRST 2 CHILDREN OF OLD GALLERY */
+
+.oldgallery:nth-child(n+1):nth-child(-n+4) {
+    display: none;
+}

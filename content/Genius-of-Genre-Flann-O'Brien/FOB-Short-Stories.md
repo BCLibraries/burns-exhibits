@@ -26,7 +26,7 @@ A story titled “I’m Telling You No Lie!” is attributed to Lir O’Connor, 
 **Banned in Dublin**
 {{% figure src="../131_JohnDuffysBrother_p3.jpg"
            headline="Undated typescript and carbon copy of 'John Duffy's Brother,' [ca. 1940]"
-           description="b. 5, f. 14, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)"
+           description="b. 5, f. 14, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027"
            side="left" %}}
 
 “John Duffy’s Brother,” a tale about a man who thinks he is a train, combines steam punk and surrealism. O’Nolan wrote and published it right around the time he was working on The Third Policeman, whose similarly nameless protagonist also suffers a crisis of psychological identity.
@@ -47,11 +47,11 @@ Nolan, "The Martyr's Crown," [*Envoy*](https://bc-primo.hosted.exlibrisgroup.com
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../129-Martyr'sCrown-p9-8.jpg" headline="2nd ending, 'The Martyr's Crown'" %}}
-b. 5, f. 15 , [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
+b. 5, f. 15 , [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../130_MartyrsCrown_p4.jpg" headline="Typescript for 'The Martyr's Crown' which has a completely different opening and ending than “For Ireland Home and Beauty”. p. 4" %}}
-b. 5, f. 15 , [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS1997-027)
+b. 5, f. 15 , [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
