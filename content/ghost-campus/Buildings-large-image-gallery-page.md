@@ -1,5 +1,5 @@
 ---
-title: "Vanished Buildings, Part I"
+title: "Vanished Buildings I"
 description: ""
 
 # Page order (1 is 1st page, etc.)

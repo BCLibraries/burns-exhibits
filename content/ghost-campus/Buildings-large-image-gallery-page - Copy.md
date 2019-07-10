@@ -1,5 +1,5 @@
 ---
-title: "Vanished Buildings, Part II"
+title: "Vanished Buildings II"
 description: ""
 
 # Page order (1 is 1st page, etc.)
@@ -30,7 +30,6 @@ type: "exhibit"
                 description="" 
                 size="x-large" align="center" %}}
 
-{{% /largefigure %}}
 
 {{% largefigure src="../Ghost campus repros8.png"
                 headline=""
