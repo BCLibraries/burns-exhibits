@@ -80,12 +80,11 @@ In an enthusiastic thank-you letter following the conference, CSOM dean Donald W
 
 {{% /galleryrow %}}
 
-
-{{% largefigure src="../JaneJacobs020022.jpg"
-            headline="Carroll School of Management, Boston College, Conference Program: Jane Jacobs: In Conversation"
-            description="b. 20, f. 4, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029"
-            align="center"
-
+{{% largefigure src="../../JaneJacobs020022.jpg"
+                description="Carroll School of Management, Boston College, Conference Program: Jane Jacobs: In Conversation"
+				headline="b. 20, f. 4, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029"
+                size="large"
+                align="center"
 %}}
 {{% /largefigure %}}
 
