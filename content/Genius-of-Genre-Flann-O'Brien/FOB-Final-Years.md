@@ -14,21 +14,25 @@ type: "exhibit"
 ---
 **Sickness Unto Death**
 
-{{% figure src="../089_Photo_Flann_Bed_Color.jpg"
-           headline="" 
-           description="b. 2, f. 21, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027" 
-           side="right" %}}
+
 
 O’Nolan led a solitary bachelor’s life until 1948, when he met and married Evelyn McDonnell, a typist in the government offices where he worked. He was 37. She was 39. No children followed.
 
 Over the next several years, he would be injured in multiple car crashes as well as a bus accident. Alcoholism  deteriorated his health. He would also be hospitalized for jaundice, pneumonia, influenza, kidney disease, an eye surgery, and eventually throat cancer. He died of heart attack while undergoing radiation treatment for the latter on April 1, 1966—“April Fool’s Day, his final joke,” his brother Micheál cracked. He was 54.
 
-He was buried in a plot alongside his parents in Dublin’s Deans Grange Cemetery, with his wife, siblings, and literary friends in attendance. In 1989, Anthony Cronin published a biographical tribute, *No Laughing Matter: The Life and Times of Flann O’Brien*.
+{{% galleryrow %}}
 
-{{% figure src="../022_FlannGrave050_Color.jpg"
+{{< figure src="../089_Photo_Flann_Bed_Color.jpg"
+           headline="Flann recovering in bed" 
+           description="b. 2, f. 21, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027" 
+>}}
+
+{{< figure src="../022_FlannGrave050_Color.jpg"
            headline="O'Nolan Family Plot, Dublin" 
            description="b. 10, f. 3, item 50 [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027" 
-           side="left" %}}
+>}}
+{{% /galleryrow %}}
+He was buried in a plot alongside his parents in Dublin’s Deans Grange Cemetery, with his wife, siblings, and literary friends in attendance. In 1989, Anthony Cronin published a biographical tribute, *No Laughing Matter: The Life and Times of Flann O’Brien*.
 
 **Learning to Swim Again**
 
@@ -42,13 +46,14 @@ The year after O’Nolan’s death, O’Keeffe brought out *The Third Policeman*
 
 {{% galleryrow %}}
 
-{{% galleryfigure src="../105_HardLifeAnnotated.png" headline="Annotated Copy of the Hard Life Typescript" %}}
-b. 3, f. 13, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
-{{% /galleryfigure %}}
+{{< figure src="../105_HardLifeAnnotated.png" 
+headline="Annotated Copy of the Hard Life Typescript" 
+description="b. 3, f. 13, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027"
+>}}
 
-{{% galleryfigure src="../FOB002A.jpg" headline="" %}}
-O'Brien, *The Hard Life*, PR6029 .N56 H3 1962 O'BRIEN LIBRARY
-{{% /galleryfigure %}}
+{{< figure src="../FOB002A.jpg" headline="" 
+description="O'Brien, [*The Hard Life*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21372464350001021), PR6029 .N56 H3 1962 O'BRIEN LIBRARY"
+>}}
 
 {{% /galleryrow %}}
 

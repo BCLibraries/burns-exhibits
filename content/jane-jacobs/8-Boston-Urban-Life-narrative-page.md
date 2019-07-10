@@ -48,7 +48,7 @@ A 1992 Bostonian Society publication examined the effects of urban renewal on th
 
 Boston’s North End was spared the complete demolition that befell its West End, but in the 1950s sections were leveled to make room for the Central Artery, an elevated expressway that looped around the city’s shoreline. The expressway effectively cut off the North End from the rest of the city until it was replaced in the 1990s and 2000s by a system of underground traffic tunnels known as the “Big Dig.” Today the North End is once again thriving as Boston’s “Little Italy.”
 
-{{% figure src="../JaneJacobs005.jpg"
+{{% figure src="../JaneJacobs002.jpg"
           headline=""
            description="  Langone, [*The North End*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21366126140001021), 08-000012104 BOSTON"
            side="left" %}}

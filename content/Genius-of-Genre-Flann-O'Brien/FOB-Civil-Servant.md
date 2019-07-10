@@ -26,11 +26,11 @@ According to his brother Ciarán, O’Nolan pursued a master’s degree at UCD i
 {{% galleryrow %}}
 
 {{% galleryfigure src="../094A-Thesis.jpg" headline="Trachtas ar Naduir-Fhiliocht na Gaedhilge maille le Duanaire" %}}
-b. 2, f. 29, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)MS1997-027
+b. 2, f. 29, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../098-Sceal.jpg" headline="'Sceal' manuscript" %}}
-b. 2, f. 48, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)MS1997-027
+b. 2, f. 48, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -39,15 +39,15 @@ Although O’Nolan lambasted policies aimed at making all Irish citizens Irish s
 {{% galleryrow %}}
 
 {{% galleryfigure src="../081-Underwood.jpg" headline="Letter to Underwood re: Irish language typewriter scheme, 15 Dec 1964" %}}
-b. 1, f. 40, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)MS1997-027
+b. 1, f. 40, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../081A-Underwood.jpg" headline="Letter to Underwood re: Irish language typewriter scheme, 15 Dec 1964" %}}
-b. 1, f. 40, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)MS1997-027
+b. 1, f. 40, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../080-Ryan.jpg" headline="Bryan Ryan for Underwood to O'Nolan re: Irish language typewriter scheme, 18 Dec 1964" %}}
-b. 2, f. 40, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)MS1997-027
+b. 2, f. 40, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -65,7 +65,7 @@ b. 5, f. 16, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../067_ Cavan Tribunal Notebook - front cover.jpg" headline="Notebook O’Nolan used to take notes during the tribunal" %}}
-b. 5, f. 16, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)MS1997-027
+b. 5, f. 16, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../097-Pathology-Revivalism.jpg" headline="'The Pathology of Revivalism' typescript" %}}

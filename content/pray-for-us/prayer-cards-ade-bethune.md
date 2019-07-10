@@ -11,7 +11,7 @@ draft: true
 
 type: "exhibit"
 ---
-These holy cards were all designed by Ade Bethune( (1914-2002)), who was born in Belgium and immigrated to the United States in 1928. She studied at the National Academy of Design in New York City and became involved with Dorothy Day's Catholic Worker Movement. Her art reflects her involvement in this movement, frequently depicting images of saints, Biblical figures, and working-class men and women performing acts of mercy.
+These holy cards were all designed by Ade Bethune (1914-2002), who was born in Belgium and immigrated to the United States in 1928. She studied at the National Academy of Design in New York City and became involved with Dorothy Day's Catholic Worker Movement. Her art reflects her involvement in this movement, frequently depicting images of saints, Biblical figures, and working-class men and women performing acts of mercy.
 
 {{% galleryrow %}}
 

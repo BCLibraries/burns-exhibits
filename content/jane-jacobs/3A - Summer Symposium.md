@@ -20,11 +20,6 @@ type: "exhibit"
 Jacobs did not travel much, but when she did, her husband often accompanied her. Bob joined her for all of her visits to BC. In a thank-you note following their visit, Jacobs commented: “Both of us were struck by the general atmosphere of the college and the students—such a wonderful combination comes across of intelligence, earnestness and happiness and zest.”
 
 Following the symposium, which included lengthy discussions about her proposals, Jacobs decided to recast her work in progress as a dramatic dialogue modeled on Plato’s *Symposium*, in which the interlocutors articulate and defend opposing viewpoints. She provisionally titled it, “Survival Systems: A Summer Dialogue on Ethics.”
- 
-- “Man is a territorial animal.”
-- “People are city-building animals.”
-- “Knowledge is a weapon, also an adornment,” said Jasper.
-- “Knowledge is a tool,” said Kate. <cite>—Systems of Survival, p. 128</cite>
 
 The proceedings of the 1987 Lonergan Workshop were edited for publication in 1989. The volume included the texts of papers presented at the workshop as well as transcriptions of the question-and-answer sessions that followed Jacobs’s lectures. 
 
@@ -85,19 +80,12 @@ In an enthusiastic thank-you letter following the conference, CSOM dean Donald W
 
 {{% /galleryrow %}}
 
-{{% galleryrow %}}
 
-{{< figure src="../JaneJacobs020.jpg"
+{{% figure src="../JaneJacobs020022.jpg.jpg"
           headline="Carroll School of Management, Boston College, Conference Program: Jane Jacobs: In Conversation "
            description="b. 20, f. 4, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029 "
->}}
+%}}
 
-{{< figure src="../JaneJacobs022.jpg"
-          headline="Carroll School of Management, Boston College, Conference Program: Jane Jacobs: In Conversation "
-           description="b. 20, f. 4, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029 "
->}}
-
-{{% /galleryrow %}}
 
 During the week she spent in Boston in 1993 for the CSOM conference, Jacobs returned to visit Boston’s North End, which she had first seen during the Depression in 1938 and then again in 1960, when she wrote about it in *The Death and Life of Great American Cities*.
 
