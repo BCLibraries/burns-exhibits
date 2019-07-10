@@ -5,16 +5,15 @@
         <div class="row">
             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 address-wrap">
                 <div class="address">
-                    <h4 class="orgname">Boston College Libraries</h4>
+                    <h4 class="orgname">John J. Burns Library</h4>
                     <a href="https://www.google.com/maps/place/140+Commonwealth+Avenue,+Chestnut+Hill,+MA+02467/@42.3364909,-71.1725963,17.37z/data=!4m5!3m4!1s0x89e37860e3b651e5:0x9d50126b40ea51e4!8m2!3d42.3367006!4d-71.1714299">
                         <span>140 Commonwealth Ave<br></span>
                         <span>Chestnut Hill, MA 02467<br></span>
                     </a>
                 </div>
                 <div class="phone-numbers">
-                    <div class="phone-pair"><p class="phone-label">O'Neill Circulation: </p> <p class="phone-number"><a href="tel:+16175528038">617-552-8038</a></p></div>
-                    <div class="phone-pair"><p class="phone-label">O'Neill Reference: </p> <p class="phone-number"><a href="tel:+16175524472">617-552-4472</a></p></div>
-                    <div class="phone-pair"><p class="phone-label">Administration: </p> <p class="phone-number"><a href="tel:+16175524470">617-552-4470</a></p></div>
+                    <div class="phone-pair"><p class="phone-label">Burns Administration: </p> <p class="phone-number"><a href="tel:+16175523282">617-552-3282</a></p></div>
+                    <div class="phone-pair"><p class="phone-label">Burns Reference:</p> <p class="phone-number"><a href="tel:+16175524861">617-552-4861</a></p></div>
                 </div>
                 <div class="lib-footer-links">
                     <span><a href="https://libguides.bc.edu/accessibility">Library Accessibility</a><a href="https://libguides.bc.edu/privacy">Privacy</a></span>
@@ -22,52 +21,15 @@
                 
             </div>
 
-            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 hours-wrap">
-                <h4 class="hours"><a href="https://libguides.bc.edu/hours">Hours</a></h4>
-                <div class="hours-todays-date"></div>
-                <div class="table-hours">
-                    <table class="table table-condensed table-bordered">
-                        <caption class="accessibility-text">Today's Library Hours</caption>
-                        <thead class="accessibility-text">
-                            <tr>
-                                <th>Library</th>
-                                <th>Hours</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td><a href="https://libguides.bc.edu/oneill/hours">O'Neill Library</a></td>
-                                <td class="lib-hours lib-oneill">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-                            </tr>
-                            <tr>
-                                <td><a href="https://libguides.bc.edu/bapst/hours">Bapst Library</a></td>
-                                <td class="lib-hours lib-bapst"></td>
-                            </tr>
-                            <tr>
-                                <td><a href="https://libguides.bc.edu/burns">Burns Library</a></td>
-                                <td class="lib-hours lib-burns"></td>
-                            </tr>
-                            <tr>
-                                <td><a href="https://libguides.bc.edu/erc/hours">Educational Resource Center</a></td>
-                                <td class="lib-hours lib-erc"></td>
-                            </tr>
-                            <tr>
-                                <td><a href="https://www.bc.edu/bc-web/schools/law/sites/current-students/library/using/hours.html">Law Library</a></td>
-                                <td class="lib-hours lib-law"></td>
-                            </tr>
-                            <tr>
-                                <td><a href="https://libguides.bc.edu/socialwork/hours">Social Work Library</a></td>
-                                <td class="lib-hours lib-swl"></td>
-                            </tr>
-                            <tr>
-                                <td><a href="https://libguides.bc.edu/tml/hours">Theology &amp; Ministry Library</a></td>
-                                <td class="lib-hours lib-tml"></td>
-                            </tr>
-                        </tbody>
-                    </table>
-                    <div class="onl-asterisk-notice">* First floor study area remains open until 2:00 am. Collections and services are not available after 10:00 pm.</div>
+<!-- HOURS -->
+           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 hours-wrap">
+                    <!--h4 class="hours"><a href="https://libguides.bc.edu/hours">Hours</a></h4-->
+                    <div class="hours-todays-date"></div>
+                    <h4>This Week's Hours <span id="hours_seperator">|</span> <a href="https://libguides.bc.edu/hours">See All Hours</a></h4>
+                    <!-- LIBCAL HOURS API-->
+                    <div id="weekly_hours_container"><ul class="lib_hoursweekly" id="507"><ul class="dailyhours"><li class="day">Sunday</li><li class="date">Jul 07</li><li class="hours">closed</li></ul><ul class="dailyhours"><li class="day">Monday</li><li class="date">Jul 08</li><li class="hours"><span class="hours-start">9am</span> - <span class="hours-end">5pm</span></li></ul><ul class="dailyhours open today"><li class="day">Tuesday</li><li class="date">Jul 09</li><li class="hours"><span class="hours-start">9am</span> - <span class="hours-end">5pm</span></li></ul><ul class="dailyhours"><li class="day">Wednesday</li><li class="date">Jul 10</li><li class="hours"><span class="hours-start">9am</span> - <span class="hours-end">5pm</span></li></ul><ul class="dailyhours"><li class="day">Thursday</li><li class="date">Jul 11</li><li class="hours"><span class="hours-start">9am</span> - <span class="hours-end">5pm</span></li></ul><ul class="dailyhours"><li class="day">Friday</li><li class="date">Jul 12</li><li class="hours"><span class="hours-start">9am</span> - <span class="hours-end">5pm</span></li></ul><ul class="dailyhours"><li class="day">Saturday</li><li class="date">Jul 13</li><li class="hours">closed</li></ul><span id="nowopen"></span></ul></div>
                 </div>
-            </div>
+<!-- END HOURS -->
 
             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 social-wrap">
                 <div id="socialmedia" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -83,14 +45,11 @@
                 <div class="quick-links col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <h4>Quick Links</h4>
                     <ul>
-                        <li><a href="https://libcal.bc.edu/booking/oneill">Study Rooms</a></li>
-                        <li><a href="https://libguides.bc.edu/ask-a-librarian">Ask a Librarian</a></li>
-                        <li><a href="https://illiad.bc.edu/illiad/bxm/logon.html">Interlibrary Loan</a></li>
-                        <li><a href="https://bc.on.worldcat.org/">WorldCat</a></li>
-                        <li><a href="https://library.bc.edu/courses">Course Reserves</a></li>
-                        <li><a href="https://libguides.bc.edu/refworks-login">RefWorks</a></li>
-                        <li><a href="https://answers.bc.edu/">FAQs</a></li>
-                        <li><a href="https://libguides.bc.edu/contact">Contact Us</a></li>
+                            <li><a href="https://libguides.bc.edu/burns/contact">Contact us</a></li>
+                            <li><a href="https://libguides.bc.edu/burns/staff">Staff Directory</a></li>
+                            <li><a href="https://libguides.bc.edu/burns/visit">Directions &amp; Parking</a></li>
+                            <li><a href="https://libguides.bc.edu/burns/donate">Give to Burns Library</a></li>
+                            <li><a href="https://libguides.bc.edu/student-employment">Student Employment</a></li>
                     </ul>
                 </div>    
             </div>

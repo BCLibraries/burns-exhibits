@@ -44,12 +44,19 @@ Random House also changed the dustjacket background color from cream (used for *
 
 Jacobs continuously worked and reworked her writing, sometimes in response to the comments of an editor (as written in green ink on this page from a penultimate draft of Dark Age Ahead), but more often upon her own re-reading (as evidenced by changes she marked in blue ink).
 
-{{% figure src="../portrait-image.jpg"
-           headline="Consectetur Ligula Venenatis Vestibulum" 
-           description="Tellus Sem Pharetra Ridiculus" 
-           side="right" %}}
+{{% galleryrow %}}
 
-{{% figure src="../intro-image.jpg"
-           headline="Consectetur Ligula Venenatis Vestibulum" 
-           description="Tellus Sem Pharetra Ridiculus" side="left" %}}
+{{< figure src="../JaneJacobs044.jpg"
+           headline="Caution: Dark Age Ahead. Typescript draft"
+           description="b. 42, f. 6, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029 "
+>}}
 
+{{< figure src="../JaneJacobs046.jpg"
+           headline="Caution: Dark Age Ahead. Typescript draft"
+           description="b. 42, f. 6, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029 "
+>}}
+{{< figure src="../JaneJacobs047.jpg"
+ headline=" Caution: Dark Age Ahead. Typescript draft"
+           description="b. 42, f. 6, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029 "
+>}}
+{{% /galleryrow %}}

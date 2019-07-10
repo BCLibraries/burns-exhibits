@@ -15,7 +15,7 @@ type: "exhibit"
 ---
 **PULSE, Haley House, and Jacobs’s Influence**
 
-Since its establishment in 1969, more than 13,000 Boston College students have participated in the PULSE Program for Service Learning. The majority take a year-long course in philosophy and theology titled “Person and Social Responsibility.” Several PULSE elective courses are also offered, such as “Boston: An Urban Analysis,” taught by David Manzo, who incorporates readings from Jacobs into his syllabus.
+Since its establishment in 1969, more than 13,000 Boston College students have participated in the [PULSE Program](https://www.bc.edu/bc-web/schools/mcas/sites/PULSE/about.html) for Service Learning. The majority take a year-long course in philosophy and theology titled “Person and Social Responsibility.” Several PULSE elective courses are also offered, such as “Boston: An Urban Analysis,” taught by David Manzo, who incorporates readings from Jacobs into his syllabus.
 
 In 2014, University Trustee Robert Cooney ’74, his wife Loretta, and their family established an endowment for the PULSE Program that has enabled it to open more sections of its popular core course, “Person and Social Responsibility.” According to Cooney Family PULSE Director Meghan Sweeney, “PULSE cultivates a different way of seeing things. The goal is for students to bring the experiences and the lessons to whatever field they choose to pursue.”
 

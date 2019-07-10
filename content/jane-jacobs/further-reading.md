@@ -15,7 +15,7 @@ type: "exhibit"
 
 The Jane Jacobs Papers at Burns Library
 
-Unless otherwise noted, all materials displayed in this exhibit are drawn from the Jane Jacobs Papers [(MS1995-029)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21352764790001021), John J. Burns Library, Boston College. The collection is open and available for use in our reading room; please ask library staff for assistance.
+Unless otherwise noted, all materials displayed in this exhibit are drawn from the Jane Jacobs Papers (https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21352764790001021)MS1995-029), John J. Burns Library, Boston College. The collection is open and available for use in our reading room; please ask library staff for assistance.
 
 During Jacobs’s third visit to campus in 1993, Burns Librarian Robert O’Neill asked her if she would consider having the library serve as the repository for her personal papers. Her simple reply: “I can’t think of a place I’d rather have them.”
 
@@ -29,3 +29,29 @@ The 50th anniversary of the publication of *Death and Life* in 2011 prompted fre
 
 The centenary of Jacobs’s birth in 2016 occasioned a number of new publications, including biographical studies by Peter Laurence and Robert Kanigel, and a compilation of essays, articles, interviews, and speeches by Jacobs titled *Vital Little Plans*. Jacobs’s son, Jim, and granddaughter Caitlin organized an exhibition at Toronto’s Urbanspace Gallery that showed how Jacobs lived and worked at home.
 
+{{% galleryrow %}}
+{{< figure src="../JaneJacobs006.jpg"
+           headline=""
+           description="Lang, [*Genius of Common Sense*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21370362530001021), HT167 .L319 2008 GENERAL "
+>}}
+{{< figure src="../JaneJacobs008.jpg"
+           headline=""
+           description="Laurence, [*Becoming Jane Jacobs*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21462193250001021), HT167 .L353 2016 GENERAL "
+>}}
+{{< figure src="../JaneJacobs009.jpg"
+           headline=""
+           description="Kanigel, [*Eyes on the Street*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21464851220001021), HT167 .K325 2016 GENERAL "
+>}}
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{< figure src="../JaneJacobs007.jpg"
+           headline=""
+           description="Jacobs, [*Vital Little Plans*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21467177990001021), HT167 .J324 2016 GENERAL"
+>}}
+{{< figure src="../JaneJacobs001.jpg"
+           headline=""
+           description="Zeidler and Jacobs, Curators, [*Jane at Home*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21469873860001021), HT167 .J36 2016 GENERAL"
+>}}
+{{% /galleryrow %}}
