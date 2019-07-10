@@ -22,14 +22,13 @@ type: "exhibit"
                 headline=""
                 description="" 
                 size="x-large" align="center" %}}
-
 {{% /largefigure %}}
 
 {{% largefigure src="../Ghost campus repros7.png"
                 headline=""
                 description="" 
                 size="x-large" align="center" %}}
-
+{{% /largefigure %}}
 
 {{% largefigure src="../Ghost campus repros8.png"
                 headline=""
