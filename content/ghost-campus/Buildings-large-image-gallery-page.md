@@ -13,13 +13,13 @@ type: "exhibit"
 ---
 
 {{% largefigure src="../ghost campus title and bkgd6.png"
-                headline=""
+                headline="Chestnut Hill campus, showing the locations of Alumni Hall, Philomatheia Clubhouse, St. Joseph's Hall, and the Liggett estate."
                 description=""
                 size="x-large" align="center" %}}
 {{% /largefigure %}}
 
 {{% largefigure src="../Alumni-Hall.png"
-                headline="Alumni Hall (1903-1988) used for Alumni Association, administrative, and The Heights offices"
+                headline=""
                 description=""
                 size="x-large" align="center" %}}
 {{% /largefigure %}}

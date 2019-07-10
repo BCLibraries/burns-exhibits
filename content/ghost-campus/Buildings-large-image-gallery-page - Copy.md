@@ -13,8 +13,8 @@ type: "exhibit"
 ---
 
 {{% largefigure src="../ghost campus title and bkgd5.png"
-                headline=""
-                description="Chestnut Hill campus, with locations of Hancock House, McHugh Forum, Roberts Center, and the barracks."
+                headline="Chestnut Hill campus, showing the locations of Hancock House, McHugh Forum, Roberts Center, and the barracks."
+                description=""
                 size="x-large" align="center" %}}
 {{% /largefigure %}}
 
