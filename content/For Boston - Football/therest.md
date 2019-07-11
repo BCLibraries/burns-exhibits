@@ -14,7 +14,7 @@ type: "exhibit"
 
 {{% galleryrow %}}
 
-{{% galleryfigure src="../FootballEchoes_12_BCvsHC1915scorecardBC1997.006.jpg" headline="BC-Holy Cross score card, 1915" %}}
+{{% galleryfigure src="../FootballEchoes_12_BCvsHC1915scorecardBC1997.006.JPG" headline="BC-Holy Cross score card, 1915" %}}
 Alumni Field dedication program and scorecard, October 30, 1915, Box 1, [Boston College Athletic Programs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), BC1997-06
 {{% /galleryfigure %}}
 
@@ -45,10 +45,11 @@ Letter of congratulations from President Ronald Reagan, February 5, 1985, Boston
 
 {{% /galleryrow %}}
 
-{{% galleryrow %}}
+{{% galleryrow layout="landscape" %}}
 
 {{% galleryfigure src="../FootballEchoes_18.jpg" headline="Maurice Dullea Fenway park pass, 1954" %}}
 Fenway Park season pass, 1954, [Maurice Dullea Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21349436790001021), BC2005-109. Maurice Dullea, SJ, played football as a student and was captain of the team in his senior year (1916). He became a Jesuit, and returned to Boston College as Faculty Director of Athletics in 1940.
+
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../FootballEchoes_19.jpg" headline="Maurice Dullea Fenway park pass, 1954" %}}
@@ -96,8 +97,7 @@ Cotton Bowl souvenir beer mug, 1985, Boston College Artifacts Collection, BC1991
 
 
 
-{{% galleryrow %}}
-
+{{% galleryrow layout="landscape" %}}
 
 {{% galleryfigure src="../FootballEchoes_24_Football1916.JPG" headline="Football" %}}
 Football from the Boston College vs. Holy Cross game at Fenway Park, 2 December 1916, Boston College Artifacts Collection, BC1989-059
@@ -111,11 +111,11 @@ Pinback buttons, 1992 and undated, Boston College Artifacts Collection, BC2001-3
 
 
 
-{{% galleryrow %}}
-
+{{% galleryrow layout="landscape" %}}
 {{% galleryfigure src="../FootballEchoes_25_Fragment1929.JPG" headline="Goal Post Fragment" %}}
 BC vs. Holy Cross, Braves Field, Boston, 30 November, 1929, Boston College Artifacts Collection, BC2004-031 
 {{% /galleryfigure %}}
+
 
 {{% galleryfigure src="../FootballEchoes_26_Fragment1938.JPG" headline="Goal Post Fragment" %}}
 BC vs. Detroit, Fenway Park, Boston, 12 October 1938, Boston College Artifacts Collection, BC1990-36
@@ -124,8 +124,7 @@ BC vs. Detroit, Fenway Park, Boston, 12 October 1938, Boston College Artifacts C
 
 {{% /galleryrow %}}
 
-{{% galleryrow %}}
-
+{{% galleryrow layout="landscape" %}}
 {{% galleryfigure src="../FootballEchoes_27_Fragment1939auburn.JPG" headline="Goal Post Fragment" %}}
 BC vs. Auburn, Fenway Park, Boston, 4 November 1939, Boston College Artifacts Collection, BC1990-36
 {{% /galleryfigure %}}

@@ -50,7 +50,9 @@ was written by Hilaire Belloc and it comes from the British Catholic Authors Col
 
 {{% largefigure src="../A-voyage-round-the-world-G420.A5-WILLIAMS-CVB1298242-10.JPG" headline="Spine & Cover"
 description="Walter, [*A Voyage Round the World in the Years 1740-4*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21319045120001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), G420 .A5 WILLIAMS" size="large" %}}
+
 **Library Binding**
+
 
 The binding of this 1908 edition of [*A Voyage Round the World in the Years 1740-4*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21319045120001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) by Lord
 George Anson was available during the first two styles of EML, from 1906-1934. This sturdy
@@ -58,26 +60,39 @@ style was known as the “library binding” and although designed for library u
 purchased by individuals. This style has a simpler spine. The title is enclosed in a gilt border
 with a loop at the bottom. The loop was left blank for editions published in America by E.P.
 Dutton, while English editions published by J.M. Dent had an overlapping “E” and “L” inside
-the loop. This edition comes from the Williams Collection.
-{{% /largefigure %}}
+the loop. This edition comes from the Williams Collection.  
 
-{{% largefigure src="../A-literary-and-historical-atlas-E14.B28-WILLIAMS-CVB1296988-10.JPG" headline="Spine"
-description="Bartholomew, [*A Literary and Historical Atlas of America*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315650160001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), E14 .B28 WILLIAMS" size="large" %}}  
+
+
 
 **Maroon Leatherette Binding**  
-This 1911 edition of [*A Literary and Historical Atlas of America*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315650160001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) is from the Reference
-category of EML. The spine design is identical to other contemporary editions, but it also
-includes a matching gilt floral design on the cover. It is bound in maroon leatherette, has gilt top pages, and is also bound with a silk ribbon book marker. This volume is from the Williams
-Collection.
-{{% /largefigure %}}
+This 1911 edition of [*A Literary and Historical Atlas of America*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315650160001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) is from the Reference category of EML. The spine design is identical to other contemporary editions, but it also includes a matching gilt floral design on the cover. It is bound in maroon leatherette, has gilt top pages, and is also bound with a silk ribbon book marker. This volume is from the Williams Collection.
 
-{{% largefigure src="../A-literary-and-historical-atlas.jpg" headline="Front Cover"
-description="Bartholomew, [*A Literary and Historical Atlas of America*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315650160001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), E14 .B28 WILLIAMS" size="medium" %}}
+
+{{% galleryrow  %}}
+{{% figure src="../A-literary-and-historical-atlas-E14.B28-WILLIAMS-CVB1296988-10.jpg" 
+			headline="Spine"
+			description="Bartholomew, [*A Literary and Historical Atlas of America*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315650160001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), E14 .B28 WILLIAMS"
+%}}
+
+{{% figure src="../A-literary-and-historical-atlas.jpg" 
+			headline="Front Cover"
+			description="Bartholomew, [*A Literary and Historical Atlas of America*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315650160001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), E14 .B28 WILLIAMS"
+%}}
+
+
+
+
+{{% /galleryrow %}}
+
 
 {{% /largefigure %}}
 
 {{% largefigure src="../Warren-Hastings-a-biography-DS473.T7-WILLIAMS-CVB1291941-10.jpg" headline="Title Page"
 description="Trotter, [*Warren Hastings: A Biography*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21331968000001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), DS473 .T7 WILLIAMS" size="large" %}}
+
+
+
 
 **Title Page**
 
