@@ -80,13 +80,14 @@ In an enthusiastic thank-you letter following the conference, CSOM dean Donald W
 
 {{% /galleryrow %}}
 
-{{% largefigure src="../../JaneJacobs020022.jpg"
+{{% galleryrow %}}
+
+{{< figure src="../../JaneJacobs020022.jpg"
                 description="Carroll School of Management, Boston College, Conference Program: Jane Jacobs: In Conversation"
 				headline="b. 20, f. 4, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029"
-                size="large"
-                align="center"
-%}}
-{{% /largefigure %}}
+              
+>}}
+{{% /galleryrow %}}
 
 During the week she spent in Boston in 1993 for the CSOM conference, Jacobs returned to visit Boston’s North End, which she had first seen during the Depression in 1938 and then again in 1960, when she wrote about it in *The Death and Life of Great American Cities*.
 
