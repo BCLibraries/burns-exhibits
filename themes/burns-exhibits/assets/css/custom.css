@@ -111,7 +111,7 @@ a:hover .hp_title, a:active .hp_title {
     color: #430000;
 }
 
-.oldgallery {
+.oldgallery, .archivegallery {
     margin: 0 0 1.5em 0;
 }
 
