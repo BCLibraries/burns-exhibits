@@ -16,7 +16,7 @@ type: "exhibit"
 One easy way of showing exactly how ubiquitious the Everyman's Library was, is to highlight the fact that almost all of the different collections in Burns Library have at least one EML book among its holdings. From Irish to British Catholic Authors, Rex Stout to Peter Hebblethwait, they can be found among the personal libraries of some of the most influential 20th century writers and throughout our stacks. Following is a brief description of each collection, along with an example of an EML book from the collection.
 
 {{% figure src="../stout.jpg" headline="Rex Stout"
-description="Box 41, Folder 9, [John J. McAleer Faculty Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21349383200001021), BC1995-16" side="right" %}}
+description="Box 41, Folder 9, [John J. McAleer Faculty Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21349383200001021), BC1995-16" size="small" side="right" %}}
 
 
 
