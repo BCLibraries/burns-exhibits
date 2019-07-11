@@ -14,11 +14,11 @@ type: "exhibit"
 ---
 Following her most well-known work, *The Death and Life of Great American Cities*, published in 1961, Jacobs wrote five more books on economic and social theory:
 
-- 1969: *The Economy of Cities*
-- 1985: *Cities and the Wealth of Nations*
-- 1992: *Systems of Survival: A Dialogue on the Moral Foundations of Commerce and Politics*
-- 2000: *The Nature of Economies*
-- 2004: *Dark Age Ahead*
+- 1969: [*The Economy of Cities*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21375126760001021)
+- 1985: [*Cities and the Wealth of Nations*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21328193960001021)
+- 1992: [*Systems of Survival: A Dialogue on the Moral Foundations of Commerce and Politics*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21336594600001021)
+- 2000: [*The Nature of Economies*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21333461990001021)
+- 2004: [*Dark Age Ahead*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21368978770001021)
 
 
 Jacobs devoted several years to writing each of her books. The second, *The Economy of Cities*, took the longest—almost 8 years. *Dark Age Ahead* came the quickest, in about 3 years. Some have criticized it for being too hastily written.
