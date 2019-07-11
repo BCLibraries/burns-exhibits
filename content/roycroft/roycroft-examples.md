@@ -19,20 +19,22 @@ type: "exhibit"
 *White Hyacinths* (1907) contains a beautiful, illustrated title page by Dard Hunter. It features the stylized Roycrofter font, along with a vine and floral motif. The tailpieces and initials throughout the book have the same green and white motif.
 {{% /largefigure %}}
 
-{{% largefigure src="../tagaste2.jpg"
-                headline="Full Page Illustration"
-                description="Hubbard, [So Here Then are the Preachments Entitled The city of Tagaste: and A dream and a Prophecy](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21327955940001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PS2042 .C5 1900 GENERAL"
-                size="large" align="right" %}}
+
 This work contains two preachments—or unwelcome or tedious sermons—by Elbert Hubbard, *The City of Tagaste* and *A Dream and a Prophecy* (1900). This full page illustration was hand-illuminated, or decorated, by Anna Paine and contains her signature at the beginning of the text. The leaves and flower are typical of Roycroft design, but the yellow birds are a nice addition.
-{{% /largefigure %}}
 
-{{% largefigure src="../tagastesignature.jpg"
-                headline="Anna Paine Signature"
-				description="Hubbard, [So Here Then are the Preachments Entitled The city of Tagaste: and A dream and a Prophecy](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21327955940001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PS2042 .C5 1900 GENERAL"
-                size="small"
-                align="right" %}}
 
-{{% /largefigure %}}
+
+{{% galleryrow %}}
+{{< figure src="../tagaste2.jpg"
+           headline="Full Page Illustration"
+           description="Hubbard, [So Here Then are the Preachments Entitled The city of Tagaste: and A dream and a Prophecy](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21327955940001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PS2042 .C5 1900 GENERAL)"
+>}}
+{{< figure src="../tagastesignature.jpg"
+           headline="Anna Paine Signature"
+           description="Hubbard, [So Here Then are the Preachments Entitled The city of Tagaste: and A dream and a Prophecy](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21327955940001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PS2042 .C5 1900 GENERAL"
+>}}
+{{% /galleryrow %}}
+
 
 {{% largefigure src="../womanswork.jpg"
                 headline="Page Design"
@@ -63,20 +65,25 @@ Little Journeys, a series of books by Hubbard, was available in a range of bindi
 
 {{% /galleryrow %}}
 
-{{% largefigure src="../Golden River.jpg"
-                headline="Cover Page"
-                description="Ruskin, [The King of the Golden River: A Legend of Stiria](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21348196140001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PR5256 .A1 1900 GENERAL"
-                size="large" %}}
-*The King of the Golden River* (1900) is another excellent sample of hand-illumination by the Roycrofters. This particular work was illuminated by Gertrude Hart and contains her signature on the limitation statement. The initials and colophon are hand colored.
-{{% /largefigure %}}
 
-{{% largefigure src="../hart.jpg"
-                headline="Gertrude Hart Signature"
-				description="Ruskin, [The King of the Golden River: A Legend of Stiria](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21348196140001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PR5256 .A1 1900 GENERAL"
-                size="small"
-                align="right" %}}
+*The King of the Golden River* (1900) is another excellent sample of hand-illumination by the Roycrofters. This particular work was illuminated by Gertrude Hart and contains her signature on the limitation statement. The initials and colophon are also hand colored.
 
-{{% /largefigure %}}
+
+
+
+
+{{% galleryrow %}}
+{{< figure src="../Golden River.jpg"
+           headline="Cover Page"
+           description="Ruskin, [The King of the Golden River: A Legend of Stiria](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21348196140001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PR5256 .A1 1900 GENERAL"
+>}}
+{{< figure src="../hart.jpg"
+           headline="Gertrude Hart Signature"
+           description="Ruskin, [The King of the Golden River: A Legend of Stiria](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21348196140001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PR5256 .A1 1900 GENERAL"
+>}}
+{{% /galleryrow %}}
+
+
 
 {{% largefigure src="../Elia.jpg"
                 headline="Hand-colored Initial"
