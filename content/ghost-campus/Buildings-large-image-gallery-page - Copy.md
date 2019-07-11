@@ -34,14 +34,12 @@ type: "exhibit"
                 headline=""
                 description="" 
                 size="x-large" align="center" %}}
-
 {{% /largefigure %}}
 
 {{% largefigure src="../Ghost campus repros10.png"
                 headline=""
                 description="" 
                 size="x-large" align="center" %}}
-
 {{% /largefigure %}}
 
 {{% galleryrow %}}
