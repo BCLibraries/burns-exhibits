@@ -7,11 +7,12 @@ $embedded-figure-pad: 32px;
 
 /* At iPad/mobile breakpoints, figures should occupy 100% of 
    text width. */
+.embedded-figure__figure {
+    max-width: 40%;
+    clear: both;
+}
+
 .embedded-figure {
-    .embedded-figure__figure {
-        max-width: 40%;
-        clear: both;
-    }
     .embedded-figure--right {
         padding: $embedded-figure-pad;
         padding-right: 0;
@@ -33,12 +34,10 @@ $embedded-figure-pad: 32px;
 
     .embedded-figure--right {
         float: right;
-        clear: right;
     }
 
     .embedded-figure--left {
         float: left;
-        clear: left;
     }
 
     .embedded-figure--center {
