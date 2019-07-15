@@ -27,6 +27,5 @@ Yet it was Richard Carroll (Dick) Keeley, then director of the PULSE Program, wh
            description="b. 27, f. 6, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029" side="right" %}}
 Keeley interviewed Jacobs at her home in Toronto in 1985, and then persuaded her to participate in the 1987 symposium organized by BC’s Lonergan Institute. Jacobs was accepting very few invitations at the time, but the keen interest in her work shown by the BC community convinced her it would be a worthwhile experience.
 
-
 It was. Lonergan Institute associate director, Kerry Cronin, then a freshman student, recalled Jacobs joining the audience in clapping at the conclusion of her own talks, elated that she had succeeded in sharing with responsive listeners her new insights into economic ethics.
 
