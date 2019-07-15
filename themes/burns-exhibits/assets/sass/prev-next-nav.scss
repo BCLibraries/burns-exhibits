@@ -47,7 +47,7 @@ form.mobile-menu {
 }
 
 /* Prev and next are simple links on iPad or bigger */
-@media (min-width: #{map-get($grid-breakpoints, "md")}) {
+@media (min-width: $screen-md) {
 
     a.next-link,
     a.prev-link {

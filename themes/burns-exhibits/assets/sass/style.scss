@@ -30,12 +30,12 @@ main {
         flex: 1 1 0;
 
         h4 {
-            font-size: $font-size-sm;
+            font-size: $font-size-small;
             font-weight: 600;
         }
 
         p {
-            font-size: $font-size-sm;
+            font-size: $font-size-small;
         }
 
         img {
@@ -52,4 +52,8 @@ footer {
 
 .exhibit-title {
     @extend .col-md-12;
+}
+
+h2 {
+    margin-top: 0;
 }

@@ -6,13 +6,13 @@
 /* At iPad/mobile breakpoints, figures should occupy 100% of 
    text width. */
 .embedded-figure {
-    padding: 1rem;
+    padding: 16px;
 }
 
 /* Styles for desktop. */
-@media (min-width: #{map-get($grid-breakpoints, "lg")}) {
+@media (min-width: $screen-lg-min) {
     .embedded-figure {
-        padding: 1rem;
+        padding: 16px;
     }
 
     .embedded-figure--right {
@@ -30,7 +30,7 @@
     }
 
     .embedded-figure__caption {
-        font-size: $font-size-sm;
+        font-size: $font-size-small;
     }
 
     .embedded-figure__img {
