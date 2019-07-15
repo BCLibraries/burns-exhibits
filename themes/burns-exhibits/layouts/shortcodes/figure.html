@@ -6,7 +6,7 @@
 
 {{ $name := replace (.Get "src") "../" "" }}
 {{ with $raw_img := .Page.CurrentSection.Resources.GetMatch $name }}
-{{ $resized := $raw_img.Resize "480x q80 r45"}}
+{{ $resized := $raw_img.Resize "480x q80"}}
 {{ $large_image := $raw_img.Fit "1440x1440 q80"}}
 
 {{ $modal_id := $raw_img | urlize }}
