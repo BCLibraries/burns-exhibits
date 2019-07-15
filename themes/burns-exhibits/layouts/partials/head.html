@@ -19,14 +19,14 @@
 
   <link href="https://fonts.googleapis.com/css?family=Merriweather:400,700|Open+Sans:300,400,400i,600,700&display=swap" rel="stylesheet">
 
+  <link rel="stylesheet" href="https://library.bc.edu/theme/css/refresh.css?version=20190715">
+  <link rel="stylesheet" href="https://library.bc.edu/theme/css/megamenu.css?version=20190715">
+
   {{ $style := resources.Get "sass/style.scss" | resources.ToCSS |  resources.Minify | resources.Fingerprint }}
   <link rel="stylesheet" href="{{ $style.RelPermalink }}">
   
   {{ $footstyle := resources.Get "css/footer.css" }}
   <link rel="stylesheet" href="{{ $footstyle.RelPermalink }}">
-
-  <link rel="stylesheet" href="https://library.bc.edu/theme/css/refresh.css?version=20190715">
-  <link rel="stylesheet" href="https://library.bc.edu/theme/css/megamenu.css?version=20190715">
 
   {{ $customstyle := resources.Get "css/custom.css" }}
   <link rel="stylesheet" href="{{ $customstyle.RelPermalink }}"> 
