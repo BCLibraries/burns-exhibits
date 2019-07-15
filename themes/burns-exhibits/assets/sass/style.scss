@@ -68,3 +68,8 @@ h2 {
 .homepagerefresh .megamenu-container {
     z-index: 1;
 }
+
+/* Force megamenu to float right */
+.navbar-nav {
+    float: right;
+}
