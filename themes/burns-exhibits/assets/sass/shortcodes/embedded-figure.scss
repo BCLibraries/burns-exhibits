@@ -3,10 +3,23 @@
    For .embedded-figure elements inside .gallery-row elements,
    see gallery-row.scss */
 
+$embedded-figure-pad: 32px;
+
 /* At iPad/mobile breakpoints, figures should occupy 100% of 
    text width. */
 .embedded-figure {
-    padding: 16px;
+    
+    .embedded-figure--right {
+        padding: $embedded-figure-pad;
+        padding-right: 0;
+    }
+
+    .embedded-figure--left {
+        padding: $embedded-figure-pad;
+        padding-left: 0;
+    }
+
+
 }
 
 /* Styles for desktop. */
