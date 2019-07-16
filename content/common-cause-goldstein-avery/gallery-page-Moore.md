@@ -35,7 +35,7 @@ In 1899, Avery sent her daughter Katherine to a Catholic boarding school in Mont
 
 
 **Break with Socialism**
-{{% largefigure src="../035_Socialism.JPG.jpg" headline="" description="Goldstein. [Socialism : the nation of fatherless children](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21371117850001021). BX1396.3.G65 S62 1903 & LITURGY AND LIFE" size="small" %}}
+{{% largefigure src="../035_Socialism.JPG.jpg" headline="" description="Goldstein. *[Socialism: the nation of fatherless children](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21371117850001021)*. BX1396.3.G65 S62 1903 & LITURGY AND LIFE" size="small" %}}
 In 1903 Avery and Goldstein presented their point of view in the jointly authored book, *Socialism: The Nation of Fatherless Children*. It sold well, and Avery and Goldstein adapted the propaganda techniques of Socialism to evangelize for Catholicism, preaching on street corners and giving public lectures about the evils of Socialism. In 1912, they co-founded the Common Cause Society, an Anti-Socialist Catholic workingman's organization that supported organized labor and sought economic and social justice. Avery also lectured on topics of interest to her, often in a complete reversal of her previous stances; she declared her opposition to women’s suffrage, divorce, and birth control.
 {{% /largefigure %}}
  
