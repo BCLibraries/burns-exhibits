@@ -15,7 +15,7 @@ Professional objects are the tools necessary for work, making occupations possib
 
 These objects, far from contemporary medical instruments, exemplify the tools that were necessary for practicing health care in different eras. These tools engaged with nurses, doctors, and patients, holding multiple layers of bodies and stories within their material surfaces.
 
-{{% galleryrow %}}
+{{% galleryrow layout="landscape"%}}
 
 {{% galleryfigure src="../021-NursingScaleAndWeights.jpg" headline="Newark Scale Weights & Ohaus Harvard Trip Balance" %}}
 b. 42, New England Deaconess Hospital School of Nursing (MS1989-008)
@@ -29,7 +29,7 @@ Josephine Dolan Collection of Nursing History (MS1988-004)
 
  These objects are all used in, or the product of, the art of making books. This range of items shows the process of creating books from beginning to ending--from George F. Trenholm’s type design, to the detailed book covers of the Cuala Press, to Eric Gill’s illustrative woodblock.
 
-{{% galleryrow %}}
+{{% galleryrow layout="landscape" %}}
 
 {{% galleryfigure src="../004-CualaBookCovers.jpg" headline="Cuala Press Leather Book Covers" %}}
 b. 8, Cuala Press Art Work (MS2005-035)
@@ -46,7 +46,7 @@ b. 10, Boston College Collection of Eric Gill Materials (MS1986-139)
 {{% /galleryrow %}}
 
 Bette Arnold was known for her signature Rolls Royce that she parked--illegally--outside her Boston restaurant. This toy car captures the undeniable style of its owner and the power of strong association. John Donnelly & Sons were a major East Coast advertising company until 1978. This model billboard provides a visual, tactile, and customizable example of the company’s work.
-{{% galleryrow %}}
+{{% galleryrow layout ="landscape" %}}
 
 {{% galleryfigure src="../010-RollsRoyce.jpg" headline="Rolls Royce Toy Car" %}}
 b. 2, object 4, Bette Arnold Collection (MS2012-009)
@@ -58,7 +58,7 @@ b. 3, object 6, John Donnelly & Sons Records (MS2012-004)
 
 {{% /galleryrow %}}
 
-Paperwork and promotional materials are central to many jobs, especially those in the world of performance. Boston hatters Billing and Lamson knew that the best way to advertise their products was with a little celebrity power, printing trade cards featuring actresses (only one of them wears a hat). The contract, agent’s card, and advertisements for Cassie and Victoria Foster, known professionally as “The Fairy Sisters,” shows the behind-the-scenes machinations of promotional efforts. 
+Paperwork and promotional materials are central to many jobs, especially those in the world of performance. Boston hatters Billing and Lamson knew that the best way to advertise their products was with a little celebrity power, printing trade cards featuring actresses (only one of them wears a hat). The contract, agent’s card, and advertisements for Cassie and Victoria Foster, known professionally as “The Fairy Sisters,” shows the behind-the-scenes machinations of promotional efforts.
 
 {{% galleryrow %}}
 

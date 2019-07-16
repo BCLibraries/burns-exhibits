@@ -66,7 +66,7 @@ b. 1, f. 14, [Ward-Martin Family Papers](https://bc-primo.hosted.exlibrisgroup.c
 
 John Boyle O’Reilly, an Irish nationalist, was arrested by the British and transported to Australia where he escaped on a New Bedford whaling ship. This sperm whale tooth, a memento of his time at sea, is accompanied by an explanatory note written by O’Reilly’s daughter. This rock was also included in the John Boyle O’Reilly collection, but its significance is unknown, an example of the challenges of provenance, retention, and connection that archivists work with as they process collections for researchers.
 
-{{% galleryrow %}}
+{{% galleryrow layout="landscape" %}}
 
 {{% galleryfigure src="../047-JBOWhaleTooth.jpg" headline="Sperm whale tooth and note of provenance" %}}
 b. 6, [John Boyle O'Reilly Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21344683520001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS2004-093
@@ -92,7 +92,7 @@ b. 3, [William F. and Michael C. Hanafin Family Papers](https://bc-primo.hosted.
 
 {{% /galleryrow %}}
 
-Martha Moore Avery, a former milliner and co-founder of the Catholic Truth Guild with David Goldstein, exemplifies the beauty of the everyday in her clothing. Her well-worn shoes and hatpins, which retain the elegance of a bygone era, were also practical and personal objects. 
+Martha Moore Avery, a former milliner and co-founder of the Catholic Truth Guild with David Goldstein, exemplifies the beauty of the everyday in her clothing. Her well-worn shoes and hatpins, which retain the elegance of a bygone era, were also practical and personal objects.
 
 {{% galleryrow %}}
 
