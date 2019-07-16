@@ -12,7 +12,7 @@ draft: true
 type: "exhibit"
 ---
 
-{{% largefigure src="../012_DavidGoldstein.JPG.jpg" headline="David Goldstein, February 1, 1914." description="b. 36, f. 19, [David Goldstein and Martha Moore Avery Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21387017070001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1986-167" size="large" %}} 
+{{% largefigure src="../012_DavidGoldstein.JPG.jpg" headline="David Goldstein, February 1, 1914." description="Box 36, folder 19, [David Goldstein and Martha Moore Avery Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21387017070001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1986-167" size="large" %}} 
 David Goldstein was born in London, England, to Dutch Jewish parents. In 1871 his family immigrated to New York. He left school at age 11 to follow his father, a cigar maker, into the trade. It was at meetings of the Cigar Makers' International Union that he was exposed to political debates and the struggle for economic justice. Goldstein retained a lifelong membership in the union and steadfastly supported organized labor, even as his other beliefs changed radically.
 {{% /largefigure %}}
 
