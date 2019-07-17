@@ -29,17 +29,17 @@ Boston College Varsity Club Records (BC2005-11) [Contact the University Archives
 
 [Boston College Athletic Photographs](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21424921630001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) (BC1986-19)
 
-Boston College Artifacts Collection (BC1989-59) [Contact the University Archives.](https://libguides.bc.edu/burns/contact)
+Boston College Football (BC1989-059)(https://libguides.bc.edu/burns/contact)
 
-Boston College Artifacts Collection (BC2004-31) [Contact the University Archives.](https://libguides.bc.edu/burns/contact)
+Fragment of Braves Field Goalpost (BC2004-031)(https://libguides.bc.edu/burns/contact)
 
-Boston College Artifacts Collection (BC1990-36) [Contact the University Archives.](https://libguides.bc.edu/burns/contact)
+Fenway Park Goal Posts Fragments (BC1990-036)(https://libguides.bc.edu/burns/contact)
 
-Boston College Artifacts Collection (BC2001-32) [Contact the University Archives.](https://libguides.bc.edu/burns/contact)
+Notre Dame Pinback Buttons (BC2001-032)(https://libguides.bc.edu/burns/contact)
 
-Boston College Artifacts Collection (BC2014-46) [Contact the University Archives.](https://libguides.bc.edu/burns/contact)
+Boston College Athletics Buttons (BC2014-047)(https://libguides.bc.edu/burns/contact)
 
-Boston College Artifacts Collection (BC1991-17) [Contact the University Archives.](https://libguides.bc.edu/burns/contact)
+Football Glass Mugs (BC1991-017)(https://libguides.bc.edu/burns/contact)
 
 __Books on BC History__
 
