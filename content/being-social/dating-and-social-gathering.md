@@ -33,7 +33,7 @@ Social events and dating were just as much a part of life before the internet as
 
 {{% largefigure src="../17_BeingSocial_StEsDanceCard.jpg"
             headline="Dance Card"
-            description="Box 20, folder 9, [St. Elizabeth Hospital School of Nursing](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21459187360001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), MS2000-018"
+            description="Box 20, folder 9, [St. Elizabeth Hospital School of Nursing collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21459187360001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), MS2000-018"
             size="medium" align="center"
 %}}
 {{% /largefigure %}}
