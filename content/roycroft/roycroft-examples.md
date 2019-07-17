@@ -31,7 +31,7 @@ This work contains two preachments—or unwelcome or tedious sermons—by Elbert
 >}}
 {{< figure src="../tagastesignature.jpg"
            headline="Anna Paine Signature"
-           description="Hubbard, Elbert. *[So Here Then are the Preachments Entitled The city of Tagaste: and A dream and a Prophecy](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21327955940001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*, PS2042 .C5 1900 GENERAL"
+           description="Hubbard, *[So Here Then are the Preachments Entitled The city of Tagaste: and A dream and a Prophecy](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21327955940001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*, PS2042 .C5 1900 GENERAL"
 >}}
 {{% /galleryrow %}}
 
@@ -79,7 +79,7 @@ Little Journeys, a series of books by Hubbard, was available in a range of bindi
 >}}
 {{< figure src="../hart.jpg"
            headline="Gertrude Hart Signature"
-           description="Ruskin, John. *[The King of the Golden River: A Legend of Stiria](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21348196140001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*, PR5256 .A1 1900 GENERAL"
+           description="Ruskin, *[The King of the Golden River: A Legend of Stiria](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21348196140001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*, PR5256 .A1 1900 GENERAL"
 >}}
 {{% /galleryrow %}}
 
