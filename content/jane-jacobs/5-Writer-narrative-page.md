@@ -33,12 +33,12 @@ Upon finishing *Dark Age Ahead*, Jacobs wrote to her editor, David Ebershoff, wi
 
 {{< figure src="../JaneJacobs043.jpg"
            headline="Letter to David Eberhoff, with corrections, November 26, 2003"
-           description="b. 42, f. 5, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029 "
+           description="Box 42, folder 5, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021), MS1995-029 "
 >}}
 
 {{< figure src="../JaneJacobs041.jpg"
           headline="*Dark Age Ahead* tour itinerary"
-           description="b. 42, f. 2, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029 "
+           description="Box 42, folder 2, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021), MS1995-029 "
 >}}
 
 {{% /galleryrow %}}

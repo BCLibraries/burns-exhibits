@@ -32,7 +32,7 @@ While Jacobs was writing *Death and Life*, the forces of urban planning that she
 
 {{% figure src="JaneJacobs054.jpg"
 headline="New York Daily Report, December 12, 1962, with Jane Jacobs' note to her mother"
-description="map drawer 1, f. 17, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029"
+description="map drawer 1, folder 17, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021), MS1995-029"
 side="left"
 %}}Robert Moses, New York City’s “master builder,” also proposed to funnel an expressway through Lower Manhattan. Sections of Soho, Little Italy, and Chinatown would be sacrificed. Jacobs assembled and chaired a coalition committee to fight the project, beating back Moses’s attempts to push it through the city planning commission for more than a decade, dealing it a death blow at a hearing held on April 10, 1968. A large crowd turned out and began chanting “We want Jane!” When she was finally given the microphone, she called other protestors to the platform. Some claim that she tore up the stenographer’s notes so that there would be no official record. Regardless, she was arrested for disorderly conduct, a charge that was eventually dropped. Subsequent newspaper stories turned the mayor and city officials definitively against the expressway, which was quietly abandoned in future city plans.
 
@@ -44,12 +44,12 @@ Jacobs also influenced the regeneration of Toronto’s St. Lawrence neighborhood
 
 {{< figure src="../Plaunt-Carleton.jpg"
            headline="'Jane Jacobs on Canada's Changing Economy' symposium poster for the Alan B. Plaunt Memorial Lecturs at Carleton University, March 1970"
-           description="b. 42, f. 5, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029 "
+           description="box 42, folder 5, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021), MS1995-029 "
 >}}
 
 {{< figure src="../JaneJacobs027.jpg"
           headline="'Ideas that Matter' symposium program, with Jane Jacobs' note"
-           description="b. 20, f. 6, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029 "
+           description="Box 20, folder 6, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021), MS1995-029 "
 >}}
 
 {{% /galleryrow %}}

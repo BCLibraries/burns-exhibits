@@ -18,11 +18,11 @@ Although Jacobs never earned a degree or practiced as an architect, numerous arc
 
 {{< figure src="../JJ-TJArchitectureMedalPoster.jpg"
            headline="University of Virginia, Thomas Jefferson Medal for Architecture and Founder’s Day Event poster, 1996"
-           description="map drawer 1, f. 1, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029"
+           description="Map drawer 1, folder 1, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021), MS1995-029"
 >}}
 {{< figure src="../JaneJacobs049.jpg"
           headline="American Institute of Architects, Presidential Award, 1998"
-           description="map drawer 1, f. 11, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029"
+           description="Map drawer 1, folder 11, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021), MS1995-029"
 >}}
 
 {{% /galleryrow %}}
