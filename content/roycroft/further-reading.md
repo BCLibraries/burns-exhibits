@@ -21,7 +21,9 @@ type: "exhibit"
 
 
 
-Collections Used: [Fine Print Collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/search?query=lsr30,exact,FINE%20PRINT,AND&tab=bcl_only&search_scope=lib_BURNS&sortby=rank&vid=bclib_new&lang=en_US&mode=advanced&offset=0)
+__Collections Used__ 
+
+[Fine Print Collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/search?query=lsr30,exact,FINE%20PRINT,AND&tab=bcl_only&search_scope=lib_BURNS&sortby=rank&vid=bclib_new&lang=en_US&mode=advanced&offset=0)
 
 [General Collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/search?query=lsr30,exact,GENERAL,AND&tab=bcl_only&search_scope=lib_BURNS&sortby=rank&vid=bclib_new&lang=en_US&mode=advanced&offset=0)
 
