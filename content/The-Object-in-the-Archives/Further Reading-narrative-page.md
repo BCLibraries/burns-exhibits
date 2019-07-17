@@ -32,7 +32,7 @@ Cuala Press Artwork (MS2005-035)
 
 [Josephine Dolan Collection of Nursing History](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21352781560001021&context=L&vid=bclib_new&search_scope=onesearch&tab=onesearch&lang=en_US) (MS1988-004)
 
-[John Donnelly & Sons Records] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21420112970001021&context=L&vid=bclib_new&search_scope=onesearch&tab=onesearch&lang=en_US)(MS2012-004)
+[John Donnelly & Sons Records] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21420112970001021&context=L&vid=bclib_new&search_scope=onesearch&tab=onesearch&lang=en_US) (MS2012-004)
 
 [Dugan Collection of Doyle, Evans, and Persse Family Materials](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21333225820001021&context=L&vid=bclib_new&search_scope=onesearch&tab=onesearch&lang=en_US) (MS2004-056)
 
