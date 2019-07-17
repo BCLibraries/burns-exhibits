@@ -79,7 +79,7 @@ The Lawson commissioned books are bound in calfskin. The covers were created by 
 {{< figure src="../lawson_back.jpg"
            headline="Volume Seven Back"
            description="Hubbard, [*The Complete Writings of Elbert Hubbard*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), 09-000029023 GENERAL"
->}
+>}}
 
 
 {{% /galleryrow %}}
