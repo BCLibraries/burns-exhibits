@@ -14,7 +14,7 @@ type: "exhibit"
 
 {{% largefigure src="../roycroft.jpg"
                 headline="Elbert Hubbard"
-                description="Hubbard, [So Here Cometh White Hyacinths: Being a Book of the Heart](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21334388030001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PS2042 .S6 1907 GENERAL"
+                description="Hubbard, [*So Here Cometh White Hyacinths: Being a Book of the Heart*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21334388030001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PS2042 .S6 1907 GENERAL"
                 size="medium" %}}
 				
 After the untimely death of Elbert Hubbard in 1915, his son Elbert “Bert” Hubbard II kept the press and bindery running until 1938. The quality of the work produced was less innovative than that made during Hubbard Sr.’s lifetime, as Bert often recycled old text block designs, initials, and decorations.  
@@ -30,12 +30,12 @@ The number of skilled bookbinders had also declined by 1915. Bert was not a writ
 
 {{< figure src="../leathernotebook.jpg"
            headline="Limp Leather Cover"
-           description="Hubbard, [The Note Book of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21314669930001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) PS2040 .A35 1927b GENERAL  " 
+           description="Hubbard, [*The Note Book of Elbert Hubbard*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21314669930001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) PS2040 .A35 1927b GENERAL  " 
 >}}
 
 {{< figure src="../papernotebook.jpg"
            headline="Paper Cover"
-           description="Hubbard, [The Note Book of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21381824670001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PS2040 .A35 1927 GENERAL "
+           description="Hubbard, [*The Note Book of Elbert Hubbard*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21381824670001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PS2040 .A35 1927 GENERAL "
 >}}
 
 
