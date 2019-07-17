@@ -23,23 +23,23 @@ __Collections Used:__
 
 [Thomas D. Craven Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21350558160001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) (BC2004-121)
 
-Boston College Varsity Club Records (BC2005-11) [Contact the University Archives.](https://libguides.bc.edu/burns/contact)
+Boston College Varsity Club Records (BC2005-011).
 
-[Maurice Dullea Papers] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21349436790001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)(BC2005-109)
+[Maurice Dullea Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21349436790001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) (BC2005-109)
 
 [Boston College Athletic Photographs](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21424921630001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) (BC1986-19)
 
-Boston College Football (BC1989-059)(https://libguides.bc.edu/burns/contact)
+Boston College Football (BC1989-059).
 
-Fragment of Braves Field Goalpost (BC2004-031)(https://libguides.bc.edu/burns/contact)
+Fragment of Braves Field Goalpost (BC2004-031).
 
-Fenway Park Goal Posts Fragments (BC1990-036)(https://libguides.bc.edu/burns/contact)
+Fenway Park Goal Posts Fragments (BC1990-036).
 
-Notre Dame Pinback Buttons (BC2001-032)(https://libguides.bc.edu/burns/contact)
+Notre Dame Pinback Buttons (BC2001-032).
 
-Boston College Athletics Buttons (BC2014-047)(https://libguides.bc.edu/burns/contact)
+Boston College Athletics Buttons (BC2014-047).
 
-Football Glass Mugs (BC1991-017)(https://libguides.bc.edu/burns/contact)
+Football Glass Mugs (BC1991-017).
 
 __Books on BC History__
 
