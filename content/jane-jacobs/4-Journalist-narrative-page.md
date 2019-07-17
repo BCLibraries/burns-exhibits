@@ -15,7 +15,7 @@ type: "exhibit"
 
 {{% figure src="../JaneJacobs030.jpg"
           headline="Jane Jacobs at typewriter, ca. 1950"
-           description="b. 36, f. 1, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029 "
+           description="Box 36, folder 1, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021), MS1995-029 "
            size="Medium" side="left" %}}
 Jacobs wrote a number of articles for industrial and architectural trade journals, many of them unsigned, before she undertook the groundbreaking study of city planning and urban life that brought her lasting fame and influence, *The Death and Life of Great American Cities*, published in 1961.
 
@@ -25,7 +25,7 @@ She then moved to New York City, got an apartment in the West Village, and found
 
 {{% figure src="../JaneJacobs015.jpg"
           headline="'Diamonds in the Tough' annotated typescript for *Vogue*, ca. 1937"
-           description="b. 13, f. 1, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029 "
+           description="Box 13, folder 1, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021), MS1995-029 "
            side="left" %}}
 Between 1935 and 1937, Jacobs wrote a series of four articles for *Vogue* magazine on the fur, leather, diamond, and flower districts of New York City. At a peak of her popularity in the late 1960s, she was to be the subject of an article in *Vogue*. It never appeared.
 

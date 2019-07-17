@@ -14,7 +14,7 @@ type: "exhibit"
 ---
 {{% figure src="../JaneJacobs029.jpg"
           headline="Two Systems of Economic Ethics"
-           description="b. 22, f. 22, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029 "
+           description="b. 22, f. 22, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021), MS1995-029 "
            side="left" %}}Over the two evenings of the Lonergan Workshop, Jacobs gave a two-part lecture titled “Systems of Economic Ethics,” in which she outlined the two ethical and value systems that she believed governed everyday economic life. She called them “trading” and “raiding,” but later referred to them as the “commercial” and “guardian” syndromes. A handout she prepared lists the traits associated with each configuration.
 
 Jacobs did not travel much, but when she did, her husband often accompanied her. Bob joined her for all of her visits to BC. In a thank-you note following their visit, Jacobs commented: “Both of us were struck by the general atmosphere of the college and the students—such a wonderful combination comes across of intelligence, earnestness and happiness and zest.”
@@ -27,12 +27,12 @@ The proceedings of the 1987 Lonergan Workshop were edited for publication in 198
 
 {{< figure src="../JaneJacobs028.jpg"
            headline="'Two Systems of Economic Ethics' typescript"
-           description="b. 22, f. 22, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029 "
+           description="Box 22, folder 22, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021), MS1995-029 "
 >}}
 
 {{< figure src="../JaneJacobs029.jpg"
           headline="'Two Systems of Economic Ethics' typescript"
-           description="b. 22, f. 22, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029 "
+           description="Box 22, folder 22, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021), MS1995-029 "
 >}}
 
 {{% /galleryrow %}}
@@ -50,12 +50,12 @@ Jacobs’s *Systems of Survival* was published in 1992. A Japanese translation a
 
 {{< figure src="../JaneJacobs016.jpg"
            headline="Dustjacket Design for *Systems of Survival*"
-           description="b. 13, f. 3, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029 "
+           description="Box 13, folder 3, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021), MS1995-029 "
 >}}
 
 {{< figure src="../JaneJacobs017.jpg"
           headline="Jane Jacobs to Gail Blackhall about publication of Japanese translation of *Systems of Survival*"
-           description="b. 13, f. 3, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029 "
+           description="Box 13, folder 3, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021), MS1995-029 "
 >}}
 
 {{% /galleryrow %}}
@@ -70,12 +70,12 @@ In an enthusiastic thank-you letter following the conference, CSOM dean Donald W
 
 {{< figure src="../JaneJacobs013.jpg"
            headline="Letter to 'Friend of the Lonergan Workshop,' September 28, 1993"
-		   description="b. 5, f. 9, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029 "
+		   description="Box 5, folder 9, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021), MS1995-029 "
 >}}
 
 {{< figure src="../JaneJacobs019.jpg"
            headline="Donald White to Jane Jacobs, November 22, 1963"
-           description="b. 20, f. 5, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029"
+           description="Box 20, folder 5, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021), MS1995-029"
 >}}
 
 {{% /galleryrow %}}
@@ -83,8 +83,8 @@ In an enthusiastic thank-you letter following the conference, CSOM dean Donald W
 {{% galleryrow %}}
 
 {{< figure src="../../JaneJacobs020022.jpg"
-                description="Carroll School of Management, Boston College, Conference Program: Jane Jacobs: In Conversation"
-				headline="b. 20, f. 4, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029"
+                headline="Carroll School of Management, Boston College, Conference Program: Jane Jacobs: In Conversation"
+				description="Box 20, folder 4, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021), MS1995-029"
               
 >}}
 {{% /galleryrow %}}
@@ -97,12 +97,12 @@ In 2000, Jacobs returned to Boston College for a third conference devoted to her
 
 {{< figure src="../JaneJacobs025.jpg"
            headline="Boston College Law School's Jane Jacobs and the New Urban Ecology Conference program"
-		   description="b. 20, f. 8, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029 "
+		   description="Box 20, folder 8, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021), MS1995-029 "
 >}}
 
 {{< figure src="../JaneJacobs048.jpg"
            headline="Boston College Law School's Jane Jacobs and the New Urban Ecology Conference poster"
-           description="map case 1, f. 17, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029"
+           description="map case 1, folder 17, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021), MS1995-029"
 >}}
 
 {{% /galleryrow %}}
@@ -111,12 +111,12 @@ In 2000, Jacobs returned to Boston College for a third conference devoted to her
 
 {{< figure src="../JaneJacobs039.jpg"
           headline="Jane Jacobs' Datebook, 2000"
-           description="b. 37, f. 10, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029 "
+           description="Box 37, folder 10, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021), MS1995-029 "
 >}}
 
 {{< figure src="../JaneJacobs040.jpg"
           headline="Jane Jacobs' Datebook, 2000, with entries for November 16-19"
-           description="b. 37, f. 10, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021) MS1995-029 "
+           description="Box 37, folder 10, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021), MS1995-029 "
 >}}
 
 {{% /galleryrow %}}
