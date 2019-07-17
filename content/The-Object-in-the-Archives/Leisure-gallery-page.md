@@ -19,15 +19,15 @@ R. H. Ives Gammell, a student of the School of the Museum of Fine Arts in Boston
 {{% galleryrow %}}
 
 {{% galleryfigure src="../035A-Gammell-Hound-Heaven72.jpg" headline="The Hound of Heaven, R. H. Ives Gammell" %}}
-b. 20, f. 17, [Francis Thompson Collection](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21352762990001021) MS2006-023
+Box 20, folder 17, [Francis Thompson Collection](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21352762990001021), MS2006-023
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../035B-Gammell-Hound-Heaven72.jpg" headline="The Hound of Heaven, R. H. Ives Gammell" %}}
-b. 20, f. 17, [Francis Thompson Collection](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21352762990001021) MS2006-023
+Box 20, folder 17, [Francis Thompson Collection](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21352762990001021), MS2006-023
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../035C-Gammell-Hound-Heaven72.jpg" headline="The Hound of Heaven, R. H. Ives Gammell" %}}
-b. 20, f. 17, [Francis Thompson Collection](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21352762990001021) MS2006-023
+Box 20, folder 17, [Francis Thompson Collection](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21352762990001021), MS2006-023
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -37,15 +37,15 @@ These sketches, almost doodles, by poet Francis Thompson show a lighter side to 
 {{% galleryrow %}}
 
 {{% galleryfigure src="../034A-Thompson-Topsy-Turvy.JPG" headline="Topsy-Turvy Sketch" %}}
-b. 13, f. 15 [Francis Thompson Collection](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21352762990001021) MS2006-023
+Box 13, folder 15 [Francis Thompson Collection](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21352762990001021), MS2006-023
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../034-Thompson-Drawings-Woman-Hea.JPG" headline="Woman's Face" %}}
-b. 13, f. 15 [Francis Thompson Collection](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21352762990001021) MS2006-023
+Box 13, folder 15 [Francis Thompson Collection](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21352762990001021), MS2006-023
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../037-Kate-Hopkins-Sketchbook.JPG" headline="Kate Hopkins Sketches" %}}
-b. 6, f. 6 [Hopkins Family Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21380054540001021) MS1991-023
+Box 6, folder 6 [Hopkins Family Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21380054540001021), MS1991-023
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -79,11 +79,11 @@ Chinese Chess Set (MS1992-014)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../029-face-back.jpg" headline="Playing Cards" %}}
-b. 2, [Eva McKee Art Works](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21355787120001021) MS2005-006
+Box 2, [Eva McKee Art Works](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21355787120001021), MS2005-006
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../HistoricalPastimesGame.jpg" headline="Historical pastime : a new game of the history of England from William 1st to William 4th." %}}
-[Historical Pastimes](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21338002760001021) MS2001-058
+[Historical Pastimes](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21338002760001021), MS2001-058
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -93,7 +93,7 @@ This cornet is part of the Michael Cummings Collection of Patrick S. Gilmore Mat
 {{% galleryrow %}} 
 
 {{% galleryfigure src="../018-Cornet.jpg" headline="Cornet, Perfected Wonder, patented June 15 1886." %}}
-b. 10, [Michael Cummings collection of P.S. Gilmore Materials](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21377790180001021) IM-M135-2004
+Box 10, [Michael Cummings collection of P.S. Gilmore Materials](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21377790180001021), IM-M135-2004
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -103,7 +103,7 @@ Sewing filled women’s working and leisure hours in the 19th century. This need
 {{% galleryrow %}} 
 
 {{% galleryfigure src="../030-needlecase-open-closed.jpg" headline="Needle Case" %}}
-b. 1, f. 21, [Dugan Collection of Doyle, Evans, and Persse Family Materials](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21333225820001021) MS2004-056
+Box 1, folder 21, [Dugan Collection of Doyle, Evans, and Persse Family Materials](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21333225820001021), MS2004-056
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../031B-Sewing-Sample.jpg" headline="Sewing Sample" %}}
