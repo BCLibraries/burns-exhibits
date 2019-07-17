@@ -13,7 +13,7 @@ type: "exhibit"
 ---
 {{% largefigure src="../Thomas_W._Lawson.jpg"
            headline="Thomas W. Lawson"
-           description="Lawson, Thomas W. [Frenzied Finance volume I, The Crime of Amalgamated](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21328502220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), Z1236 .L5 LAC 10174"
+           description="Lawson, [Frenzied Finance volume I, The Crime of Amalgamated](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21328502220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), Z1236 .L5 LAC 10174"
            side="left"
 		   
 		   
@@ -32,17 +32,17 @@ The Lawson commissioned books are bound in calfskin. The covers were created by 
 
 {{< figure src="../volume 1 front cover.jpg"
            headline="Volume One Cover"
-           description="Hubbard, Elbert. *[The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*, 09-000029023 GENERAL"
+           description="Hubbard, *[The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*, 09-000029023 GENERAL"
 >}}
 
 {{< figure src="../volume 2 front cover.jpg"
            headline="Volume Two Cover"
-           description="Hubbard, Elbert. *[The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*, 09-000029023 GENERAL"          description="Hubbard, [The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), 09-000029023 GENERAL"
+           description="Hubbard, *[The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*, 09-000029023 GENERAL"          description="Hubbard, [The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), 09-000029023 GENERAL"
 >}}
 
 {{< figure src="../volume 3 front cover.jpg"
            headline="Volume Three Cover"
-           description="Hubbard, Elbert. *[The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*, 09-000029023 GENERAL"           description="Hubbard, [The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), 09-000029023 GENERAL"
+           description="Hubbard, *[The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*, 09-000029023 GENERAL"           description="Hubbard, [The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), 09-000029023 GENERAL"
 >}}
 
 {{% /galleryrow %}}
@@ -53,17 +53,17 @@ The Lawson commissioned books are bound in calfskin. The covers were created by 
 
 {{< figure src="../volume 4 front cover.jpg"
            headline="Volume Four Cover"
-           description="Hubbard, Elbert. *[The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*, 09-000029023 GENERAL"          description="Hubbard, [The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), 09-000029023 GENERAL"
+           description="Hubbard, *[The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*, 09-000029023 GENERAL"          description="Hubbard, [The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), 09-000029023 GENERAL"
 >}}
 
 {{< figure src="../volume 5 front cover.jpg"
            headline="Volume Five Cover"
-           description="Hubbard, Elbert. *[The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*, 09-000029023 GENERAL"           description="Hubbard, [The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), 09-000029023 GENERAL"
+           description="Hubbard, *[The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*, 09-000029023 GENERAL"           description="Hubbard, [The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), 09-000029023 GENERAL"
 >}}
 
 {{< figure src="../volume 6 front cover.jpg"
            headline="Volume Six Cover"
-           description="Hubbard, Elbert. *[The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*, 09-000029023 GENERAL"           description="Hubbard, [The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), 09-000029023 GENERAL"
+           description="Hubbard, *[The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*, 09-000029023 GENERAL"           description="Hubbard, [The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), 09-000029023 GENERAL"
 >}}
 
 {{% /galleryrow %}}
@@ -73,12 +73,12 @@ The Lawson commissioned books are bound in calfskin. The covers were created by 
 
 {{< figure src="../volume 7 front cover.jpg"
            headline="Volume Seven Cover"
-           description="Hubbard, Elbert. *[The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*, 09-000029023 GENERAL"           description="Hubbard, [The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), 09-000029023 GENERAL"
+           description="Hubbard, *[The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*, 09-000029023 GENERAL"           description="Hubbard, [The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), 09-000029023 GENERAL"
 >}}
 
 {{< figure src="../lawson_back.jpg"
            headline="Volume Seven Back"
-           description="Hubbard, Elbert. *[The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*, 09-000029023 GENERAL"           description="Hubbard, [The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), 09-000029023 GENERAL"
+           description="Hubbard, *[The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*, 09-000029023 GENERAL"           description="Hubbard, [The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), 09-000029023 GENERAL"
 >}}
 
 
@@ -86,7 +86,7 @@ The Lawson commissioned books are bound in calfskin. The covers were created by 
 
 {{% largefigure src="../inscription Lawson book.jpg"
            headline="Volume One Inscription"
-           description="Hubbard, Elbert. *[The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*, 09-000029023 GENERAL"          description="Hubbard, [The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), 09-000029023 GENERAL"
+           description="Hubbard, *[The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*, 09-000029023 GENERAL"          description="Hubbard, [The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), 09-000029023 GENERAL"
 		   side="center"
 %}}
 
@@ -97,7 +97,7 @@ Elbert Hubbard signed volume one with a handwritten note to Thomas W. Lawson. Pr
 
 {{% largefigure src="../volume 7 spine.jpg"
            headline="Volume Seven Spine"
-           description="Hubbard, Elbert. *[The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*, 09-000029023 GENERAL"          description="Hubbard, [The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), 09-000029023 GENERAL"
+           description="Hubbard, *[The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*, 09-000029023 GENERAL"          description="Hubbard, [The Complete Writings of Elbert Hubbard](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21367055880001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), 09-000029023 GENERAL"
 		   side="right"
 		   size="small"
 %}}
@@ -116,7 +116,7 @@ The Lawson bookbindings of *The Complete Writings of Elbert Hubbard* reveal Kran
 
 {{% largefigure src="../Bookbinding school ad.jpg"
            headline="Roycroft Advertisement"
-           description="Hubbard, Elbert. *[Little Journeys](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21335517720001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*,  07-000022175 GENERAL"
+           description="Hubbard, *[Little Journeys](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21335517720001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*,  07-000022175 GENERAL"
            side="right"
 %}}
 

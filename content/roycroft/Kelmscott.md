@@ -32,12 +32,12 @@ The title page of *Child Christopher and Goldilind the Fair* (v. 1, 1895) by the
 
 {{< figure src="../child chrictopher title page.jpg"
            headline="Title Page"
-                description="Morris, William. *[Child Christopher and Goldilind the Fair](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21324903000001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*, 04-13988 FINE PRINT"
+                description="Morris, *[Child Christopher and Goldilind the Fair](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21324903000001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*, 04-13988 FINE PRINT"
 >}}
 
 {{< figure src="../gainsborough.jpg"
            headline="Title Page"
-                description="Hubbard, Elbert. *[Little Journeys to the Homes of Eminent Artists: Gainsborough](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21342177330001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*, ND497.G2 H8 1902 GENERAL"
+                description="Hubbard, *[Little Journeys to the Homes of Eminent Artists: Gainsborough](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21342177330001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*, ND497.G2 H8 1902 GENERAL"
 >}}
 
 
@@ -55,12 +55,12 @@ The colophon, a statement at the end of a book giving information about its auth
 
 {{< figure src="../child christopher colophon.jpg"
            headline="Colophon"
-           description="Morris, William. *[Child Christopher and Goldilind the fair](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21324903000001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*, 04-13988 FINE PRINT"
+           description="Morris, *[Child Christopher and Goldilind the fair](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21324903000001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*, 04-13988 FINE PRINT"
 >}}
 
 {{< figure src="../white hyacinths colophon.jpg"
            headline="Colophon"
-           description="Hubbard, Elbert. *[So Here Cometh White hyacinths: Being a Book of the Heart](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21334388030001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*, PS2042 .S6 1907 GENERAL"
+           description="Hubbard, *[So Here Cometh White hyacinths: Being a Book of the Heart](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21334388030001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*, PS2042 .S6 1907 GENERAL"
 >}}
 
 
@@ -68,7 +68,7 @@ The colophon, a statement at the end of a book giving information about its auth
 
 {{% largefigure src="../Utopia.jpg"
                 headline=""
-                description="More, Thomas. [*Utopia*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21312191480001021&context=L&vid=bclib_new&search_scope=lib_LAW&tab=bcl_only&lang=en_US), More HX810.5 .E54 1893"
+                description="More, [*Utopia*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21312191480001021&context=L&vid=bclib_new&search_scope=lib_LAW&tab=bcl_only&lang=en_US), More HX810.5 .E54 1893"
 				size="medium"
                 align="left" %}}
 
