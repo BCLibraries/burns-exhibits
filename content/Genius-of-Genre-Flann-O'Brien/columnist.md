@@ -8,7 +8,7 @@ weight: 9
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
@@ -26,7 +26,7 @@ Totaling some 4,212 installments, “Cruiskeen Lawn” continued regularly until
 
 {{% figure src="../043-060_Wallet_BusinessCards.jpg"
            headline="Wallet with Cards"
-           description="b. 24, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027"
+           description="Box 24, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027"
            side="left" %}}
 
 In addition to a visiting card representing his official status as a private secretary to a government minister, O’Nolan created calling cards to represent his identity as Myles na Gopaleen. One version indicates Myles’ affiliation with The Irish Times and provides O’Nolan’s actual home address. Another whimsically offers Myles’ fictive domicile in Santry, a northside Dublin suburb.
@@ -38,22 +38,22 @@ O’Nolan never made up calling cards for Flann O’Brien or his other literary 
 
 After two years of writing his daily “Cruiskeen Lawn” column for *The Irish Times*, O’Nolan made bold to ask editor Bertie Smyllie for a raise.
 
-As arguments in his favor, O’Nolan notes that he writes in both Irish and English, and bolsters the brand of Myles na Gopaleen through other literary activities, including the publication of a volume his Irish language novel An Béal Bocht and script writing for the stage. He adds that a collection of “Cruiskeen Lawn” columns (presumably selected from the scrapbooks he kept) will soon be issued as a book—the first of half a dozen such compilations that would be produced during his lifetime and after his death. 
+As arguments in his favor, O’Nolan notes that he writes in both Irish and English, and bolsters the brand of Myles na Gopaleen through other literary activities, including the publication of a volume his Irish language novel An Béal Bocht and script writing for the stage. He adds that a collection of “Cruiskeen Lawn” columns (presumably selected from the scrapbooks he kept) will soon be issued as a book—the first of half a dozen such compilations that would be produced during his lifetime and after his death.
 
 Smyllie rebuffed O’Nolan’s initial petitions for more pay, but after a year of sometimes testy, sometimes bantering exchanges, his column rate was modestly increased.
 
 {{% galleryrow %}}
 
 {{% galleryfigure src="../083.jpg" headline="Draft of letter *The Irish Times,* asking for pay increase for Cruiskeen Lawn, 21 Oct 1942 " %}}
-b. 1, f. 41, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
+Box 1, folder 41, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../152_CruiskeenLawn.jpg" headline="An Cruiskeen Lawn, scrapbook, 1950 September-1952 February" %}}
-b. 14, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
+Box 14, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../082.jpg" headline="*Irish Times* to O'Nolan with increase offer for Cruiskeen Lawn, 29 Oct 1943" %}}
-b. 1, f. 41, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
+Box 1, folder 41, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -69,15 +69,15 @@ In 1951, Clarkin was elected mayor. He urged citizens to spruce up the exterior 
 {{% galleryrow %}}
 
 {{% galleryfigure src="../153A_CruiskeenLawn.jpg" headline="Draft of letter *The Irish Times,* asking for pay increase for Cruiskeen Lawn, 21 Oct 1942 " %}}
-b. 20, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
+Box 20, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../153B_CruiskeenLawn.jpg" headline="An Cruiskeen Lawn, scrapbook, 1950 September-1952 February" %}}
-b. 20, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
+Box 20, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../153C_CruiskeenLawn.jpg" headline="*Irish Times* to O'Nolan with increase offer for Cruiskeen Lawn, 29 Oct 1943" %}}
-b. 20, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
+Box 20, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -86,7 +86,7 @@ b. 20, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-
 
 {{% figure src="../FOB150.jpg"
            headline="Return of Myles typescript (1953) "
-           description="b. 2, f. 39, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027"
+           description="Box 2, folder 39, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027"
            side="left" %}}
 
 The ACCIS shaming campaign against the popular mayor earned O’Nolan little favor, but when subsequent columns poked at another senior politician, the minister he served as private secretary was forced to order his dismissal. Increasing absenteeism and alcoholism were added to the list of causes, but since the latter was just then gaining recognition as a disease, allowed O’Nolan to resign for medical reasons and receive a pension.
@@ -97,9 +97,9 @@ The ACCIS shaming campaign against the popular mayor earned O’Nolan little fav
 
 {{% figure src="../096-PeepShow.jpg"
            headline="'George Knowall's Peep Show'(29/3/66) "
-           description="b. 2, f. 33, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027"
+           description="Box 2, folder 33, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027"
            side="left" %}}
-		   
+
 After forfeiting his civil service employment, O’Nolan supplemented his government pension and income from his “Cruiskeen Lawn” columns with earnings from other sources, including columns he wrote for other newspapers. For The Carlow Nationalist and Leinster Times, he wrote a humorous column under the pen name George Knowall (read: Know-all, a play on O’Nolan).
 
 Probably O’Nolan’s last piece of writing, “George Knowall’s Peep Show” begins with the philosophical musings of a hospital patient. His bed nearest the door to the ward, he is content to perform the privileged duties of collecting and distributing mail for his fellow patients and offering them an embellished reading of the morning paper. The draft breaks off mid-sentence on the third page. O’Nolan died in his hospital bed three days later.

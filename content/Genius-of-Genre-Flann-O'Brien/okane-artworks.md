@@ -9,7 +9,7 @@ weight:  11
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
@@ -64,13 +64,10 @@ David O’Kane, January, 2019
                 size="large"
                 align="center"
 %}}
-These three paintings feature in the animated sequence Manufacturing a Countenance. The paintings are based on photographs of O’Nolan held by Burns Library, but rather than portraying a real person, the painting process obscures and masks the original images, disrupting and distorting them into an animated face in flux. O’Nolan’s manipulations of identity are echoed in this metamorphoses. 
+These three paintings feature in the animated sequence Manufacturing a Countenance. The paintings are based on photographs of O’Nolan held by Burns Library, but rather than portraying a real person, the painting process obscures and masks the original images, disrupting and distorting them into an animated face in flux. O’Nolan’s manipulations of identity are echoed in this metamorphoses.
 {{% /largefigure %}}
 
 
 {{% largefigure src="../Old-Phillip-Mathers.jpg" headline="Old Phillip Mathers, 2017" description="David O'Kane, oil on canvas" size="large" align="left"%}}
 This painting is inspired by old Phillip Mathers, the murder victim from *The Third Policeman*. He is depicted in a circle of books, each with a different mask placed upon it. The image was originally conceived as the poster for the IV International Flann O’Brien Conference held in Salzburg in 2017. It has since functioned as a study for an animated sequence.
 {{% /largefigure %}}
-
-
-
