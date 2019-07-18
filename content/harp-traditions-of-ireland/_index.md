@@ -15,7 +15,7 @@ front_image: "b436864.jpg" # Replace with the real image
 front_caption_headline: ""
 front_caption_text: "Bunting, [*General Collection of Ancient Irish Music*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344993590001021), M1744 .G46 1809 Irish"
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
