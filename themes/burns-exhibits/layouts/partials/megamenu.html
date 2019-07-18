@@ -95,16 +95,25 @@
                                             </ul>
 
                                             <!-- Discovering art -->
-                                            <ul class="col-sm-7 menu_list end">
-                                                <div class="pane_info">
-                                                    <div class="h3style"><a href="https://libguides.bc.edu/burns/visit/events">Current Exhibit</a></div>
-                                                    <p>Genius of Genre: The Pen Names of Flann O'Brien. Original manuscripts, artifacts, paintings, and animated or live-action videos unmask the enigmatic and elusive 20th-century Irish author. </p>
-                                                </div>
+                <!-- CURRENT EXHIBIT CODE HERE -->
 
-                                                <div class="pane_pic">
-                                                    <img alt="Genius of Genre" src="https://libapps.s3.amazonaws.com/customers/94/images/FOB-255x255.png">
-                                                </div>
-                                            </ul>
+                {{ $allthepages := where .Site.Pages "Kind" "section" }}
+                {{ range $allthepages | first 1 }} 
+
+                                <ul class="col-sm-7 menu_list end">
+                                    <div class="pane_info">
+                                        <div class="h3style"><a href="{{ .RelPermalink }}">Current Exhibit</a></div>
+                                        <p><em>{{.Params.exhibit_title}}</em> <br/>
+                                        {{ .Content  | safeHTML | truncate 280 }}</p>
+                                    </div>
+
+                                    <div class="pane_pic">
+                                        <img alt="{{.Params.exhibit_title}}" src="{{ .RelPermalink }}tile-square.jpg">
+                                    </div>
+                                </ul>
+
+                {{ end }}
+                <!-- NO MORE CURRENT EXHIBIT CODE -->
                                         </div>
 
                                         <div class="row bottom_row">

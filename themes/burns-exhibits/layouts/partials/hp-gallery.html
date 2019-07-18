@@ -31,12 +31,10 @@
 
         {{ range $allthepages | first 2 }} 
 
-        {{ $img := .Params.front_image }}  
-
             <div class="col-md-6 col-12">
                 
-                <a href=".{{ .RelPermalink }}" alt="{{.Params.exhibit_title}}" class="hp_img" 
-                style="background:url(.{{ .RelPermalink }}{{ $img }})">
+                <a href="{{ .RelPermalink }}" alt="{{.Params.exhibit_title}}" class="hp_img" 
+                style="background:url(.{{ .RelPermalink }}tile-rect.jpg)">
                     <span class="hp_title">
                          {{.Params.exhibit_title}} 
                     </span>    
@@ -57,7 +55,7 @@
         </div>
 
         <!-- A BUNCH OF OLDER EXHIBITS -->
-        {{ range $allthepages | first 20 | }}
+        {{ range $allthepages | first 10 | }}
 
             <div class="col-md-3 col-6 oldgallery">
                 <a href=".{{ .RelPermalink }}" class="hp_img" 

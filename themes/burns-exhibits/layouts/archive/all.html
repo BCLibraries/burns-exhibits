@@ -2,40 +2,29 @@
 <html lang="{{ $.Site.LanguageCode | default "en" }}">
 {{- partial "head.html" . -}}
 
-<body class="ma0 {{ with getenv "HUGO_ENV" }}{{ . }}{{ end }}">
+<body class="homepagerefresh carbfree ma0 {{ with getenv "HUGO_ENV" }}{{ . }}{{ end }}">
     
-    <header>
-        <div class="row">
-            <div class="col-md-12">
-                {{- partial "library-header.html" . -}}
-            </div>
-            <div class="col-md-12">
-            {{- partial "blackbar.html" . -}}
-            </div>
-        </div>
-    </header>
+	{{- partial "library-header.html" . -}}
+
+	{{- partial "megamenu.html" . -}}
 
 <div class="container content">
+	        
 	        <div class="row">
 	            <div class="col-md-12">
 	                {{- partial "header.html" . -}}
 	            </div>
 	        </div>
 
-
 	<main id="content" class="col-md-12">
-
 
 	{{ $allthepages := where .Site.Pages "Kind" "section" }}
 
-
 	<div class="row past_exhibits">
 
-	    <div class="col-md-6 col-12">
+	    <div class="col-12">
 	        <h4>All Past Exhibits</h4>
 	    </div>
-
-	    <div class="col-md-6 col-12">&nbsp;</div>
 
 	<!-- A BUNCH OF OLDER EXHIBITS -->
 	{{ range $allthepages  }}

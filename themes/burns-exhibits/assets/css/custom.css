@@ -1,5 +1,5 @@
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Merriweather';
+    font-family: 'Merriweather', serif;
 }
 
 /* HEADER FIXES */
@@ -18,12 +18,16 @@ header {
     margin-top: 60px;
 }
 
+.carbfree .breadcrumb {
+    display: none;
+}
+
 /* HOMEPAGE CSS */
 
 .homepage .intro {
    width: 100%;
    padding: 15px 0;
-   margin: 0px 0 25px 0;
+   margin: 0px;
 }
 
 .homepage .intro h2 {
@@ -60,6 +64,11 @@ header {
     display: inline-block;
     width: 100%;
     border: 2px solid #b29d6c;
+        transition: ease .5s;
+}
+
+a:hover.hp_img {
+    border: 2px solid #8a100b;
 }
 
 .current_exhibits .hp_img {
@@ -103,12 +112,13 @@ a .hp_title {
     color: black;
     font-size: 32px;
     background: rgba(255,255,255,.9);
-    transition: ease .5s;
+    transition: ease 1s;
 }
 
 a:hover .hp_title, a:active .hp_title {
     background: rgba(255,255,255,1);
     color: #430000;
+    border-top: 2px solid #8a100b;
 }
 
 .oldgallery, .archivegallery {
@@ -117,7 +127,7 @@ a:hover .hp_title, a:active .hp_title {
 
 /* SILLY HACK TO HIGHLIGHT FIRST 2 CHILDREN OF OLD GALLERY */
 
-.oldgallery:nth-child(n+1):nth-child(-n+4) {
+.oldgallery:nth-child(n+1):nth-child(-n+3) {
     display: none;
 }
 
