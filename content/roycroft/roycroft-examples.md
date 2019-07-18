@@ -7,7 +7,7 @@ weight:  4
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
@@ -21,8 +21,6 @@ type: "exhibit"
 
 
 This work contains two preachments—or unwelcome or tedious sermons—by Elbert Hubbard, *The City of Tagaste* and *A Dream and a Prophecy* (1900). This full page illustration was hand-illuminated, or decorated, by Anna Paine and contains her signature at the beginning of the text. The leaves and flower are typical of Roycroft design, but the yellow birds are a nice addition.
-
-
 
 {{% galleryrow %}}
 {{< figure src="../tagaste2.jpg"
@@ -45,9 +43,7 @@ Alice Moore Hubbard published *Woman’s Work* (1908) to disseminate her views o
 
 Little Journeys, a series of books by Hubbard, was available in a range of binding styles and prices, with the most affordable produced in greatest numbers. Displayed here: the most expensive, *Joaquin Miller* (1903), with leather and marbled paper cover; the mid-range *Pericles* (1903), bound in cloth and paper cover; and the most affordable *Plato* (1908), with a cover made of unsupported printed-paper.
 
-{{% galleryrow %}}
-
-
+{{% galleryrow layout="landscape" %}}
 {{< figure src="../Miller.jpg"
            headline="Cover"
            description="Hubbard, *[So Here Then is a Little Journey to the Home of Joaquin Miller](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21320319070001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*, PS2398 .H8 1903 GENERAL "
@@ -68,10 +64,6 @@ Little Journeys, a series of books by Hubbard, was available in a range of bindi
 
 *The King of the Golden River* (1900) is another excellent sample of hand-illumination by the Roycrofters. This particular work was illuminated by Gertrude Hart and contains her signature on the limitation statement. The initials and colophon are also hand colored.
 
-
-
-
-
 {{% galleryrow %}}
 {{< figure src="../Golden River.jpg"
            headline="Cover Page"
@@ -82,7 +74,6 @@ Little Journeys, a series of books by Hubbard, was available in a range of bindi
            description="Ruskin, *[The King of the Golden River: A Legend of Stiria](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21348196140001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*, PR5256 .A1 1900 GENERAL"
 >}}
 {{% /galleryrow %}}
-
 
 
 {{% largefigure src="../Elia.jpg"
@@ -102,4 +93,3 @@ Little Journeys, a series of books by Hubbard, was available in a range of bindi
 *The Essay on Self-Reliance* (1908) is a fine example of the high quality paper that many Roycroft books used. One of the Roycrofters, William Joseph "Dard" Hunter became a leading authority on handmade paper. Each sheet contains a watermark featuring the “Roycroft” name and printer’s device of a seahorse and Roycroft orb.
 
 {{% /largefigure %}}
-

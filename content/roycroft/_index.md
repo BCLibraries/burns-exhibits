@@ -17,7 +17,7 @@ front_caption_headline: "Printer's Device"
 front_caption_text: "Hubbard, *[So Here Then are the Preachments Entitled The city of Tagaste: and A dream and a Prophecy](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21327955940001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*, PS2042 .C5 1900 GENERAL"
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---

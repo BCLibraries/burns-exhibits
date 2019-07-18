@@ -3,3 +3,4 @@ title = "My New Hugo Site"
 theme = "burns-exhibits"
 googleAnalytics = "UA-123-45"
 relativeURLs = true
+timeout = 300000

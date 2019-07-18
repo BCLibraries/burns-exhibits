@@ -7,14 +7,14 @@ weight:  6
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
 
 {{% largefigure src="../goingtochurch2.jpg"
                 headline="Cover"
-                description="Shaw, [*This is the Preachment on Going to Church*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21354381480001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PR5365 .E8 1896b IRISH." 
+                description="Shaw, [*This is the Preachment on Going to Church*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21354381480001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PR5365 .E8 1896b IRISH."
                 size="medium" align="right" %}}
 *This is the Preachment On Going to Church* (1896), with a quarter cream-colored cloth spine, blue-gray paper on boards, and titling gilt stamped near the head of upper board, could be mistaken for a book from the Kelmscott Press. This copy is inscribed by Elbert Hubbard.
 {{% /largefigure %}}
