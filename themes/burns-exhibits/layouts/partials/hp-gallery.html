@@ -35,8 +35,8 @@
 
             <div class="col-md-6 col-12">
                 
-                <a href="{{ .RelPermalink }}" alt="{{.Params.exhibit_title}}" class="hp_img" 
-                style="background:url({{ .RelPermalink }}{{ $img }})">
+                <a href=".{{ .RelPermalink }}" alt="{{.Params.exhibit_title}}" class="hp_img" 
+                style="background:url(.{{ .RelPermalink }}{{ $img }})">
                     <span class="hp_title">
                          {{.Params.exhibit_title}} 
                     </span>    
@@ -60,8 +60,8 @@
         {{ range $allthepages | first 20 | }}
 
             <div class="col-md-3 col-6 oldgallery">
-                <a href="{{ .RelPermalink }}" class="hp_img" 
-                style="background:url({{ .RelPermalink }}tile-square.jpg)">
+                <a href=".{{ .RelPermalink }}" class="hp_img" 
+                style="background:url(.{{ .RelPermalink }}tile-square.jpg)">
                     <span class="hp_title">
                         {{.Params.exhibit_title}}
                     </span>    
