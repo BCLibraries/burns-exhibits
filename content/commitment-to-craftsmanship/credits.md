@@ -33,7 +33,7 @@ At Boston College:
 + Gary Gilbert, Director, Photography, Office of Marketing Communication, took wonderful pictures of the books.
 + Michael Burns, Special Assistant in Archives & Manuscripts, Burns Library, edited my label and checklist text. 
 + Chris Houston-Ponchak, Web Design & Communications Specialist, created the beautiful exhibit posters.
-+ Richie Kelly and John Walsh, Burns Library security guards, kept an “eagle eye” on the exhibit cases during the installation of the exhibit.
++ Riche Kelly and John Walsh, Burns Library security guards, kept an “eagle eye” on the exhibit cases during the installation of the exhibit.
 
 Beyond Boston College:
 
