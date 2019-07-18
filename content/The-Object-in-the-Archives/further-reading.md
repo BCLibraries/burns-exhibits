@@ -8,7 +8,7 @@ weight: 7
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
@@ -28,8 +28,6 @@ Boston College School of Nursing records
 
 Chinese Chess Set (MS1992-014)
 
-Cuala Press Artwork (MS2005-035)
-
 [Josephine Dolan Collection of Nursing History](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21352781560001021&context=L&vid=bclib_new&search_scope=onesearch&tab=onesearch&lang=en_US) (MS1988-004)
 
 [John Donnelly & Sons Records](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21420112970001021&context=L&vid=bclib_new&search_scope=onesearch&tab=onesearch&lang=en_US)  (MS2012-004)
@@ -45,6 +43,8 @@ Cuala Press Artwork (MS2005-035)
 [William F. and Michael C. Hanafin Family Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21475898300001021&context=L&vid=bclib_new&search_scope=onesearch&tab=onesearch&lang=en_US) (IM-M143-2005)
 
 [Elizabeth Hayward Collection of Ursuline Academy Materials](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21419981350001021&context=L&vid=bclib_new&search_scope=onesearch&tab=onesearch&lang=en_US) (MS2011-027)
+
+[Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021) (MS2016-006)
 
 [Historical Pastime: a New Game of the History of England](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21338002760001021) (MS2001-058)
 

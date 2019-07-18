@@ -8,7 +8,7 @@ weight: 8
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
@@ -22,4 +22,3 @@ Rachel A. Ernst
 PhD candidate in the Boston College English Department, and Burns Library Reading Room Assistant.
 
 Originally displayed: Burn Library, February - June, 2018
-	

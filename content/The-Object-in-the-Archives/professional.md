@@ -32,15 +32,15 @@ Box 42, [New England Deaconess Hospital School of Nursing](https://bc-primo.host
 {{% galleryrow layout="landscape" %}}
 
 {{% galleryfigure src="../004-CualaBookCovers.jpg" headline="Cuala Press Leather Book Covers" %}}
-Box 8, Cuala Press Art Work (MS2005-035)
+Box 9, [Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021) (MS2016-006)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../006-Modern-Design-Front2.JPG" headline="George F. Trenholm Type Design Sample" %}}
-b. 6, f. 2, George F. Trenholm Papers (MS1994-038)
+Box 6, folder 2, [George F. Trenholm Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351132040001021) (MS1994-038)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../011B-011A-WoodblockTrinityChalice.jpg" headline="Eric Gill Print and Woodblock: The Temptation" %}}
-b. 10, Boston College Collection of Eric Gill Materials (MS1986-139)
+Box 10, [Boston College Collection of Eric Gill Materials](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344683760001021) (MS1986-139)
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -49,11 +49,11 @@ Bette Arnold was known for her signature Rolls Royce that she parked--illegally-
 {{% galleryrow layout ="landscape" %}}
 
 {{% galleryfigure src="../010-RollsRoyce.jpg" headline="Rolls Royce Toy Car" %}}
-b. 2, object 4, Bette Arnold Collection (MS2012-009)
+Box 2, object 4, [Bette Arnold Collection](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21420354730001021) (MS2012-009)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../014-BillboardToy.jpg" headline="Billboard desk toy, circa 1970s" %}}
-b. 3, object 6, John Donnelly & Sons Records (MS2012-004)
+Box 3, object 6, [John Donnelly & Sons Records](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21420112970001021) (MS2012-004)
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -63,15 +63,15 @@ Paperwork and promotional materials are central to many jobs, especially those i
 {{% galleryrow %}}
 
 {{% galleryfigure src="../015-1-Actress-Trade-Cards.jpg" headline="Actress Trade Card: Mary Anderson" %}}
-b.8, f. 12, Theater Programs Collection (MS2011-024)
+Box 8, folder 12, [Theater Programs Collection](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21421401050001021) (MS2011-024)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../015-2-Actress-Trade-Cards.jpg" headline="Actress Trade Card: Maud Granger" %}}
-b.8, f. 12, Theater Programs Collection (MS2011-024)
+Box 8, folder 12, [Theater Programs Collection](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21421401050001021) (MS2011-024)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../016-Fairy-Sisters-Contract.jpg" headline="Fairy Sisters Contract, 1873" %}}
-b. 1, f. 2, Greater Boston Area Materials (MS2013-020)
+Box 1, folder 2, [Greater Boston Area Materials](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21429780640001021) (MS2013-020)
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
