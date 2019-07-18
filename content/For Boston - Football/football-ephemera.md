@@ -7,7 +7,7 @@ weight:  3
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
@@ -113,7 +113,7 @@ Pinback buttons, 1992 and undated, BC2001-032 and BC2014-047
 
 {{% galleryrow layout="landscape" %}}
 {{% galleryfigure src="../FootballEchoes_25_Fragment1929.JPG" headline="Goal Post Fragment" %}}
-BC vs. Holy Cross, Braves Field, Boston, 30 November, 1929, BC2004-031 
+BC vs. Holy Cross, Braves Field, Boston, 30 November, 1929, BC2004-031
 {{% /galleryfigure %}}
 
 
@@ -134,4 +134,3 @@ BC vs. Holy Cross, Fenway Park, Boston, 2 December 1939, BC1990-036
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
-

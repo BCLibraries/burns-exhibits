@@ -8,7 +8,7 @@ weight: 999
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
@@ -19,7 +19,7 @@ __Collections Used:__
 
 [Boston College Athletic Programs](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21470522600001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) (BC1997-06)
 
-[Doug Flutie Collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21312689540001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) (BC2003-09) 
+[Doug Flutie Collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21312689540001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) (BC2003-09)
 
 [Thomas D. Craven Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21350558160001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) (BC2004-121)
 
@@ -45,5 +45,4 @@ __Books on BC History__
 
 Dunigan, David R., [*A history of Boston College*](https://archive.org/details/historyofbostonc00duni). Milwaukee, Bruce Pub. Co. 1947
 
-Donovan, Charles F., Paul A. FitzGerald. [*History of Boston College: From the beginnings to 1990.*](https://archive.org/details/historyofbostonc00dono) Chestnut Hill, Mass 
-
+Donovan, Charles F., Paul A. FitzGerald. [*History of Boston College: From the beginnings to 1990.*](https://archive.org/details/historyofbostonc00dono) Chestnut Hill, Mass
