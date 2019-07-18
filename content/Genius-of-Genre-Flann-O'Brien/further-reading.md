@@ -8,7 +8,7 @@ weight: 12
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
@@ -18,7 +18,7 @@ Almost everything that was displayed was from Burns Library’s [Flann O’Brien
 
 Also displayed were works loaned by David and Eddie O’Kane, an artistic duo from Lifford, just across the River Foyle from O’Nolan’s birthplace in Strabane. In addition to their paintings, iPads present video sequences that respond to the existential conundrums and terrors of The Third Policeman.
 
-The interpretative labels owe much to scholarship that has flourished around Flann leading up to and since the centenary of his death in 2011, especially through the [International Flann O’Brien Society](https://www.univie.ac.at/flannobrien2011/IFOBS.html), founded that year. 
+The interpretative labels owe much to scholarship that has flourished around Flann leading up to and since the centenary of his death in 2011, especially through the [International Flann O’Brien Society](https://www.univie.ac.at/flannobrien2011/IFOBS.html), founded that year.
 
 Gracious thanks are due to the many staff of Burns Library who contributed to the concept, design, editing, and installation of this exhibit, as well as the processing and preservation of Flann’s documentary legacy.
 
