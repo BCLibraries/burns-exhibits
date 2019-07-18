@@ -13,7 +13,7 @@ type: "exhibit"
 ---
 **AUTHOR:** Bible. New Testament. English. 1582. Rheims.
 
-**TITLE:** [The Nevv Testament of Iesvs Christ / translated faithfvlly into English, out of the authentical Latin, according to the best corrected copies of the same, diligently conferred vvith the Greekë and other editions in diuers languages.](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21333257070001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)
+**TITLE:** [*The Nevv Testament of Iesvs Christ / translated faithfvlly into English, out of the authentical Latin, according to the best corrected copies of the same, diligently conferred vvith the Greekë and other editions in diuers languages.*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21333257070001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)
 
 **PUBLICATION:** Printed at Rhemes : By Iohn Fogny, 1582.
 {{% largefigure src="../recusancy_2013_11_web.jpg" headline="The Nevv Testament of Iesvs Christ, 1582" size="x-large" align="center"%}}
@@ -23,7 +23,7 @@ This version of the New Testament, the first printed in Modern English, was tran
 
 **AUTHOR:** Bible. Old Testament. English. Douai. 1609.
 
-**TITLE:** [The Holie Bible faithfully translated into English, out of the authentical Latin : diligently conferred with the Hebrew, Greeke, and other editions in diuers languages …](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21361537750001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)
+**TITLE:** [*The Holie Bible faithfully translated into English, out of the authentical Latin : diligently conferred with the Hebrew, Greeke, and other editions in diuers languages …*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21361537750001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)
 
 **PUBLICATION:** [Doway] : Printed at Doway by Laurence Kellam, at the signe of the Holy Lamb, M.DC.IX–[M.DC.X] [1609–1610]
 
@@ -35,7 +35,7 @@ This English translation of the Old Testament, completed almost thirty years aft
 
 **AUTHOR:** Torsellino, Orazio, 1545–1599.
 
-**TITLE:** [The admirable life of S. Francis Xavier. Deuided into VI. Bookes.](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21330192510001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)
+**TITLE:** [*The admirable life of S. Francis Xavier. Deuided into VI. Bookes.*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21330192510001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)
 
 **PUBLICATION:** Paris : [s.n.], 1632.
 
@@ -49,7 +49,7 @@ This rare work has been expertly conserved and rebound in the Burns Library cons
 
 **AUTHOR:** Pole, Reginald, 1500–1558.
 
-**TITLES:** [De Concilio liber Reginaldi Poli Cardinalis](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21359546020001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US);  [Reformatio Angliae ex decretis Reginaldi Poli Cardinalis, Sedis Apostolicae legati, anno M. D. LVI.](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21359544860001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)
+**TITLES:** [*De Concilio liber Reginaldi Poli Cardinalis*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21359546020001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US);  [Reformatio Angliae ex decretis Reginaldi Poli Cardinalis, Sedis Apostolicae legati, anno M. D. LVI.](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21359544860001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)
 
 **PUBLICATION:** Romae : Apud Paulum Manutium Aldi F., M. D. LXII. [1562]
 
@@ -65,7 +65,7 @@ Both of these editions were printed by the Aldine Press in 1562. An important fi
 
 **AUTHOR:** Lynde, Humphrey, Sir, 1579–1636.
 
-**TITLE:** [Via tuta = The safe way : leading all Christians, by the testimonies, and confessions of our best learned aduersaries, to the true, ancient, and Catholique faith, now professed in the Church of England by Hvmfrey Lynde knight ...](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21312953690001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)
+**TITLE:** [*Via tuta = The safe way : leading all Christians, by the testimonies, and confessions of our best learned aduersaries, to the true, ancient, and Catholique faith, now professed in the Church of England by Hvmfrey Lynde knight ...*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21312953690001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)
 
 **PUBLICATION:** London : Printed by C.M. for Robert Milbourne, and are to be sold at his shop in Pauls churchyard, at the signe of the Gray-Hound, 1628.
 
@@ -77,7 +77,7 @@ A prominent Anglican controversialist and rabid anti-Catholic, Lynde (1579–163
 
 **AUTHOR:** Floyd, John, 1572–1649.
 
-**TITLE:** [A paire of spectacles for Sir Humfrey Linde to see his way withall, or, An answeare to his booke called, Via tuta, A safe way : wherein the booke is shewed to be a labyrinthe of error and the author a blind guide, by I.R.](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21379721720001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)
+**TITLE:** [*A paire of spectacles for Sir Humfrey Linde to see his way withall, or, An answeare to his booke called, Via tuta, A safe way : wherein the booke is shewed to be a labyrinthe of error and the author a blind guide, by I.R.*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21379721720001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)
 
 **PUBLICATION:** [Rouen? : Widow of N. Courant?], 1631.
 
@@ -91,7 +91,7 @@ In keeping with the tone of the literary feud between Anglicans and recusant Cat
 
 **AUTHOR:** Kellison, Matthew.
 
-**TITLE:** [A treatise of the hierarchie and divers orders of the church against the anarchie of Calvin.](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21381842850001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)
+**TITLE:** [*A treatise of the hierarchie and divers orders of the church against the anarchie of Calvin.*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21381842850001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)
 
 **PUBLICATION:** Printed at Doway : By Gerard Pinchon, at the signe of Coleyn, 1629.
 
@@ -104,7 +104,7 @@ A treatise of the hierarchie came at a time of growing schism within the recusan
 
 **AUTHOR:** Parsons, Robert, 1546–1610.
 
-**TITLE:** [The warn-word to Sir Francis Hastinges Wast-word: conteyning the issue of three former treateses, the Watch-word, the Ward-word and the Wast-word (intituled by Sir Francis, an Apologie or Defence of his Watch-word) togeather with certaine admonitions & warnings to the said knight and his followers. Wherunto is adioyned a breif reiection of an insolent, and vaunting minister masked with the letters O.E. who hath taken vpon him to wryte of the same argument in supply of the knight. There go also foure seueral tables, one of the chapters, another of the controuersies, the third of the cheif shiftes, and deceits, the fourth of the particular matters conteyned in the whole book. By N.D., author of the Ward-word.](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21341556220001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)
+**TITLE:** [*The warn-word to Sir Francis Hastinges Wast-word: conteyning the issue of three former treateses, the Watch-word, the Ward-word and the Wast-word (intituled by Sir Francis, an Apologie or Defence of his Watch-word) togeather with certaine admonitions & warnings to the said knight and his followers. Wherunto is adioyned a breif reiection of an insolent, and vaunting minister masked with the letters O.E. who hath taken vpon him to wryte of the same argument in supply of the knight. There go also foure seueral tables, one of the chapters, another of the controuersies, the third of the cheif shiftes, and deceits, the fourth of the particular matters conteyned in the whole book. By N.D., author of the Ward-word.*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21341556220001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)
 
 **PUBLICATION:** [Antwerp : Arnout Conincx], Anno 1602.
 
@@ -117,7 +117,7 @@ This book, which represents one of Parsons’ responses to the Anglican Sir Fran
 
 **AUTHOR:** Walpole, Michael, 1570–1624?
 
-**TITLE:** [A Treatise of Antichrist. : conteyning the defence of Cardinall Bellarmines arguments, which inuincibly demonstrate, that the Pope is not Antichrist : against M. George Downam D. of Diuinity, who impugneth the same.](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21330192370001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)
+**TITLE:** [*A Treatise of Antichrist. : conteyning the defence of Cardinall Bellarmines arguments, which inuincibly demonstrate, that the Pope is not Antichrist : against M. George Downam D. of Diuinity, who impugneth the same.*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21330192370001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)
 
 **PUBLICATION:** [St. Omer : English College Press], Imprinted ... 1613.
 
@@ -128,7 +128,7 @@ Michael Christopherson was the pseudonym for Jesuit Michael Walpole, who while l
 
 **AUTHOR:** Estella, Diego de, 1524–1578.
 
-**TITLE:** [The contempte of the vvorld and the vanitie therof, written by the reuerent F. Diego de Stella, of the order of S. Fr. Translated by George Cotton.](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21374873570001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)
+**TITLE:** [*The contempte of the vvorld and the vanitie therof, written by the reuerent F. Diego de Stella, of the order of S. Fr. Translated by George Cotton.*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21374873570001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)
 
 **PUBLICATION:** [Rouen? : Robert Persons's Press], 1584.
 
@@ -139,7 +139,7 @@ This little devotional text was translated from its original Spanish by George C
 
 **AUTHOR:** Campion, Edmund, Saint, 1540–1581.
 
-**TITLE:** [Campian Englished, or, A translation of the ten reasons, in which Edmvnd Campian (of the Societie of Iesvs) priest, instituted in his challenge to the vniuersities of Oxford and Cambridge. Made by a priest of the Catholike and Roman Church.](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21334782920001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)
+**TITLE:** [*Campian Englished, or, A translation of the ten reasons, in which Edmvnd Campian (of the Societie of Iesvs) priest, instituted in his challenge to the vniuersities of Oxford and Cambridge. Made by a priest of the Catholike and Roman Church.*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21334782920001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)
 
 **PUBLICATION:** [Rouen? : s.n.], M. DC. XXXII. [1632]
 
@@ -150,7 +150,7 @@ This first English translation of Saint Edmund Campion’s original text offered
 
 **AUTHOR:** Cressy, Serenus, 1605–1674.
 
-**TITLE:** [Roman-Catholick doctrines no novelties, or, An answer to Dr. Pierce's court-sermon, mis-call'd The primitive rule of Reformation.](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21324458770001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)
+**TITLE:** [*Roman-Catholick doctrines no novelties, or, An answer to Dr. Pierce's court-sermon, mis-call'd The primitive rule of Reformation.*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21324458770001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)
 
 **PUBLICATION:** [S.l. : s.n.], MDCLX III. [1663]
 
@@ -163,7 +163,7 @@ Note that the first page of Chapter 1 on the left differs in content from the fi
 
 **AUTHOR:** Maffei, Giovanni Pietro, 1536?–1603
 
-**TITLE:** [Fuga saeculi, or, The holy hatred of the world : conteyning the liues of 17. holy confessours of Christ, selected out of sundry authors.](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315053340001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)
+**TITLE:** [*Fuga saeculi, or, The holy hatred of the world : conteyning the liues of 17. holy confessours of Christ, selected out of sundry authors.*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315053340001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)
 
 **PUBLICATION:** Printed at Paris : [English College Press, St. Omer], MDCXXXII [1632]
 
@@ -174,7 +174,7 @@ Jesuit Henry Hawkins (bap. 1577, d. 1646) translated this study of saintly lives
 
 **AUTHOR:** Anderton, James, fl. 1624.
 
-**TITLE:** [The Protestants apologie for the Roman church deuided into three seuerall tractes.](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21371183600001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)
+**TITLE:** [*The Protestants apologie for the Roman church deuided into three seuerall tractes.*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21371183600001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)
 
 **PUBLICATION:** [Saint-Omer : Printed at the English College Press], Anno M.DC.VIII. [1608]
 
@@ -185,7 +185,7 @@ Written by a seminary priest who went by the name John Brereley, this tract seek
 
 **AUTHOR:** Wilson, John, ca. 1575–ca. 1645?
 
-**TITLE:** [The English Martyrologe: conteyning a summary of the lives of the glorious and renowned Saintes of the three kingdomes, England, Scotland, and Ireland …](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21427035840001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)
+**TITLE:** [*The English Martyrologe: conteyning a summary of the lives of the glorious and renowned Saintes of the three kingdomes, England, Scotland, and Ireland …*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21427035840001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)
 
 **PUBLICATION:** [St. Omer : English College Press], 1608.
 
@@ -200,7 +200,7 @@ In best controversialist fashion, this volume prompted an anonymous Protestant r
 
 **AUTHOR:** Luis, de Granada, 1504–1588.
 
-**TITLE:** [A memoriall of a Christian life: wherein are treated all such thinges, as apperteyne vnto a Christian to doe, from the beginninge of his conuersion, vntil the ende of his perfection . . .](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21374893660001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)
+**TITLE:** [*A memoriall of a Christian life: wherein are treated all such thinges, as apperteyne vnto a Christian to doe, from the beginninge of his conuersion, vntil the ende of his perfection . . .*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21374893660001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)
 
 **PUBLICATION:** At St. Omers : For John Heigham, 1625.
 
@@ -211,7 +211,7 @@ This devotional tract was printed for the English bookseller John Heigham. Heigh
 
 **AUTHOR:** Luis, de Granada, 1504–1588.
 
-**TITLE:** [Of prayer, and meditation : wherein are conteined fovvertien deuoute meditations for the seuen daies of the weeke, bothe for the morninges, and eueninges, and in them is treyted of the consideration of the principall holie mysteries of our faithe.](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21339377910001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) 
+**TITLE:** [*Of prayer, and meditation : wherein are conteined fovvertien deuoute meditations for the seuen daies of the weeke, bothe for the morninges, and eueninges, and in them is treyted of the consideration of the principall holie mysteries of our faithe.*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21339377910001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) 
 
 **PUBLICATION:** At Dovay : By John Heigham, anno d[omi]ni 1612.
 
@@ -222,7 +222,7 @@ This book of meditations, written originally in Spanish by the Dominican friar L
 
 **AUTHOR:** England and Wales. Sovereign (1558–1603 : Elizabeth I)
 
-**TITLE:** [Dvo edicta Elizabethæ Reginæ Angliae contra sacerdotes Societatis Iesu & alumnos seminariorum.](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21368863430001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)
+**TITLE:** [*Dvo edicta Elizabethæ Reginæ Angliae contra sacerdotes Societatis Iesu & alumnos seminariorum.*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21368863430001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)
 
 **PUBLICATION:** Avgvstæ Trevirorvm [i.e. Trier]: Apud Emondum Hatotum, 1583.
 
