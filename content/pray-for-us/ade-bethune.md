@@ -7,7 +7,7 @@ weight:  3
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
@@ -117,5 +117,3 @@ These holy cards were all designed by Ade Bethune (1914-2002), who was born in B
 description="A figure from the Catholic Old Testament who, upset with the Jewish people for not trusting God to deliver them from their conquerors, gains the trust of the Assyrian general, Holofernes. She cuts Holofernes’ head off and takes it back to her people, who rally and defeat their enemy." side="left" size="small" %}}
 
 {{% /galleryrow %}}
-
-
