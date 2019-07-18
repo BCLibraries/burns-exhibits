@@ -8,11 +8,11 @@ weight: 7
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
-Collections Used: 
+Collections Used:
 
 **Jesuitica**
 
@@ -70,7 +70,7 @@ The John J. Burns Library owns 75 books from the incunable period, that is, that
 
 Conroy, Tim. “Teaching Genealogies of American Hand Bookbinders” *Guild of Book Workers Journal*Volume XXVII, Numbers 1 & 2 (Spring/Fall 1990).
 
-Esser, Mark. [“Covering in Leather”](https://guildofbookworkers.org/sites/guildofbookworkers.org/files/standards/2003-Esser_Mark.pdf) Denver: Guild of Book Workers, 2003. 
+Esser, Mark. [“Covering in Leather”](https://guildofbookworkers.org/sites/guildofbookworkers.org/files/standards/2003-Esser_Mark.pdf) Denver: Guild of Book Workers, 2003.
 
 McCrady, Ellen. ["LBS Conference, Part II"](http://cool.conservation-us.org/byorg/abbey/an/an11/an11-8/an11-802.html) Volume 11, number 8 (December 1987).
 
