@@ -8,14 +8,14 @@ weight: 8
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
 
 Sponsored by Boston College Libraries
 
-Curator(s): 
+Curator(s):
 
 Andrew A. Kuhn, Ph.D. student in the English Department at Boston College
 
