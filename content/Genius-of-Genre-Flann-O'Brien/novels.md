@@ -8,7 +8,7 @@ weight: 3
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
@@ -16,8 +16,8 @@ type: "exhibit"
 
 
 {{% figure src="../059A-typewriter.jpg"
-           headline="O'Nuallain, Micheál, Typewriter, pastel, 1948" 
-           description="b. 27, f. 8, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027" 
+           headline="O'Nuallain, Micheál, Typewriter, pastel, 1948"
+           description="Box 27, folder 8, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027"
            side="right" %}}
 
 O’Nolan first used his most enduring pseudonym in an exchange of letters with playwright Frank O’Connor and short story write Sean O’Faoláin published in The Irish Times in January 1939.
@@ -41,7 +41,7 @@ Heine, [*Die Harzweise*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../050_Passport1936.jpg" headline="Brian O'Nolan's passport, 1936" %}}
-b. 24, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
+Box 24, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../100_UlyssesBrianONolan_.jpg" headline="Brian O'Nolan's personal copy of James Joyce's *Ulysses*" %}}
@@ -59,7 +59,7 @@ Published in London in 1939 by Longman’s at the recommendation of Graham Green
 {{% galleryrow %}}
 
 {{% galleryfigure src="../011A_MVONolanNotebook.jpg" headline="Michael V. O'Nolan's noteboook" %}}
-b. 1, f. 58, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
+Box 1, folder 58 [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../003_AtSwim2Birds.jpg" headline="First Edition of *At Swim Two Birds*, 1939" %}}
@@ -81,7 +81,7 @@ An English translation was published in New York in 1974 as *The Poor Mouth*, aw
 {{% galleryrow %}}
 
 {{% galleryfigure src="../009N-A_ABealBocht_ToPeggy.jpg" headline="" %}}
-b. 1, f. 33, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
+Box 1, folder 33, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../101B_AnBealBoct.jpg" headline="*An béal boċt*" %}}
@@ -107,7 +107,7 @@ O'Brien, [*The Third Policeman*](https://bc-primo.hosted.exlibrisgroup.com/primo
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../019B_ThirdPolicemanTypescript.jpg" headline="The Third Policeman, annotated typescript, 1940 January" %}}
-b. 4, f. 4, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
+Box 4, folder 4, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -124,7 +124,7 @@ O'Brien, [*The Third Policeman*](https://bc-primo.hosted.exlibrisgroup.com/primo
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../FOB104.jpg" headline="Advance and Royalties Statement for *The Third Policeman*" %}}
-b. 5, f. 22, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
+Box 5, folder 22, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../FOB102.jpg" headline="" %}}
