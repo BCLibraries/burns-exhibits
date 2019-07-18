@@ -50,7 +50,7 @@ Box 5, folder 2 , [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup
 
 {{% figure src="../114-Flight.png"
            headline="'Flight,' TV playscript, 1962"
-           description="b. 5, f. 5, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027"
+           description="Box 5, folder 5, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027"
            side="right" %}}
 
 Ireland’s national airline service, Aerlínte Éireann, was renamed Aer Lingus on January 1, 1960. Later that year, it acquired three Boeing 720 jets to provide transatlantic service to New York and Boston.
