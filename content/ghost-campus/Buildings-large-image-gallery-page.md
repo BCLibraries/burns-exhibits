@@ -18,34 +18,34 @@ type: "exhibit"
                 size="x-large" align="center" %}}
 {{% /largefigure %}}
 
-{{% largefigure src="../Alumni-Hall.png"
+{{% largefigure src="2AAlumniHall.jpg"
                 headline=""
                 description=""
                 size="x-large" align="center" %}}
 {{% /largefigure %}}
 
-{{% largefigure src="../Ghost campus repros2.png"
+{{% largefigure src="2B_Philomatheia.jpg"
                 headline=""
                 description="" 
                 size="x-large" align="center" %}}
 
 {{% /largefigure %}}
 
-{{% largefigure src="../Ghost campus repros3.png"
+{{% largefigure src="2C_St. Joseph'sHall.jpg"
                 headline=""
                 description="" 
                 size="x-large" align="center" %}}
 
 {{% /largefigure %}}
 
-{{% largefigure src="../Ghost campus repros4.png"
+{{% largefigure src="2D_Liggett_O'Connell 7 55.jpg"
                 headline=""
                 description="" 
                 size="x-large" align="center" %}}
 
 {{% /largefigure %}}
 
-{{% largefigure src="../Ghost campus repros5.png"
+{{% largefigure src="2E_Liggett_O'Connell 7 33.jpg"
                 headline=""
                 description="" 
                 size="x-large" align="center" %}}
