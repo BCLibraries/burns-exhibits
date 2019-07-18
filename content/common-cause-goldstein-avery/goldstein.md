@@ -7,12 +7,12 @@ weight:  3
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
 
-{{% largefigure src="../012_DavidGoldstein.JPG.jpg" headline="David Goldstein, February 1, 1914." description="Box 36, folder 19, [David Goldstein and Martha Moore Avery Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21387017070001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1986-167" size="large" %}} 
+{{% largefigure src="../012_DavidGoldstein.JPG.jpg" headline="David Goldstein, February 1, 1914." description="Box 36, folder 19, [David Goldstein and Martha Moore Avery Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21387017070001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1986-167" size="large" %}}
 David Goldstein was born in London, England, to Dutch Jewish parents. In 1871 his family immigrated to New York. He left school at age 11 to follow his father, a cigar maker, into the trade. It was at meetings of the Cigar Makers' International Union that he was exposed to political debates and the struggle for economic justice. Goldstein retained a lifelong membership in the union and steadfastly supported organized labor, even as his other beliefs changed radically.
 {{% /largefigure %}}
 
@@ -25,7 +25,7 @@ Goldstein and his family moved to Boston in 1888. There he became interested in 
 **Break with Socialism and Conversion to Catholicism**
 
 {{% largefigure src="../003_Buttons3.jpg" headline="Buttons, 1898-1921." description="Box 2, [David Goldstein and Martha Moore Avery Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21387017070001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1986-167" size="small" %}}
-Goldstein and Avery were disturbed by the George Herron scandal in 1901, in which the prominent Socialist leader left his wife and family in favor of a young heiress. Goldstein began to question the Socialist conception of the family and religion, and left the Socialist Party in 1903. That year his friend Avery converted to Catholicism, and Goldstein was greatly impressed by her profession of faith. After studying the religion for a time with Joseph H. Rockwell, S.J., of Boston College, and wrestling with the idea that he would be disappointing his parents, Goldstein was baptized a Catholic in 1905. 
+Goldstein and Avery were disturbed by the George Herron scandal in 1901, in which the prominent Socialist leader left his wife and family in favor of a young heiress. Goldstein began to question the Socialist conception of the family and religion, and left the Socialist Party in 1903. That year his friend Avery converted to Catholicism, and Goldstein was greatly impressed by her profession of faith. After studying the religion for a time with Joseph H. Rockwell, S.J., of Boston College, and wrestling with the idea that he would be disappointing his parents, Goldstein was baptized a Catholic in 1905.
 {{% /largefigure %}}
 
 **Anti-Socialism and Trade Unions**
@@ -36,7 +36,7 @@ Although Goldstein had firmly left the principles of Socialism behind, he didn�
 
 **Catholic Campaigners for Christ and the Conversion of Israel**
 {{% largefigure src="../025_OpenAirLecture2.jpg" headline="Open Air Goldstein lecture poster, circa 1920s-1930s." description="Box 42, folder 65, [David Goldstein and Martha Moore Avery Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21387017070001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1986-167" size="large" %}}
-Goldstein and Avery co-founded the Catholic Truth Guild in 1917. The Guild had the blessing of Cardinal William O’Connell and a snazzy custom yellow and white model-T, with a portable podium and sounding platform. In the 1930s the Catholic Truth Guild became Catholic Campaigners for Christ, giving its name to Goldstein’s 1936 Autobiography of a Campaigner for Christ. Goldstein traveled all over North America for the Catholic Campaigners, from Canada to Mexico and across the continental United States. He would preach to anyone who would have him, pretty much anywhere, but had a particular interest in the conversion of Jews. He believed that “Hebrew Catholics know that membership in the Catholic Church is not a denial but that it is rather a fuller understanding of the faith of their fathers,” and he authored several pamphlets on the topic of Jewish conversion to Catholicism. 
+Goldstein and Avery co-founded the Catholic Truth Guild in 1917. The Guild had the blessing of Cardinal William O’Connell and a snazzy custom yellow and white model-T, with a portable podium and sounding platform. In the 1930s the Catholic Truth Guild became Catholic Campaigners for Christ, giving its name to Goldstein’s 1936 Autobiography of a Campaigner for Christ. Goldstein traveled all over North America for the Catholic Campaigners, from Canada to Mexico and across the continental United States. He would preach to anyone who would have him, pretty much anywhere, but had a particular interest in the conversion of Jews. He believed that “Hebrew Catholics know that membership in the Catholic Church is not a denial but that it is rather a fuller understanding of the faith of their fathers,” and he authored several pamphlets on the topic of Jewish conversion to Catholicism.
 {{% /largefigure %}}
 
 **Anti-Communism**

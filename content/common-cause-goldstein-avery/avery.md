@@ -7,7 +7,7 @@ weight:  2
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
@@ -19,7 +19,7 @@ Avery was born in Steuben, Maine, to an old New England family with a long histo
 
 **Head to Toe**
 {{% largefigure src="../005-006-Hatpins-Shoes.jpg" headline="Martha Moore Avery’s hatpins in holder and shoes, circa 1890s-1929." description="Box 2, folder 6, [David Goldstein and Martha Moore Avery Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21387017070001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1986-167" size="large" %}}
-When Avery was 19, her grandfather set up her in business as a milliner in Ellsworth, Maine. Although her philosophies changed, her penchant for being well-dressed, from her delightful hats to her beaded shoes, remained with her. The David Goldstein and Martha Moore Avery papers include a few of Avery’s personal effects, such as these hatpins and shoes. 
+When Avery was 19, her grandfather set up her in business as a milliner in Ellsworth, Maine. Although her philosophies changed, her penchant for being well-dressed, from her delightful hats to her beaded shoes, remained with her. The David Goldstein and Martha Moore Avery papers include a few of Avery’s personal effects, such as these hatpins and shoes.
 {{% /largefigure %}}
 
 
@@ -38,7 +38,7 @@ In 1899, Avery sent her daughter Katherine to a Catholic boarding school in Mont
 {{% largefigure src="../035_Socialism.JPG.jpg" headline="" description="Goldstein. *[Socialism: the nation of fatherless children](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21371117850001021)*. BX1396.3.G65 S62 1903 & LITURGY AND LIFE" size="small" %}}
 In 1903 Avery and Goldstein presented their point of view in the jointly authored book, *Socialism: The Nation of Fatherless Children*. It sold well, and Avery and Goldstein adapted the propaganda techniques of Socialism to evangelize for Catholicism, preaching on street corners and giving public lectures about the evils of Socialism. In 1912, they co-founded the Common Cause Society, an Anti-Socialist Catholic workingman's organization that supported organized labor and sought economic and social justice. Avery also lectured on topics of interest to her, often in a complete reversal of her previous stances; she declared her opposition to women’s suffrage, divorce, and birth control.
 {{% /largefigure %}}
- 
+
 
 
 **Catholic Truth Guild and Catholic Campaigners for Christ**

@@ -18,7 +18,7 @@ front_caption_text: ""
 front_image_layout: "portrait"
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---

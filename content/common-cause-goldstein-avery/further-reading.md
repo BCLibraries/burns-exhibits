@@ -8,7 +8,7 @@ weight: 4
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
@@ -75,4 +75,3 @@ Goldstein, David and Martha Moore Avery. *[Bolshevism: Its Cure](https://bc-prim
 Kane, Paula M. *[Separatism and Subculture: Boston Catholicism, 1900-1920](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21341495910001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Chapel Hill: The University of North Carolina Press, 1994.
 
 Lloyd, J. “David Goldstein.” *[New Catholic Encyclopedia](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC51390063470001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Detroit: Gale, 2003. Biography in Context. Accessed June 5, 2014.
-
