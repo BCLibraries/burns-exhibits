@@ -8,7 +8,7 @@ weight: 4
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
@@ -23,13 +23,13 @@ Over the next several years, he would be injured in multiple car crashes as well
 {{% galleryrow %}}
 
 {{< figure src="../089_Photo_Flann_Bed_Color.jpg"
-           headline="Flann recovering in bed" 
-           description="b. 2, f. 21, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027" 
+           headline="Flann recovering in bed"
+           description="Box 2, folder 21, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027"
 >}}
 
 {{< figure src="../022_FlannGrave050_Color.jpg"
-           headline="O'Nolan Family Plot, Dublin" 
-           description="b. 10, f. 3, item 50 [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027" 
+           headline="O'Nolan Family Plot, Dublin"
+           description="Box 10, folder 3, item 50 [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027"
 >}}
 {{% /galleryrow %}}
 He was buried in a plot alongside his parents in Dublin’s Deans Grange Cemetery, with his wife, siblings, and literary friends in attendance. In 1989, Anthony Cronin published a biographical tribute, *No Laughing Matter: The Life and Times of Flann O’Brien*.
@@ -46,12 +46,12 @@ The year after O’Nolan’s death, O’Keeffe brought out *The Third Policeman*
 
 {{% galleryrow %}}
 
-{{< figure src="../105_HardLifeAnnotated.png" 
-headline="Annotated Copy of the Hard Life Typescript" 
-description="b. 3, f. 13, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027"
+{{< figure src="../105_HardLifeAnnotated.png"
+headline="Annotated Copy of the Hard Life Typescript"
+description="Box 3, folder 13, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027"
 >}}
 
-{{< figure src="../FOB002A.jpg" headline="" 
+{{< figure src="../FOB002A.jpg" headline=""
 description="O'Brien, [*The Hard Life*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21372464350001021), PR6029 .N56 H3 1962 O'BRIEN LIBRARY"
 >}}
 
@@ -70,7 +70,7 @@ Yet another acquaintance (surely a Frenchman by his handwriting style) jotted on
 {{% galleryrow %}}
 
 {{% galleryfigure src="../009_GrahamGreene.jpg" headline="Graham Greene to Flann O'Brien, October 25, 1961" %}}
-b. 1, f. 14, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
+Box 1, folder 14, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../002B_HardLifeGreeneDedicationi.jpg" headline="Dedication to Graham Greene" %}}
@@ -78,7 +78,7 @@ O'Brien, *The Hard Life*, PR6029 .N56 H3 1962 O'BRIEN LIBRARY
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../125A_PascalQuote.jpg" headline="Pascal quote used in *The Hard Life* epitaph, written on a cigarette box" %}}
-b. 3, f. 12, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
+Box 3, folder 12, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -92,11 +92,11 @@ Boston College purchased most of O’Nolan’s remaining papers from his younges
 {{% galleryrow %}}
 
 {{% galleryfigure src="../072-Daiken.png" headline="Leslie Daiken to O'Nolan, 19 Oct 1960, re: brokering sale of mss. to America" %}}
-b. 1, f. 8, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
+Box 1, folder 8, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../075-Daiken.png" headline="O'Nolan carbon copy letter to Leslie Daiken, 23 Oct 1960 re: sale of mss. to America" %}}
-b. 1, f. 19, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
+Box 1, folder 19, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -109,7 +109,7 @@ Six months before his death, he hobbled to Dublin’s Gate Theatre to watch a pe
 {{% galleryrow %}}
 
 {{% galleryfigure src="../071-carey.png" headline="Brian O'Nolan TLS to Denis Carey, 16 Oct 1965" %}}
-b. 1, f. 7, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
+Box 1, folder 7, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../064_Cane.jpg" headline="O'Nolan' cane" %}}
