@@ -18,7 +18,7 @@ Collections Used:
 
 The Jesuitica collection contains more than 10,000 volumes published by or about the Jesuits prior to the order’s suppression in 1773. This collection documents the varied and significant contributions of Jesuits to a wide range of disciplines in the early modern period, including many rare and seminal works. In addition to printed books, the collection also includes original letters of St. Francis Xavier, St. Robert Bellarmine, and St. Francis Borgia.
 
-**Nicholas M. Williams Ethnological Collection**
+**Williams Collection**
 
 Assembled by the Jesuit missionary and ethnologist, Joseph J. Williams, S.J., and named in honor of his father, this collection includes more than 10,000 volumes documenting the history, life and culture of the people of Jamaica and their African antecedents. It also includes the largest manuscript collection of Anansi folk tales in existence.
 
