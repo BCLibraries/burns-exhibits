@@ -8,7 +8,7 @@ weight: 5
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
@@ -26,7 +26,7 @@ She then moved to New York City, got an apartment in the West Village, and found
 {{% figure src="../JaneJacobs015.jpg"
           headline="'Diamonds in the Tough' annotated typescript for *Vogue*, ca. 1937"
            description="Box 13, folder 1, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021), MS1995-029 "
-           side="left" %}}
+           side="right" %}}
 Between 1935 and 1937, Jacobs wrote a series of four articles for *Vogue* magazine on the fur, leather, diamond, and flower districts of New York City. At a peak of her popularity in the late 1960s, she was to be the subject of an article in *Vogue*. It never appeared.
 
 She took a job as a writer for *Iron Age* magazine and later *Amerika*, a publication of the U.S. State Department. She met her husband, Robert Jacobs; they married in 1944. They bought a house in the Village and started a family, raising two sons and a daughter. When *Amerika* relocated to Washington, D.C. in 1952, she found a better-paying position as a journalist for *Architectural Forum*.

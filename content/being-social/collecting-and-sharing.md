@@ -7,7 +7,7 @@ weight:  10
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
@@ -21,7 +21,7 @@ type: "exhibit"
 Commonplace books were a way to gather your favorite poems and quotes. Scrapbooks held ideas, clippings, or mementos collected around a theme. Recipes, if kept loose, were easy to copy and share with a friend or neighbor. Today, we pin it, post it, download it, email it, text it.
 {{% /largefigure %}}
 
-{{% galleryrow %}}
+{{% galleryrow layout="landscape" %}}
 {{% figure src="../59a_BeignSocial_LandrethRecipes.jpg"
             headline="Recipes"
             description="Box 21, folder 4 [Helen Landreth papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21359576400001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), MS2001-044"

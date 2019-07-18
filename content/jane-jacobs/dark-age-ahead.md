@@ -13,8 +13,8 @@ draft: true
 type: "exhibit"
 ---
 {{% figure src="../Dark-Age-Ahead-dustjacket.jpg"
-           headline="" 
-           description="Jacobs, [*Dark Age Ahead*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21368978770001021), CB19 .J33 2004 GENERAL" 
+           headline=""
+           description="Jacobs, [*Dark Age Ahead*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21368978770001021), CB19 .J33 2004 GENERAL"
            side="left" %}}
 In her last book, *Dark Age Ahead*, published in 2004, Jacobs expands her earlier analyses of what makes cities successful to encompass the full scope of human civilization in its historical and global dimensions. She prophesies that unless dangerous dynamics are reversed, our culture risks falling into another dark age, when even the knowledge of what has been lost will be lost.
 
@@ -44,7 +44,7 @@ Random House also changed the dustjacket background color from cream (used for *
 
 Jacobs continuously worked and reworked her writing, sometimes in response to the comments of an editor (as written in green ink on this page from a penultimate draft of Dark Age Ahead), but more often upon her own re-reading (as evidenced by changes she marked in blue ink).
 
-{{% galleryrow %}}
+{{% galleryrow layout="landscape" %}}
 
 {{< figure src="../JaneJacobs044.jpg"
            headline="Caution: Dark Age Ahead. Typescript draft"

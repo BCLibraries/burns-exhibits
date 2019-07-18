@@ -8,7 +8,7 @@ weight: 6
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
@@ -44,4 +44,3 @@ Upon finishing *Dark Age Ahead*, Jacobs wrote to her editor, David Ebershoff, wi
 {{% /galleryrow %}}
 
 A tribute to the wide-ranging scope and influence of Jacobs’s ideas, the Rockefeller Foundation established the Jane Jacobs Medal in 2007 “to recognize individuals who have made a significant contribution to thinking about urban design, specifically in New York City.” Last year, the geographic qualifier was dropped and the competition opened to international nominations.
-

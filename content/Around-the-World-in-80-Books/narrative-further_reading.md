@@ -12,17 +12,11 @@ draft: true
 
 type: "exhibit"
 ---
+{{% figure src="poster.jpg"
+           headline=""
+           description=""
+           size="large"
+           side="center"
+            %}}
 
 University of Alabama. *[Publishers Bindings Online](https://bindings.lib.ua.edu/index.html)*
-
-{{% figure src="poster.jpg"
-           headline="" 
-           description="" 
-           side="right" %}}
-
-
-
-{{% figure src=""
-           headline="" 
-           description="" %}}
-

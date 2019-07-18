@@ -8,7 +8,7 @@ weight: 9
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
@@ -53,5 +53,3 @@ Boston’s North End was spared the complete demolition that befell its West End
            description="  Langone, [*The North End*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21366126140001021), 08-000012104 BOSTON"
            side="left" %}}
  The history of the North End’s Italian immigrant population was recounted in a 1994 memoir by Boston City Council member Fred Langone, unofficially dubbed mayor of the district. Langone implemented rent control to prevent outside developers from taking over buildings and displacing elderly residents. He also helped preserve more than 70 warehouse buildings along the waterfront.
-
-

@@ -8,20 +8,20 @@ weight: 4
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
 {{% figure src="../JaneJacobs029.jpg"
           headline="Two Systems of Economic Ethics"
-           description="b. 22, f. 22, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021), MS1995-029 "
+           description="Box 22, folder 22, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021), MS1995-029 "
            side="left" %}}Over the two evenings of the Lonergan Workshop, Jacobs gave a two-part lecture titled “Systems of Economic Ethics,” in which she outlined the two ethical and value systems that she believed governed everyday economic life. She called them “trading” and “raiding,” but later referred to them as the “commercial” and “guardian” syndromes. A handout she prepared lists the traits associated with each configuration.
 
 Jacobs did not travel much, but when she did, her husband often accompanied her. Bob joined her for all of her visits to BC. In a thank-you note following their visit, Jacobs commented: “Both of us were struck by the general atmosphere of the college and the students—such a wonderful combination comes across of intelligence, earnestness and happiness and zest.”
 
 Following the symposium, which included lengthy discussions about her proposals, Jacobs decided to recast her work in progress as a dramatic dialogue modeled on Plato’s *Symposium*, in which the interlocutors articulate and defend opposing viewpoints. She provisionally titled it, “Survival Systems: A Summer Dialogue on Ethics.”
 
-The proceedings of the 1987 Lonergan Workshop were edited for publication in 1989. The volume included the texts of papers presented at the workshop as well as transcriptions of the question-and-answer sessions that followed Jacobs’s lectures. 
+The proceedings of the 1987 Lonergan Workshop were edited for publication in 1989. The volume included the texts of papers presented at the workshop as well as transcriptions of the question-and-answer sessions that followed Jacobs’s lectures.
 
 {{% galleryrow %}}
 
@@ -85,7 +85,7 @@ In an enthusiastic thank-you letter following the conference, CSOM dean Donald W
 {{< figure src="../../JaneJacobs020022.jpg"
                 headline="Carroll School of Management, Boston College, Conference Program: Jane Jacobs: In Conversation"
 				description="Box 20, folder 4, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021), MS1995-029"
-              
+
 >}}
 {{% /galleryrow %}}
 

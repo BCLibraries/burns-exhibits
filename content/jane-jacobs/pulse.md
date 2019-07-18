@@ -9,7 +9,7 @@ weight: 10
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
@@ -28,4 +28,3 @@ PULSE started placing students at Haley House in 1976 and has continued ever sin
 Although Jacobs never discussed service-learning programs or social entrepreneurship as such in her writings (except for references to successful micro-lending experiments in Systems of Survival), her books and ideas profoundly influenced the thinking of the founders and early directors of PULSE. In turn, PULSE students have brought what they gleaned from Jacobs to their service engagements.
 
 The net effect? To put it simply, borrowing Jacobs’s own words: “Ordinary people are capable of wonderful economic things without even knowing they’re doing wonderful things.”
-
