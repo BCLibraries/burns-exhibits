@@ -36,6 +36,9 @@ type: "exhibit"
                 size="x-large" align="center" %}}
 {{% /largefigure %}}
 
+
+__Relief sculptures from McHugh Forum (B) and the Roberts Center (C) were salvaged and used on the exterior of Silvio Conte Forum.__
+
 {{% galleryrow %}}
 
 {{< figure src="../Ghost campus repros11.png"
