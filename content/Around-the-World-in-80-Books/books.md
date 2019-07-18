@@ -11,7 +11,6 @@ draft: false
 
 type: "exhibit"
 ---
-
 {{% galleryrow %}}
 
 {{< figure src="../01_cvb1307340_10_web.jpg"

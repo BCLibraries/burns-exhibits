@@ -7,7 +7,7 @@ weight:  2
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
@@ -18,11 +18,11 @@ These objects, far from contemporary medical instruments, exemplify the tools th
 {{% galleryrow layout="landscape"%}}
 
 {{% galleryfigure src="../021-NursingScaleAndWeights.jpg" headline="Newark Scale Weights & Ohaus Harvard Trip Balance" %}}
-b. 42, New England Deaconess Hospital School of Nursing (MS1989-008)
+Box 42, [New England Deaconess Hospital School of Nursing](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21352763480001021) (MS1989-008)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../025-PharmCabinetOpen.jpg" headline="Pharmaceutical Cabinet" %}}
-Josephine Dolan Collection of Nursing History (MS1988-004)
+[Josephine Dolan Collection of Nursing History](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21352781560001021) (MS1988-004)
 {{% /galleryfigure %}}
 
 {{% /galleryrow %}}
@@ -32,7 +32,7 @@ Josephine Dolan Collection of Nursing History (MS1988-004)
 {{% galleryrow layout="landscape" %}}
 
 {{% galleryfigure src="../004-CualaBookCovers.jpg" headline="Cuala Press Leather Book Covers" %}}
-b. 8, Cuala Press Art Work (MS2005-035)
+Box 8, Cuala Press Art Work (MS2005-035)
 {{% /galleryfigure %}}
 
 {{% galleryfigure src="../006-Modern-Design-Front2.JPG" headline="George F. Trenholm Type Design Sample" %}}
