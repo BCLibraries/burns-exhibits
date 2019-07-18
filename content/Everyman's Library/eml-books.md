@@ -8,7 +8,7 @@ weight: 6
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
@@ -126,7 +126,7 @@ of postmodernism. In later years he won fame for his column "An
 Cruiskeen Lawn" in *The Irish Times*. O'Nolan died of a heart
 attack on April 1, 1966.
 
-[The Flann O'Brien Collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) includes the papers of his wife, Evelyn O'Nolan, who managed his estate after his death, and his brother, Micheál Ó Nualláin, an illustrator and portrait artist. The papers comprise awards, correspondence, clothing, degrees, furniture and personal belongings, literary manuscripts, medals, notes, paintings, passports, photographs, scrapbooks, sketches, theater programs and O’Brien’s personal library of over 300 books. 
+[The Flann O'Brien Collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) includes the papers of his wife, Evelyn O'Nolan, who managed his estate after his death, and his brother, Micheál Ó Nualláin, an illustrator and portrait artist. The papers comprise awards, correspondence, clothing, degrees, furniture and personal belongings, literary manuscripts, medals, notes, paintings, passports, photographs, scrapbooks, sketches, theater programs and O’Brien’s personal library of over 300 books.
 
 {{% figure src="../marcopolo.jpg" headline="Title Page"
 description="Polo, [*The Travels of Marco Polo the Venetian*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21372495820001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), G370 .P72 1907 O'BRIEN LIBRARY" side="center" %}}
