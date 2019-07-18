@@ -8,7 +8,7 @@ weight: 4
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
@@ -17,13 +17,10 @@ type: "exhibit"
            description=""
            size="large"
            side="right" %}}
-           
+
 Curator: Shelley Barber, Archives & Reference Specialist, John J. Burns Library.
 
 Originally displayed: Burns Library, Ford Tower. November 2013 – January 2014.
 
-
-
-Collections used: Boston; General; Greene’s Library; Irish; Kingsland; Liturgy & Life; Rogers; Williams.
 
 Sponsored by Boston College Libraries.
