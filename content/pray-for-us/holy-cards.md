@@ -297,7 +297,7 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="../PrayForUs050.png"
-           headline="St. Matthias’ Basilica, Chapel of Mercy , Trier, Germany, Dedicated 1148"
+           headline="St. Matthias’ Basilica, Chapel of Mercy, Trier, Germany, Dedicated 1148"
            description="This well-known painting of the Virgin Mary, probably created around 1700, as well as the tomb of Saint Matthias the Apostle, have driven many pilgrimages to St. Matthias Basilica."
 >}}
 {{< figure src="../PrayForUs050A.png"
