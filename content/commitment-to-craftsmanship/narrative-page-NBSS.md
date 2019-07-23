@@ -1,6 +1,6 @@
 ---
 # Title of page
-title: "North Bennett Street School"
+title: "North Bennet Street School"
 description: ""
 
 # Page order (1 is 1st page, etc.)
