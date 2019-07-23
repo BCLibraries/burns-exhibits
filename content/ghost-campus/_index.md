@@ -30,7 +30,7 @@ In 1907, Boston College – then in Boston’s cramped South End neighborhood �
 
 Property in Chestnut Hill had risen in value in the mid-19th century after road and railway improvements. By 1864, Amos Lawrence, a wealthy Boston textile merchant, had built a summer house, barn, and gate lodge on what would be the site of Boston College. In 1867, part of the property was flooded, creating the Lawrence basin of the Chestnut Hill Reservoir. The house and property were later owned by Boston businessman Sylvester Hinckley, who lived there with his family until his death in 1906.
 
-As Boston College  settled into the neighborhood, it used generous donations to acquire nearby properties, adapted existing structures to its use, and built several new buildings. Buildings come and go as campus needs change over time. With an eye on the past , present, we hope you enjoy these glimpses of the evolution of Chestnut Hill.
+As Boston College  settled into the neighborhood, it used generous donations to acquire nearby properties, adapted existing structures to its use, and built several new buildings. Buildings come and go as campus needs change over time. With an eye on the past and present, we hope you enjoy these glimpses of the evolution of Chestnut Hill.
 
 {{% galleryrow layout="landscape" %}}
 {{% figure src="../reservoir.png"
