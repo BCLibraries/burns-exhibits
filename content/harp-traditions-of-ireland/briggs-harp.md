@@ -7,20 +7,20 @@ weight:  6
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
 
 {{% galleryrow %}}
 
-{{% galleryfigure src="../BriggsHarp.JPG" headline="Mary O'Hara's Briggs Harp" %}}
-Harp made by Henry Briggs of Glasgow, Scotland for Mary O’Hara, circa 1953.
-{{% /galleryfigure %}}
+{{% figure src="../BriggsHarp.JPG"
+    headline="Mary O'Hara's Briggs Harp"
+    description="Harp made by Henry Briggs of Glasgow, Scotland for Mary O’Hara, circa 1953. [Mary O'Hara papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21429618360001021), IM.M175.2009"%}}
 
-{{% galleryfigure src="../MaryO_Hara.png" headline="Mary O'Hara" %}}
-Mary O'Hara and her Briggs harp on *Irish Digest*, February, 1955.
-{{% /galleryfigure %}}
+{{% figure src="../MaryO_Hara.png"
+    headline="Mary O'Hara"
+    description="Mary O'Hara and her Briggs harp on *Irish Digest*, February, 1955. Box 38, folder 14, [Mary O'Hara papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21429618360001021), IM.M175.2009" %}}
 
 {{% /galleryrow %}}
 

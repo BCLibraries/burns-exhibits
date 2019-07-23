@@ -7,7 +7,7 @@
 /* Defines how figures appear in gallery rows. Only applies
    to breakpoints larger than Bootstrap's "medium", which 
    is iPad width. */
-@media (min-width: #{map-get($grid-breakpoints, "lg")}) {
+@media (min-width: $screen-lg-min) {
     .gallery-row {
         display: flex;
         flex-wrap: nowrap;
@@ -22,12 +22,12 @@
 
         .gallery-figure__figure, .embedded-figure__figure {
             max-width: 100%;
-            padding: 1rem;
+            padding: 16px;
             margin: .5em 1em .5em 1em;
         }
 
         .gallery-figure__caption, .embedded-figure__caption {
-            font-size: $font-size-sm;
+            font-size: $font-size-small;
         }
 
         &.gallery-row__landscape .gallery-figure__img_holder {

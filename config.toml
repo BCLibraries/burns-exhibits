@@ -1,5 +1,6 @@
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Burns Online Exhibits"
 theme = "burns-exhibits"
 googleAnalytics = "UA-123-45"
 relativeURLs = true
+timeout = 300000

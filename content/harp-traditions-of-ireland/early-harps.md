@@ -7,7 +7,7 @@ weight: 2
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
@@ -37,6 +37,6 @@ The medieval harps were carved out of a single log of wood (willow or bog oak), 
 
 {{% largefigure src="../b41639.jpg" headline="Illustration of a cláirseach." description="Moore, *[Irish Melodies](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21327961130001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)* PR5054 .I8 1846 Irish" size="medium" align="right" %}}
 
-In the 16th century, the chieftains began to lose their power and lands, and the role of the professional harper changed. Harpers found patrons in the great houses of Ireland and Scotland. The itinerant harper travelled from house to house, providing music and teaching harp to family members. In Ireland, larger *cláirseachs* were made. Fewer than twenty of these Gaelic harps still exist today, and most are in the National Museum of Ireland. The Museum of Fine Arts in Boston holds the [Bunsworth harp](https://www.mfa.org/collections/object/harp-cl%C3%A1irseach-50327) (1734).
+In the 16th century, the chieftains began to lose their power and lands, and the role of the professional harper changed. Harpers found patrons in the great houses of Ireland and Scotland. The itinerant harper travelled from house to house, providing music and teaching harp to family members. In Ireland, larger *cláirseachs* were made. Fewer than twenty of these Gaelic harps still exist today, and most are in the National Museum of Ireland. The Museum of Fine Arts in Boston holds the [Bunworth harp](https://www.mfa.org/collections/object/harp-cl%C3%A1irseach-50327) (1734).
 
 {{% /largefigure %}}

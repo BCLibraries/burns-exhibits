@@ -3,8 +3,8 @@
 title: "Introduction"
 
 # Title of exhibit
-exhibit_title: "For Boston"
-exhibit_subtitle: "Echoes of Football History"
+exhibit_title: "For Boston: Echoes of Football History"
+exhibit_subtitle: ""
 
 date: 2016-10-01T14:44:40-05:00
 
@@ -17,7 +17,7 @@ front_caption_headline: ""
 front_caption_text: ""
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---

@@ -22,7 +22,7 @@
 }
 
 /* iPad and bigger */
-@media (min-width: #{map-get($grid-breakpoints, "md")}) {
+@media (min-width: $screen-md) {
 
     /* Display non-mobile menu and hide mobile menu */
     .exhibit-nav--desktop {

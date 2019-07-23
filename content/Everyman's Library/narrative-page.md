@@ -157,7 +157,7 @@ unpublished writings of Hilaire Belloc, including manuscripts,
 typescripts, proofs, galleys, and reprints of various articles, essays,
 reviews, poetry, plays, prose, notes, and about eighty of Belloc's
 books. Also contained in the collection is Belloc's personal library
-of about 400 books, named after his house in West Sussex, King’s
+of about 400 books, named after his house in West Sussex, Kings
 Land.
 
 {{% figure src="../A smaller classical dictionary 07-000002031 KINGSLAND B590208.jpg" headline="Paste-down"

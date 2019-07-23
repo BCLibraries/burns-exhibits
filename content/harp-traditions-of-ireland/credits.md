@@ -8,14 +8,14 @@ weight: 8
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
-{{% largefigure src="../EganHarp.png" headline="" description="" align="right" %}}
+{{% largefigure src="../EganHarp.png" headline="Egan harp donated by Heidi Nitze" description="Photo by Gary Wayne Gilbert" align="right" %}}
 Sponsored by Boston College Libraries
 
-Curated by Beth Sweeney, Irish Music Librarian, and Nancy Hurrell, harp consultant
+Curated by Elizabeth Sweeney, Irish Music Librarian, and Nancy Hurrell, harp consultant
 
 Originally displayed: Burns Library, Summer 2010
 

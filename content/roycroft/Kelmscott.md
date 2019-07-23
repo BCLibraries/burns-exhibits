@@ -7,14 +7,14 @@ weight:  3
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
 
 {{% largefigure src="../William_Morris_age_53.jpg"
                 headline="William Morris age 53"
-                description="Mackail, [*The life of William Morris*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21349101070001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PR5083 .M25 1901 GENERAL"
+                description="Mackail, [*The Life of William Morris*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21349101070001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PR5083 .M25 1901 GENERAL"
                 size="large" %}}
 William Morris, already well known for his decorative arts—including tapestries, wallpaper, fabrics, furniture, and stained glass windows—founded the Kelmscott Press in 1891. His aesthetic was a major inspiration for the Arts and Crafts movement, which began in England in the 1880s, and quickly spread to North America and Continental Europe. The Arts and Crafts movement incorporated traditional styles and simple, angular forms, especially those from medieval times. From 1891-1898, the Kelmscott Press published over 50 works in 66 volumes. In May 1894, Elbert Hubbard traveled to England and Ireland, visiting the Kelmscott Press and taking inspiration from their work.
 
@@ -32,12 +32,12 @@ The title page of *Child Christopher and Goldilind the Fair* (v. 1, 1895) by the
 
 {{< figure src="../child chrictopher title page.jpg"
            headline="Title Page"
-                description="Morris, [Child Christopher and Goldilind the Fair](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21324903000001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), 04-13988 FINE PRINT"
+                description="Morris, *[Child Christopher and Goldilind the Fair](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21324903000001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*, 04-13988 FINE PRINT"
 >}}
 
 {{< figure src="../gainsborough.jpg"
            headline="Title Page"
-                description="Hubbard, [Little Journeys to the Homes of Eminent Artists: Gainsborough](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21342177330001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), ND497.G2 H8 1902 GENERAL"
+                description="Hubbard, *[Little Journeys to the Homes of Eminent Artists: Gainsborough](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21342177330001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*, ND497.G2 H8 1902 GENERAL"
 >}}
 
 
@@ -55,12 +55,12 @@ The colophon, a statement at the end of a book giving information about its auth
 
 {{< figure src="../child christopher colophon.jpg"
            headline="Colophon"
-           description="Morris, [Child Christopher and Goldilind the fair](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21324903000001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), 04-13988 FINE PRINT"
+           description="Morris, *[Child Christopher and Goldilind the fair](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21324903000001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*, 04-13988 FINE PRINT"
 >}}
 
 {{< figure src="../white hyacinths colophon.jpg"
            headline="Colophon"
-           description="Hubbard, [So Here Cometh White hyacinths: Being a Book of the Heart](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21334388030001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PS2042 .S6 1907 GENERAL"
+           description="Hubbard, *[So Here Cometh White hyacinths: Being a Book of the Heart](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21334388030001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*, PS2042 .S6 1907 GENERAL"
 >}}
 
 

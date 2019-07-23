@@ -6,9 +6,13 @@
 {{ $name := replace (.Get "src") "../" "" }}
 {{ with $raw_img := .Page.CurrentSection.Resources.GetMatch $name }}
 {{ $resized := $raw_img.Resize "x400 q80"}}
+{{ $large_image := $raw_img.Fit "1440x1440 q80"}}
 
 {{ $modal_id := $raw_img | urlize }}
-{{ $figure_context := (dict "context" . "modal_id" $modal_id "img" $resized)}}
+{{ $figure_context := (dict "context" . "modal_id" $modal_id "img" $large_image )}}
+
+{{ $modal_id := $raw_img | urlize }}
+{{ $figure_context := (dict "context" . "modal_id" $modal_id "img" $large_image)}}
 <div class="gallery-figure">
     <figure class="gallery-figure__figure">
         <div class="gallery-figure__img_holder">

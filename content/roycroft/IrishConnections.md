@@ -7,14 +7,14 @@ weight:  6
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
 
 {{% largefigure src="../goingtochurch2.jpg"
                 headline="Cover"
-                description="Shaw, [This is the Preachment on Going to Church](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21354381480001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PR5365 .E8 1896b IRISH." 
+                description="Shaw, [*This is the Preachment on Going to Church*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21354381480001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PR5365 .E8 1896b IRISH."
                 size="medium" align="right" %}}
 *This is the Preachment On Going to Church* (1896), with a quarter cream-colored cloth spine, blue-gray paper on boards, and titling gilt stamped near the head of upper board, could be mistaken for a book from the Kelmscott Press. This copy is inscribed by Elbert Hubbard.
 {{% /largefigure %}}
@@ -22,7 +22,7 @@ type: "exhibit"
 
 {{% largefigure src="../church.jpg"
                 headline="Title Page"
-                description="Shaw, [This is the Preachment on Going to Church](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21330577930001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PR5365 .E8 1896 IRISH."
+                description="Shaw, [*This is the Preachment on Going to Church*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21330577930001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PR5365 .E8 1896 IRISH."
                 size="medium" %}}
 *This is the Preachment On Going to Church* (1896) is one of the earliest printed books from the Roycroft Press. Both copies in the exhibit were formerly owned by Samuel N. Freedman, who also collected material by Bernard Shaw that forms the [Samuel N. Freedman Collection of Bernard Shaw](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21354365750001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), purchased by Burns Library in 2002.
 {{% /largefigure %}}
@@ -31,7 +31,7 @@ type: "exhibit"
 
 {{% largefigure src="../handandbrain.jpg"
                 headline="Bernsard Shaw Essay"
-				description="Shaw, [Hand and Brain: a Symposium of Essays on Socialism](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21354322250001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), HX21 .H35 1898 IRISH"
+				description="Shaw, [*Hand and Brain: a Symposium of Essays on Socialism*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21354322250001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), HX21 .H35 1898 IRISH"
                 size="medium"
                 align="right" %}}
 *Hand and Brain: a Symposium of Essays on Socialism* (1898) includes essays by William Morris, Grant Allen, George Bernard Shaw, Henry S. Salt, Alfred Russel Wallace, and Edward Carpenter. This copy, on hand-made Kelmscott paper, is number 338 in an edition of 720.
@@ -45,12 +45,12 @@ type: "exhibit"
 
 {{< figure src="../Christmas2.jpg"
            headline="Title Page"
-           description="Browning, [So This Then is Christmas Eve](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21321566000001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PR4222 .C5 1899 GENERAL"
+           description="Browning, [*So This Then is Christmas Eve*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21321566000001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PR4222 .C5 1899 GENERAL"
 >}}
 
 {{< figure src="../christmas.jpg"
            headline="O'Reilly Signature"
-           description="Browning, [So This Then is Christmas Eve](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21321566000001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PR4222 .C5 1899 GENERAL"
+           description="Browning, [*So This Then is Christmas Eve*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21321566000001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PR4222 .C5 1899 GENERAL"
 >}}
 
 
@@ -60,7 +60,7 @@ It may seem strange for *Little Journeys to the Homes of Great Musicians: Schuma
 
 {{% largefigure src="../schumann.jpg"
                 headline="Title Page"
-				description="Hubbard, [Little Journeys to the Homes of Great Musicians: Schumann](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21334571820001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), 12-000030161 IRISH"
+				description="Hubbard, [*Little Journeys to the Homes of Great Musicians: Schumann*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21334571820001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), 12-000030161 IRISH"
                 size="large"
                 align="center" %}}
 
@@ -78,18 +78,18 @@ All three of the Cuala Press books in the exhibit were donated by James Augustin
 
 {{< figure src="../catandmoon.jpg"
            headline="Cover"
-           description="Yeats, [The Cat and the Moon and Certain Poems](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21337967870001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PR5904 .C3 1924 IRISH  "
+           description="Yeats, [*The Cat and the Moon and Certain Poems*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21337967870001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PR5904 .C3 1924 IRISH  "
 >}}
 
 {{< figure src="../fouryears.jpg"
            headline="Title Page"
-           description="Yeats, [Four Years](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21385933910001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PR5906 .A55 IRISH "
+           description="Yeats, [*Four Years*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21385933910001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PR5906 .A55 IRISH "
 >}}
 
 
 {{< figure src="../reveries.jpg"
            headline="Colophon"
-           description="Yeats, [Reveries Over Childhood & Youth](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21328295610001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PR5904 .R4 1916 IRISH"
+           description="Yeats, [*Reveries Over Childhood & Youth*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21328295610001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PR5904 .R4 1916 IRISH"
 >}}
 
 {{% /galleryrow %}}

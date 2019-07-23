@@ -18,7 +18,7 @@ front_caption_headline: "Elizabeth I by George Gower, ca. 1588."
 front_image_layout: "landscape"
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---

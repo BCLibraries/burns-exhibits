@@ -13,10 +13,10 @@ weight: 1
 # Big image on first page.
 front_image: "MS05-06_McKee_Box1_File1_cropped.jpg" # Replace with the real image
 front_caption_headline: "Hand painted image by Eva McKee"
-front_caption_text: "Box 1, Folder 1, Eva McKee art works, MS2005-006"
+front_caption_text: "Box 1, folder 1, Eva McKee art works, MS2005-006"
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
