@@ -7,7 +7,7 @@ weight:  3
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
@@ -44,4 +44,3 @@ description=" Twain,[*Tom Sawyer & Huckleberry Finn*](https://bc-primo.hosted.ex
 This 1943 edition of [*Tom Sawyer & Huckleberry Finn*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21373248680001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) shows the second style of paste-downs. It is a repeating pattern also designed by Eric Ravilious. This volume comes from
 Graham Greene's Library.
 {{% /largefigure %}}
-

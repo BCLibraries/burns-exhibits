@@ -2,50 +2,41 @@
 <html lang="{{ $.Site.LanguageCode | default "en" }}">
 {{- partial "head.html" . -}}
 
-<body class="ma0 {{ with getenv "HUGO_ENV" }}{{ . }}{{ end }}">
-    
-    <header>
-        <div class="row">
-            <div class="col-md-12">
-                {{- partial "library-header.html" . -}}
-            </div>
-            <div class="col-md-12">
-            {{- partial "blackbar.html" . -}}
-            </div>
-        </div>
-    </header>
+<body class="homepagerefresh ma0 {{ with getenv "HUGO_ENV" }}{{ . }}{{ end }} {{ if .IsHome }}carbfree{{ end }}">
+
+    {{- partial "library-header.html" . -}}
+
+    {{- partial "megamenu.html" . -}}
 
     <div class="container content">
-        <div class="row">
-            <div class="col-md-12">
-                {{- partial "header.html" . -}}
-            </div>
-        </div>
 
-<!-- SINGLE ENTRY -->
+        {{- partial "header.html" . -}}
+        
+        {{ if eq .Kind "home" }}
+            <!-- HOMEPAGE ONLY -->
+            {{- block "homepage" . }}{{- end }}
+            <!-- END HOMEPAGE -->
+        {{ else }}
+
+        <!-- SINGLE ENTRY -->
+        {{ block "exhibit-heading" . }}{{ end }}
         <div class="row main-page-stuff">
-        <div class="col-md-3">
-            {{ if ne .Kind "home" }}
+            <div class="col-md-3">
                 {{- partial "menu.html" . -}}
-            {{ end }}
-        </div>
+            </div>
 
-        <main id="content" class="col-md-9">
-            {{- block "main" . }}{{- end }}
-        </main>
+            <main id="content" class="col-md-9">
+                {{- block "main" . }}{{- end }}
+            </main>
         </div>
-<!-- END SINGLE ENTRY-->
+        {{ end }}
+        <!-- END SINGLE ENTRY-->
 
-<!-- HOMEPAGE ONLY -->
-    <div class="homepage">
-        {{- block "homepage" . }}{{- end }}
-    </div>
-<!-- END HOMEPAGE -->
 
     </div>
 
     <footer>
-            {{- partial "footer.html" . -}}
+        {{- partial "footer.html" . -}}
     </footer>
 
     {{ $script := resources.Get "js/main.js" }}
@@ -54,9 +45,9 @@
     {{ $scripthours := resources.Get "js/hours.js" }}
     <script src="{{ $scripthours.RelPermalink }}"></script>
 
-
-    {{ $scriptmenu := resources.Get "js/megamenu.js" }}
-    <script src="{{ $scriptmenu.RelPermalink }}"></script>
+    <script type="text/javascript" src="//library.bc.edu/theme/js/bootstrap-hover-dropdown.min.js"></script>
+    <script type="text/javascript" src="//library.bc.edu/theme/js/megamenu.js"></script>
 
 </body>
+
 </html>

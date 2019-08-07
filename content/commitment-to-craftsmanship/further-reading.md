@@ -8,17 +8,17 @@ weight: 7
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
-Collections Used: 
+Collections Used:
 
 **Jesuitica**
 
 The Jesuitica collection contains more than 10,000 volumes published by or about the Jesuits prior to the order’s suppression in 1773. This collection documents the varied and significant contributions of Jesuits to a wide range of disciplines in the early modern period, including many rare and seminal works. In addition to printed books, the collection also includes original letters of St. Francis Xavier, St. Robert Bellarmine, and St. Francis Borgia.
 
-**Nicholas M. Williams Ethnological Collection**
+**Williams Collection**
 
 Assembled by the Jesuit missionary and ethnologist, Joseph J. Williams, S.J., and named in honor of his father, this collection includes more than 10,000 volumes documenting the history, life and culture of the people of Jamaica and their African antecedents. It also includes the largest manuscript collection of Anansi folk tales in existence.
 
@@ -70,7 +70,7 @@ The John J. Burns Library owns 75 books from the incunable period, that is, that
 
 Conroy, Tim. “Teaching Genealogies of American Hand Bookbinders” *Guild of Book Workers Journal*Volume XXVII, Numbers 1 & 2 (Spring/Fall 1990).
 
-Esser, Mark. [“Covering in Leather”](https://guildofbookworkers.org/sites/guildofbookworkers.org/files/standards/2003-Esser_Mark.pdf) Denver: Guild of Book Workers, 2003. 
+Esser, Mark. [“Covering in Leather”](https://guildofbookworkers.org/sites/guildofbookworkers.org/files/standards/2003-Esser_Mark.pdf) Denver: Guild of Book Workers, 2003.
 
 McCrady, Ellen. ["LBS Conference, Part II"](http://cool.conservation-us.org/byorg/abbey/an/an11/an11-8/an11-802.html) Volume 11, number 8 (December 1987).
 

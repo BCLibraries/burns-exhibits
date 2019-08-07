@@ -7,7 +7,7 @@ weight:  2
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
@@ -24,7 +24,7 @@ The earliest books in Europe were handwritten on parchment or vellum. Parchment 
                 headline="A medieval manuscript."
 				description="[Connolly Book of Hours](https://hdl.handle.net/2345/2873), MS1986-097"
 				size="medium" align="right" %}}
-The Connolly Book of Hours was a gift of  Terence Connolly, S.J., Boston College Librarian from 1945 to 1961. The page reproduced features an illustration of Luke the Evangelist with a bull – a figure of sacrifice, service and strength.
+The Connolly Book of Hours was a gift of  Terence Connolly, SJ, Boston College Librarian from 1945 to 1961. The page reproduced features an illustration of Luke the Evangelist with a bull – a figure of sacrifice, service and strength.
 {{% /largefigure %}}
 
 
@@ -68,12 +68,12 @@ Samuel and Thomas Roycroft were 17th century London printers and inspiration for
 
 {{< figure src="../Samuel Roycroft printable.jpg"
            headline="Title Page"
-                description="Robertson, [Thesaurus Linguæ Sanctæ](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21347681820001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PJ4805 .R7 1686 WILLIAMS"
+                description="Robertson, *[Thesaurus Linguæ Sanctæ](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21347681820001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*, PJ4805 .R7 1686 WILLIAMS"
 >}}
 
 {{< figure src="../Thomas Roycroft printable.jpg"
            headline="Title Page"
-                description="Churchill, [Divi Britannici](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21384298200001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), DA130 .C56 1675 OVERSIZE"
+                description="Churchill, *[Divi Britannici](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21384298200001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US)*, DA130 .C56 1675 OVERSIZE"
 >}}
 
 

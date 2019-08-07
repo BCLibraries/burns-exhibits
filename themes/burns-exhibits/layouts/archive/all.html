@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode | default "en" }}">
+{{- partial "head.html" . -}}
+
+<body class="homepagerefresh carbfree ma0 {{ with getenv "HUGO_ENV" }}{{ . }}{{ end }}">
+    
+	{{- partial "library-header.html" . -}}
+
+	{{- partial "megamenu.html" . -}}
+
+<div class="container content">
+	        
+	        <div class="row">
+	            <div class="col-md-12">
+	                {{- partial "header.html" . -}}
+	            </div>
+	        </div>
+
+	<main id="content" class="col-md-12">
+
+	{{ $allthepages := where .Site.Pages "Kind" "section" }}
+
+	<div class="row past_exhibits">
+
+	    <div class="col-12">
+	        <h4>All Past Exhibits</h4>
+	    </div>
+
+	<!-- A BUNCH OF OLDER EXHIBITS -->
+	{{ range $allthepages  }}
+
+	    <div class="col-md-3 col-6 archivegallery">
+	        <a href="..{{ .RelPermalink }}" class="hp_img" 
+	        style="background:url(..{{ .RelPermalink }}tile-square.jpg)">
+	            <span class="hp_title">
+	                {{.Params.exhibit_title}}
+	            </span>    
+	        </a>
+	    </div>
+	{{ end }}
+
+	</div>
+
+</div>
+
+    <footer>
+            {{- partial "footer.html" . -}}
+    </footer>
+
+    {{ $script := resources.Get "js/main.js" }}
+    <script src="{{ $script.RelPermalink }}"></script>
+
+    {{ $scripthours := resources.Get "js/hours.js" }}
+    <script src="{{ $scripthours.RelPermalink }}"></script>
+
+
+    {{ $scriptmenu := resources.Get "js/megamenu.js" }}
+    <script src="{{ $scriptmenu.RelPermalink }}"></script>
+
+</body>
+</html>

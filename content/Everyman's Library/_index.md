@@ -17,7 +17,7 @@ front_caption_headline: "Volumes from the Collections of the John J. Burns Libra
 front_caption_text: ""
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---

@@ -1,6 +1,4 @@
 /* FETCH LIBRARY HOURS */
-<!-- Script for updating Burns Lib hours-->
-<script>
 $(document).ready(function(){
     var libID = 507;
     var libName = "BurnsLibrary";
@@ -40,4 +38,3 @@ $(document).ready(function(){
         },
     });
 });
-</script>

@@ -68,8 +68,8 @@ the loop. This edition comes from the Williams Collection.
 **Maroon Leatherette Binding**  
 This 1911 edition of [*A Literary and Historical Atlas of America*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315650160001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) is from the Reference category of EML. The spine design is identical to other contemporary editions, but it also includes a matching gilt floral design on the cover. It is bound in maroon leatherette, has gilt top pages, and is also bound with a silk ribbon book marker. This volume is from the Williams Collection.
 
-
 {{% galleryrow  %}}
+
 {{% figure src="../A-literary-and-historical-atlas-E14.B28-WILLIAMS-CVB1296988-10.jpg" 
 			headline="Spine"
 			description="Bartholomew, [*A Literary and Historical Atlas of America*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315650160001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), E14 .B28 WILLIAMS"
@@ -79,9 +79,6 @@ This 1911 edition of [*A Literary and Historical Atlas of America*](https://bc-p
 			headline="Front Cover"
 			description="Bartholomew, [*A Literary and Historical Atlas of America*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315650160001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), E14 .B28 WILLIAMS"
 %}}
-
-
-
 
 {{% /galleryrow %}}
 

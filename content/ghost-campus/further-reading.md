@@ -8,14 +8,14 @@ weight: 999
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
 
 All images used in this exhibit are from the [Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021) collection. (BC1987-012)
 
-Selected photographs from this collection are also available [online](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC81487718330001021). 
+Selected photographs from this collection are also available [online](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC81487718330001021).
 
 Donovan, Charles F. *[Boston College and the Lawrence Family. Occasional Papers on the History of Boston College](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21378609060001021)*.  Chestnut Hill, Mass.: Boston College, 1998.
 
