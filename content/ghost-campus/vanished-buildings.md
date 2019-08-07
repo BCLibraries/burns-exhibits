@@ -39,7 +39,7 @@ type: "exhibit"
 {{% galleryrow %}}
 {{% figure src="2D_Liggett_O'Connell 7 55.jpg"
                 headline="D. Louis K. Liggett Estate, Stables (1896-unknown)."
-                description="Boston’s Cardinal Richard Cushing purchased and donated the property in 1946 so that BC’s business school could have a home on this campus."
+                description="Boston’s Cardinal William O'Connell purchased and donated the property in 1941 so that BC’s business school could have a home on this campus."
 %}}
 {{% /galleryrow %}}
 {{% galleryrow %}}
