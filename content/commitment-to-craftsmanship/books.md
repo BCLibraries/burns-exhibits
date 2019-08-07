@@ -14,7 +14,7 @@ type: "exhibit"
 
 Mark on the joy of crafting bookbindings “It is very satisfying. When done properly, a book has almost an organic feel to it. The cover and the pages become integrated in a unit that moves as one”.
 
-These books, some of which were bound by Mark Esser, were on display.
+These books, bound by Mark Esser, were on display.
 
 Mark made these three book structures while he was an apprentice to William Anthony at the University of Iowa.
 {{% galleryrow %}}
