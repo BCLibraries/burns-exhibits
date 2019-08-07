@@ -15,10 +15,10 @@ type: "exhibit"
 
 Sponsored by Boston College Libraries
 
-Curator(s): Person, Title
+Curator(s): Dr. Jude V. Nixon is Professor of English and Dean of the College of Arts & Sciences at Salem State University
 
-Person, Title
+Dr. Robert A. Maryks, Visiting Scholar, Jesuit Institute
 
-Person, Title
+Barbara Adams Hebard is Conservator of the John J. Burns Library at Boston College
 
-Originally displayed: Location, Month - Month 2017
+Originally displayed: Ford Tower, April - September 2014
