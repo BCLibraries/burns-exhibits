@@ -13,8 +13,9 @@ weight: 1
 
 # Big image on first page.
 front_image: "hopkins poster.jpg" # Replace with the real image
-front_caption_headline: "Ullamcorper Condimentum Tortor Parturient"
-front_caption_text: "Donec id elit non mi porta gravida at eget metus."
+front_caption_headline: ""
+front_caption_text: ""
+front_image_layout: "portrait"
 
 # Change to true if this exhibit is currently running.
 current: false
