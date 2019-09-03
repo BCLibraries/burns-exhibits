@@ -45,6 +45,42 @@ The third child after Gerard and Cyril, Arthur was baptized in water from the Ri
 
 
 
+{{% galleryrow %}}
+
+{{< figure src="../Helen item 8.jpg"
+           headline="Helena Hopkins"
+           description="Gerard’s aunt by marriage, wife of Charles Hopkins, brother of Manley Hopkins. Box 3, Folder 4, MS1991-023, Hopkins Family Papers"
+>}}
+
+{{< figure src="../Millicent item 13.jpg"
+           headline="Millicent Hopkins (1849-1946)"
+           description="Daughter of Manley and Kate Hopkins. She was preoccupied with music in her youth, before becoming an 'out-sister' of All-Saints' Home, an Anglican sisterhood in London. She became a full sister in 1878. Box 2, Folder 48, MS1991-023, Hopkins Family Papers"
+>}}
+
+
+{{% /galleryrow %}}
+
+
+{{% galleryrow %}}
+
+{{< figure src="../Grace item 7.jpg"
+           headline="Grace Hopkins (1857-1945)"
+           description="Daughter of Manley and Kate Hopkins, she was a devout Anglican. Grace Hopkins was musical and composed songs with Robert Bridges, Poet Laureate. She set some of Gerard Manley Hopkins’ poems to music. Box 2, Folder 52, MS1991-023, Hopkins Family Papers"
+>}}
+
+{{< figure src="../Lionel item 10.jpg"
+           headline="Lionel Hopkins (1854-1952)"
+           description="Son of Manley and Kate Hopkins, Lionel Hopkins was known for his love of language. He was top of the senior division of Modern School in Winchester, earning a reputation for thoughtful work in French and German. He became an interpreter in the British Consular Service in China and eventually consul-general of Tientsin. He was also an expert in ancient Chinese manuscripts and in colloquial Chinese. Box 2, Folder 50, MS1991-023, Hopkins Family Papers"
+>}}
+
+
+{{% /galleryrow %}}
+
+{{% figure src="../Songs pg. 2-3 item 24.jpg"
+           headline="Sheet Music" 
+           description="SERIES VI: Music, 1843-1870, undated consists of published and unpublished music composed or copied by members of the Hopkins family. Box 13, Folder 14, MS1991-023, Hopkins Family Papers" 
+           side="center"
+			size="x-large" %}}
 
 
 
