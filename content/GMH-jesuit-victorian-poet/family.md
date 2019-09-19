@@ -12,11 +12,11 @@ draft: true
 
 type: "exhibit"
 ---
-MS1991-23, of which only a small sample from the collection is on display, is comprised of materials relating to members of the extended Hopkins family, especially Manley Hopkins, his wife Kate, and their children. A number of items concern Manley Hopkins involvement with religious and political affairs in Hawaii. There are also clippings, photos, and correspondence of Gerard Manley Hopkins. Materials by and about other family members include correspondence, manuscripts, poems, legal documents, drawings, music and photographs. The papers also include items related to other families connected to the Hopkins family.
+The Hopkins Family papers, MS1991-23, of which only a small sample from the collection is on display, is comprised of materials relating to members of the extended Hopkins family, especially Manley Hopkins, his wife Kate, and their children. A number of items concern Manley Hopkins involvement with religious and political affairs in Hawaii. There are also clippings, photos, and correspondence of Gerard Manley Hopkins. Materials by and about other family members include correspondence, manuscripts, poems, legal documents, drawings, music and photographs. The papers also include items related to other families connected to the Hopkins family.
 
 {{% figure src="../Manley Hopkins item 11.jpg"
            headline="Manley Hopkins (1818-1897)" 
-           description="Box 2, Folder 26, MS1991-023, Hopkins Family Papers" 
+           description="A devout member of the High Anglican Church, Manley Hopkins was appointed consul-general for Hawaii to Great Britain in 1856. Box 2, Folder 26, MS1991-023, Hopkins Family Papers" 
            side="right" %}}
 		   
 The eldest of nine children, Gerard Manley Hopkins was born into a talented upper middle-class Victorian family who moved early to Hampstead, home to celebrated writers, such as Keats, Shelley, Byron, Coleridge, Hunt, and Lawrence, and to such notable artists as John Constable, whose cloudscapes and landscapes of the Heath memorialize this pastoral, idyllic, romantic spot on the outskirts of London but far from the madding crowd. His father, Manley, was a successful, self-made, business insurance adjuster, entrepreneur, a trustee of the Wells Charity and Board of Management in Hampstead, and a more than amateur poet and author. Among his numerous publications are several collections of poems, one of which, the 1839 illustrated “Heart’s-ease,” is featured in the collection, and books such as *The Cardinal Numbers, A Handbook of Average, Hawaii, The Port of Refuge,* and *Masters: Pietas Metrica; Or, Nature Suggestive of God and Godliness,* written pseudonymously with his brother Thomas Marsland (Brothers Theophilus and Theophylact). *Hawaii* was published in 1862, with a preface by the bishop of Oxford, Samuel Wilberforce (“Soapy Sam”), whose review described it as “a credible compendium of all that has been written of late years upon the subject.” Clearly, Manley Hopkins’s literary influence on Gerard was profound. His poem, “The Old Trees,” protesting the cutting down of limes on the Heath, inspired Gerard’s Oxford poem, “Binsey Poplars.”
@@ -26,7 +26,7 @@ The eldest of nine children, Gerard Manley Hopkins was born into a talented uppe
            description="Box 2, Folder 32, MS1991-023, Hopkins Family Papers" 
 		   side="left" %}}
 
-Gerard’s mother Kate, a not too distant relative of Sydney Smith and Gainsborough, had a better education than most Victorian women and was was well versed in poetry and music, learnt German from her stay in Hamburg, knew some Italian, and spoke French. She married Manley Hopkins in 1843. She was the daughter of Maria and John Simm Smith, a physician. She was also a keen student of history, philosophy, and politics. Kate’s artistic and musical prowess exerted an influence on Gerard. The letters between them evidence the emotional closeness of a mother to her first child. Her sister, Maria Smith, whose artistic abilities approached genius, had an even more profound influence on Gerard’s vision and sketches. She shared her husband’s artistic and intellectual interests, and was also a devout Anglican. Together they had nine children. *Rasselas* by Samuel Johnson is a prize book awarded to her as a young girl and is inscribed to her by her teachers for “good conduct”.
+Gerard’s mother Kate, a not too distant relative of Sydney Smith and Gainsborough, had a better education than most Victorian women and was well versed in poetry and music, learnt German from her stay in Hamburg, knew some Italian, and spoke French. She married Manley Hopkins in 1843. She was the daughter of Maria and John Simm Smith, a physician. She was also a keen student of history, philosophy, and politics. Kate’s artistic and musical prowess exerted an influence on Gerard. The letters between them evidence the emotional closeness of a mother to her first child. Her sister, Maria Smith, whose artistic abilities approached genius, had an even more profound influence on Gerard’s vision and sketches. She shared her husband’s artistic and intellectual interests, and was also a devout Anglican. Together they had nine children. *Rasselas* by Samuel Johnson is a prize book awarded to her as a young girl and is inscribed to her by her teachers for “good conduct”.
 
 {{% figure src="../Ann Eleonor item 1.jpg"
            headline="Ann Eleonor Smith (1815-1887) " 
@@ -41,7 +41,7 @@ Ann Eleonor, Gerard’s maternal aunt, whose watercolor of the fifteen-year-old 
            side="left" %}}
 
 
-The third child after Gerard and Cyril, Arthur was baptized in water from the River Jordan. The children’s 1863 walking tour or Shanklin on the Isle of Wight was the subject of many of their sketches. Gerard chronicles that experience in his journal: “The sea is brilliantly coloured and always calm, bathing delightful, horses and boats to be obtained, walks wild and beautiful, sketches charming, walking tours and excursions, poetic downs, the lovely Chine, fine cliffs, everything….” While Arthur’s sketches are conventional, Gerard’s show a strong Ruskinian and Turneresque inclination, drawing mostly to capture or inscape nature. You might wish to consult Arthur’s two pieces, *A Gully at Rathwaite 20 August. ’75,* part of the Burns Collection, or *Type of Beauty,* housed in Cambridge, England. Arthur was made an associate member of the Royal Society of Painters in Water-Colour in 1877, and a full member in 1896. The exhibit has one picture of Grace, the eighth of the nine children, and her older sister Kate, who worked closely and communicated regularly with Bridges during his editorial work on the 1918 first edition of the poems. Everard was the last sibling, whose marriage in 1887 occasioned Gerard’s wedding gift of a poem, “Epithalamion.” The two shared a mutual interest in Millais. Last in the collection deserving notice is the darling little Gertrude Frederica, the youngest of three children of Thomas Marsland, Manley’s brother, along with a similar childhood photo of her brother, Clement.
+The third child after Gerard and Cyril, Arthur was baptized in water from the River Jordan. The children’s 1863 walking tour or Shanklin on the Isle of Wight was the subject of many of their sketches. Gerard chronicles that experience in his journal: “The sea is brilliantly coloured and always calm, bathing delightful, horses and boats to be obtained, walks wild and beautiful, sketches charming, walking tours and excursions, poetic downs, the lovely Chine, fine cliffs, everything….” While Arthur’s sketches are conventional, Gerard’s show a strong Ruskinian and Turneresque inclination, drawing mostly to capture or inscape nature. You might wish to consult Arthur’s two pieces, *A Gully at Rathwaite 20 August. ’75,* part of the Burns Collection, or *Type of Beauty,* housed in Cambridge, England. Arthur was made an associate member of the Royal Society of Painters in Water-Colour in 1877, and a full member in 1896. Grace, the eighth of the nine children, and her older sister Kate, worked closely and communicated regularly with Bridges during his editorial work on the 1918 first edition of the poems. Everard was the last sibling, whose marriage in 1887 occasioned Gerard’s wedding gift of a poem, “Epithalamion.” The two shared a mutual interest in Millais. Last in the collection deserving notice is the darling little Gertrude Frederica, the youngest of three children of Thomas Marsland, Manley’s brother, along with a similar childhood photo of her brother, Clement.
 
 
 
@@ -82,6 +82,53 @@ The third child after Gerard and Cyril, Arthur was baptized in water from the Ri
            side="center"
 			size="x-large" %}}
 
+{{% galleryrow %}}
+
+{{< figure src="../15b Kate Hopkins.jpg"
+           headline="Kate Hopkins (1856-1933)"
+           description="Daughter of Manley and Kate Hopkins, she was a devout Anglican. She enjoyed sketching and helped Robert Bridges, Poet Laureate, publish the first edition of Poems (1918) by her brother Gerard Manley Hopkins. Box 2, Folder 52, MS1991-023, Hopkins Family Papers"
+>}}
+
+{{< figure src="../Cyril item 4.jpg"
+           headline="Cyril Hopkins (1854-1952)"
+           description="Son of Manley and Kate Hopkins. Later, Cyril joined Manley Hopkins’ insurance firm.  Box 2, Folder 45, MS1991-023, Hopkins Family Papers"
+>}}
+
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{< figure src="../Gerard M Hopkins_ grandmother item 6.jpg"
+           headline="Mrs. Martin Edward Hopkins (Anne)."
+           description="Mother of Manley Hopkins. Box 2, Folder 37, MS1991-023, Hopkins Family Papers"
+>}}
+
+{{< figure src="../Everand item 5.jpg"
+           headline="Everard Hopkins (1860-1928)"
+           description="Son of Manley and Kate Hopkins, he, too, was artistic. Everard Hopkins attended the Slade School of Art and became a professional illustrator and cartoonist for newspapers and periodicals. His watercolors and pastels were exhibited in London, and he was also a regular contributor to Punch. Box 2, Folder 54, MS1991-023, Hopkins Family Papers"
+>}}
+
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{< figure src="../Katherine Magdalena item 9.jpg"
+           headline="Katherine Magdalena"
+           description="Cousin of Gerard Manley Hopkins. Box 3, Folder 3, MS1991-023, Hopkins Family Papers"
+>}}
+
+{{< figure src="../Clement item 3.jpg"
+           headline="Clement"
+           description="Cousin of Gerard Manley Hopkins. Box 2, Folder 62, MS1991-023, Hopkins Family Papers"
+>}}
+
+{{< figure src="../Gertrude 15a.jpg"
+           headline="Gertrude Frederica"
+           description="Cousin of Gerard Manley Hopkins. Box 2, Folder 61, MS1991-023, Hopkins Family Papers"
+>}}
+{{% /galleryrow %}}
 
 
 
