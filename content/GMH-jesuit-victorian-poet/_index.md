@@ -6,7 +6,7 @@ title: "Introduction"
 exhibit_title: "The Jesuit Victorian Poet: Gerard Manley Hopkins (1844-1889) 125th Anniversary"
 exhibit_subtitle: "“Worshipper of Light”: The Hopkins Family Papers "
 
-date: 2019-08-07T12:12:42-04:00
+date: 2014-04-07T12:12:42-04:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1 

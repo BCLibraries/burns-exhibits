@@ -19,14 +19,14 @@ The Hopkins Family papers, MS1991-23, of which only a small sample from the coll
            description="A devout member of the High Anglican Church, Manley Hopkins was appointed consul-general for Hawaii to Great Britain in 1856. Box 2, Folder 26, MS1991-023, Hopkins Family Papers" 
            side="right" %}}
 		   
-The eldest of nine children, Gerard Manley Hopkins was born into a talented upper middle-class Victorian family who moved early to Hampstead, home to celebrated writers, such as Keats, Shelley, Byron, Coleridge, Hunt, and Lawrence, and to such notable artists as John Constable, whose cloudscapes and landscapes of the Heath memorialize this pastoral, idyllic, romantic spot on the outskirts of London but far from the madding crowd. His father, Manley, was a successful, self-made, business insurance adjuster, entrepreneur, a trustee of the Wells Charity and Board of Management in Hampstead, and a more than amateur poet and author. Among his numerous publications are several collections of poems, one of which, the 1839 illustrated “Heart’s-ease,” is featured in the collection, and books such as *The Cardinal Numbers, A Handbook of Average, Hawaii, The Port of Refuge,* and *Masters: Pietas Metrica; Or, Nature Suggestive of God and Godliness,* written pseudonymously with his brother Thomas Marsland (Brothers Theophilus and Theophylact). *Hawaii* was published in 1862, with a preface by the bishop of Oxford, Samuel Wilberforce (“Soapy Sam”), whose review described it as “a credible compendium of all that has been written of late years upon the subject.” Clearly, Manley Hopkins’s literary influence on Gerard was profound. His poem, “The Old Trees,” protesting the cutting down of limes on the Heath, inspired Gerard’s Oxford poem, “Binsey Poplars.”
+The eldest of nine children, Gerard Manley Hopkins was born into a talented upper middle-class Victorian family who moved early to Hampstead, home to celebrated writers, such as Keats, Shelley, Byron, Coleridge, Hunt, and Lawrence, and to such notable artists as John Constable, whose cloudscapes and landscapes of the Heath memorialize this pastoral, idyllic, romantic spot on the outskirts of London but far from the madding crowd. His father, Manley, was a successful, self-made, business insurance adjuster, entrepreneur, a trustee of the Wells Charity and Board of Management in Hampstead, and a more than amateur poet and author. Among his numerous publications are several collections of poems, one of which, the 1839 illustrated “Heart’s-ease,” is featured in the collection, and books such as *The Cardinal Numbers, A Handbook of Average, Hawaii, The Port of Refuge,* and *Masters: Pietas Metrica; Or, Nature Suggestive of God and Godliness,* written pseudonymously with his brother Thomas Marsland (Brothers Theophilus and Theophylact). *Hawaii* (pictured below) was published in 1862, with a preface by the bishop of Oxford, Samuel Wilberforce (“Soapy Sam”), whose review described it as “a credible compendium of all that has been written of late years upon the subject.” Clearly, Manley Hopkins’s literary influence on Gerard was profound. His poem, “The Old Trees,” protesting the cutting down of limes on the Heath, inspired Gerard’s Oxford poem, “Binsey Poplars.”
 
 {{% figure src="../Mrs. Manley Hopkins item 14.jpg"
            headline="Catherine 'Kate' (Smith) Hopkins (1821-1920)" 
            description="Box 2, Folder 32, MS1991-023, Hopkins Family Papers" 
 		   side="left" %}}
 
-Gerard’s mother Kate, a not too distant relative of Sydney Smith and Gainsborough, had a better education than most Victorian women and was well versed in poetry and music, learnt German from her stay in Hamburg, knew some Italian, and spoke French. She married Manley Hopkins in 1843. She was the daughter of Maria and John Simm Smith, a physician. She was also a keen student of history, philosophy, and politics. Kate’s artistic and musical prowess exerted an influence on Gerard. The letters between them evidence the emotional closeness of a mother to her first child. Her sister, Maria Smith, whose artistic abilities approached genius, had an even more profound influence on Gerard’s vision and sketches. She shared her husband’s artistic and intellectual interests, and was also a devout Anglican. Together they had nine children. *Rasselas* by Samuel Johnson is a prize book awarded to her as a young girl and is inscribed to her by her teachers for “good conduct”.
+Gerard’s mother Kate, a not too distant relative of Sydney Smith and Gainsborough, had a better education than most Victorian women and was well versed in poetry and music, learnt German from her stay in Hamburg, knew some Italian, and spoke French. She married Manley Hopkins in 1843. She was the daughter of Maria and John Simm Smith, a physician. She was also a keen student of history, philosophy, and politics. Kate’s artistic and musical prowess exerted an influence on Gerard. The letters between them evidence the emotional closeness of a mother to her first child. Her sister, Maria Smith, whose artistic abilities approached genius, had an even more profound influence on Gerard’s vision and sketches. She shared her husband’s artistic and intellectual interests, and was also a devout Anglican. Together they had nine children. *Rasselas* by Samuel Johnson (pictured below) is a prize book awarded to her as a young girl and is inscribed to her by her teachers for “good conduct”.
 
 {{% figure src="../Ann Eleonor item 1.jpg"
            headline="Ann Eleonor Smith (1815-1887) " 
@@ -135,12 +135,12 @@ The third child after Gerard and Cyril, Arthur was baptized in water from the Ri
 
 {{< figure src="../Rasseales cover.jpg"
            headline="Rasselas Cover"
-           description="Cousin of Gerard Manley Hopkins. Box 3, Folder 3, MS1991-023, Hopkins Family Papers"
+           description="Johnson, [*The history of Rasselas, prince of Abyssinia: a tale*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21357319580001021), PR3529 .A1 1828 MANLEY HOPKINS "
 >}}
 
 {{< figure src="../Rasseales inscription.jpg"
            headline="Rasselas Inscription"
-           description="Cousin of Gerard Manley Hopkins. Box 2, Folder 62, MS1991-023, Hopkins Family Papers"
+           description="Johnson, [*The history of Rasselas, prince of Abyssinia: a tale*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21357319580001021), PR3529 .A1 1828 MANLEY HOPKINS "
 >}}
 
 {{< figure src="../Rasseales title.jpg"
@@ -151,7 +151,7 @@ The third child after Gerard and Cyril, Arthur was baptized in water from the Ri
 
 {{% largefigure src="Hawaii.jpg"
            headline="Frontispiece/titlepage with an image of Her Majesty Queen Emma of Hawaii" 
-           description="Hopkins, [*Hawaii: the past, present, and future of its island-kingdom ; an historical account of the Sandwich Islands (Polynesia)]*(https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21366330800001021), DU625 .H79 1869 MANLEY HOPKINS " 
+           description="Hopkins, [*Hawaii: the past, present, and future of its island-kingdom; an historical account of the Sandwich Islands (Polynesia)*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21366330800001021), DU625 .H79 1869 MANLEY HOPKINS " 
                 size="x-large" align="center"%}}
 
 {{% /largefigure %}}
