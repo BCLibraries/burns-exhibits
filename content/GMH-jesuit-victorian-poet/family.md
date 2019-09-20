@@ -76,22 +76,16 @@ The third child after Gerard and Cyril, Arthur was baptized in water from the Ri
 
 {{% /galleryrow %}}
 
-{{% figure src="../Songs pg. 2-3 item 24.jpg"
-           headline="Sheet Music" 
-           description="SERIES VI: Music, 1843-1870, undated consists of published and unpublished music composed or copied by members of the Hopkins family. Box 13, Folder 14, MS1991-023, Hopkins Family Papers" 
-           side="center"
-			size="x-large" %}}
-
 {{% galleryrow %}}
 
 {{< figure src="../15b Kate Hopkins.jpg"
            headline="Kate Hopkins (1856-1933)"
-           description="Daughter of Manley and Kate Hopkins, she was a devout Anglican. She enjoyed sketching and helped Robert Bridges, Poet Laureate, publish the first edition of Poems (1918) by her brother Gerard Manley Hopkins. Box 2, Folder 52, MS1991-023, Hopkins Family Papers"
+           description="Daughter of Manley and Kate Hopkins, she was a devout Anglican. She enjoyed sketching and helped Robert Bridges, Poet Laureate, publish the first edition of 'Poems' (1918) by her brother Gerard. Box 2, Folder 52, MS1991-023, Hopkins Family Papers"
 >}}
-
-{{< figure src="../Cyril item 4.jpg"
-           headline="Cyril Hopkins (1854-1952)"
-           description="Son of Manley and Kate Hopkins. Later, Cyril joined Manley Hopkins’ insurance firm.  Box 2, Folder 45, MS1991-023, Hopkins Family Papers"
+	   
+		   {{< figure src="../Everand item 5.jpg"
+           headline="Everard Hopkins (1860-1928)"
+           description="Son of Manley and Kate Hopkins, he, too, was artistic. Everard Hopkins attended the Slade School of Art and became a professional illustrator and cartoonist for newspapers and periodicals. His watercolors and pastels were exhibited in London, and he was also a regular contributor to Punch. Box 2, Folder 54, MS1991-023, Hopkins Family Papers"
 >}}
 
 
@@ -104,10 +98,17 @@ The third child after Gerard and Cyril, Arthur was baptized in water from the Ri
            description="Mother of Manley Hopkins. Box 2, Folder 37, MS1991-023, Hopkins Family Papers"
 >}}
 
-{{< figure src="../Everand item 5.jpg"
-           headline="Everard Hopkins (1860-1928)"
-           description="Son of Manley and Kate Hopkins, he, too, was artistic. Everard Hopkins attended the Slade School of Art and became a professional illustrator and cartoonist for newspapers and periodicals. His watercolors and pastels were exhibited in London, and he was also a regular contributor to Punch. Box 2, Folder 54, MS1991-023, Hopkins Family Papers"
+{{< figure src="../maternal grandfather item 12.jpg"
+           headline="Gerard Manley Hopkins Maternal Grandfather"
+           description="Box 3, Folder 6, MS1991-023, Hopkins Family Papers"
 >}}
+
+{{< figure src="../Cyril item 4.jpg"
+           headline="Cyril Hopkins (1854-1952)"
+           description="Son of Manley and Kate Hopkins. Later, Cyril joined Manley Hopkins’ insurance firm.  Box 2, Folder 45, MS1991-023, Hopkins Family Papers"
+>}}	
+
+
 
 
 {{% /galleryrow %}}
@@ -130,5 +131,29 @@ The third child after Gerard and Cyril, Arthur was baptized in water from the Ri
 >}}
 {{% /galleryrow %}}
 
+{{% galleryrow %}}
+
+{{< figure src="../Rasseales cover.jpg"
+           headline="Rasselas Cover"
+           description="Cousin of Gerard Manley Hopkins. Box 3, Folder 3, MS1991-023, Hopkins Family Papers"
+>}}
+
+{{< figure src="../Rasseales inscription.jpg"
+           headline="Rasselas Inscription"
+           description="Cousin of Gerard Manley Hopkins. Box 2, Folder 62, MS1991-023, Hopkins Family Papers"
+>}}
+
+{{< figure src="../Rasseales title.jpg"
+           headline="Rasselas title page"
+           description="Johnson, [*The history of Rasselas, prince of Abyssinia: a tale*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21357319580001021), PR3529 .A1 1828 MANLEY HOPKINS "
+>}}
+{{% /galleryrow %}}
+
+{{% largefigure src="Hawaii.jpg"
+           headline="Frontispiece/titlepage with an image of Her Majesty Queen Emma of Hawaii" 
+           description="Hopkins, [*Hawaii: the past, present, and future of its island-kingdom ; an historical account of the Sandwich Islands (Polynesia)]*(https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21366330800001021), DU625 .H79 1869 MANLEY HOPKINS " 
+                size="x-large" align="center"%}}
+
+{{% /largefigure %}}
 
 
