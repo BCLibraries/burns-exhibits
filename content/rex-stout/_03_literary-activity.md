@@ -38,40 +38,36 @@ Rex Stout is best known for his mystery novels featuring Nero Wolfe, a rotund an
 
 {{< figure src="../017-TooManyClients.jpg"
            headline="Stout, Too Many Clients: A Nero Wolfe Mystery"
-           description="[95/96 0005 STOUT](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21367671230001021)"
->}}
-
-{{< figure src="../018-TriPripady.jpg"
-           headline="Stout, Tři Případy: A Nero Wolfe Mystery"
-           description="[98/99 0028 STOUT](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21376859830001021)"
+           description="[95 / 96 0005 STOUT](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21367671230001021)"
 >}}
 
 {{% /galleryrow %}}
 
 {{% galleryrow %}}
 
-{{< figure src="../019-TooManyCooks.jpg"
-           headline="Stout, Too Many Cooks: A Nero Wolfe Mystery"
-           description="[TX715 .S888 STOUT](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21506751690001021)"
+{{< figure src="../018-TriPripady.jpg"
+           headline="Stout, Tři Případy: A Nero Wolfe Mystery"
+           description="[98 / 99 0028 STOUT](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21376859830001021)"
 >}}
 
 {{< figure src="../020-ThreeMenOut.jpg"
            headline="Stout, Three Men Out"
-           description="[95/96 0158 STOUT](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21367670180001021)"
+           description="[95 / 96 0158 STOUT](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21367670180001021)"
 >}}
 
 {{% /galleryrow %}}
 {{% galleryrow %}}
+
+{{< figure src="../022-GoldenSpiders.jpg"
+           headline="Stout, Golden Spiders: a Nero Wolfe Mystery"
+           description="[ 96 / 97 0391-2 STOUT](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21376823090001021)"
+>}}
 
 {{< figure src="../021-BlackOrchids.jpg"
            headline="Stout, Black Orchids: A Nero Wolfe Double Mystery"
            description="[PS3537.T784 B55 1942 STOUT](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21320805030001021)"
 >}}
 
-{{< figure src="../022-GoldenSpiders.jpg"
-           headline="Stout, Golden Spiders: a Nero Wolfe Mystery"
-           description="[ 96/97 0391-2 STOUT](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21376823090001021)"
->}}
 
 {{% /galleryrow %}}
 
@@ -102,19 +98,31 @@ Rex Stout is best known for his mystery novels featuring Nero Wolfe, a rotund an
 >}}
 
 {{% /galleryrow %}}
+
 {{% galleryrow %}}
+
+{{< figure src="../019-TooManyCooks.jpg"
+           headline="'Too Many Cooks: A Nero Wolfe Mystery' in _American Magazine_"
+           description="[TX715 .S888 STOUT](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21491431740001021)"
+>}}
 
 {{< figure src="../003-BitterEnd-AmericanMagazine.jpg"
            headline="'Bitter End' in _American Magazine_"
            description="Box 1, Folder 4, [Ed Price Collection of Rex Stout](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21495631010001021), MS2018-057"
 >}}
 
+{{% /galleryrow %}}
+{{% galleryrow %}}
+
+
 {{< figure src="../003A-BitterEnd-AmericanMagazine.jpg"
             headline="'Bitter End' in _American Magazine_"
             description="Box 1, Folder 4, [Ed Price Collection of Rex Stout](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21495631010001021), MS2018-057"
 >}}
+
 {{< figure src="../003B-BitterEnd-AmericanMagazine.jpg"
           headline="'Bitter End' in _American Magazine_"
           description="Box 1, Folder 4, [Ed Price Collection of Rex Stout](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21495631010001021), MS2018-057"
 >}}
+
 {{% /galleryrow %}}

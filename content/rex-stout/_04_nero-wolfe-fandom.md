@@ -19,6 +19,7 @@ The Nero Wolfe Mysteries have an active fanbase and the characters of Wolfe and 
            headline="Nero Wolfe tote bag"
            description="Box 42, [John J. McAleer Faculty Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21349383200001021), BC1995-016"
 >}}
+
 {{< figure src="../072A-BlackOrchidBanquetTickets.jpg"
            headline="Tickets for the Wolfe Pack’s Black Orchid Banquet"
            description="Box 56, [Judson C. Sapp Papers and Collection of Rex Stout](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351253640001021), MS1996-022"
@@ -78,6 +79,7 @@ The Nero Wolfe Mysteries have an active fanbase and the characters of Wolfe and 
     description="Box 1, Folder 11, [Judson C. Sapp Papers and Collection of Rex Stout](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351253640001021), MS1996-022"
 >}}
 {{% /galleryrow %}}
+
 {{% galleryrow %}}
 {{< figure src="../005-ArtPrint-WolfeInSilhouetteCOLOR.jpg"
     headline="Art featuring Archie Goodwin, Wolfe’s assistant"

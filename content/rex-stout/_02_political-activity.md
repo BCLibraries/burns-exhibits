@@ -28,7 +28,7 @@ Rex Stout became involved in public affairs when he started the Educational Thri
 
 {{% /galleryrow %}}
 __Radio Broadcasts__
-{{% galleryrow %}}
+{{% galleryrow layout="landscape" %}}
 {{< figure src="../028-FurtherAidToBritain.jpg"
            headline="Stout discusses sending aid to Britain"
            description="Box 13, Folder 4, [John J. McAleer Faculty Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21349383200001021), BC1995-016"
