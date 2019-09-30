@@ -1,5 +1,5 @@
 ---
-title: "Large image gallery page"
+title: "Hopkins Family Artwork"
 description: ""
 
 # Page order (1 is 1st page, etc.)
@@ -12,30 +12,80 @@ draft: true
 type: "exhibit"
 ---
 
-{{% largefigure src="../intro-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                description="Dapibus Vulputate Sollicitudin Cras"
-                size="x-large" %}}
-Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Curabitur blandit tempus porttitor.
+{{% largefigure src="../copy of landscape item 36.jpg"
+                headline="Landscape"
+           description="Box 13, Folder 8, MS1991-023, Hopkins Family Papers"
+                size="x-large" align="center"%}}
+
 {{% /largefigure %}}
 
-{{% largefigure src="../portrait-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                description="Fringilla Quam Consectetur Commodo" 
-                size="large" align="center" %}}
-Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+{{% largefigure src="../Heart's ease Poem by Manley item 34.jpg"
+                headline="Heart's Ease poem by Manley Hopkins"
+				description="Box 1, Folder 14, MS1991-023, Hopkins Family Papers" 
+                size="x-large" align="center" %}}
+
 {{% /largefigure %}}
 
-{{% largefigure src="../intro-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                size="medium"
-                align="left" %}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+{{% largefigure src="../Drawing cross and shamrock item 32.jpg"
+                headline="Drawing of cross and shamrock"
+				description="Box 1, Folder 41, MS1991-023, Hopkins Family Papers"
+                size="x-large"
+                align="center" %}}
+
 {{% /largefigure %}}
 
-{{% largefigure src="../portrait-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                description="Pharetra Mattis Inceptos"
-                size="small" %}}
-Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean lacinia bibendum nulla sed consectetur.
+{{% largefigure src="../Drawing village item 33.jpg"
+                headline="Drawing of Village"
+				description="Box 1, Folder 41, MS1991-023, Hopkins Family Papers"
+                size="x-large" align="center"%}}
+
+{{% /largefigure %}}
+
+{{% largefigure src="../Drawing 4a (inside of 4).jpg"
+           headline="Drawing of Sundial by Manley Hopkins"
+           description="Box 1, Folder 41, MS1991-023, Hopkins Family Papers"
+                size="x-large" align="center"%}}
+
+{{% /largefigure %}}
+
+{{% largefigure src="../Drawing 6.jpg"
+           headline="Drawing of Church"
+           description="Box 1, Folder 41, MS1991-023, Hopkins Family Papers"
+                size="x-large" align="center"%}}
+
+{{% /largefigure %}}
+
+{{% largefigure src="../Drawing 3.jpg"
+           headline="Drawing of Apple Blossoms"
+           description="Box 1, Folder 41, MS1991-023, Hopkins Family Papers"
+                size="x-large" align="center"%}}
+
+{{% /largefigure %}}
+
+{{% largefigure src="Songs pg. 2-3 item 24.jpg"
+           headline="Sheet Music" 
+           description="Box 13, Folder 14, MS1991-023, Hopkins Family Papers" 
+                size="x-large" align="center"%}}
+
+{{% /largefigure %}}
+
+{{% largefigure src="Book of sketches - cover.jpg"
+           headline="Book of Sketches, cover" 
+           description="Box 7, MS1991-023, Hopkins Family Papers" 
+                size="x-large" align="center"%}}
+
+{{% /largefigure %}}
+
+{{% largefigure src="Book of sketches (inside sketch 3).jpg"
+           headline="Sketch" 
+           description="Box 7, MS1991-023, Hopkins Family Papers" 
+                size="small" align="center"%}}
+
+{{% /largefigure %}}
+
+{{% largefigure src="Book of Sketches (inside sketch 4).jpg"
+           headline="Sketch" 
+           description="Box 9, MS1991-023, Hopkins Family Papers" 
+                size="small" align="center"%}}
+
 {{% /largefigure %}}

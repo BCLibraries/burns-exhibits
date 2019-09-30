@@ -6,15 +6,16 @@ title: "Introduction"
 exhibit_title: "The Jesuit Victorian Poet: Gerard Manley Hopkins (1844-1889) 125th Anniversary"
 exhibit_subtitle: "“Worshipper of Light”: The Hopkins Family Papers "
 
-date: 2019-08-07T12:12:42-04:00
+date: 2014-04-07T12:12:42-04:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1 
 
 # Big image on first page.
 front_image: "hopkins poster.jpg" # Replace with the real image
-front_caption_headline: "Ullamcorper Condimentum Tortor Parturient"
-front_caption_text: "Donec id elit non mi porta gravida at eget metus."
+front_caption_headline: ""
+front_caption_text: ""
+front_image_layout: "portrait"
 
 # Change to true if this exhibit is currently running.
 current: false

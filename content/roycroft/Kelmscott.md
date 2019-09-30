@@ -68,7 +68,7 @@ The colophon, a statement at the end of a book giving information about its auth
 
 {{% largefigure src="../Utopia.jpg"
                 headline=""
-                description="More, [*Utopia*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21312191480001021&context=L&vid=bclib_new&search_scope=lib_LAW&tab=bcl_only&lang=en_US), More HX810.5 .E54 1893"
+                description="More, [*Utopia*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21312191480001021&context=L&vid=bclib_new&search_scope=lib_LAW&tab=bcl_only&lang=en_US), More HX810.5 .E54 1893 Boston College Law Library"
 				size="medium"
                 align="left" %}}
 
