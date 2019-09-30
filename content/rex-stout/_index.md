@@ -6,15 +6,15 @@ title: "Introduction"
 exhibit_title: "Golden Spiders and Black Orchids"
 exhibit_subtitle: " A 'Satisfactory' Look into the Life and Mysteries of Rex Stout"
 
-date: 2018-10-07T09:47:12-04:00
+date: 2019-09-30T09:47:12-04:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1
 
 # Big image on first page.
-front_image: "intro-image.jpg" # Replace with the real image
-front_caption_headline: "Ullamcorper Condimentum Tortor Parturient"
-front_caption_text: "Donec id elit non mi porta gravida at eget metus."
+front_image: "tile-rect.jpg" # Replace with the real image
+front_caption_headline: ""
+front_caption_text: ""
 
 # Change to true if this exhibit is currently running.
 current: false
