@@ -13,7 +13,7 @@ type: "exhibit"
 ---
 Columbia Pictures adapted Stout’s books for the big screen twice.  *Meet Nero Wolfe* (1936) featured Edward Arnold as Nero Wolfe and Lionel Stander as Archie Goodwin. Stander also portrayed Goodwin in *The League of Frightened Men* (1937), but Stout was unconvinced that he was right for the role.  The reception for *Meet Nero Wolfe* seems to have been solid; while fans recognized it deviated from Stout’s original work, it was an entertaining and enjoyable mystery. Stout was unhappy with the portrayal of his material in *The League of Frightened Men*, which influenced his rejection of future requests to bring his work to film or television.
 
-{{% galleryrow %}}
+{{% galleryrow layout="landscape" %}}
 
 {{< figure src="../053-LeagueOfFrightenedMen-LobbyCardCOLOR.jpg"
            headline="*The League of Frightened Men* promo poster"
@@ -25,7 +25,7 @@ Columbia Pictures adapted Stout’s books for the big screen twice.  *Meet Nero 
            description="Box 44, Folder 10, [Judson C. Sapp Papers and Collection of Rex Stout](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351253640001021), MS1996-022"
 >}}
 
-{{< figure src="../062-LeagueOfFrightenedMen-Poster"
+{{< figure src="../062-LeagueOfFrightenedMen-Poster.jpg"
 headline="*A league of Frightened Men* movie poster"
 description="Box 20x24, Folder 1, [Ed Price Collection of Rex Stout](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21495631010001021), MS2018-057"
 >}}
@@ -39,7 +39,7 @@ description="Box 20x24, Folder 1, [Ed Price Collection of Rex Stout](https://bc-
 >}}
 
 {{< figure src="../058-MeetNeroWolfe-PublicityPhotosCOLOR.jpg"
-           headline="advertisement for *Meet Nero Wolfe*"
+           headline="Advertisement for *Meet Nero Wolfe*"
            description="Box 44, Folder 13, [Judson C. Sapp Papers and Collection of Rex Stout](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351253640001021), MS1996-022"
 >}}
 

@@ -29,12 +29,12 @@ The Nero Wolfe Mysteries have an active fanbase and the characters of Wolfe and 
 {{% galleryrow layout="landscape" %}}
 
 {{< figure src="../011-watercolor-ToBeBrokeIsNotADisgrace.jpg"
-           headline="fan art with quotes from the books"
+           headline="Fan art with quotes from the books"
            description="Box 1, Folder 10, [Rex Stout Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21323242860001021), MS1986-096"
 >}}
 
 {{< figure src="../011I-Watercolor-NothingCorruptsAManAsDeeply.jpg"
-           headline="fan art with quotes from the books"
+           headline="Fan art with quotes from the books"
            description="Box 1, Folder 10, [Rex Stout Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21323242860001021), MS1986-096"
 >}}
 
@@ -43,12 +43,12 @@ The Nero Wolfe Mysteries have an active fanbase and the characters of Wolfe and 
 {{% galleryrow layout="landscape" %}}
 
 {{< figure src="../011A-Watercolor-CourtesyIsOnesOwnAffair.jpg"
-           headline="fan art with quotes from the books"
+           headline="Fan art with quotes from the books"
            description="Box 1, Folder 10, [Rex Stout Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21323242860001021), MS1986-096"
 >}}
 
 {{< figure src="../011H-Watercolor-Gallantry.jpg"
-           headline="fan art with quotes from the books"
+           headline="Fan art with quotes from the books"
            description="Box 1, Folder 10, [Rex Stout Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21323242860001021), MS1986-096"
 >}}
 

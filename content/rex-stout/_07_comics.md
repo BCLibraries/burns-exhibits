@@ -30,11 +30,12 @@ Stout’s mysteries were adapted into a weekly comic strip and later into graphi
 {{% galleryrow %}}
 {{< figure src="../061-NeroWolfeComics-Color-ItBeatsMeWhyAnyJoe.jpg"
            headline="Nero Wolfe comics"
-           description="[Ed Price Collection of Rex Stout](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21495631010001021), MS2018-057"
+           description="Box 3, Folder 22, [Ed Price Collection of Rex Stout](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21495631010001021), MS2018-057"
 >}}
+
 {{< figure src="../073-NeroWolfComics-WinnipegFreePress-12.15.1956.jpg"
            headline="Nero Wolfe comics"
-           description="[Ed Price Collection of Rex Stout](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21495631010001021), MS2018-057"
+           description="Box 3, Folder 22, [Ed Price Collection of Rex Stout](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21495631010001021), MS2018-057"
 >}}
 {{% /galleryrow %}}
 
@@ -62,4 +63,5 @@ description="de La Royère, [Nero Wolfe: la Cassette Rouge](https://bc-primo.ho
 headline="Nero Wolfe graphic novel"
 description="de La Royère, [Nero Wolfe : les compagnons de la peur](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21491382000001021), PS3537.T733 A3 1990 STOUT"
 >}}
+
 {{% /galleryrow %}}

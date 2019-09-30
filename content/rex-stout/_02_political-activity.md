@@ -161,7 +161,7 @@ Rex Stout developed the Educational Thrift Service in 1916. Its goal was to teac
 >}}
 {{% /galleryrow %}}
 
-{{% galleryrow %}}
+{{% galleryrow layout="landscape" %}}
 {{< figure src="../066-SavingPassbook(1).jpg"
            headline="Explanation of the Educational Thrift Service for pupils and teachers"
            description="Box 13, Folder 29, [John J. McAleer Faculty Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21349383200001021), BC1995-016"
