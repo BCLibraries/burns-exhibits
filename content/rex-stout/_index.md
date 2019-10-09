@@ -12,7 +12,7 @@ date: 2019-09-30T09:47:12-04:00
 weight: 1
 
 # Big image on first page.
-front_image: "tile-rect.jpg" # Replace with the real image
+front_image: "stout promo images9.png" # Replace with the real image
 front_caption_headline: ""
 front_caption_text: ""
 

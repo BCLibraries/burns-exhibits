@@ -13,7 +13,7 @@ draft: true
 type: "exhibit"
 ---
 
-{{% figure src="../portrait-image.jpg" headline="" size="x-large" %}}
+{{% figure src="../stout promo images7.png" headline="" size="x-large" %}}
 
 Collection Used: [Ed Price Collection of Rex Stout](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21495631010001021), MS2018-057
 
