@@ -6,7 +6,7 @@ title: "Introduction"
 exhibit_title: "Golden Spiders and Black Orchids"
 exhibit_subtitle: " A 'Satisfactory' Look into the Life and Mysteries of Rex Stout"
 
-date: 2019-09-30T09:47:12-04:00
+date: 2019-10-09T09:47:12-04:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1
@@ -17,10 +17,10 @@ front_caption_headline: ""
 front_caption_text: ""
 
 # Change to true if this exhibit is currently running.
-current: false
+current: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
