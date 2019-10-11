@@ -8,13 +8,13 @@ weight: 4
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
 {{% figure src="../GMH item 28.jpg"
            headline="Gerard Manley Hopkins" 
-           description="Box 13, Folder 1, MS1991-023, Hopkins Family Papers" side="left" %}}
+           description="Box 13, Folder 1, MS1991-023, [Hopkins Family Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21380054540001021)" side="left" %}}
 		   
 This selection includes works on and about Hopkins, such as the first biography, G. F. Lahey’s *Gerard Manley Hopkins*. A Jesuit and early collector of Hopkins, Lahey maintained regular conversation with Joseph Keating, another early Jesuit interested in Hopkins, and Robert Bridges. Lahey would hold Bridges’s feet to the flame to release the Hopkins letters, calling it “intolerable, and contrary to the principles of scrupulous and painstaking biography.” The Lahey Papers in the Jesuit Provincial Archives at Farm Street, London, contain valuable information on the earliest work on Hopkins, including the misattribution by Alfred Thomas of a poem by Hopkins, “Original Lines on a Fossil Tree in a Garden at Highgate.” The collection also contains information on Hopkins from Joseph Rickaby, S.J., fellow with Hopkins for three years in Theology: Rickaby drawing attention to Hopkins’s failure in theology and his concerns for the poor; Bridges wanting to show Lahey Hopkins’s unpublished verse; Lahey’s discovery of the Newman letters; and Hopkins’s sister Kate’s letter on Gerard’s hatred of ugliness. And there is this salient reflection on Gerard from Father Darlington, who writes on 13 July 1928: "H. had developed a remarkable platonic life as a Poet & Religious -- his outward appearance, & his conversation adapted to the  company of men he was -- reveals little of his inner self…. H. was always full of fun simple jokes. He could not play the piano at all -- but he occupied a good deal of his leisure in writing original musical accompaniment for Song Sylvia Who is She? Took him some time…."
 
@@ -30,7 +30,7 @@ The remaining material contains a page from Thomas Merton’s *Seven Storey Moun
 
 {{% largefigure src="../By the Gate of the Sacred item 27.jpg"
            headline="Gerard Manley Hopkin sprint 3/50 by R F McGovern, 1989" 
-           description="Box 14, MS1991-023, Hopkins Family Papers" side="left" %}}
+           description="Box 14, MS1991-023, [Hopkins Family Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21380054540001021)" side="left" %}}
 		   
 The collection also includes some prints, digital copies, a Hopkins icon with its otherworldly gaze, called “Amidst the Fire Folk,” the title taken from his poem “The Starlight Night,” and a book inscribed by Kate on 2 April 1881, Richard Frederick Littledale’s *Plain Reasons Against Joining the Church of Rome* (1880), written to address “those who have seceded, or are tempted to secession, from the Church of England to the Roman Communion; that they may see what is the true nature of the accountability with which they are charging themselves in following their own private judgment rather than the providential order of God.” Acquisition of the book might mean that fifteen years later Gerard’s family was still struggling with their son’s decision to convert.
 
