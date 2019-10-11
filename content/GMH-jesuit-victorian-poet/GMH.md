@@ -26,7 +26,7 @@ This selection includes works on and about Hopkins, such as the first biography,
 		   
 
 
-The remaining material contains a page from Thomas Merton’s *Seven Storey Mountain*, in which Merton received spiritual prompting from reading Hopkins biography, written by Lahey (1930): “All of a sudden,” writes Merton, “something began to stir within me, something began to push me, to prompt me. It was a movement that spoke like a voice.” Boston College opened *What are We?* Center for Ignatian Spirituality (2002) with Hopkins’s poem, “God’s Grandeur,” and Michael Harter’s *Hearts on Fire, Praying with Jesuits* (2004), similarly opens with “As Kingfishers Catch Fire.” One might wish to consider here Hopkins countless references to heart in his poems and sermons, especially his Liverpool sermon for Sunday, 26 June 1881, on “The Sacred Heart.”
+The remaining material contains a page from Thomas Merton’s *Seven Storey Mountain*, in which Merton received spiritual prompting from reading Hopkins biography, written by Lahey (1930): “All of a sudden,” writes Merton, “something began to stir within me, something began to push me, to prompt me. It was a movement that spoke like a voice.” Boston College opened *What are We?* with Hopkins’s poem, “God’s Grandeur,” and Michael Harter’s *Hearts on Fire, Praying with Jesuits* (2004), similarly opens with “As Kingfishers Catch Fire.” One might wish to consider here Hopkins countless references to heart in his poems and sermons, especially his Liverpool sermon for Sunday, 26 June 1881, on “The Sacred Heart.”
 
 {{% largefigure src="../By the Gate of the Sacred item 27.jpg"
            headline="Gerard Manley Hopkin sprint 3/50 by R F McGovern, 1989" 
@@ -62,7 +62,7 @@ This book is available for students at Boston College Campus Ministry. The Offic
            description="Merton, [*Seven Storey Mountain*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21314486620001021),  BX4705 .M542 A3 1948 MERTON " 
            side="left" %}}
 		   
-This volume from the Burns Library Thomas Merton Collection is opened to the page in which Merton received spiritual prompting from reading Lahey’s biography of Hopkins. Although Merton had for some time been pondering joining the Church, reading this passage became a defining moment for him. He put the book down and went to tell Father Ford, a priest at Corpus Christi Church in New York, “I want to become a Catholic.”
+This volume from the Burns Library Thomas Merton Collection shows the page in which Merton received spiritual prompting from reading Lahey’s biography of Hopkins. Although Merton had for some time been pondering joining the Church, reading this passage became a defining moment for him. He put the book down and went to tell Father Ford, a priest at Corpus Christi Church in New York, “I want to become a Catholic.”
 
 {{% /largefigure %}}
 
@@ -72,7 +72,6 @@ This volume from the Burns Library Thomas Merton Collection is opened to the pag
            side="left" %}}
 
 
-Littledale’s *Plain Reasons* was written to address “those who have seceded, or are tempted to secession, from the Church of England to the Roman Communion; that they may see what is the true nature of the accountability with which they are charging themselves in following their own private judgment rather than the providential order of God.” Acquisition of the book might mean that fifteen years later Gerard’s family was still struggling with their son’s decision to convert. The book was inscribed by Kate Hopkins on 2 April 1881.
 
 {{% /largefigure %}}
 
