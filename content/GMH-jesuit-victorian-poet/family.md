@@ -45,6 +45,8 @@ The third child after Gerard and Cyril, Arthur was baptized in water from the Ri
 
 
 
+
+
 {{% galleryrow %}}
 
 {{< figure src="../Helen item 8.jpg"

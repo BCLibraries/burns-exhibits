@@ -30,13 +30,13 @@ The remaining material contains a page from Thomas Merton’s *Seven Storey Moun
 
 {{% largefigure src="../By the Gate of the Sacred item 27.jpg"
            headline="Gerard Manley Hopkin sprint 3/50 by R F McGovern, 1989" 
-           description="Box 14, MS1991-023, [Hopkins Family Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21380054540001021)" side="left" %}}
+           description="Box 14, MS1991-023, [Hopkins Family Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21380054540001021)" side="right" %}}
 		   
 The collection also includes some prints, digital copies, a Hopkins icon with its otherworldly gaze, called “Amidst the Fire Folk,” the title taken from his poem “The Starlight Night,” and a book inscribed by Kate on 2 April 1881, Richard Frederick Littledale’s *Plain Reasons Against Joining the Church of Rome* (1880), written to address “those who have seceded, or are tempted to secession, from the Church of England to the Roman Communion; that they may see what is the true nature of the accountability with which they are charging themselves in following their own private judgment rather than the providential order of God.” Acquisition of the book might mean that fifteen years later Gerard’s family was still struggling with their son’s decision to convert.
 
 {{% /largefigure %}}
 
-Boston College’s Professor Paul Mariani joins the collection, through his *A Commentary on the Complete Poems of Gerard Manley Hopkins* (1990), which bravely seized the fire from the dragon in the gate to Hopkins poetry, causing many emerging Hopkinsians to enter with much less trepidation. On display is also Paul’s most recent foray into Hopkins, his *Gerard Manley Hopkins: A Life* (2008), dedicated to his Jesuit son, but his insightful essay, [“Revisiting the Catholic Imagination”] (https://issuu.com/church21c/docs/c21resourcesspring2013?e=1307091/1015152). Paul offers a reading of “As kingfishers catch fire” to explore Hopkins’s verbalness of being: “what I do is me.” Paul calls this the “doing-be, the essential inscape of the thing,” to discover that “Each thing, then, doing what it was made to do, whether made by mortals, or—better—by the great God Creator.” This, says Paul, is the “sacral imagination,” discovering, inscaping as it were, Christ in each created thing. In Hopkins, the “Catholic imagination adds to the reading of creation.”
+Boston College’s Professor Paul Mariani joins the collection, with his insightful essay, [“Revisiting the Catholic Imagination”] (https://issuu.com/church21c/docs/c21resourcesspring2013?e=1307091/1015152). Paul offers a reading of “As kingfishers catch fire” to explore Hopkins’s verbalness of being: “what I do is me.” Paul calls this the “doing-be, the essential inscape of the thing,” to discover that “Each thing, then, doing what it was made to do, whether made by mortals, or—better—by the great God Creator.” This, says Paul, is the “sacral imagination,” discovering, inscaping as it were, Christ in each created thing. In Hopkins, the “Catholic imagination adds to the reading of creation.”
 
 {{% largefigure src="../What are We.jpg"
            headline="What Are We?" 
@@ -72,7 +72,7 @@ This volume from the Burns Library Thomas Merton Collection is opened to the pag
            side="left" %}}
 
 
-Littledale’s Plain Reasons was written to address “those who have seceded, or are tempted to secession, from the Church of England to the Roman Communion; that they may see what is the true nature of the accountability with which they are charging themselves in following their own private judgment rather than the providential order of God.” Acquisition of the book might mean that fifteen years later Gerard’s family was still struggling with their son’s decision to convert. The book was inscribed by Kate Hopkins on 2 April 1881.
+Littledale’s *Plain Reasons* was written to address “those who have seceded, or are tempted to secession, from the Church of England to the Roman Communion; that they may see what is the true nature of the accountability with which they are charging themselves in following their own private judgment rather than the providential order of God.” Acquisition of the book might mean that fifteen years later Gerard’s family was still struggling with their son’s decision to convert. The book was inscribed by Kate Hopkins on 2 April 1881.
 
 {{% /largefigure %}}
 
