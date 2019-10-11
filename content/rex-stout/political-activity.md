@@ -7,7 +7,7 @@ weight:  2
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
@@ -28,7 +28,7 @@ Rex Stout became involved in public affairs when he started the Educational Thri
 
 {{% /galleryrow %}}
 __Radio Broadcasts__
-{{% galleryrow %}}
+{{% galleryrow layout="landscape" %}}
 {{< figure src="../028-FurtherAidToBritain.jpg"
            headline="Stout discusses sending aid to Britain"
            description="Box 13, Folder 4, [John J. McAleer Faculty Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21349383200001021), BC1995-016"
@@ -161,7 +161,7 @@ Rex Stout developed the Educational Thrift Service in 1916. Its goal was to teac
 >}}
 {{% /galleryrow %}}
 
-{{% galleryrow %}}
+{{% galleryrow layout="landscape" %}}
 {{< figure src="../066-SavingPassbook(1).jpg"
            headline="Explanation of the Educational Thrift Service for pupils and teachers"
            description="Box 13, Folder 29, [John J. McAleer Faculty Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21349383200001021), BC1995-016"

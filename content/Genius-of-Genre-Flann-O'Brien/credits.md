@@ -17,4 +17,6 @@ Sponsored by Boston College Libraries
 
 Curator: Christian Dupont, Burns Librarian and Associate University Librarian, Special Collections
 
+Graphic design by Kate Edrington
+
 Originally displayed: Burns Library, February - June 2019

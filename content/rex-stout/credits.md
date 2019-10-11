@@ -8,13 +8,15 @@ weight: 1000
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
 
 Sponsored by Boston College Libraries
 
-Curator(s): Sadie Sunderland-Rhoads, M.A. Boston College
+Curator: Sadie Sunderland-Rhoads, M.A. Boston College
+
+Graphic design by Kate Edrington
 
 Originally displayed: Burns Library, October 2019 - February 2020

@@ -19,5 +19,6 @@ Curators: Barbara Adams Hebard, Conservator, John J. Burns Library, Boston Colle
 
 Andrew Isidoro, Public Services Specialist, John J. Burns Library, Boston College
 
+Graphic design by Kate Edrington
 
 Originally displayed: Burns Library, June - October 2018
