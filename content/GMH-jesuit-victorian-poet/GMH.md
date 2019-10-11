@@ -64,7 +64,7 @@ This book is available for students at Boston College Campus Ministry. The Offic
 		   
 This volume from the Burns Library Thomas Merton Collection shows the page in which Merton received spiritual prompting from reading Lahey’s biography of Hopkins. Although Merton had for some time been pondering joining the Church, reading this passage became a defining moment for him. He put the book down and went to tell Father Ford, a priest at Corpus Christi Church in New York, “I want to become a Catholic.”
 
-
+{{% /largefigure %}}
 		   
 {{% galleryrow %}}
 
