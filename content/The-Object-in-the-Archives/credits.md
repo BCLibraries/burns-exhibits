@@ -21,4 +21,6 @@ Curator:
 Rachel A. Ernst
 PhD candidate in the Boston College English Department, and Burns Library Reading Room Assistant.
 
+Graphic design by Kate Edrington
+
 Originally displayed: Burn Library, February - June, 2018

@@ -27,4 +27,6 @@ Annalisa Moretti, Archives Assistant
 
 Lynn Moulton, Processing Archivist
 
+Graphic design by Kate Edrington
+
 Originally displayed: Burns Library, July - September 2017
