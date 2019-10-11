@@ -64,20 +64,20 @@ This book is available for students at Boston College Campus Ministry. The Offic
 		   
 This volume from the Burns Library Thomas Merton Collection shows the page in which Merton received spiritual prompting from reading Lahey’s biography of Hopkins. Although Merton had for some time been pondering joining the Church, reading this passage became a defining moment for him. He put the book down and went to tell Father Ford, a priest at Corpus Christi Church in New York, “I want to become a Catholic.”
 
-{{% /largefigure %}}
 
-{{% largefigure src="../plain.jpg"
-           headline="Cover" 
-           description="Littledale, [*Plain reasons against joining the church of Rome*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21357314250001021),  BX1765 .L52 1880 MANLEY HOPKINS" 
-           side="left" %}}
+		   
+{{% galleryrow %}}
+
+{{< figure src="../plain.jpg"
+           headline="Cover"
+           description="Littledale, [Plain reasons against joining the church of Rome](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21357314250001021), BX1765 .L52 1880 MANLEY HOPKINS"
+>}}
+
+{{< figure src="../firefly.jpg"
+           headline="Father Gerard Manley Hopkins icon"
+           description="“Amidst the Fire Folk” by Father William H. McNichols"
+>}}
 
 
-
-{{% /largefigure %}}
-
-
-{{% figure src="../firefly.jpg"
-           headline="Father Gerard Manley Hopkins icon" 
-           description="“Amidst the Fire Folk” by Father William H. McNichols" 
-           side="left" %}}
+{{% /galleryrow %}}
 		   
