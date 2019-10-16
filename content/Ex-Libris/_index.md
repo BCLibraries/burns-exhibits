@@ -24,7 +24,7 @@ draft: true
 type: "exhibit"
 ---
 
-Bookplates are personalized, decorative labels affixed inside books to indicate ownership. Also called ex libris, a Latin phrase meaning from the books, artists incorporate design elements to represent book owners. A selection from the John J. Burns Library collections has been reproduced and enlarged here, and many more can be discovered by searching the library collections.
+Bookplates are personalized, decorative labels affixed inside books to indicate ownership. Also called ex libris, a Latin phrase meaning from the books, artists incorporate design elements to represent book owners. A selection from the John J. Burns Library collections has been reproduced here, and many more can be discovered by searching the library collections.
 
 This selection includes 17th and 18th century heraldic styles, works from the William Philips Barrett workshop in London, and Dublin’s Dun Emer Press (later Cuala Press) run by the Yeats family. Also on display, the bookplate of Boston College campus architect Timothy Walsh and his wife Marian, and that of mystery writer Rex Stout and his wife, Fay. We have selected representations of popular bookplate motifs such as library interiors and piles of books, and a smattering of evocative mottos, but look closely for more personal elements like pets, gardens, homes, and evidence of hobbies or occupations.
 
