@@ -17,4 +17,6 @@ Sponsored by Boston College Libraries
 
 Curator: Shelley Barber, Outreach & Reference Specialist, Burns Library
 
+Graphic design by Kate Edrington
+
 Originally displayed: Bapst Library, Gargan Hall, Summer 2019

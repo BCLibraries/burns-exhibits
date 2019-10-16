@@ -43,26 +43,29 @@ description="Horowitz, [*Chess Traps, Pitfalls, and Swindles*](https://bc-primo.
 headline="Stout's copy of *Chessboard Magic!*"
 description="Chernev, [*Chessboard magic! A collection of 160 brilliant chess endings*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21386552040001021), 08-000000800 STOUT"
 >}}
+
 {{% /galleryrow %}}
 
 __Cooking__
 
 {{% galleryrow %}}
+
 {{< figure src="../045-RexStoutRecipes-AmericanMagazine.jpg"
 headline="Stout’s recipes, printed in *American Magazine*"
 description="Box 32, Folder 4, [Rex Stout Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21323242860001021), MS1986-096"
   >}}
 
-  {{< figure src="../032-GriddleCakesRecipeAtlantaJournal.jpg"
+{{< figure src="../032-GriddleCakesRecipeAtlantaJournal.jpg"
   headline="Recipe based on Stout’s books"
   description="Box 1, Folder 4, [Judson C. Sapp Papers and Collection of Rex Stout](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351253640001021), MS1996-022"
-  >}}
+>}}
+
 {{% /galleryrow %}}
 
 {{% galleryrow layout="landscape" %}}
 
 {{< figure src="../033-MurderPays-Menu.jpg"
-headline="Recipes based on Stout's books"
+headline="Menu based on Stout's books"
 description="Box 1, Folder 9, [Judson C. Sapp Papers and Collection of Rex Stout](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351253640001021), MS1996-022"
   >}}
 

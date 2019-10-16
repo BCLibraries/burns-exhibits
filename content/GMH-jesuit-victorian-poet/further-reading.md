@@ -8,13 +8,13 @@ weight: 999
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
 
 
-Collection Used: Hopkins Family Papers [(MS1991-023)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21380054540001021  
+Collection Used: [Hopkins Family Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21380054540001021  ),MS1991-023
 
 __Selected Hopkins Bibliography__
 
