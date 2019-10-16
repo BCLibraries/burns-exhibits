@@ -1,5 +1,5 @@
 ---
-title: "Gallery page"
+title: "Bookplates"
 description: ""
 
 # Page order
@@ -78,6 +78,48 @@ type: "exhibit"
 {{< figure src="Dix.jpg"
            headline="E. R. McC. Dix"
            description="Box 1, Folder 8, [Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016"
+>}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{< figure src="Webb.jpg"
+           headline="Josephine Webb"
+           description="Box 1, Folder 8, [Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016"
+>}}
+
+{{< figure src="Persse.jpg"
+           headline="Lady Gregory"
+           description="Yeats and Gregory, *[Fairy and folk tales of the Irish peasantry](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21321477220001021)*, GR 153.5 .F35 1890 IRISH"
+>}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{< figure src="Doheny copy.jpg"
+           headline="Edward Lawrence Doheny"
+           description="Byrne, *[The power of the dog](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21322419840001021)*, PR6003.Y43 P65 1929 IRISH"
+>}}
+
+{{< figure src="E.S.jpg"
+           headline="E.S."
+           description="Box 1, Folder 8, [Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016"
+>}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{< figure src="../intro-image.jpg"
+           headline="Tellus"
+           description="Pellentesque Vehicula Aenean"
+>}}
+
+{{< figure src="../intro-image.jpg"
+           headline="Mollis Quam Vehicula Lorem"
+           description="Ullamcorper Egestas Dapibus"
 >}}
 
 {{% /galleryrow %}}
