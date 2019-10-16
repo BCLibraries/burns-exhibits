@@ -4,7 +4,7 @@ title: "Introduction"
 
 # Title of exhibit
 exhibit_title: "Ex Libris"
-exhibit_subtitle: ""
+exhibit_subtitle: "Bookplates from the John J. Burns Library Collections"
 
 date: 2019-10-16T11:55:29-04:00
 
@@ -12,7 +12,7 @@ date: 2019-10-16T11:55:29-04:00
 weight: 1 
 
 # Big image on first page.
-front_image: "intro-image.jpg" # Replace with the real image
+front_image: "bookplates title draft2.png" # Replace with the real image
 front_caption_headline: "Ullamcorper Condimentum Tortor Parturient"
 front_caption_text: "Donec id elit non mi porta gravida at eget metus."
 
@@ -25,6 +25,8 @@ draft: true
 type: "exhibit"
 ---
 
-Vestibulum id ligula porta felis euismod semper. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+Bookplates are personalized, decorative labels affixed inside books to indicate ownership. Also called ex libris, a Latin phrase meaning from the books, artists incorporate design elements to represent book owners. A selection from the John J. Burns Library collections has been reproduced and enlarged here, and many more can be discovered by searching the library collections.
 
-Curabitur blandit tempus porttitor. Maecenas sed diam eget risus varius blandit sit amet non magna. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sed diam eget risus varius blandit sit amet non magna.
+This selection includes 17th and 18th century heraldic styles, works from the William Philips Barrett workshop in London, and Dublin’s Dun Emer Press (later Cuala Press) run by the Yeats family. Also on display, the bookplate of Boston College campus architect Timothy Walsh and his wife Marian, and that of mystery writer Rex Stout and his wife, Fay. We have selected representations of popular bookplate motifs such as library interiors and piles of books, and a smattering of evocative mottos, but look closely for more personal elements like pets, gardens, homes, and evidence of hobbies or occupations.
+
+If you were to work with an artist to design a customized ex libris for your books, what motto would you use? What design elements would you incorporate?
