@@ -35,7 +35,7 @@ type: "exhibit"
 
 {{< figure src="Anstruther002.jpg"
            headline="Ian Anstruther"
-           description="Patmore, *[The angel in the house](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21337179030001021)*, 95/96 0162-20 PATMORE"
+           description="Patmore, *[The angel in the house](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21337179030001021)*, 95 / 96 0162-20 PATMORE"
 >}}
 
 {{< figure src="Baring003.jpg"
