@@ -38,7 +38,7 @@ type: "exhibit"
            description="Patmore, *[The angel in the house](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21337179030001021)*, 95/96 0162-20 PATMORE"
 >}}
 
-{{< figure src="Baring004.jpg"
+{{< figure src="Baring003.jpg"
            headline="Maurice Baring"
            description="Box 53, Folder 13, [Hilaire Belloc papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311957810001021), MS2005-003"
 >}}
