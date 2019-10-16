@@ -15,6 +15,6 @@ type: "exhibit"
 
 Sponsored by Boston College Libraries
 
-Curator: Shelley Barber, Outreach and Reference Specialist
+Curator: Shelley Barber, Outreach & Reference Specialist
 
 Originally displayed: Gargan Hall Landing, September - December, 2019
