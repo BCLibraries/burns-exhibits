@@ -68,7 +68,7 @@ type: "exhibit"
 
 {{< figure src="Cunningham.jpg"
            headline="Samuel Cunningham"
-           description="Samuel Cunningham scrapbook]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21429773110001021), MS2013-026"
+           description="[Samuel Cunningham scrapbook]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21429773110001021), MS2013-026"
 >}}
 
 {{< figure src="Dix.jpg"
