@@ -203,7 +203,7 @@ type: "exhibit"
 
 {{< figure src="Stout002 copy.jpg"
            headline="Rex and Fay Stout"
-           description="Austen, [Love & friendship, and other early works, now first printed from the original ms](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21386602310001021)*, 08-000001116 STOUT"
+           description="Austen, *[Love & friendship, and other early works, now first printed from the original ms](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21386602310001021)*, 08-000001116 STOUT"
 >}}
 
 {{% /galleryrow %}}
