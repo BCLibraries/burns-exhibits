@@ -113,7 +113,7 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="McCabe.jpg"
-           headline="Gwyladys McCabe"
+           headline="Gwladys McCabe"
            description="Box 5, Folder 40, [Dolmen Press records](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21501531950001021), MS2003-002"
 >}}
 
@@ -176,6 +176,34 @@ type: "exhibit"
 {{< figure src="Pitts002.jpg"
            headline="G. Ernest Pitts"
            description="Clay, *[The constant mistress](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21349065270001021)*, PR6005 .L48 C6 GILL"
+>}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{< figure src="Elmhurst002.jpg"
+           headline="Elmhurst"
+           description="Guiney, *[Songs at the start](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21315455630001021)*, PS1767 .S66 1884 GENERAL"
+>}}
+
+{{< figure src="ThornhamHall002.jpg"
+           headline="Thornham Hall"
+           description="Cressy, *[A collection of several treatises in answer to Dr. Stillingfleet](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21339094720001021)*, BX1752 .C655 1672 GREENE'S LIBRARY"
+>}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{< figure src="Trotter.jpg"
+           headline="Ellinor Trotter"
+           description="Box 111, Folder 12, [Alfred Noyes papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), MS2006-054"
+>}}
+
+{{< figure src="Stout002 copy.jpg"
+           headline="Rex and Fay Stout"
+           description="Austen, [Love & friendship, and other early works, now first printed from the original ms](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21386602310001021)*, 08-000001116 STOUT"
 >}}
 
 {{% /galleryrow %}}
