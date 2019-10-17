@@ -62,7 +62,7 @@ type: "exhibit"
 >}}
 
 {{< figure src="Carder-Davies.jpg"
-           headline="David Carder Davies"
+           headline="David Carder-Davies"
            description="Box 111, Folder 12, [Alfred Noyes papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), MS2006-054"
 >}}
 
