@@ -13,7 +13,7 @@ draft: true
 type: "exhibit"
 ---
 
-{{% figure src="../portrait-image.jpg" headline="" size="x-large" %}}
+{{% figure src="Doheny copy.jpg" %}}
 
 Collections Used: 
 
