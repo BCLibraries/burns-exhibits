@@ -15,7 +15,8 @@ type: "exhibit"
 
 {{% figure src="../portrait-image.jpg" headline="" size="x-large" %}}
 
-Collections Used: Alfred Noyes papers [(MS2006-054)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021)	
+Collections Used: 
+Alfred Noyes papers [(MS2006-054)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021)	
 
 Boston College collection of Eric Gill materials [(MS1986-139)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344683760001021)
 
