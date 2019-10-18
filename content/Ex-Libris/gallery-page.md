@@ -42,7 +42,7 @@ type: "exhibit"
 
 {{% galleryrow %}}
 
-{{< figure src="Baring003.jpg"
+{{< figure src="Baring.JPG"
            headline="Maurice Baring"
            description="Box 53, Folder 13, [Hilaire Belloc papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311957810001021), MS2005-003"
 >}}
