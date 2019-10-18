@@ -252,14 +252,14 @@ type: "exhibit"
 
 {{% galleryrow %}}
 
-{{< figure src="../intro-image.jpg"
-           headline="Tellus"
-           description="Pellentesque Vehicula Aenean"
+{{< figure src="Wyndham.jpg"
+           headline="Elizabeth Wyndham, Petworth"
+           description="Box 1, Folder 8, [Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016"
 >}}
 
-{{< figure src="../intro-image.jpg"
-           headline="Mollis Quam Vehicula Lorem"
-           description="Ullamcorper Egestas Dapibus"
+{{< figure src="UaDubda2.jpg"
+           headline="Ua Dubda"
+           description="Box 1, Folder 7, [Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016"
 >}}
 
 {{% /galleryrow %}}
