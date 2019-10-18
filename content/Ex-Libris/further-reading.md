@@ -23,7 +23,7 @@ Hilaire Belloc papers [(MS2005-003)]( https://bc-primo.hosted.exlibrisgroup.com/
 
 [Charles Maginnis collection][(https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21358207810001021)
 
-Loretta Clarke Murray collection of women in revolutionary Ireland [(MS2016-016)][https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021)
+Loretta Clarke Murray collection of women in revolutionary Ireland [(MS2016-016)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021)
  
 
 __Heading__
