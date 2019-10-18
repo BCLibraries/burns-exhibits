@@ -210,28 +210,42 @@ type: "exhibit"
 
 {{% galleryrow %}}
 
-{{< figure src="../intro-image.jpg"
-           headline="Tellus"
-           description="Pellentesque Vehicula Aenean"
+{{< figure src="Kinnaird002.jpg"
+           headline="Kinnaird"
+           description="Brodie, *[An account of the trial of William Brodie, and George Smith](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21339086770001021)*, KDC186 .B76 B76 1788b GREENE'S LIBRARY"
 >}}
 
-{{< figure src="../intro-image.jpg"
-           headline="Mollis Quam Vehicula Lorem"
-           description="Ullamcorper Egestas Dapibus"
+{{< figure src="StOswald.jpg"
+           headline="Mabel St. Oswald"
+           description="Box 111, Folder 12, [Alfred Noyes papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), MS2006-054"
 >}}
 
 {{% /galleryrow %}}
 
 {{% galleryrow %}}
 
-{{< figure src="../intro-image.jpg"
-           headline="Tellus"
+{{< figure src="Walmesley002.jpg"
+           headline="Charles Walmesley, Westwood"
+           description="Gother, *[A papist mis-represented and represented, or, A twofold character of popery](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21333512070001021)*, BX1763 .G68 1685 GREENE'S LIBRARY"
+>}}
+
+{{< figure src="LordViscountPowerscourt (1).jpg"
+           headline="Lord Viscount Powerscourt"
+           description="Morgan, *[A complete history of Algiers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21357694270001021)*, DT284 .M84 WILLIAMS"
+>}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{< figure src="Noyes.jpg"
+           headline="Thomas Herbert Noyes, Esquire"
            description="Pellentesque Vehicula Aenean"
 >}}
 
-{{< figure src="../intro-image.jpg"
-           headline="Mollis Quam Vehicula Lorem"
-           description="Ullamcorper Egestas Dapibus"
+{{< figure src="JohnPitchford.tif"
+           headline="John Pitchford"
+           description="Le Sage, *[Aventuras de Gil Blas de Santillana](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21357360120001021)*, PQ1997.G6 S5 1788 MANLEY HOPKINS"
 >}}
 
 {{% /galleryrow %}}
