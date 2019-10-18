@@ -258,7 +258,7 @@ type: "exhibit"
 >}}
 
 {{< figure src="UaDubda2.jpg"
-           headline="Ua Dubda"
+           headline="Na Dubda"
            description="Box 1, Folder 7, [Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016"
 >}}
 
