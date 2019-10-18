@@ -28,14 +28,3 @@ Hilaire Belloc papers [(MS2005-003)]( https://bc-primo.hosted.exlibrisgroup.com/
 Loretta Clarke Murray collection of women in revolutionary Ireland [(MS2016-016)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021)
  
 
-__Heading__
-
-Last, First M. *[Title of resource](https://link-to-resource.edu)*. Place of pub: Publisher, Year.
-
-*[Newspaper title](https://link-to-resource.edu)*. “Article Title” Date, Year.
-
-Last, First M. *[Title of resource](https://link-to-resource)*. Place of pub: Publisher, Year.
-
-Last, First M. *[Title of resource](https://link-to-resource.edu)*. Place of pub: Publisher, Year.
-
-------. “Article title” *[Journal](https://link-to-resource.edu)* Vol, Issue (Date Year): page-page.
