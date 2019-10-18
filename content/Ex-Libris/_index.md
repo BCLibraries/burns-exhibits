@@ -4,7 +4,7 @@ title: "Introduction"
 
 # Title of exhibit
 exhibit_title: "Ex Libris"
-exhibit_subtitle: ""
+exhibit_subtitle: "Bookplates from the John J. Burns Library Collections"
 
 date: 2019-10-16T11:55:29-04:00
 
