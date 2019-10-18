@@ -13,6 +13,8 @@ draft: true
 type: "exhibit"
 ---
 
+{{% figure src="Baring.JPG" %}}
+
 Sponsored by Boston College Libraries
 
 Curator: Shelley Barber, Outreach & Reference Specialist
