@@ -240,10 +240,10 @@ type: "exhibit"
 
 {{< figure src="Noyes.jpg"
            headline="Thomas Herbert Noyes, Esquire"
-           description="Pellentesque Vehicula Aenean"
+           description="Box 111, Folder 11, [Alfred Noyes papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), MS2006-054"
 >}}
 
-{{< figure src="JohnPitchford.tif"
+{{< figure src="../intro-image.jpg"
            headline="John Pitchford"
            description="Le Sage, *[Aventuras de Gil Blas de Santillana](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21357360120001021)*, PQ1997.G6 S5 1788 MANLEY HOPKINS"
 >}}
