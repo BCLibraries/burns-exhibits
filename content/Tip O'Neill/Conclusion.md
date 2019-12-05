@@ -13,23 +13,17 @@ draft: true
 type: "exhibit"
 ---
 
-Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla.
+On January 5, 1994, Thomas P. O'Neill, Jr. passed away at Brigham and Women's Hospital in Boston. He was eighty-one years old. It was a sad day for Boston College as it had lost one of its "favorite sons." On February 3, the Boston College community held a final tribute for O'Neill. The cover of the program is reproduced to the left. Charles D. Ferris (BC Class of 1954), former General Counsel to the Speaker, remarked "He [O'Neill] never insulated himself from the pain of normal people. In his 50 years of public service, he never forgot who he was, where he came from, or who hired him...I never saw him look over the shoulder of a person to try and talk to someone else who may have been more important...Duplicity was a stranger to him. I think Tip must have failed Latin here at Boston College; he didn't know the meaning of pro forma." Though Boston College was not in his home district, O'Neill always represented the university well.
 
 {{% figure src="../portrait-image.jpg"
            headline="Consectetur Ligula Venenatis Vestibulum" 
            description="Tellus Sem Pharetra Ridiculus" 
            side="right" %}}
 
-Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Sed posuere consectetur est at lobortis.
+On January 6, 1994, President J. Donald Monan, S.J. issued a public statement and remarked that "For the past 50 years, it has been this University's pride to witness the love and esteem of the entire nation spontaneously directed to one of its beloved sons. If it has always been Jesuit education's aspiration to educate men and women for service to others, Speaker O'Neill is one whose faith helped him understand the importance of taking responsibility for his world and making a difference for others; but it bestowed the humility as well to know that even largeheartedness is a gift to enhance not himself but those he loved and served." It is indeed a fitting legacy that the name of Thomas P. O'Neill Jr. lives on in so many ways at Boston College to this day. O'Neill is pictured here in a 1984 photograph standing with wife Millie in front of the library named in his honor.
 
-Aenean lacinia bibendum nulla sed consectetur. Sed posuere consectetur est at lobortis. Nulla vitae elit libero, a pharetra augue. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Sed posuere consectetur est at lobortis.
 
-{{% figure src="../intro-image.jpg"
-           headline="Consectetur Ligula Venenatis Vestibulum" 
-           description="Tellus Sem Pharetra Ridiculus" side="left" %}}
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Curabitur blandit tempus porttitor.
-
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-
-Cras mattis consectetur purus sit amet fermentum. Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ullamcorper nulla non metus auctor fringilla.
+{{% figure src="../CA2009-01 box 467.jpg"
+           headline="Photo Album-Thomas P. O'Neill Library Dedication-Boston College, 1984 October 14" 
+           description="Box 467, [Tip O'Neill Congressional papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21339013100001021), CA2009-01" side="left" %}}
