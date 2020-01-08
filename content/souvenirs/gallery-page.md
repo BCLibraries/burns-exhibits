@@ -12,21 +12,46 @@ draft: true
 type: "exhibit"
 ---
 
+
 {{% galleryrow %}}
 
-{{< figure src="../portrait-image.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
-           description="Sollicitudin Mollis Venenatis Sit"
+{{< figure src="1A.png"
+           headline="Biskra – Un Soudanais"
+           description="“Box 1, Africa, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089”
+		   "
 >}}
 
-{{< figure src="../portrait-image.jpg"
-           headline="Porta Tristique Ligula"
-           description="Fringilla Cursus Sollicitudin Dapibus"
+{{< figure src="1B.png"
+           headline="Biskra – Un Soudanais - verso"
+           description=""
 >}}
 
-{{< figure src="../portrait-image.jpg"
-           headline="Amet Pellentesque"
-           description="Parturient Nullam Tellus Vehicula"
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{< figure src="../intro-image.jpg"
+           headline="Tellus"
+           description="Pellentesque Vehicula Aenean"
+>}}
+
+{{< figure src="../intro-image.jpg"
+           headline="Mollis Quam Vehicula Lorem"
+           description="Ullamcorper Egestas Dapibus"
+>}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{< figure src="../intro-image.jpg"
+           headline="Tellus"
+           description="Pellentesque Vehicula Aenean"
+>}}
+
+{{< figure src="../intro-image.jpg"
+           headline="Mollis Quam Vehicula Lorem"
+           description="Ullamcorper Egestas Dapibus"
 >}}
 
 {{% /galleryrow %}}
