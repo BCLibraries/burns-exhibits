@@ -1,6 +1,6 @@
 ---
-title: "Gallery page"
-description: "Postcards"
+title: "Postcards"
+description: ""
 
 # Page order
 weight:  2
@@ -43,12 +43,12 @@ type: "exhibit"
 
 {{% galleryrow %}}
 
-{{< figure src="../intro-image.jpg"
+{{< figure src="3A.png"
            headline="Tellus"
            description="Pellentesque Vehicula Aenean"
 >}}
 
-{{< figure src="../intro-image.jpg"
+{{< figure src="../3B.png"
            headline="Mollis Quam Vehicula Lorem"
            description="Ullamcorper Egestas Dapibus"
 >}}
