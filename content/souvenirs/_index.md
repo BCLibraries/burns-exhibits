@@ -12,7 +12,7 @@ date: 2019-11-19T11:37:04-05:00
 weight: 1 
 
 # Big image on first page.
-front_image: "intro-image.jpg" # Replace with the real image
+front_image: "postcards promo3.png" # Replace with the real image
 front_caption_headline: ""
 front_caption_text: ""
 
