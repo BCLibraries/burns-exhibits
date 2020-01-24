@@ -432,17 +432,3 @@ type: "exhibit"
 >}}
 
 {{% /galleryrow %}}
-
-{{% galleryrow %}}
-
-{{< figure src="../intro-image.jpg"
-           headline="Tellus"
-           description="Pellentesque Vehicula Aenean"
->}}
-
-{{< figure src="../intro-image.jpg"
-           headline="Mollis Quam Vehicula Lorem"
-           description="Ullamcorper Egestas Dapibus"
->}}
-
-{{% /galleryrow %}}
