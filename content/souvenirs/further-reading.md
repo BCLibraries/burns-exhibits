@@ -16,10 +16,9 @@ type: "exhibit"
 
 All images are from the Boston College collection of photographic postcards, [MS1986-089](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021). 
 
-__Heading__
 
 Klich, Lynda and Benjamin Weiss. *[The Postcard Age: Selections from the Leonard A. Lauder Collection](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21423158350001021)*. Boston: MFA Publications, Museum of Fine Arts, Boston, 2012.
 
-Geary, Christraud M. and Virginia-Lee Webb. *Delivering views: distant cultures in early postcards* Washington, D.C.: Smithsonian Institution Press, 1998.
+Geary, Christraud M. and Virginia-Lee Webb. *Delivering views: distant cultures in early postcards.* Washington, D.C.: Smithsonian Institution Press, 1998.
 
 
