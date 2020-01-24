@@ -17,7 +17,7 @@ type: "exhibit"
 
 {{< figure src="../1A.png"
            headline="Biskra, Un Soudanais"
-           description="Pellentesque Vehicula Aenean"		 
+           description="Box 1, Africa, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"		 
 >}}
 
 {{< figure src="../1B.png"
