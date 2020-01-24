@@ -15,7 +15,7 @@ type: "exhibit"
 
 {{% figure src="../27A.png" headline="" size="x-large" %}}
 
-Collection Used: Boston College collection of photographic postcards [MS1986-089](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021)  
+Collection used: Boston College collection of photographic postcards [MS1986-089](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021)  
 
 __Heading__
 
