@@ -17,12 +17,12 @@ type: "exhibit"
 
 {{< figure src="../1A.png"
            headline="Biskra, Un Soudanais"
-           description="Box 1, Africa, [Boston College collection of photographic postcards, MS1986-089](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021)”		 
+           description="”		 
 >}}
 
 {{< figure src="../1B.png"
            headline="Biskra, Un Soudanais - verso"
-           description="Box 1, Africa, [Boston College collection of photographic postcards, MS1986-089](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021)"
+           description=""
 >}}
 
 {{% /galleryrow %}}
