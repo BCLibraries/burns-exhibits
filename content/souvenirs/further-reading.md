@@ -15,13 +15,13 @@ type: "exhibit"
 
 {{% figure src="../15A.png" headline="" size="x-large" %}}
 
-All images are from the Boston College collection of photographic postcards[MS1986-089](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021). 
+All images are from the Boston College collection of photographic postcards [MS1986-089](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021). 
 
 __Heading__
 
-Last, First M. *[Title of resource](https://link-to-resource.edu)*. Place of pub: Publisher, Year.
+Last, First M. *[The Postcard Age: Selections from the Leonard A. Lauder Collection](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21423158350001021)*. Place of pub: Publisher, Year.
 
-Last, First M. *[Title of resource](https://link-to-resource)*. Place of pub: Publisher, Year.
+Last, First M. *Delivering views: distant cultures in early postcards* Washington, D.C.: Smithsonian Institution Press, 1998.
 
 Last, First M. *[Title of resource](https://link-to-resource.edu)*. Place of pub: Publisher, Year.
 
