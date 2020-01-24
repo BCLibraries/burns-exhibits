@@ -58,13 +58,13 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="../4A.png"
-           headline="Tiroler Trachten Eggantial"
-           description="Pellentesque Vehicula Aenean"
+           headline="Tiroler Trachten Eggantal"
+           description="Box 1, Italy, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
 {{< figure src="../4B.png"
-           headline="Tiroler Trachten Eggantial - verso"
-           description="Ullamcorper Egestas Dapibus"
+           headline="Tiroler Trachten Eggantal - verso"
+           description="Box 1, Italy, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
 {{% /galleryrow %}}
@@ -73,12 +73,12 @@ type: "exhibit"
 
 {{< figure src="../5A.png"
            headline="Tiroler Trachten Ald Algund"
-           description="Pellentesque Vehicula Aenean"
+           description="Box 1, Italy, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
 {{< figure src="../5B.png"
            headline="Tiroler Trachten Ald Algund - verso"
-           description="Ullamcorper Egestas Dapibus"
+           description="Box 1, Italy, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
 {{% /galleryrow %}}
@@ -87,12 +87,12 @@ type: "exhibit"
 
 {{< figure src="../6A.png"
            headline="Groednertrachten"
-           description="Pellentesque Vehicula Aenean"
+           description="Box 1, Italy, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
 {{< figure src="../6B.png"
            headline="Groednertrachten - verso"
-           description="Ullamcorper Egestas Dapibus"
+           description="Box 1, Italy, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
 {{% /galleryrow %}}
