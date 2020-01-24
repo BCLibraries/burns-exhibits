@@ -57,6 +57,62 @@ type: "exhibit"
 
 {{% galleryrow %}}
 
+{{< figure src="../4A.png"
+           headline="Tiroler Trachten Eggantial"
+           description="Pellentesque Vehicula Aenean"
+>}}
+
+{{< figure src="../4B.png"
+           headline="Tiroler Trachten Eggantial - verso"
+           description="Ullamcorper Egestas Dapibus"
+>}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{< figure src="../5A.png"
+           headline="Tiroler Trachten Ald Algund"
+           description="Pellentesque Vehicula Aenean"
+>}}
+
+{{< figure src="../5B.png"
+           headline="Tiroler Trachten Ald Algund - verso"
+           description="Ullamcorper Egestas Dapibus"
+>}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{< figure src="../6A.png"
+           headline="Groednertrachten"
+           description="Pellentesque Vehicula Aenean"
+>}}
+
+{{< figure src="../6B.png"
+           headline="Groednertrachten - verso"
+           description="Ullamcorper Egestas Dapibus"
+>}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{< figure src="../intro-image.jpg"
+           headline="Tellus"
+           description="Pellentesque Vehicula Aenean"
+>}}
+
+{{< figure src="../intro-image.jpg"
+           headline="Mollis Quam Vehicula Lorem"
+           description="Ullamcorper Egestas Dapibus"
+>}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
 {{< figure src="../intro-image.jpg"
            headline="Tellus"
            description="Pellentesque Vehicula Aenean"
