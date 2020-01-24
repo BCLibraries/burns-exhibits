@@ -43,7 +43,7 @@ type: "exhibit"
 
 {{% galleryrow %}}
 
-{{< figure src="3A.png"
+{{< figure src="../3A.png"
            headline="Tellus"
            description="Pellentesque Vehicula Aenean"
 >}}
