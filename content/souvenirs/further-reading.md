@@ -13,7 +13,7 @@ draft: true
 type: "exhibit"
 ---
 
-{{% figure src="../27A.png" headline="" size="x-large" %}}
+{{% figure src="../15A.png" headline="" size="x-large" %}}
 
 All images are from the Boston College collection of photographic postcards[MS1986-089](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021). 
 
