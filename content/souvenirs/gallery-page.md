@@ -17,12 +17,12 @@ type: "exhibit"
 
 {{< figure src="../1A.png"
            headline="Biskra, Un Soudanais"
-           description="”		 
+           description="Pellentesque Vehicula Aenean"		 
 >}}
 
 {{< figure src="../1B.png"
            headline="Biskra, Un Soudanais - verso"
-           description=""
+           description="Pellentesque Vehicula Aenean"
 >}}
 
 {{% /galleryrow %}}
