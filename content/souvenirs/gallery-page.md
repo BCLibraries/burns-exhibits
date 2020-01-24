@@ -141,18 +141,87 @@ type: "exhibit"
 
 {{% galleryrow %}}
 
-{{< figure src="../intro-image.jpg"
-           headline="Tellus"
-           description="Pellentesque Vehicula Aenean"
+{{< figure src="../10A.png"
+           headline="Costume d’Homme de Vannes et des Environs"
+           description="Box 1, France, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{< figure src="../intro-image.jpg"
-           headline="Mollis Quam Vehicula Lorem"
-           description="Ullamcorper Egestas Dapibus"
+{{< figure src="../10B.png"
+           headline="Costume d’Homme de Vannes et des Environs"
+           description="Box 1, France, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
 {{% /galleryrow %}}
 
+{{% galleryrow %}}
+
+{{< figure src="../11A.png"
+           headline="Türke aus Bosnien"
+           description="Box 2, Turkey, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
+>}}
+
+{{< figure src="../11B.png"
+           headline="Türke aus Bosnien - verso"
+           description="Box 2, Turkey, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
+>}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{< figure src="../12A.png"
+           headline="Türke, Vorbereitung z. Gebet. I"
+           description="Box 2, Turkey, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
+>}}
+
+{{< figure src="../12B.png"
+           headline="Türke, Vorbereitung z. Gebet. I - verso"
+           description="Box 2, Turkey, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
+>}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{< figure src="../13A.png"
+           headline="Türke, Vorbereitung zum Gebet. III"
+           description="Box 2, Turkey, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
+>}}
+
+{{< figure src="../13B.png"
+           headline="Türke, Vorbereitung zum Gebet. III - verso"
+           description="Box 2, Turkey, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
+>}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{< figure src="../14A.png"
+           headline="Marken"
+           description="Box 2, Holland, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
+>}}
+
+{{< figure src="../14B.png"
+           headline="Marken - verso"
+           description="Box 2, Holland, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
+>}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{< figure src="../15A.png"
+           headline="Serbin im Nationalkostüm"
+           description="Box 2, Turkey, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
+>}}
+
+{{< figure src="../15B.png"
+           headline="Serbin im Nationalkostüm - verso"
+           description="Box 2, Turkey, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
+>}}
+
+{{% /galleryrow %}}
 
 {{% galleryrow %}}
 
@@ -181,7 +250,6 @@ type: "exhibit"
 >}}
 
 {{% /galleryrow %}}
-
 
 {{% galleryrow %}}
 
