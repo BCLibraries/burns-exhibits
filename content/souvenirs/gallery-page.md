@@ -1,6 +1,6 @@
 ---
 title: "Gallery page"
-description: ""
+description: "Postcards"
 
 # Page order
 weight:  2
@@ -22,7 +22,7 @@ type: "exhibit"
 
 {{< figure src="../1B.png"
            headline="Biskra, Un Soudanais - verso"
-           description="Pellentesque Vehicula Aenean"
+           description="Box 1, Africa, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
 {{% /galleryrow %}}
@@ -30,13 +30,13 @@ type: "exhibit"
 {{% galleryrow %}}
 
 {{< figure src="../2A.png"
-           headline="Tellus"
-           description="Pellentesque Vehicula Aenean"
+           headline="Tunisie – Femme de Sousse"
+           description="Box 1, Africa, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
 {{< figure src="../2B.png"
-           headline="Mollis Quam Vehicula Lorem"
-           description="Ullamcorper Egestas Dapibus"
+           headline="Tunisie – Femme de Sousse"
+           description="Box 1, Africa, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
 {{% /galleryrow %}}
