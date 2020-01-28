@@ -53,6 +53,9 @@ Groundbreaking and construction work began on the Thomas P. O'Neill Jr. Library 
 
 From 1987 to1996, Boston College recreated the Speaker's Office in the Bapst Library. The original exhibit is pictured here. The room had originally housed the Library Director's Office (and presently houses the University Chancellor's Office). On loan from the government was a desk used by President Grover Cleveland (used by O'Neill in his Washington Office), a grandfather clock, curtains, two chandeliers, a sofa, a love seat, chairs, tables, lamps and a porcelain horse sculpture given to the Speaker by the premier of China. In 1999, the exhibit was refashioned and permanently installed on the second floor of the O'Neill Library.
 
-
+{{% figure src="../CA2009-01 box 434 folder 8.jpg"
+           headline="O'Neill Scholarship Winners, May, 1990" 
+           description="Box 434, Folder 8, [Tip O'Neill Congressional papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21339013100001021), CA2009-01" 
+           side="left" %}}
 
 Thomas P' O'Neill, Jr. is pictured here with the O'Neill Scholarship Recipients in May 1990. It is a fitting legacy to have this scholarship named after him. In 1986, O'Neill remarked that "Yet even today there is a need to ensure that Boston College remains true to its long tradition of educating the sons and daughters of the working class...Pursuing a degree at Boston College takes more than time and talent, it takes a lot of money...Even with federal and state assistance many young people cannot afford the cost of four years of study. At Boston College, the Thomas P. O'Neill, Jr. Scholarship Fund will solve that problem for some deserving but financially disadvantaged youths. Hopefully, it will also help guarantee that a proud tradition of Boston College's past will be a continuing part of Boston College's future." To this day, students from O'Neill's congressional district receive this scholarship and are able to attend Boston College.
