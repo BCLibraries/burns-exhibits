@@ -6,7 +6,7 @@ title: "Introduction"
 exhibit_title: "Souvenirs"
 exhibit_subtitle: "Portraits within the Boston College Photographic Postcard Collection"
 
-date: 2019-11-19T11:37:04-05:00
+date: 2020-01-27T11:37:04-05:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1 
@@ -20,7 +20,7 @@ front_caption_text: ""
 current: false
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
