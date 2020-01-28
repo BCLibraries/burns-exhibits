@@ -23,9 +23,9 @@ Throughout the years, Boston College has recognized the achievements of Thomas P
 
 On May 13, 1964, O'Neill was honored as the year's outstanding alumnus by the Boston College Alumni Club of Washington, D.C. President Reverend Michael P. Walsh, S.J. is shown here presenting the award to O'Neill. The congressman had also received the Alumni Association's William V. McKenna Medal earlier that year.
 
-{{% figure src="../BC1998-27 Box 6 Folder 5.jpg"
+{{% figure src="../BC1986-32 Box 5 Folder 20.jpg"
            headline="Commencement 1973" 
-           description="Box 6, Folder 5, [Boston College Commencement Materials](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21476208860001021), BC1988-27 " side="left" %}}
+           description="Box 5, Folder 20, [Boston College special guests and events photographs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21425342270001021), BC1986-32 " side="left" %}}
 
 
 At the 1973 University Commencement, O'Neill received an honorary law degree. He is shown here at the ceremonies standing next to Father Monan. In the late 1930s, while a state representative, O'Neill had enrolled in the Boston College Law School. However, the pressures of simultaneously going to school and being an elected official left very little time for serious study. According to O'Neill biographer Farrell, he and follow state legislator Edward Boland were both "booted out" of the Law School when the Dean decided to raise the academic standards. The incident bothered O'Neill for years to come. Receiving an honorary law degree must have given him a sense of vindication.
