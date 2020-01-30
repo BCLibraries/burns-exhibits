@@ -3,10 +3,10 @@
 title: "Introduction"
 
 # Title of exhibit
-exhibit_title: "Devoted Catholic and Determined Writer"
+exhibit_title: "Devoted Catholic & Determined Writer"
 exhibit_subtitle: "Louise Imogene Guiney in Boston"
 
-date: 2020-01-28T013:24:18-05:00
+date: 2020-01-29
 
 # Page order (1 is 1st page, etc.)
 weight: 1
