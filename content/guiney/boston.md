@@ -3,7 +3,7 @@ title: "Boston: A Publishing Hub"
 description: ""
 
 # Page order (1 is 1st page, etc.)
-weight:  4
+weight:  3
 alwaysopen: true
 
 # Change to false to publish.
@@ -59,6 +59,7 @@ O’Reilly and Guiney made significant contributions to their time, as described
 {{% /largefigure %}}
 
 __Late 19th century design__
+
 The books in this section, printed between 1885 and 1895, have cover designs that reflect the techniques and styles typical of the period and its emphasis on craftsmanship. Guiney’s collections of poems, Songs at the Start and The White Sail, feature striking ornaments that echo their titles. Her collections of essays, Goose Quill Papers and A Little English Gallery, also boast gold-stamped cover designs that respond to their contents. Illustrations for Guiney’s retelling of the story of “Peter Rugg the Bostonian” and her essay on Martha Hilton reflect a Colonial Revival style in keeping with their Colonial-era subject matters. The increasing care and resources that publishers invested in cover designs, illustrations, and frontispiece portraits for Guiney’s work provide evidence of her growing reputation as a writer as the 19th century came to a close.
 
 
@@ -101,6 +102,7 @@ The books in this section, printed between 1885 and 1895, have cover designs tha
 {{% /galleryrow %}}
 
 __Sarah Whyman Whitman__
+
 Sarah Wyman Whitman (1842-1904) was a pioneer artist-designer active in the Boston publishing industry during the latter part of the 19th century. Examples of her work shown here, although unsigned, may be recognized and identified by the distinctive lettering style she developed for cover titles. A Boston socialite who knew many of the area’s best-selling authors, Whitman also was acquainted with the publisher George Mifflin, a partner in Houghton, Mifflin and Company, which published three books by Guiney. An adherent of the Arts and Crafts movement, which regarded art and life as inseparable, Whitman created designs for books that were both elegant and affordable in order to provide decorative objects for the home as well as sources of intellectual cultivation for readers. Whitman was a member of the Boston Athenaeum, and met Guiney through their shared Athenaeum connections
 
 
@@ -124,6 +126,7 @@ Sarah Wyman Whitman (1842-1904) was a pioneer artist-designer active in the Bost
 {{% /galleryrow %}}
 
 __Bertram Grosvenor Goodhue__
+
 Guiney participated in gatherings of the Visionists, an informal group of Boston artists, architects, musicians, and writers inspired by the English Arts and Crafts movement founded by William Morris, which looked to the Middle Ages for its ideals. Members Ralph Adams Cram and Bertram Grosvenor Goodhue produced a periodical, *The Knight Errant*, borrowing its title from a poem by Guiney.
 
 Goodhue designed the title page for Guiney’s *Nine Sonnets Written at Oxford*, published in 1895 by F. Holland Day and Herbert Copeland. Copeland and Day produced approximately 100 volumes, including several more by Guiney, who served as the firm’s poetry editor. When it closed in 1899, she encouraged Day to devote himself more fully to photography, which he was among the first to champion as an art form. Day’s photographs of Guiney posed as St. Barbara served as models for the engraved portrait of Guiney in Alice Brown’s posthumous tribute.
@@ -179,33 +182,3 @@ Louise Chandler Moulton, author, Boston Athenaeum member, and mentor to Guiney, 
                 size="large" align="right" %}}
 As poetry editor for Copeland and Day, Guiney urged the firm to publish an American edition of Francis Thompson’s poetry, which it did in 1893, in cooperation with British literary publishing partners Elkin Mathews and John Lane. Because of the success of that publication, Copeland and Day produced New Poems in 1897.
 {{% /largefigure %}}
-
-__Irish-related publications__
-{{% largefigure src="../Guiney007.jpg"
-                headline=""
-                description="Louise Imogen Guiney, ed. *[James Clarence Mangan, his selected poems](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21315432630001021)*, PR4973 .A17 1897 General"
-                size="large"
-                align="right" %}}
-In 1897, Guiney sought to introduce the poetry of Irish author James Clarence Mangan (1803-1849) to an American audience. Mangan contributed regularly to *Dublin University Magazine* and the Irish nationalist newspaper *The Nation*, but was little known among Irish immigrants in America. Through her publication of selected poems by Mangan, Guiney also called attention to Dora Sigerson Shorter, the Irish poet and artist who had drawn Mangan’s portrait for the volume’s frontispiece.
-{{% /largefigure %}}
-
-{{% largefigure src="../Guiney037.jpg"
-                headline=""
-                description="Louise Imogen Guiney, *[Robert Emmet](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21343939550001021)* DA948.6 .E5 G9 1904 Irish"
-                size="large" align="left" %}}
-In 1904, Guiney published a biographical study of Robert Emmet (1778-1803), the Protestant Irish Republican and Irish nationalist patriot who led an abortive rebellion against British rule and was executed for treason. Describing herself as “chiefly Irish, and as much so on principle as by lineage,” Guiney encouraged Americans to take a fresh look at Emmet as a romantic rebel leader.
-{{% /largefigure %}}
-
-Guiney’s final collection of poetry included some tributes to Ireland. Guiney was excited when Sir William Hadow, British educational reformer and musicologist at Worcester College, Oxford, set her “Irish Peasant Song” poem to music, bringing it to a wider audience.
-
-{{% galleryrow %}}
-{{< figure src="../Guiney006A.jpg"
-           headline="Louise Imogen Guiney, *[Happy ending; the collected lyrics of Louise Imogen Guiney](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1s00uvk/ALMA-BC21320768740001021)*"
-           description="PS1767 .H3 1900, Theology and Ministry Library, Boston College"
->}}
-
-{{< figure src="../Guiney006B.jpg"
-           headline="Louise Imogen Guiney, *[Happy ending; the collected lyrics of Louise Imogen Guiney](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1s00uvk/ALMA-BC21320768740001021)*"
-           description="PS1767 .H3 1900, Theology and Ministry Library, Boston College"
->}}
-{{% /galleryrow %}}

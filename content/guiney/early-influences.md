@@ -64,48 +64,49 @@ The Society of the Sacred Heart, a congregation founded in 1800 by St. Madeleine
                 headline=""
                 description="Alice Brown, *[Louise Imogen Guiney](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21363172510001021)*, PS1768 .B7 1921 GENERAL"
                 size="medium"
-                align="left" %}}
+                align="right" %}}
 Aware of Elmhurst’s importance to Guiney, her friend and fellow author Alice Brown gave a copy of her biographical tribute, *Louise Imogen Guiney*, to its library. Elmhurst held many of Guiney’s books, regarding her as a role model. Brown wrote this, and most of her books, at the Boston Athenaeum.
 {{% /largefigure %}}
 
 {{% largefigure src="../Guiney004B.jpg"
                 headline=""
                 description="Alice Brown, *[Louise Imogen Guiney](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21363172510001021)*, PS1768 .B7 1921 GENERAL"
-                size="large"
-                align="right" %}}
+                size="small"
+                align="left" %}}
 Timothy Cole, a master wood engraver, created this finely detailed portrait of Guiney to serve as the frontispiece for Alice Brown’s tribute. A costly volume to produce, it was limited to 100 copies.
 {{% /largefigure %}}
 
 __Boston Public Library and the Boston Athenaeum__
 
+
 {{% largefigure src="../Guiney078.jpg"
                 headline="Boston Public Library, Boylston Street, Boston"
                 description="Horace Wadlin, *[The Public Library of the city of Boston: a History](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21325423360001021)*, Z733 .B75 W3 1911"
-                size="large"
-                align="left" %}}
+                size="medium"
+                align="right" %}}
 Dissatisfied with her job as a postmistress, Guiney took up library work instead. In 1899, she wrote to a friend, “I like my daily chore, which is on the Catalogue of our great Boston Public Library.” She developed useful skills that aided the research she conducted for her essays and biographies.
 {{% /largefigure %}}
 
 {{% largefigure src="../Guiney077.jpg"
                 headline="Boston Athenaeum, Beacon Street, Boston"
                 description="M.A. Dewolfe Howe, *[Boston, the place and the people](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21312663490001021)*, F73.3 .H85 1924 BOSTONIA"
-                size="large"
-                align="right" %}}
+                size="medium"
+                align="left" %}}
 Guiney was also able to research and write at the Boston Athenaeum, a membership library founded in 1807. Although unable to afford membership herself, she was sponsored by fellow poet Annie Adams Fields. Fields also helped Guiney by hosting her literary debut at her home, and introducing her to important Boston authors. They maintained a long friendship, with Fields including Guiney as a beneficiary in her will.
 {{% /largefigure %}}
 
 {{% largefigure src="../Guiney044B.jpg"
                 headline=""
                 description="Grace Guiney ed., *[Letters of Louise Imogen Guiney](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21363157620001021)*, PS1768 .A45 GENERAL v.2"
-                size="large"
-                align="left" %}}
+                size="medium"
+                align="right" %}}
 Guiney wrote to Herbert Clarke in January 1899 about the Boston Public Library: “It is as beautiful a prison house as can be imagined and luckily for me, I like and know the women and the men with whom I am thrown into association every day.”
 {{% /largefigure %}}
 
-{{% largefigure src="../Guiney071.jpg"
+{{% largefigure src="../Guiney71.jpg"
                 headline=""
                 description="M.A. Dewolfe Howe, *[Memories of a Hostess](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21330225630001021)*, F73.5 .H85 1922 BOSTONIA"
-                size="large"
-                align="right" %}}
+                size="medium"
+                align="left" %}}
 Guiney’s friend Annie Adams Fields was married to James T. Fields, partner in Boston’s leading publishing firm, Ticknor and Fields. The Fields frequented the Boston Athenaeum because its resources attracted writers. During the latter part of the 19th century, the Athenaeum became particularly supportive of women writers, artists, and educators.
 {{% /largefigure %}}
