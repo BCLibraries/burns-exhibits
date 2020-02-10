@@ -21,7 +21,7 @@ __The Pilot__
                 description="[Boston College Newspapers](newspapers.bc.edu)"
                 size="large"
                 align="center" %}}
-John Boyle O’Reilly (1844-1890) fascinated Bostonians with his activism as a radicalized member of the Fenian Brotherhood intent on establishing an independent Irish republic, his escape from an Australian penal colony, and his successful career as a writer, journalist, and editor of Boston’s Catholic newspaper, *The Pilot*. O’Reilly published pieces by non-Catholic authors as well, such as Annie Adams Fields, Sarah Orne Jewett, William Lloyd Garrison, and Thomas Bailey Aldrich. He naturally showcased young Catholic authors, including Guiney, offering his readers their first opportunities to encounter her poetry. In turn, Guiney must have felt enlivened by O’Reilly’s generosity and love for Ireland, where her father had been born..
+John Boyle O’Reilly (1844-1890) fascinated Bostonians with his activism as a radicalized member of the Fenian Brotherhood intent on establishing an independent Irish republic, his escape from an Australian penal colony, and his successful career as a writer, journalist, and editor of Boston’s Catholic newspaper, *The Pilot*. O’Reilly published pieces by non-Catholic authors as well, such as Annie Adams Fields, Sarah Orne Jewett, William Lloyd Garrison, and Thomas Bailey Aldrich. He naturally showcased young Catholic authors, including Guiney, offering his readers their first opportunities to encounter her poetry. In turn, Guiney must have felt enlivened by O’Reilly’s generosity and love for Ireland, where her father had been born.
 {{% /largefigure %}}
 
 {{% largefigure src="../Guiney047B.jpg"
@@ -101,7 +101,7 @@ The books in this section, printed between 1885 and 1895, have cover designs tha
 
 {{% /galleryrow %}}
 
-__Sarah Whyman Whitman__
+__Sarah Wyman Whitman__
 
 Sarah Wyman Whitman (1842-1904) was a pioneer artist-designer active in the Boston publishing industry during the latter part of the 19th century. Examples of her work shown here, although unsigned, may be recognized and identified by the distinctive lettering style she developed for cover titles. A Boston socialite who knew many of the area’s best-selling authors, Whitman also was acquainted with the publisher George Mifflin, a partner in Houghton, Mifflin and Company, which published three books by Guiney. An adherent of the Arts and Crafts movement, which regarded art and life as inseparable, Whitman created designs for books that were both elegant and affordable in order to provide decorative objects for the home as well as sources of intellectual cultivation for readers. Whitman was a member of the Boston Athenaeum, and met Guiney through their shared Athenaeum connections
 

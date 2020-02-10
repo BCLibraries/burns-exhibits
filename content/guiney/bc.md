@@ -39,7 +39,7 @@ Robert Fulton, SJ, was born in Virginia. While a student at Georgetown Universit
                 description="Box 1, Folder 5, [Robert Fulton, SJ, President’s Office records](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21331143280001021), BC1986-020B"
                 size="small"
                 align="left" %}}
-Fulton  Guiney as a writer, and acknowledged her status as a celebrity, yet cautioned: “I wonder (again)—if the little girl that I knew to be so pious, now growing into a famous woman, in the culture of the intellectual part, improves equally the moral and religious part.”
+Fulton praised Guiney as a writer, and acknowledged her status as a celebrity, yet cautioned: “I wonder (again)—if the little girl that I knew to be so pious, now growing into a famous woman, in the culture of the intellectual part, improves equally the moral and religious part.”
 {{% /largefigure %}}
 
 {{% largefigure src="../Guiney055.jpg"
