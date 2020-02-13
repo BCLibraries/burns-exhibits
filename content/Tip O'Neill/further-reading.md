@@ -15,16 +15,26 @@ type: "exhibit"
 
 {{% figure src="../portrait-image.jpg" headline="" size="x-large" %}}
 
-Collection Used: David Goldstein and Martha Moore Avery Papers [(MS1986-167)](https://link-to-collection.edu)  
+Collection Used: [Boston College Commencement Materials](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21476208860001021), BC1988-27
 
-__Heading__
+[Tip O'Neill Congressional Papers](https://hdl.handle.net/2345/9312), CA2009-01
 
-Last, First M. *[Title of resource](https://link-to-resource.edu)*. Place of pub: Publisher, Year.
+[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21428864290001021), BC1987-12
 
-*[Newspaper title](https://link-to-resource.edu)*. “Article Title” Date, Year.
+[Boston College Newspapers](https://newspapers.bc.edu/?a=d&d=bcheights19351004&e=-------en-20--1--txt-txIN-------) accessed 11/19/19
 
-Last, First M. *[Title of resource](https://link-to-resource)*. Place of pub: Publisher, Year.
+[Boston College Alumni Photographs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21427600420001021), BC1999-56
 
-Last, First M. *[Title of resource](https://link-to-resource.edu)*. Place of pub: Publisher, Year.
+[Boston College Special Guests and Events Photographs,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21425342270001021) BC1986-032 
 
-------. “Article title” *[Journal](https://link-to-resource.edu)* Vol, Issue (Date Year): page-page.
+__Published Works__
+
+Clancy, Paul R. *[Tip, a biography of Thomas P. O'Neill, Speaker of the House](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21376259070001021)*. New York: Macmillan, 1980.
+
+Farrell, John A. *[Tip O'Neill and the Democratic century](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21345810560001021)*. Boston: Little, Brown, 2001.
+
+
+O'Neill, Thomas P. *[Man of the House : the life and political memoirs of Speaker Tip O'Neill](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21336860780001021)*. New York: Random House, 1987.
+
+
+

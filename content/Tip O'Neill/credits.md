@@ -15,10 +15,6 @@ type: "exhibit"
 
 Sponsored by Boston College Libraries
 
-Curator(s): Person, Title
+Curator: Andrew Isidoro, Public Services Specialist
 
-Person, Title
-
-Person, Title
-
-Originally displayed: Location, Month - Month 2017
+Originally displayed: Online Spring 2002

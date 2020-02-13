@@ -14,7 +14,7 @@ type: "exhibit"
 ---
 {{% figure src="../yearbook.jpg"
            headline="Portrait of Thomas P. O'Neill for Boston College student yearbook" 
-           description="Box 455, Fodler 1, Tip O'Neill Congressional Papers, [CA.2009.001](https://hdl.handle.net/2345/9312)" 
+           description="Box 455, Fodler 1, [Tip O'Neill Congressional Papers](https://hdl.handle.net/2345/9312), CA2009-01" 
            side="left" %}}
 		   
 Education was important to the O'Neill family. His brother William O'Neill attended Holy Cross College and later went to Harvard Law School on a scholarship. He would later enjoy a career as a lawyer, a judge and assistant attorney general. Tip's sister Mary (O'Neill) Mulcahy started teaching at the young age of seventeen. Ultimately, she would become the first female principal of the Cambridge Public School System.

@@ -26,6 +26,6 @@ The three milestones of O'Neill's Catholic boyhood, as indicated by Farrell, wer
 
 {{% figure src="../oneill_7.jpg"
            headline="St. John’s High School Basketball Team 1931 Tip O’Neill (center), captain of the team" 
-           description="Courtesy [Cambridge Public Library](https://thecambridgeroom.wordpress.com/2012/05/24/tip-oneill-in-photos/)" side="left" %}}
+           description="[Courtesy Cambridge Public Library](https://thecambridgeroom.wordpress.com/2012/05/24/tip-oneill-in-photos/)" side="left" %}}
 
 O'Neill spent much of youthful leisure time playing and watching athletics. He enjoyed playing baseball, football, golf and basketball, and earned money as a caddy at the Arlmont Country Club. In High School, O'Neill was the captain of the basketball team during his senior year. In the photograph of this team, O'Neill is seated in the middle of the center row. Sports provided the source of his well known nickname, "Tip." The first "Tip O'Neill" was James Edward O'Neill, one of baseball's greatest batters, who played with the St. Louis Browns in the 1880's. He earned the nickname "Tip" because of an uncanny ability to foul off pitches until he drew a walk or a soft throw from a pitcher. Many boys had the nickname "Tip." Both O'Neill brothers as children had "Tip" as a nickname. Originally, Bill was known as "Tip" and Tom as "Little Tip." However, the name stuck with Tom throughout his life.
