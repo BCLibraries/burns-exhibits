@@ -13,7 +13,7 @@ draft: true
 type: "exhibit"
 ---
 
-Thomas P. O'Neill, Jr. was born into an Irish-American family on December 9, 1912, in North Cambridge, Massachusetts. His father, Thomas P. O'Neill, Sr. (1874-1953), was a mason and spent much of his life involved with local city politics. O'Neill, Sr. was also active with the local Democratic Party, his union, the Cambridge Elks Lodge and the Knights of Columbus. Tip's mother, Rose, died while he was still an infant. On her deathbed, Rose made her husband vow to keep the family together and not divide children up among different aunts and uncles. Tip, his older brother William and his sister Mary Rose were watched over by Rose Le Blanc, the family's French-Canadian housekeeper, extended family members and the Dominican nuns of the local St. John Convent.
+Thomas P. O'Neill, Jr. was born into an Irish-American family on December 9, 1912, in North Cambridge, Massachusetts. His father, Thomas P. O'Neill, Sr. (1874-1953), was a bricklayer and spent much of his life involved with local city politics. O'Neill, Sr. was also active with the local Democratic Party, his union, the Cambridge Elks Lodge and the Knights of Columbus. Tip's mother, Rose, died while he was still an infant. On her deathbed, Rose made her husband vow to keep the family together and not divide children up among different aunts and uncles. Tip, his older brother William and his sister Mary Rose were watched over by Rose Le Blanc, the family's French-Canadian housekeeper, extended family members and the Dominican nuns of the local St. John Convent.
 
 {{% figure src="../Orchard Street 72 to 74.jpg"
            headline="74 Orchard St."

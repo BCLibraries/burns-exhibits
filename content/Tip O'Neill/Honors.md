@@ -51,7 +51,7 @@ Groundbreaking and construction work began on the Thomas P. O'Neill Jr. Library 
            description="Box 1, Folder 102, [Boston College Building and Campus Images,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021) BC1987-12"
            side="right" %}}
 
-From 1987 to 1996, Boston College recreated the Speaker's Office in the Bapst Library. The original exhibit is pictured here. The room had originally housed the Library Director's Office (and presently houses the University Chancellor's Office). On loan from the government was a desk used by President Grover Cleveland (used by O'Neill in his Washington Office), a grandfather clock, curtains, two chandeliers, a sofa, a love seat, chairs, tables, lamps and a porcelain horse sculpture given to the Speaker by the premier of China. In 1999, the exhibit was refashioned and permanently installed on the second floor of the O'Neill Library.
+From 1987 to 1996, Boston College recreated the Speaker's Office in the Bapst Library. The original exhibit is pictured here. The room had originally housed the Library Director's Office. On loan from the government was a desk used by President Grover Cleveland (used by O'Neill in his Washington Office), a grandfather clock, curtains, two chandeliers, a sofa, a love seat, chairs, tables, lamps and a porcelain horse sculpture given to the Speaker by the premier of China. In 1999, the exhibit was refashioned and permanently installed on the second floor of the O'Neill Library.
 
 {{% figure src="../CA2009-01 box 434 folder 8.jpg"
            headline="O'Neill Scholarship Winners, May, 1990"
