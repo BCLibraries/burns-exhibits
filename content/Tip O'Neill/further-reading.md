@@ -15,13 +15,13 @@ type: "exhibit"
 
 {{% figure src="../portrait-image.jpg" headline="" size="x-large" %}}
 
-Collection Used: [Boston College Commencement Materials](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21476208860001021), BC1988-27
+Collections Used: [Boston College Commencement Materials](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21476208860001021), BC1988-27
 
 [Tip O'Neill Congressional Papers](https://hdl.handle.net/2345/9312), CA2009-01
 
 [Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21428864290001021), BC1987-12
 
-[Boston College Newspapers](https://newspapers.bc.edu/?a=d&d=bcheights19351004&e=-------en-20--1--txt-txIN-------) accessed 11/19/19
+[Boston College Newspapers](https://newspapers.bc.edu/)
 
 [Boston College Alumni Photographs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21427600420001021), BC1999-56
 
