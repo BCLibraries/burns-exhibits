@@ -4,7 +4,7 @@ title: "Introduction"
 
 # Title of exhibit
 exhibit_title: "Devoted Catholic & Determined Writer"
-exhibit_subtitle: "Louise Imogene Guiney in Boston"
+exhibit_subtitle: "Louise Imogen Guiney in Boston"
 
 date: 2020-01-29T11:37:04-05:00
 
