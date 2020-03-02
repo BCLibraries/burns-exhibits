@@ -25,7 +25,7 @@ draft: false
 type: "exhibit"
 ---
 
-Louise Imogen Guiney (1861-1920), one of only two women represented in Bapst Library’s stained-glass portraits of American authors, may have faded from the canon, yet she continues to offer a unique window into the multifaceted literary establishment of late 19th-century Boston.
+Louise Imogen Guiney (1861-1920), one of only two women represented in Bapst Library’s stained-glass portraits of American authors, may have faded from the canon, yet continues to offer a unique window into the multifaceted literary establishment of late 19th-century Boston.
 
 Guiney’s father was an officer in the “Fighting Ninth” Massachusetts Volunteer Infantry regiment, an Irish heritage unit that engaged in crucial Civil War battles. Active in law, politics, and Irish and Catholic organizations, he developed influential connections that aided his widow and only daughter following his early death from war-related injuries in 1877. By then, Boston had become a major hub for education, publishing, and the arts, and Guiney benefited from her father’s network. But it was her own drive to write—first, poetry, and later, short stories and biographical essays—that earned her acclaim in literary circles, if not the financial independence she sought.
 
