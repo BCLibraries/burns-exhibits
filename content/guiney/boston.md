@@ -18,7 +18,7 @@ Technology for producing books evolved rapidly in the 1800s. The use of cloth ra
 __The Pilot__
 {{% largefigure src="../Guiney072.jpg"
                 headline="*The Pilot*"
-                description="[Boston College Newspapers](newspapers.bc.edu)"
+                description="[Boston College Newspapers](https://newspapers.bc.edu)"
                 size="large"
                 align="center" %}}
 John Boyle O’Reilly (1844-1890) fascinated Bostonians with his activism as a radicalized member of the Fenian Brotherhood intent on establishing an independent Irish republic, his escape from an Australian penal colony, and his successful career as a writer, journalist, and editor of Boston’s Catholic newspaper, *The Pilot*. O’Reilly published pieces by non-Catholic authors as well, such as Annie Adams Fields, Sarah Orne Jewett, William Lloyd Garrison, and Thomas Bailey Aldrich. He naturally showcased young Catholic authors, including Guiney, offering his readers their first opportunities to encounter her poetry. In turn, Guiney must have felt enlivened by O’Reilly’s generosity and love for Ireland, where her father had been born.
@@ -53,7 +53,7 @@ O’Reilly printed Annie Adams Fields’ poetry in *The Pilot*. At his request, 
 
 {{% largefigure src="../Guiney036.jpg"
                 headline=""
-                description="Thomas H. O'Conned, ed. *[Two Centuries of Faith: the influence of Catholicism on Boston, 1808-2008](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21322992130001021)*, BX1418 .B7 T86 2009 Boston"
+                description="Thomas H. O'Connor, ed. *[Two Centuries of Faith: the influence of Catholicism on Boston, 1808-2008](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21322992130001021)*, BX1418 .B7 T86 2009 Boston"
                 size="large" align="right" %}}
 O’Reilly and Guiney made significant contributions to their time, as described in this volume, titled *Two Centuries of Faith: The Influence of Catholicism on Boston, 1808-2008*, published in Boston College’s Church in the 21st Century Series.
 {{% /largefigure %}}
