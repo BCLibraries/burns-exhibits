@@ -20,7 +20,7 @@ front_caption_text: "Commencement 1981, Box 7, Folder 100, [Boston College Comme
 current: false
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
