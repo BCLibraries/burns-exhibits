@@ -12,12 +12,12 @@ draft: false
 
 type: "exhibit"
 ---
-{{% figure src="poster.jpg"
+{{< figure src="poster.jpg"
            headline=""
            description=""
            size="large"
            side="center"
-%}}
+>}}
 
 __Collections Used__
 

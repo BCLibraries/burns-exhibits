@@ -13,11 +13,11 @@ draft: false
 type: "exhibit"
 ---
 
-{{%figure src="../tdesign.jpg"
+{{<figure src="../tdesign.jpg"
            headline="Floral Motif"
            description="Hubbard, [Little Journeys to the Homes of Great Musicians: Schumann](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21334571820001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), 12-000030161 IRISH"
            side="right"
-%}}
+>}}
 
 
 

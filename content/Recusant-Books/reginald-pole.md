@@ -13,7 +13,7 @@ draft: false
 type: "exhibit"
 ---
 
-{{% largefigure src="../Pole.png" headline="Reginald Cardinal Pole (1500-1558)." size="medium" %}}
+{{< largefigure src="../Pole.png" headline="Reginald Cardinal Pole (1500-1558)." size="medium" >}}
 Reginald Cardinal Pole (1500-1558) was a crucial player in the complex political drama that led to the creation of the Anglican Church. A grand-nephew of both Edward IV and Richard III, he was also a second cousin and close friend of Henry VIII. However, as a devout Catholic and a personal friend of the Pope, Pole eventually found himself in a difficult position: support the King -- his cousin, benefactor, and friend -- or remain faithful to the Catholic Church. 
 
 

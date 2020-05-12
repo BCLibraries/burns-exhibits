@@ -12,11 +12,11 @@ draft: false
 
 type: "exhibit"
 ---
-{{% figure src="41_cvb1357766_10_web.jpg"
+{{< figure src="41_cvb1357766_10_web.jpg"
            headline=""
            description=""
            size="large"
-           side="right" %}}
+           side="right" >}}
 
 Curator: Shelley Barber, Archives & Reference Specialist, John J. Burns Library.
 

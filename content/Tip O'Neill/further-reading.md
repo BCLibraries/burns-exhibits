@@ -13,7 +13,7 @@ draft: false
 type: "exhibit"
 ---
 
-{{% figure src="../portrait-image.jpg" headline="" size="x-large" %}}
+{{< figure src="../portrait-image.jpg" headline="" size="x-large" >}}
 
 Collections Used: [Boston College Commencement Materials](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21476208860001021), BC1988-27
 

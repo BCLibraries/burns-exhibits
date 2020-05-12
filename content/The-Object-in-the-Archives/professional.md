@@ -15,63 +15,63 @@ Professional objects are the tools necessary for work, making occupations possib
 
 These objects, far from contemporary medical instruments, exemplify the tools that were necessary for practicing health care in different eras. These tools engaged with nurses, doctors, and patients, holding multiple layers of bodies and stories within their material surfaces.
 
-{{% galleryrow layout="landscape"%}}
+{{< galleryrow layout="landscape">}}
 
-{{% galleryfigure src="../021-NursingScaleAndWeights.jpg" headline="Newark Scale Weights & Ohaus Harvard Trip Balance" %}}
+{{< galleryfigure src="../021-NursingScaleAndWeights.jpg" headline="Newark Scale Weights & Ohaus Harvard Trip Balance" >}}
 Box 42, [New England Deaconess Hospital School of Nursing](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21352763480001021) (MS1989-008)
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% galleryfigure src="../025-PharmCabinetOpen.jpg" headline="Pharmaceutical Cabinet" %}}
+{{< galleryfigure src="../025-PharmCabinetOpen.jpg" headline="Pharmaceutical Cabinet" >}}
 [Josephine Dolan Collection of Nursing History](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21352781560001021) (MS1988-004)
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
  These objects are all used in, or the product of, the art of making books. This range of items shows the process of creating books from beginning to ending--from George F. Trenholm’s type design, to the detailed book covers of the Cuala Press, to Eric Gill’s illustrative woodblock.
 
-{{% galleryrow layout="landscape" %}}
+{{< galleryrow layout="landscape" >}}
 
-{{% galleryfigure src="../004-CualaBookCovers.jpg" headline="Cuala Press Leather Book Covers" %}}
+{{< galleryfigure src="../004-CualaBookCovers.jpg" headline="Cuala Press Leather Book Covers" >}}
 Box 9, [Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021) (MS2016-006)
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% galleryfigure src="../006-Modern-Design-Front2.JPG" headline="George F. Trenholm Type Design Sample" %}}
+{{< galleryfigure src="../006-Modern-Design-Front2.JPG" headline="George F. Trenholm Type Design Sample" >}}
 Box 6, folder 2, [George F. Trenholm Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351132040001021) (MS1994-038)
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% galleryfigure src="../011B-011A-WoodblockTrinityChalice.jpg" headline="Eric Gill Print and Woodblock: The Temptation" %}}
+{{< galleryfigure src="../011B-011A-WoodblockTrinityChalice.jpg" headline="Eric Gill Print and Woodblock: The Temptation" >}}
 Box 10, [Boston College Collection of Eric Gill Materials](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344683760001021) (MS1986-139)
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
 Bette Arnold was known for her signature Rolls Royce that she parked--illegally--outside her Boston restaurant. This toy car captures the undeniable style of its owner and the power of strong association. John Donnelly & Sons were a major East Coast advertising company until 1978. This model billboard provides a visual, tactile, and customizable example of the company’s work.
-{{% galleryrow layout ="landscape" %}}
+{{< galleryrow layout ="landscape" >}}
 
-{{% galleryfigure src="../010-RollsRoyce.jpg" headline="Rolls Royce Toy Car" %}}
+{{< galleryfigure src="../010-RollsRoyce.jpg" headline="Rolls Royce Toy Car" >}}
 Box 2, object 4, [Bette Arnold Collection](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21420354730001021) (MS2012-009)
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% galleryfigure src="../014-BillboardToy.jpg" headline="Billboard desk toy, circa 1970s" %}}
+{{< galleryfigure src="../014-BillboardToy.jpg" headline="Billboard desk toy, circa 1970s" >}}
 Box 3, object 6, [John Donnelly & Sons Records](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21420112970001021) (MS2012-004)
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
 Paperwork and promotional materials are central to many jobs, especially those in the world of performance. Boston hatters Billing and Lamson knew that the best way to advertise their products was with a little celebrity power, printing trade cards featuring actresses (only one of them wears a hat). The contract, agent’s card, and advertisements for Cassie and Victoria Foster, known professionally as “The Fairy Sisters,” shows the behind-the-scenes machinations of promotional efforts.
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
-{{% galleryfigure src="../015-1-Actress-Trade-Cards.jpg" headline="Actress Trade Card: Mary Anderson" %}}
+{{< galleryfigure src="../015-1-Actress-Trade-Cards.jpg" headline="Actress Trade Card: Mary Anderson" >}}
 Box 8, folder 12, [Theater Programs Collection](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21421401050001021) (MS2011-024)
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% galleryfigure src="../015-2-Actress-Trade-Cards.jpg" headline="Actress Trade Card: Maud Granger" %}}
+{{< galleryfigure src="../015-2-Actress-Trade-Cards.jpg" headline="Actress Trade Card: Maud Granger" >}}
 Box 8, folder 12, [Theater Programs Collection](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21421401050001021) (MS2011-024)
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% galleryfigure src="../016-Fairy-Sisters-Contract.jpg" headline="Fairy Sisters Contract, 1873" %}}
+{{< galleryfigure src="../016-Fairy-Sisters-Contract.jpg" headline="Fairy Sisters Contract, 1873" >}}
 Box 1, folder 2, [Greater Boston Area Materials](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21429780640001021) (MS2013-020)
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}

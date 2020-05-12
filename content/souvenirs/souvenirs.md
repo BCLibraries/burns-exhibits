@@ -13,7 +13,7 @@ type: "exhibit"
 ---
 
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../1A.png"
            headline="Biskra, Un Soudanais"
@@ -25,9 +25,9 @@ type: "exhibit"
            description="Box 1, Africa, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../2A.png"
            headline="Tunisie – Femme de Sousse"
@@ -39,9 +39,9 @@ type: "exhibit"
            description="Box 1, Africa, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../3A.png"
            headline="II Le Maroc – Tanger – Groupe de Maures"
@@ -53,9 +53,9 @@ type: "exhibit"
            description="Box 1, Africa, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../4A.png"
            headline="Tiroler Trachten Eggantal"
@@ -67,9 +67,9 @@ type: "exhibit"
            description="Box 1, Italy, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../5A.png"
            headline="Tiroler Trachten Ald Algund"
@@ -81,9 +81,9 @@ type: "exhibit"
            description="Box 1, Italy, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../6A.png"
            headline="Groednertrachten"
@@ -95,9 +95,9 @@ type: "exhibit"
            description="Box 1, Italy, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../7A.png"
            headline="Türkinnen beim schwarzen Kaffee"
@@ -109,9 +109,9 @@ type: "exhibit"
            description="Box 2, Turkey, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../8A.png"
            headline="Türkin"
@@ -123,9 +123,9 @@ type: "exhibit"
            description="Box 2, Turkey, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../9A.png"
            headline="Hercegovinische Türkin"
@@ -137,9 +137,9 @@ type: "exhibit"
            description="Box 2, Turkey, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../10A.png"
            headline="Costume d’Homme de Vannes et des Environs"
@@ -151,9 +151,9 @@ type: "exhibit"
            description="Box 1, France, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../11A.png"
            headline="Türke aus Bosnien"
@@ -165,9 +165,9 @@ type: "exhibit"
            description="Box 2, Turkey, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../12A.png"
            headline="Türke, Vorbereitung z. Gebet. I"
@@ -179,9 +179,9 @@ type: "exhibit"
            description="Box 2, Turkey, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../13A.png"
            headline="Türke, Vorbereitung zum Gebet. III"
@@ -193,9 +193,9 @@ type: "exhibit"
            description="Box 2, Turkey, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../14A.png"
            headline="Marken"
@@ -207,9 +207,9 @@ type: "exhibit"
            description="Box 2, Holland, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../15A.png"
            headline="Serbin im Nationalkostüm"
@@ -221,9 +221,9 @@ type: "exhibit"
            description="Box 2, Turkey, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../16A.png"
            headline="Portatrice d’acqua. Belluno"
@@ -235,9 +235,9 @@ type: "exhibit"
            description="Box 2, Italy, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../17A.png"
            headline="Costume Anitco di Alfedena (Aquila)"
@@ -249,9 +249,9 @@ type: "exhibit"
            description="Box 2, Italy, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../18A.png"
            headline="Grödenthalerin"
@@ -263,9 +263,9 @@ type: "exhibit"
            description="Box 2, Italy, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../19A.png"
            headline="Herzegowinische Nationaltracht"
@@ -277,9 +277,9 @@ type: "exhibit"
            description="Box 2, Turkey, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../20A.png"
            headline="Musiciens Indigenès"
@@ -291,9 +291,9 @@ type: "exhibit"
            description="Box 1, Africa, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../21A.png"
            headline="Gourbi"
@@ -305,9 +305,9 @@ type: "exhibit"
            description="Box 1, Africa, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../22A.png"
            headline="Environs d’Auray – Trois Noces Réunies"
@@ -319,9 +319,9 @@ type: "exhibit"
            description="Box 2, France, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../23A.png"
            headline="Trinité-sur-mer – Groupe de Pêcheurs"
@@ -333,9 +333,9 @@ type: "exhibit"
            description="Box 2, France, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../24A.png"
            headline="En Sologne – Une Noce"
@@ -347,9 +347,9 @@ type: "exhibit"
            description="Box 2, France, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../25A.png"
            headline="Marken"
@@ -361,9 +361,9 @@ type: "exhibit"
            description="Box 2, Holland, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../26A.png"
            headline="Mohamedanische Schnitter"
@@ -375,9 +375,9 @@ type: "exhibit"
            description="Box 2, Turkey, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../27A.png"
            headline="Derviches Tourneurs"
@@ -389,9 +389,9 @@ type: "exhibit"
            description="Box 2, Turkey, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../28A.png"
            headline="Constantinople – Restaurant ambulant"
@@ -403,9 +403,9 @@ type: "exhibit"
            description="Box 2, Turkey, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../29A.png"
            headline="Constantinople – Les chiens de rue"
@@ -417,9 +417,9 @@ type: "exhibit"
            description="Box 2, Turkey, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../30A.png"
            headline="Rast am Bosna-Ufer"
@@ -431,4 +431,4 @@ type: "exhibit"
            description="Box 2, Turkey, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21503452010001021), MS1986-089"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}

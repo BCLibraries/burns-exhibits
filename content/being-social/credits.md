@@ -13,7 +13,7 @@ draft: false
 type: "exhibit"
 ---
 
-{{% figure src="../Social_Promo.png" headline="" size="x-large" %}}
+{{< figure src="../Social_Promo.png" headline="" size="x-large" >}}
 
 Sponsored by Boston College Libraries
 

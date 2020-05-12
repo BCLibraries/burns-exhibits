@@ -14,7 +14,7 @@ type: "exhibit"
 ---
 Bookbinding tools, equipment and materials
 
-{{% galleryrow layout ="landscape" %}}
+{{< galleryrow layout ="landscape" >}}
 
 {{< figure src="../leather-and-tools.jpg"
            headline="Leather and Tools"
@@ -24,9 +24,9 @@ Bookbinding tools, equipment and materials
            headline="Sewing Frame"
            description="">}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow layout="landscape" %}}
+{{< galleryrow layout="landscape" >}}
 
 {{< figure src="../paste-paper.jpg"
            headline="Paste Paper"
@@ -36,12 +36,12 @@ Bookbinding tools, equipment and materials
            headline="Finishing Tools "
            description="">}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% figure src="../esserconservation.jpg"
+{{< figure src="../esserconservation.jpg"
            headline="Mark Esser"
            description=""
-           side="left" %}}
+           side="left" >}}
 
 Mark Esser began his training in bookbinding in 1979 at Boston’s Harcourt Bindery, which was founded in 1900. In addition to owning and running the largest hand bindery in the country, Sam Ellenport had also started the Harcourt School of Bookbinding, and there trained many renowned American bookbinders, including Mark Esser.
 
@@ -50,7 +50,7 @@ Mark then worked in the Conservation Bindery at the Newberry Library in Chicago 
 
 Anthony acted as a traditional master when training Mark Esser. Mark is quoted describing the apprenticeship, “He made me responsible for my own learning. He would give me five or six books to work on and among the pile of books would be some new work with no explanation. I had to ask the questions. I always asked a lot of questions, but it was up to me to draw out the answers.” While William Anthony’s apprentice, Mark made models of historic bindings.
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{<  figure src="../David-Brock.jpg"
            headline="David Brock"
@@ -60,4 +60,4 @@ Anthony acted as a traditional master when training Mark Esser. Mark is quoted d
            headline="William Anthony"
            description="">}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}

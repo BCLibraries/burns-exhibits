@@ -13,7 +13,7 @@ draft: false
 type: "exhibit"
 ---
 
-{{% figure src="G_Captain Kidd buries his bible.jpg" %}}
+{{< figure src="G_Captain Kidd buries his bible.jpg" >}}
 
 Joseph J. Williams Ethnological Collection [(MS2009-030)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21345055540001021)  
 

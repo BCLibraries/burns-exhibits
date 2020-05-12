@@ -11,7 +11,7 @@ draft: false
 
 type: "exhibit"
 ---
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="D1_Chatterton.jpg"
            headline="Daring Deeds"
@@ -27,9 +27,9 @@ type: "exhibit"
            headline="The Real Story"
            description="Verrill, Alpheus Hyatt. *[The Real Story of the Pirate](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21319058390001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York, London: D. Appleton and Company, 1923."
 >}}
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="D4_OwnBook.JPG"
            headline="The Pirates Own Book"
@@ -45,9 +45,9 @@ type: "exhibit"
            headline="Wake of the Buccaneers"
            description="Verrill, Alpheus Hyatt. *[In the Wake of the Buccaneers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21319036120001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York, London: Century, 1923."
 >}}
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="D7_Eastman.jpg"
            headline="Some Famous Privateers"
@@ -63,9 +63,9 @@ type: "exhibit"
            headline="Captain Brand"
            description="Gringo, Harry (Henry Augustus Wise). *[Captain Brand of the Centipede. A Pirate of Eminence in the West Indies: His Loves and Exploits](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21347650770001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Harper & Brothers, 1864."
 >}}
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="D11_WalshKidd.JPG"
            headline="Kidd"
@@ -78,9 +78,9 @@ type: "exhibit"
 >}}
 
 >}}
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow layout="landscape" %}}
+{{< galleryrow layout="landscape" >}}
 
 {{< figure src="D10_Moonraker.JPG"
            headline="Moonraker"
@@ -92,4 +92,4 @@ type: "exhibit"
            description="Lindsay, Philip. *[Morgan in Jamaica](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21317741260001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: Fanfrolico Press, 1930."
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}

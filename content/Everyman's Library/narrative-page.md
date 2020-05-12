@@ -15,8 +15,8 @@ type: "exhibit"
 
 One easy way of showing exactly how ubiquitious the Everyman's Library was, is to highlight the fact that almost all of the different collections in Burns Library have at least one EML book among its holdings. From Irish to British Catholic Authors, Rex Stout to Peter Hebblethwait, they can be found among the personal libraries of some of the most influential 20th century writers and throughout our stacks. Following is a brief description of each collection, along with an example of an EML book from the collection.
 
-{{% figure src="../stout.jpg" headline="Rex Stout"
-description="Box 41, Folder 9, [John J. McAleer Faculty Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21349383200001021), BC1995-16" side="right" %}}
+{{< figure src="../stout.jpg" headline="Rex Stout"
+description="Box 41, Folder 9, [John J. McAleer Faculty Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21349383200001021), BC1995-16" side="right" >}}
 
 
 
@@ -49,14 +49,14 @@ included are clippings and other material relating to Stout and
 some financial records. Manuscripts of many of Stout's literary
 works comprise a large portion of the collection.
 
-{{% figure src="../The-pretenders-and-two-other-plays-08-000000212-STOUT-B695658.jpg" headline="Title Page"
-description= "Ibsen, [*The Pretenders and Two Other Plays*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21359958390001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), 08-000000212 STOUT" side="center" %}}
+{{< figure src="../The-pretenders-and-two-other-plays-08-000000212-STOUT-B695658.jpg" headline="Title Page"
+description= "Ibsen, [*The Pretenders and Two Other Plays*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21359958390001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), 08-000000212 STOUT" side="center" >}}
 
 
 **Peter Hebblethwaite Library**
 
-{{% figure src="../box 34 folder 7.jpg" headline="Peter Hebblethwaite (left)"
-description="Box 34, Folder 7, [Peter Hebblethwaite Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764590001021), MS1996-08" side="right" %}}
+{{< figure src="../box 34 folder 7.jpg" headline="Peter Hebblethwaite (left)"
+description="Box 34, Folder 7, [Peter Hebblethwaite Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764590001021), MS1996-08" side="right" >}}
 
 Peter Hebblethwaite was born on September 30, 1930 in
 Lancashire, England. In 1948 he became a novice in the Society of
@@ -82,14 +82,14 @@ papers, and photographs, as well as an array of printed materials,
 sound recordings, and publications. Hebblethwaite’s personal
 library of over 2,300 books is also in the collection.
 
-{{% figure src="../Tales from Henryk Sienkiewicz 04-6791 HEBBLETHWAITE LIBRARY B442243.jpg" headline="Paste-down"
-description="Sienkiewicz, [*Tales from Henryk Sienkiewicz*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21382417970001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), 04-6791 HEBBLETHWAITE LIBRARY" side="center" %}}
+{{< figure src="../Tales from Henryk Sienkiewicz 04-6791 HEBBLETHWAITE LIBRARY B442243.jpg" headline="Paste-down"
+description="Sienkiewicz, [*Tales from Henryk Sienkiewicz*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21382417970001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), 04-6791 HEBBLETHWAITE LIBRARY" side="center" >}}
 
 
 
 **Joseph J. Williams, SJ ethnological collection**
 
-{{% figure src="../2013-08-30 11-50-07 4.jpg" headline="Williams Collection Bookplate" side="right" %}}
+{{< figure src="../2013-08-30 11-50-07 4.jpg" headline="Williams Collection Bookplate" side="right" >}}
 
 Joseph J. Williams was born in Boston, Massachusetts on December 1, 1875. In 1893 he entered the Society of Jesus at Frederick, Maryland. From 1912 to 1917 Williams served as a missionary in Jamaica. These five years laid the foundation for his studies in anthropology. Williams gathered archaeological and anthropological data during his stay on the island. Williams began lecturing in Boston College's graduate school in 1932 and became widely known for his anthropological lectures. He helped establish the department of anthropology at BC. He also established an ethnological library containing Africana and Caribbeana; the library is named in honor of his father, Nicholas M. Williams and contains over 7,000 volumes. Williams died at Shadowbrook on October 28, 1940 after suffering a severe heart attack.  
 
@@ -103,12 +103,12 @@ correspondence between London and the British colonial
 government in Jamaica; maps; lithographs, engravings, and
 woodcuts.
 
-{{% figure src="../Ancient Hebrew literature BS895 .T2 WILLIAMS CVB1305047-10.jpg" headline="Title Page"
-description="Taylor, [*Ancient Hebrew Literature*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21339876050001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), BS895 .T2 WILLIAMS" side="center" %}}
+{{< figure src="../Ancient Hebrew literature BS895 .T2 WILLIAMS CVB1305047-10.jpg" headline="Title Page"
+description="Taylor, [*Ancient Hebrew Literature*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21339876050001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), BS895 .T2 WILLIAMS" side="center" >}}
 
 **Flann O'Brien Library**
-{{% figure src="../obrien.jpg" headline="Flann O'Brien"
-description="Box 2, Folder 17, [Flann O'Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21332671220001021), MS1997-27" side="right" %}}
+{{< figure src="../obrien.jpg" headline="Flann O'Brien"
+description="Box 2, Folder 17, [Flann O'Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21332671220001021), MS1997-27" side="right" >}}
 
 Flann O'Brien is a pen name of Brian O'Nolan, the Irish author,
 playwright and satirist, considered a major figure in twentieth
@@ -128,14 +128,14 @@ attack on April 1, 1966.
 
 [The Flann O'Brien Collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) includes the papers of his wife, Evelyn O'Nolan, who managed his estate after his death, and his brother, Micheál Ó Nualláin, an illustrator and portrait artist. The papers comprise awards, correspondence, clothing, degrees, furniture and personal belongings, literary manuscripts, medals, notes, paintings, passports, photographs, scrapbooks, sketches, theater programs and O’Brien’s personal library of over 300 books. 
 
-{{% figure src="../marcopolo.jpg" headline="Title Page"
-description="Polo, [*The Travels of Marco Polo the Venetian*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21372495820001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), G370 .P72 1907 O'BRIEN LIBRARY" side="center" %}}
+{{< figure src="../marcopolo.jpg" headline="Title Page"
+description="Polo, [*The Travels of Marco Polo the Venetian*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21372495820001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), G370 .P72 1907 O'BRIEN LIBRARY" side="center" >}}
 
 
 **Hilaire Belloc Library: King's Land**
 
-{{% figure src="../ms1998-004-221ahbelloc.jpg" headline="Hilaire Belloc"
-description="Box 2, Folder 21, [Hilaire Belloc Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21311957810001021), MS2005-03" side="right" %}}
+{{< figure src="../ms1998-004-221ahbelloc.jpg" headline="Hilaire Belloc"
+description="Box 2, Folder 21, [Hilaire Belloc Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21311957810001021), MS2005-03" side="right" >}}
 
 The English writer Joseph Hilaire Peter Belloc was born in Celle
 Saint-Cloud, France, on 27 July 1870. His mother was an English
@@ -160,13 +160,13 @@ books. Also contained in the collection is Belloc's personal library
 of about 400 books, named after his house in West Sussex, Kings
 Land.
 
-{{% figure src="../A smaller classical dictionary 07-000002031 KINGSLAND B590208.jpg" headline="Paste-down"
-description="Blakeney, [*A Smaller Classical Dictionary*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21375548930001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), 07-000002031 KINGSLAND" side="center" %}}
+{{< figure src="../A smaller classical dictionary 07-000002031 KINGSLAND B590208.jpg" headline="Paste-down"
+description="Blakeney, [*A Smaller Classical Dictionary*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21375548930001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), 07-000002031 KINGSLAND" side="center" >}}
 
 **Graham Greene Library**
 
-{{% figure src="../Greene1.jpg" headline="Graham Greene"
-description="Box 68, Folder, 13, [Graham Greene Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351254200001021), MS1995-03" side="right" %}}
+{{< figure src="../Greene1.jpg" headline="Graham Greene"
+description="Box 68, Folder, 13, [Graham Greene Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351254200001021), MS1995-03" side="right" >}}
 
 Henry Graham Greene was born on October 4, 1904 in
 Berkhamstead, Hertfordshire. Greene endured a difficult childhood,
@@ -191,13 +191,13 @@ various subject files which touch on travel, business and other issues
 important to Greene, articles about him, reviews, interviews,
 clippings, photographs, and his personal library of over 2,500 books.
 
-{{% figure src="../Conversations of Goethe with Eckermann. PT2027 .C5 O8 1930 GREENE'S LIBRARY B557153 (2).jpg" headline="Greene's Annotations"
-description="Goethe, [*Conversations of Goethe with Eckermann*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21372791870001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PT2027 .C5 O8 1930 GREENE'S LIBRARY" side="center" %}}
+{{< figure src="../Conversations of Goethe with Eckermann. PT2027 .C5 O8 1930 GREENE'S LIBRARY B557153 (2).jpg" headline="Greene's Annotations"
+description="Goethe, [*Conversations of Goethe with Eckermann*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21372791870001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PT2027 .C5 O8 1930 GREENE'S LIBRARY" side="center" >}}
 
 **British Catholic Authors: Gerard Manley Hopkins**
 
-{{% figure src="../GMH item 28.jpg" headline="Gerard Manley Hopkins, reproduction of portrait"
-description="Box 13, Folder 1, [Hopkins Family Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21380054540001021), MS1991-23" side="right" %}}
+{{< figure src="../GMH item 28.jpg" headline="Gerard Manley Hopkins, reproduction of portrait"
+description="Box 13, Folder 1, [Hopkins Family Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21380054540001021), MS1991-23" side="right" >}}
 
 The British Catholic Authors Collection features the manuscripts and
 published works of leading Catholic writers in the British Isles from
@@ -221,28 +221,28 @@ day.
 [The Hopkins Family Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21380054540001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) is composed of materials relating to members of the Hopkins family, especially Manley Hopkins, and his wife, Catherine (Kate) and their children. A number of items concern Manley Hopkins' involvement with religious and political affairs in Hawaii. There are also a few pieces of correspondence by Gerard Manley Hopkins.
 
 
-{{% figure src="../Gerard Manley Hopkins  the major poems PR4803.H44 A17 1979 BRITISH CATHOLIC AUTHORS CVB1309540-10.jpg" headline="Cover"
-description="Hopkins, [*Gerard Manley Hopkins: The Major Poems*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21334740000001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PR4803.H44 A17 1979 BRITISH CATHOLIC AUTHORS" side="center" size="medium" %}}  
+{{< figure src="../Gerard Manley Hopkins  the major poems PR4803.H44 A17 1979 BRITISH CATHOLIC AUTHORS CVB1309540-10.jpg" headline="Cover"
+description="Hopkins, [*Gerard Manley Hopkins: The Major Poems*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21334740000001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), PR4803.H44 A17 1979 BRITISH CATHOLIC AUTHORS" side="center" size="medium" >}}  
 
 
 
 
 **Liturgy and Life Collection**
 
-{{% figure src="../liturgy-and-life.jpg" headline="[Burse](https://hdl.handle.net/2345/7902)"
-description="Box 211, Folder 5, [Liturgy and Life Collection](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21440260550001021), BC2013-17" side="right" %}}
+{{< figure src="../liturgy-and-life.jpg" headline="[Burse](https://hdl.handle.net/2345/7902)"
+description="Box 211, Folder 5, [Liturgy and Life Collection](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21440260550001021), BC2013-17" side="right" >}}
 
 [This collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21440260550001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) was established by the Boston College theologian and liturgical specialist William J. Leonard, S.J. in 1978 to document the liturgical movement in the American Catholic Church from 1925 to the introduction of the Second Vatican Council's reforms. The collection has grown exponentially to include some 30,000 volumes, and is considered to be the most comprehensive archive in America on the pre-Vatican Catholic Church. The book collection is complemented by sizable holdings of manuscripts, pamphlets, ephemera, artifacts, and photographs.
 
-{{% figure src="../Apologia pro vita sua BX4705.N5 A3 1912 & LITURGY AND LIFE CVB1353117-10.jpg" headline="Title Page"
-description="Newman, [*Apologia Pro Vita Sua*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21312461760001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), BX4705.N5 A3 1912 LITURGY AND LIFE" side="center" %}}
+{{< figure src="../Apologia pro vita sua BX4705.N5 A3 1912 & LITURGY AND LIFE CVB1353117-10.jpg" headline="Title Page"
+description="Newman, [*Apologia Pro Vita Sua*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21312461760001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), BX4705.N5 A3 1912 LITURGY AND LIFE" side="center" >}}
 
 **Irish Collection**
 
-{{% figure src="../Irish.jpg" headline="Cover Detail"
-description="Wakeman, [*The Tourists' Picturesque Guide to Ireland*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21328691500001021), DA975 .W3 1888 IRISH" side="right" %}}
+{{< figure src="../Irish.jpg" headline="Cover Detail"
+description="Wakeman, [*The Tourists' Picturesque Guide to Ireland*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21328691500001021), DA975 .W3 1888 IRISH" side="right" >}}
 
 [The Irish Collection](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,Irish,AND&pfilter=pfilter,exact,archives,AND&tab=bcl_only&search_scope=lib_BURNS&sortby=rank&vid=bclib_new&lang=en_US&mode=advanced&offset=0) at Burns is widely regarded as one of the most comprehensive collections of its kind outside Ireland. Noted early on for its strong holdings of books, pamphlets, manuscripts, newspapers, periodicals and landholding records documenting Irish history and society from the late 1700's to the present, the Collection in recent years has made impressive gains in the areas of literature, art (especially the book arts), music, agricultural history, and economic history. Its literary collections of Samuel Beckett, William Butler Yeats and Seamus Heaney, for example, are ranked among the best in the world. To promote greater awareness and use of the impressive holdings, the University in 1991 established [The Burns Library Visiting Scholar in Irish Studies Chair](https://libguides.bc.edu/burnsscholars), which is open on an annual basis to scholars who have distinguished themselves in the areas of Irish history, culture and life.
 
-{{% figure src="../The Mabinogion PB2363.M2 G8 1910 IRISH B315003.jpg" headline="Title Page"
-description="Guest, [*The Mabinogion*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21377025320001021), PB2363.M2 G8 1910 IRISH" side="center" %}}
+{{< figure src="../The Mabinogion PB2363.M2 G8 1910 IRISH B315003.jpg" headline="Title Page"
+description="Guest, [*The Mabinogion*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21377025320001021), PB2363.M2 G8 1910 IRISH" side="center" >}}

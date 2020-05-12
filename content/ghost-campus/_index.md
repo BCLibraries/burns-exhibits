@@ -32,14 +32,14 @@ Property in Chestnut Hill had risen in value in the mid-19th century after road 
 
 As Boston College  settled into the neighborhood, it used generous donations to acquire nearby properties, adapted existing structures to its use, and built several new buildings. Buildings come and go as campus needs change over time. With an eye on the past and present, we hope you enjoy these glimpses of the evolution of Chestnut Hill.
 
-{{% galleryrow layout="landscape" %}}
-{{% figure src="../reservoir.png"
+{{< galleryrow layout="landscape" >}}
+{{< figure src="../reservoir.png"
                 headline="Chestnut Hill Reservoir"
                 description=""
-%}}
+>}}
 
-{{% figure src="../orchard.png"
+{{< figure src="../orchard.png"
                 headline="Louis K. Liggett Estate"
                 description=""
- %}}
-{{% /galleryrow %}}
+ >}}
+{{< /galleryrow >}}

@@ -13,7 +13,7 @@ draft: false
 type: "exhibit"
 ---
 
-{{% largefigure src="../pray-for-us-poster.png" headline="" size="large" align="right" %}}
+{{< largefigure src="../pray-for-us-poster.png" headline="" size="large" align="right" >}}
 
 __Collections Used:__
 
@@ -41,4 +41,4 @@ Richard G. Shea, SJ Papers [(BC2005-005)](https://bc-primo.hosted.exlibrisgroup.
 
 Stanbrook Abbey Press Collection [(MS2003-020)](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21352762460001021&context=L&vid=bclib_new&lang=en_US&search_scope=bcl&adaptor=Local%20Search%20Engine&tab=bcl_only&query=any,contains,stanbrook%20abbey%20press&offset=0)
 
-{{% /largefigure %}}
+{{< /largefigure >}}

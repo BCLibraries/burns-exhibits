@@ -12,7 +12,7 @@ draft: false
 
 type: "exhibit"
 ---
-{{% largefigure src="../Douay.png" headline="Colleges of Douai, by Adrien de Montigny , 1603" size="medium" %}}English Catholic Colleges Abroad
+{{< largefigure src="../Douay.png" headline="Colleges of Douai, by Adrien de Montigny , 1603" size="medium" >}}English Catholic Colleges Abroad
 
 
 

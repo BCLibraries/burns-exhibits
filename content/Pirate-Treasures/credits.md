@@ -13,7 +13,7 @@ draft: false
 type: "exhibit"
 ---
 
-{{% figure src="G_Fin_DeLusan.JPG" %}}
+{{< figure src="G_Fin_DeLusan.JPG" >}}
 
 Sponsored by Boston College Libraries
 

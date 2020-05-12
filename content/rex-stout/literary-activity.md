@@ -19,7 +19,7 @@ type: "exhibit"
 Rex Stout is best known for his mystery novels featuring Nero Wolfe, a rotund and brilliant detective who was loathe to leave his house, and his assistant, the fast talking and witty Archie Goodwin. Between 1934 and 1975, Stout wrote 45 Nero Wolfe mysteries which were published both in magazines and book format. Stout’s novels helped define an American school of detective fiction, merging the classic British detective style of Conan Doyle’s Sherlock Holmes with the wit and sass of American crime fiction, respectively personified in Wolfe and Archie. Stout was also involved in several writers’ organizations such as the Author’s Guild, through which he campaigned for authors' rights to their creative property.
 {{< /largefigure >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../016-AndBeAVillain.jpg"
            headline="Stout, And Be a Villain: A Nero Wolfe Mystery"
@@ -31,9 +31,9 @@ Rex Stout is best known for his mystery novels featuring Nero Wolfe, a rotund an
            description="[95 / 96 0005 STOUT](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21367671230001021)"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../018-TriPripady.jpg"
            headline="Stout, Tři Případy: A Nero Wolfe Mystery"
@@ -45,8 +45,8 @@ Rex Stout is best known for his mystery novels featuring Nero Wolfe, a rotund an
            description="[95 / 96 0158 STOUT](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21367670180001021)"
 >}}
 
-{{% /galleryrow %}}
-{{% galleryrow %}}
+{{< /galleryrow >}}
+{{< galleryrow >}}
 
 {{< figure src="../022-GoldenSpiders.jpg"
            headline="Stout, Golden Spiders: a Nero Wolfe Mystery"
@@ -59,9 +59,9 @@ Rex Stout is best known for his mystery novels featuring Nero Wolfe, a rotund an
 >}}
 
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../004-BlackOrchids-PhillyInquirer.jpg"
            headline="'Black Orchids' in _The Philadelphia Inquirer_"
@@ -73,9 +73,9 @@ Rex Stout is best known for his mystery novels featuring Nero Wolfe, a rotund an
             description="Box 2, Folder 3, [Ed Price Collection of Rex Stout](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21495631010001021), MS2018-057"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../001-BeforeIDie-AmericanMagazine.jpg"
            headline="'Before I Die' in _American Magazine_"
@@ -87,9 +87,9 @@ Rex Stout is best known for his mystery novels featuring Nero Wolfe, a rotund an
             description="Box 1, Folder 2, [Ed Price Collection of Rex Stout](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21495631010001021), MS2018-057"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../019-TooManyCooks.jpg"
            headline="'Too Many Cooks: A Nero Wolfe Mystery' in _American Magazine_"
@@ -101,8 +101,8 @@ Rex Stout is best known for his mystery novels featuring Nero Wolfe, a rotund an
            description="Box 1, Folder 4, [Ed Price Collection of Rex Stout](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21495631010001021), MS2018-057"
 >}}
 
-{{% /galleryrow %}}
-{{% galleryrow %}}
+{{< /galleryrow >}}
+{{< galleryrow >}}
 
 
 {{< figure src="../003A-BitterEnd-AmericanMagazine.jpg"
@@ -115,4 +115,4 @@ Rex Stout is best known for his mystery novels featuring Nero Wolfe, a rotund an
           description="Box 1, Folder 4, [Ed Price Collection of Rex Stout](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21495631010001021), MS2018-057"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}

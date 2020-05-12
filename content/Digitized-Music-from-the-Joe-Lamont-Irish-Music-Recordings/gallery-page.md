@@ -12,7 +12,7 @@ draft: true
 type: "exhibit"
 ---
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../portrait-image.jpg"
            headline="Magna Ipsum Vulputate Vehicula Cras"
@@ -29,9 +29,9 @@ type: "exhibit"
            description="Parturient Nullam Tellus Vehicula"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../intro-image.jpg"
            headline="Tellus"
@@ -43,4 +43,4 @@ type: "exhibit"
            description="Ullamcorper Egestas Dapibus"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}

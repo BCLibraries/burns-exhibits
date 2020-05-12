@@ -13,7 +13,7 @@ draft: true
 type: "exhibit"
 ---
 
-{{% figure src="Combe.JPG" %}}
+{{< figure src="Combe.JPG" >}}
 
 Collections Used: 
 

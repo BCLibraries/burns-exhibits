@@ -11,7 +11,7 @@ draft: false
 
 type: "exhibit"
 ---
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../01_cvb1307340_10_web.jpg"
            headline="America"
@@ -28,9 +28,9 @@ type: "exhibit"
            description="Bacon. *[Historic Pilgrimages in New England: Among Landmarks of Pilgrim and Puritan Days and of the Provincial and Revolutionary Periods] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21374972640001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Silver Burdett & Company, c.1898."
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../04_b370250_web.jpg"
            headline="United States"
@@ -47,9 +47,9 @@ type: "exhibit"
            description="Ballou. *[Due South; or Cuba Past and Present](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21317707730001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Boston and New York: Houghton Mifflin and Company, 1885 (or 1888)."
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../07_cvb482816_10_web.jpg"
            headline="Egypt to Palestine"
@@ -66,9 +66,9 @@ type: "exhibit"
            description="Bell. *[The Spell of the Caribbean Islands] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21317740890001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Boston: L.C. Page & Company, 1926."
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../10_b501788_web.jpg"
            headline="French Colonies"
@@ -85,9 +85,9 @@ type: "exhibit"
            description="Brown. *[Gypsy Fires in America] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21315614640001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York and London: Harper, 1924."
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../13_cvb479636_10_web.jpg"
            headline="East Africa"
@@ -104,9 +104,9 @@ type: "exhibit"
            description="Butterworth. *[Young Folks History of Boston] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21313515160001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Boston: Estes and Lauriat, 1881."
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../16_cvb1325917_10_web.jpg"
            headline="Land of Haunted Castles"
@@ -123,9 +123,9 @@ type: "exhibit"
            description="Cesnola. *[Cyprus: Its Ancient Cities, Tombs, and Temples] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21356528400001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Harper & Brothers, 1878."
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../19_cvb1296707_10_web.jpg"
            headline="New Guinea"
@@ -142,9 +142,9 @@ type: "exhibit"
            description="Connolly. *[Out of Gloucester] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21374173820001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Charles Scribner's Sons, 1902."
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../22_b297417_web.jpg"
            headline="Boston"
@@ -161,9 +161,9 @@ type: "exhibit"
            description="Davidson. *[The Romance of the Spanish Main] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21319037620001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Philadelphia: J.B. Lippincott Company, 1916. "
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../25_b324497_web.jpg"
            headline="Constantinople"
@@ -180,9 +180,9 @@ type: "exhibit"
            description="Dellenbaugh. *[The Romance of the Colorado River] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21369276430001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: G.P. Putnam's Sons, 1902."
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../28_cvb1358439_10_web.jpg"
            headline="Sahara"
@@ -199,9 +199,9 @@ type: "exhibit"
            description="Duysters. *[Opals from a Mexican Mine] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21320946120001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: New Amsterdam Book Co., 1896."
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../31_b502244_web.jpg"
            headline="The World"
@@ -218,9 +218,9 @@ type: "exhibit"
            description="Cumming. *[Two Happy Years in Ceylon](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21331958480001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Edinburgh: W. Blackwood, 1892."
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../34_bc112045_web.jpg"
            headline="Ireland"
@@ -237,9 +237,9 @@ type: "exhibit"
            description="Henderson. *[Jamaica; Painted by A. S. Forrest; Described by John Henderson](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21317705660001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: A. and C. Black, 1906."
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../37_b2823_web.jpg"
            headline="The White House"
@@ -256,9 +256,9 @@ type: "exhibit"
            description="James. *A Little Tour in France*. Boston: Houghton Mifflin and Company, 1900."
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../40_cvb1296710_10_web.jpg"
            headline="Cannibal-Land"
@@ -275,9 +275,9 @@ type: "exhibit"
            description="Judson. *[Myths and Legends of the Great Plains](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21317687080001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Chicago: A.C. McClurg & Co., 1913."
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../43_cvb481161_10_web.jpg"
            headline="Asia"
@@ -294,9 +294,9 @@ type: "exhibit"
            description="Kelly. *[Burma Painted & Described](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21331955500001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: Adam and Charles Black, 1912."
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../46_cvb1357500_10_web.jpg"
            headline="Cape Ann"
@@ -313,9 +313,9 @@ type: "exhibit"
            description="Leland. *[The Algonquin Legends of New England](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21317685940001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: S. Low Marston Searle & Rivington, 1884."
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../49_b839722_web.jpg"
            headline="Ireland"
@@ -332,9 +332,9 @@ type: "exhibit"
            description="Mason. *[Columbus Came Late](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21317661040001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: The Century Co., 1931."
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../52_b1515_web.jpg"
            headline="Quinnebasset"
@@ -351,9 +351,9 @@ type: "exhibit"
            description="Murray. *[Lives of the Catholic Heroes and Heroines of America](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21376497910001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: J. Sheehy, 1882."
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../56_cvb1303305_10_web.jpg"
            headline=""
@@ -370,9 +370,9 @@ type: "exhibit"
            description="Peary. *[The North Pole: its Discovery in 1909 Under the Auspices of the Peary Arctic Club](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21366398590001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Frederick A. Stokes Co., 1910."
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../59_b323767_web.jpg"
            headline="The Universe"
@@ -389,9 +389,9 @@ type: "exhibit"
            description="Robinson. *[A History of the World with All Its Great Sensations](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21330611410001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: P.F. Collier, 1887."
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../62_b668161_web.jpg"
            headline="Persia"
@@ -408,9 +408,9 @@ type: "exhibit"
            description="Smith. *[The Romance of the South Pole: Antarctic voyages and explorations](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21334446650001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: T. Nelson, 1900. "
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../65_b840264_web.jpg"
            headline="Connemara"
@@ -427,9 +427,9 @@ type: "exhibit"
            description="Stephens. *[A History of Gibraltar and its Siege](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21357782790001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: Provost, 1870."
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../68_cvb482983_10_web.jpg"
            headline="Palmyra"
@@ -446,9 +446,9 @@ type: "exhibit"
            description="Thonner. *[Du Congo à l'Ubangi: Mon Duexième Voyage dans l'Afrique Centrale](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21386367710001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Bruxelles: Misch & Thron, 1910. "
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../71_cvb483261_10_web.jpg"
            headline="Holy Land"
@@ -465,9 +465,9 @@ type: "exhibit"
            description="Waddell. *[Among the Himalayas](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21331961740001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Westminster: A. Constable & Co., 1899."
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../74_cvb1296683_10_web.jpg"
            headline="New Zealand"
@@ -484,9 +484,9 @@ type: "exhibit"
            description="Wiggin. *[A Summer in a Cañon : a California story](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21326191260001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. Boston: Houghton Mifflin 1890."
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../77_b474710_web.jpg"
            headline="Italy"
@@ -503,9 +503,9 @@ type: "exhibit"
            description="Wright. *[The Empire of the Hittites](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21352125020001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: Nisbet, 1884."
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../80_cvb1291042_10_web.jpg"
            headline="Arabia"
@@ -522,4 +522,4 @@ type: "exhibit"
            description=""
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}

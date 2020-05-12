@@ -14,10 +14,10 @@ type: "exhibit"
 ---
 
 
-{{% figure src="../12-13-14-ONolans.jpg"
+{{< figure src="../12-13-14-ONolans.jpg"
            headline="Michael V. O'Nolan; Agnes O'Nolan; O'Nolan children ca. 1919"
            description="Box 1, folders 61, 62, 66, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027"
-           side="center" size="large"%}}
+           side="center" size="large">}}
 
 
 **Border Baby**
@@ -34,8 +34,8 @@ Unlike James Joyce and Samuel Beckett—Irish-born writers who gained greater fa
 
 **Father Figure**
 
-{{% figure src="../Studio-Session-836.jpg" headline="Pocket Missal"
-description="Box 24, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027" side="left"  size="small" %}}
+{{< figure src="../Studio-Session-836.jpg" headline="Pocket Missal"
+description="Box 24, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027" side="left"  size="small" >}}
 
 Michael Victor O'Nolan died suddenly of a heart attack in 1937, leaving Brian as the primary breadwinner for his mother and ten siblings, of which he was the third. Having recently finished his studies and taken a job in the civil service like his father, he supported the family by acting as secretary to a series of senior ministers until a controversy forced his resignation in 1953.
 
@@ -45,17 +45,17 @@ Brian kept a photo of his father tucked in this pocket missal from the 1950s. It
 
 During his last two years at Blackrock College, Brian earned medals for English composition. At University College Dublin, he participated actively in its prestigious Literary and Historical Society, earning the medal for impromptu debate for the academic year 1931-1932 and the opportunity to participate on a travel team that competed in England. He narrowly lost an election to lead the Society to Vivion de Valera, eldest son of Éamon de Valera, Ireland’s most prominent and powerful politician.
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
-{{% galleryfigure src="../039D_UCDImpromptuDebate.jpg" headline="1931-1932 University College Dublin Literary and Historical Society, silver medal for Impromptu Debate " %}}
+{{< galleryfigure src="../039D_UCDImpromptuDebate.jpg" headline="1931-1932 University College Dublin Literary and Historical Society, silver medal for Impromptu Debate " >}}
 Box 24, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% galleryfigure src="../032A_Debates.jpg" headline="UCD Literary and Historical Society, program of debates, 1931-32" %}}
+{{< galleryfigure src="../032A_Debates.jpg" headline="UCD Literary and Historical Society, program of debates, 1931-32" >}}
 Box 17, folder 21, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
 **Blatherings**
 
@@ -63,18 +63,18 @@ Brian’s older brother Ciarán also attended UCD in the early 1930s. Both colla
 
 In the fall of 1934, Brian launched a spoof monthly news magazine called Blather for which Ciarán wrote a few articles. Five issues appeared before Brian began his civil service employment the following year. A 1988 collection of Brian’s early writings edited by critic John Wyse Jackson under the title Myles Before Myles features a cartoon on the cover of a man on a crowded Dublin bus guffawing over a copy of Blather.
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
-{{% galleryfigure src="../119_BlatherCover_72.jpg" headline="*Blather*, August 1934" %}}
+{{< galleryfigure src="../119_BlatherCover_72.jpg" headline="*Blather*, August 1934" >}}
 Image courtesy of UCD Digital Library from an original in UCD Special Collections
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% galleryfigure src="../119B_Blather_AngelaExcerpt_72.jpg" headline="Excerpt from *Blather*, August 1934" %}}
+{{< galleryfigure src="../119B_Blather_AngelaExcerpt_72.jpg" headline="Excerpt from *Blather*, August 1934" >}}
 Image courtesy of UCD Digital Library from an original in UCD Special Collections
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% galleryfigure src="../006A-myles-before-myle.jpg" headline="" %}}
+{{< galleryfigure src="../006A-myles-before-myle.jpg" headline="" >}}
 O'Brien, [*Myles Before Myles*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21347986660001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PR6029 .N56 M94 1988 O'BRIEN LIBRARY
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}

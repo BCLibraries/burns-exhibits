@@ -13,8 +13,8 @@ draft: false
 type: "exhibit"
 ---
 
-{{% largefigure src="../owl.jpg" headline="J.M. Dent logo"
-descrioption="" side="right" size="small" %}}
+{{< largefigure src="../owl.jpg" headline="J.M. Dent logo"
+descrioption="" side="right" size="small" >}}
 
 
 
@@ -23,4 +23,4 @@ Sponsored by Boston College Libraries
 Curator: Andrew Isidoro, Public Services Specialist
 
 Originally Displayed: Burns Library Ford Tower, October 1 - December 31, 2014
-{{% /largefigure %}}
+{{< /largefigure >}}

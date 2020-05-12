@@ -29,7 +29,7 @@ Boston College PULSE Program director Dick Keeley concluded his 1985 interview w
 
 Upon finishing *Dark Age Ahead*, Jacobs wrote to her editor, David Ebershoff, with ideas for two more books: *A Brief Biography of the Human Race* and an anthology of her writings on how cities can expand their economies by replacing imported products with their own. She completed neither. Following book tours in 2004, her health declined and she died two years later of an apparent stroke.
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../JaneJacobs043.jpg"
            headline="Letter to David Eberhoff, with corrections, November 26, 2003"
@@ -41,6 +41,6 @@ Upon finishing *Dark Age Ahead*, Jacobs wrote to her editor, David Ebershoff, wi
            description="Box 42, folder 2, [Jane Jacobs Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352764790001021), MS1995-029 "
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
 A tribute to the wide-ranging scope and influence of Jacobs’s ideas, the Rockefeller Foundation established the Jane Jacobs Medal in 2007 “to recognize individuals who have made a significant contribution to thinking about urban design, specifically in New York City.” Last year, the geographic qualifier was dropped and the competition opened to international nominations.

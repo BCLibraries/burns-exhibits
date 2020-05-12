@@ -12,7 +12,7 @@ draft: false
 
 type: "exhibit"
 ---
-{{% largefigure src="../pray-for-us-poster.png" headline="" size="medium" align="right" %}}
+{{< largefigure src="../pray-for-us-poster.png" headline="" size="medium" align="right" >}}
 
 Sponsored by Boston College Libraries
 
@@ -26,4 +26,4 @@ Graphic design by Kate Edrington
 
 Originally displayed: Burns Library, June - September, 2019
 
-{{% /largefigure %}}
+{{< /largefigure >}}

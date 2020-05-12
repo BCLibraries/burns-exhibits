@@ -15,10 +15,10 @@ type: "exhibit"
 **The Man in the Gaelic Mask**
 
 
-{{% figure src="../059A-typewriter.jpg"
+{{< figure src="../059A-typewriter.jpg"
            headline="O'Nuallain, Micheál, Typewriter, pastel, 1948"
            description="Box 27, folder 8, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027"
-           side="right" %}}
+           side="right" >}}
 
 O’Nolan first used his most enduring pseudonym in an exchange of letters with playwright Frank O’Connor and short story write Sean O’Faoláin published in The Irish Times in January 1939.
 
@@ -34,21 +34,21 @@ Post graduation, O’Nolan traveled to Germany, visiting Cologne and Berlin in t
 
 O’Nolan both admired and envied Joyce, reputedly commenting: “I declare to God if I hear that name Joyce one more time I will surely froth at the gob!” O’Nolan read Ulysses, and in his own way wanted to outdo his literary exemplar and rival in surreptitiously lampooning the Ireland of his day.
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
-{{% galleryfigure src="../068G_DieHarzweise.jpg" headline="O'Nolan's annotated copy of *Die Harzweise*" %}}
+{{< galleryfigure src="../068G_DieHarzweise.jpg" headline="O'Nolan's annotated copy of *Die Harzweise*" >}}
 Heine, [*Die Harzweise*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21372462260001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PT2309 .H2 V3 1929 O'BRIEN LIBRARY
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% galleryfigure src="../050_Passport1936.jpg" headline="Brian O'Nolan's passport, 1936" %}}
+{{< galleryfigure src="../050_Passport1936.jpg" headline="Brian O'Nolan's passport, 1936" >}}
 Box 24, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% galleryfigure src="../100_UlyssesBrianONolan_.jpg" headline="Brian O'Nolan's personal copy of James Joyce's *Ulysses*" %}}
+{{< galleryfigure src="../100_UlyssesBrianONolan_.jpg" headline="Brian O'Nolan's personal copy of James Joyce's *Ulysses*" >}}
 Joyce, [*Ulysses*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21347982330001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US),  PR6019 .O9 U4 1932 O'BRIEN LIBRARY  
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
 **Six Authors in Search of a Character**
 
@@ -56,17 +56,17 @@ In a notebook that belonged to O’Nolan’s father, various plot ideas are sket
 
 Published in London in 1939 by Longman’s at the recommendation of Graham Greene, O’Nolan’s debut novel as Flann O’Brien garnered praise from other writers, if not critics, including a coveted endorsement from none other than James Joyce. Meanwhile a piqued Seán Ó Faoláin, with whom “Flann” had lately sparred in the editorial pages of The Irish Times, commented in a review that it “had a general odour of spilt Joyce all over it.” Gun shy, O’Nolan attempted to withdrew the suggestion he had made to Longman’s to publish the novel using the pen name he had since turned on Ó Faoláin, but it was too late: the genie could not be put back in the ink bottle.
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
-{{% galleryfigure src="../011A_MVONolanNotebook.jpg" headline="Michael V. O'Nolan's noteboook" %}}
+{{< galleryfigure src="../011A_MVONolanNotebook.jpg" headline="Michael V. O'Nolan's noteboook" >}}
 Box 1, folder 58 [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% galleryfigure src="../003_AtSwim2Birds.jpg" headline="First Edition of *At Swim Two Birds*, 1939" %}}
+{{< galleryfigure src="../003_AtSwim2Birds.jpg" headline="First Edition of *At Swim Two Birds*, 1939" >}}
 O'Brien, [*At Swim Two Birds*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21372432100001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PR6029 .N56 A8 1939b O'BRIEN LIBRARY
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
 **Pigs in the Kitchen?**
 
@@ -78,17 +78,17 @@ In a letter to Gough dated 16 April 1941, O’Nolan reports on his attempts to a
 
 An English translation was published in New York in 1974 as *The Poor Mouth*, awkwardly crediting Flann O’Brien as author. The original Irish title, *An Béal Bocht*, references the penchant of peasant farmers “to put on the poor mouth” and exaggerate the extremity of their poverty, a posturing from which this exuberant parody of the genre of Irish language autobiographies draws much of its humor.
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
-{{% galleryfigure src="../009N-A_ABealBocht_ToPeggy.jpg" headline="" %}}
+{{< galleryfigure src="../009N-A_ABealBocht_ToPeggy.jpg" headline="" >}}
 Box 1, folder 33, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% galleryfigure src="../101B_AnBealBoct.jpg" headline="*An béal boċt*" %}}
+{{< galleryfigure src="../101B_AnBealBoct.jpg" headline="*An béal boċt*" >}}
 O'Brien, [*An béal boċt*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21311293170001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PB1399 .059 B4 1964  O'BRIEN LIBRARY c. 3
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
 **“Is it about a bicycle?”**
 
@@ -96,39 +96,39 @@ Ironically, the novel that brought O’Nolan the fame he craved and established 
 
 Published posthumously, *The Third Policeman* bears the trappings of a cult classic. The anonymous main character, a murderer, discovers he has already been killed after escaping execution. Bizarre pseudo-scientific theories are put forth as fact, while the trappings of academic scholarship are debunked in wacky footnotes. The reader is catapulted from existential horror to outlandish humor, from passages of lyrical beauty to folksy dialogue. It is about a stolen bicycle, and so much more.
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
-{{% galleryfigure src="../007_ThirdPolicemanProof.jpg" headline="*The Third Policeman* Proof" %}}
+{{< galleryfigure src="../007_ThirdPolicemanProof.jpg" headline="*The Third Policeman* Proof" >}}
 O'Brien, [*The Third Policeman*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21369740650001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PR6029 .N56 .T5 1967b O'BRIEN LIBRARY
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% galleryfigure src="../FOB008.jpg" headline="" %}}
+{{< galleryfigure src="../FOB008.jpg" headline="" >}}
 O'Brien, [*The Third Policeman*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21336684660001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PR6029 .N56 T5 1967 O'BRIEN LIBRARY
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% galleryfigure src="../019B_ThirdPolicemanTypescript.jpg" headline="The Third Policeman, annotated typescript, 1940 January" %}}
+{{< galleryfigure src="../019B_ThirdPolicemanTypescript.jpg" headline="The Third Policeman, annotated typescript, 1940 January" >}}
 Box 4, folder 4, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 **Stage Left**
 
 In February 1940, O’Nolan sent novelist and playwright William Saroyan a synopsis, asking his help to find a publisher in America and advise him on whether to turn it into a play. Saroyan could not help with the former, but encouraged the latter. Two years before his death, O’Nolan did manage to publish another novel loosely based on The Third Policeman. Irish dramatist Hugh Leonard scripted a version for the stage.
 
 O’Nolan’s widow, Evelyn, managed his literary estate. She worked with a London publisher to bring out *The Third Policeman* the year after his death. It was subsequently translated into more than two dozen languages, increasing the royalties that helped support her.
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
-{{% galleryfigure src="../019A_ThirdPolicemanExtractFromNotes.jpg" headline="*The Third Policeman* Proof" %}}
+{{< galleryfigure src="../019A_ThirdPolicemanExtractFromNotes.jpg" headline="*The Third Policeman* Proof" >}}
 O'Brien, [*The Third Policeman*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21369740650001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PR6029 .N56 .T5 1967b O'BRIEN LIBRARY
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% galleryfigure src="../FOB104.jpg" headline="Advance and Royalties Statement for *The Third Policeman*" %}}
+{{< galleryfigure src="../FOB104.jpg" headline="Advance and Royalties Statement for *The Third Policeman*" >}}
 Box 5, folder 22, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% galleryfigure src="../FOB102.jpg" headline="" %}}
+{{< galleryfigure src="../FOB102.jpg" headline="" >}}
 O'Brien, [*Der Dritte Polizist*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21386714490001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PR6029 .N56 T515 1975 O'BRIEN LIBRARY
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}

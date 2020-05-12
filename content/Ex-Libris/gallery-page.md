@@ -12,7 +12,7 @@ draft: true
 type: "exhibit"
 ---
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="Academy002.jpg"
            headline="Academy of the Assumption Library"
@@ -24,9 +24,9 @@ type: "exhibit"
            description="Box 2, Folder 34, [Boston College Collection of Eric Gill Materials](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344683760001021), MS1986-039"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="Alexandra (1).jpg"
            headline="Alexandra"
@@ -38,9 +38,9 @@ type: "exhibit"
            description="Patmore, *[The angel in the house](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21337179030001021)*, 95 / 96 0162-20 PATMORE"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="Baring.JPG"
            headline="Maurice Baring"
@@ -52,9 +52,9 @@ type: "exhibit"
            description="Sanson, *[The present state of Persia]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21331921280001021)*, DS257 .S3 WILLIAMS"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="Bierstadt.jpg"
            headline="Edward Hale Bierstadt"
@@ -66,9 +66,9 @@ type: "exhibit"
            description="Box 111, Folder 12, [Alfred Noyes papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), MS2006-054"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="Cunningham.jpg"
            headline="Samuel Cunningham"
@@ -80,9 +80,9 @@ type: "exhibit"
            description="Box 1, Folder 8, [Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="Webb.jpg"
            headline="Josephine Webb"
@@ -94,9 +94,9 @@ type: "exhibit"
            description="Yeats and Gregory, *[Fairy and folk tales of the Irish peasantry](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21321477220001021)*, GR 153.5 .F35 1890 IRISH"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="Doheny copy.jpg"
            headline="Edward Lawrence Doheny"
@@ -108,9 +108,9 @@ type: "exhibit"
            description="Box 1, Folder 8, [Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="McCabe.jpg"
            headline="Gwladys McCabe"
@@ -122,9 +122,9 @@ type: "exhibit"
            description="Box 1, Folder 8, [Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="Paget.jpg"
            headline="Olive Cecilia Paget"
@@ -136,9 +136,9 @@ type: "exhibit"
            description="Colum, *[The voyagers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21332393930001021)*, E101 .C72 IRISH"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="Wheatley002.jpg"
            headline="Dennis Wheatley"
@@ -150,9 +150,9 @@ type: "exhibit"
            description="Sacheverell, *[The perils of false brethren, both in church, and state](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21327303970001021)*, 02-40767 GENERAL"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="NewEraPublishing.jpg"
            headline="New Era Publishing Coy Ltd"
@@ -164,9 +164,9 @@ type: "exhibit"
            description="Gregory, *[The dragon: a wonder play in three acts](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352811830001021)*, PR4728 .G5 D8 1920 IRISH"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="UaRattaille.jpg"
            headline="Ua Rathaille"
@@ -178,9 +178,9 @@ type: "exhibit"
            description="Clay, *[The constant mistress](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21349065270001021)*, PR6005 .L48 C6 GILL"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="Elmhurst002.jpg"
            headline="Elmhurst"
@@ -192,9 +192,9 @@ type: "exhibit"
            description="Cressy, *[A collection of several treatises in answer to Dr. Stillingfleet](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21339094720001021)*, BX1752 .C655 1672 GREENE'S LIBRARY"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="Trotter.jpg"
            headline="Ellinor Trotter"
@@ -206,9 +206,9 @@ type: "exhibit"
            description="Austen, *[Love & friendship, and other early works, now first printed from the original ms](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21386602310001021)*, 08-000001116 STOUT"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="Kinnaird002.jpg"
            headline="Kinnaird"
@@ -220,9 +220,9 @@ type: "exhibit"
            description="Box 111, Folder 12, [Alfred Noyes papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), MS2006-054"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="Walmesley002.jpg"
            headline="Charles Walmesley, Westwood"
@@ -234,9 +234,9 @@ type: "exhibit"
            description="Morgan, *[A complete history of Algiers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21357694270001021)*, DT284 .M84 WILLIAMS"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="Noyes.jpg"
            headline="Thomas Herbert Noyes, Esquire"
@@ -248,9 +248,9 @@ type: "exhibit"
            description="Le Sage, *[Aventuras de Gil Blas de Santillana](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21357360120001021)*, PQ1997.G6 S5 1788 MANLEY HOPKINS"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="Wyndham.jpg"
            headline="Elizabeth Wyndham, Petworth"
@@ -262,9 +262,9 @@ type: "exhibit"
            description="Box 1, Folder 7, [Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../intro-image.jpg"
            headline="Tellus"
@@ -276,4 +276,4 @@ type: "exhibit"
            description="Ullamcorper Egestas Dapibus"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}

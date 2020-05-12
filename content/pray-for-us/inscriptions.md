@@ -13,7 +13,7 @@ type: "exhibit"
 ---
 Holy cards are often given as gifts, with a message to the recipient written on the back. They can serve as a momento from a special occasion or as a gesture of affection from a friend or family member. The inscriptions on these cards provide a glimpse at the many ways holy cards have been shared throughout the ages.
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs001.png"
            headline="Memento of Ordination/First Mass"
@@ -25,9 +25,9 @@ Holy cards are often given as gifts, with a message to the recipient written on 
            description="My dear Ma, Walter S.J."
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs002.png"
            headline="Immaculate Virigin"
@@ -39,9 +39,9 @@ Holy cards are often given as gifts, with a message to the recipient written on 
            description="Hail Mary, Full of Grace, the Lord is with Thee. Blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us, now and at the hour of our death. Amen. *(In Latin and Swedish)*"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs003.png"
            headline="John of Nepomuk, Prague, Bohemia (Czech Republic), 1345-1393"
@@ -53,9 +53,9 @@ Holy cards are often given as gifts, with a message to the recipient written on 
            description="Pray for me *(Latin)*"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs004.png"
            headline="Habe acht auf dienen engel höre seine stimme"
@@ -66,9 +66,9 @@ Holy cards are often given as gifts, with a message to the recipient written on 
            headline=""
            description="John, Pray for me, Nick *(Latin)*"
 >}}
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs005.png"
            headline="The Miraculous Infant Jesus of Prague, Prague, Czech Republic, circa 1555"
@@ -79,9 +79,9 @@ Holy cards are often given as gifts, with a message to the recipient written on 
            headline=""
            description="To my dear dear friend, May the Divine Infant bless you"
 >}}
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs006.png"
            headline="The Nativity Scene"
@@ -92,9 +92,9 @@ Holy cards are often given as gifts, with a message to the recipient written on 
            headline=""
            description="Merry merry Christmas and a Holy happy New Year to my beloved friend. "
 >}}
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs007.png"
            headline="Crucifixion Scene"
@@ -105,9 +105,9 @@ Holy cards are often given as gifts, with a message to the recipient written on 
            headline=""
            description="To Mother, Holy Week, 1913"
 >}}
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs008.png"
            headline="Souvenir du Mois de Marie: Une Seule Vertu Bien Pratiquée"

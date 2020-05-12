@@ -13,7 +13,7 @@ draft: true
 type: "exhibit"
 ---
 
-{{% figure src="../Merton_holding_Seven_Storey_Mountain.jpg" headline="Merton holding Seven Storey Mountain" size="x-large" %}}
+{{< figure src="../Merton_holding_Seven_Storey_Mountain.jpg" headline="Merton holding Seven Storey Mountain" size="x-large" >}}
 
 Collection Used:
 

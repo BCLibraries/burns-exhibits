@@ -12,7 +12,7 @@ draft: false
 
 type: "exhibit"
 ---
-{{% largefigure src="../Promo-Image.png" headline="" size="large" %}}
+{{< largefigure src="../Promo-Image.png" headline="" size="large" >}}
 
 **Collections Used**
 

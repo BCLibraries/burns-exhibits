@@ -12,7 +12,7 @@ draft: false
 
 type: "exhibit"
 ---
-{{% largefigure src="../GA-intro-image.jpg.jpg" headline="" size="large" %}}
+{{< largefigure src="../GA-intro-image.jpg.jpg" headline="" size="large" >}}
 
 Sponsored by Boston College Libraries
 

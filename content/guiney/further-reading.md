@@ -14,7 +14,7 @@ type: "exhibit"
 ---
 
 
-{{% figure src="../guiney-promos-395Wx600H.png" headline="" size="x-large" %}}
+{{< figure src="../guiney-promos-395Wx600H.png" headline="" size="x-large" >}}
 
 Collection Used: Boston College collection of John Boyle O'Reilly, [(MS2004-093)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21344683520001021)  
 

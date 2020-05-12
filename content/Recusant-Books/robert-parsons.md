@@ -13,7 +13,7 @@ draft: false
 type: "exhibit"
 ---
 
-{{% largefigure src="../Parsons.png" headline="Robert Parson, S.J." size="medium" %}}
+{{< largefigure src="../Parsons.png" headline="Robert Parson, S.J." size="medium" >}}
 Like his contemporary William Allen and Reginald Pole before him, Robert Parsons was an English Catholic clergyman of considerable influence both at home and abroad. He was a controversial figure in literature, politics, and within the Church itself.
 
 

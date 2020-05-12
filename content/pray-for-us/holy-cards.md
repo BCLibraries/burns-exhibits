@@ -12,7 +12,7 @@ draft: false
 type: "exhibit"
 ---
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs040.png"
            headline="St. Brigid of Ireland, Kildare, Ireland, Died 6th century"
@@ -22,9 +22,9 @@ type: "exhibit"
            headline="St. Brigid of Ireland (verso)"
            description=""
 >}}
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUS044.png"
            headline="St. Bernadette of Lourdes, Lourdes, France, 1844-1879"
@@ -35,9 +35,9 @@ type: "exhibit"
            headline="St. Bernadette of Lourdes (verso)"
            description=""
 >}}
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 {{< figure src="../PrayForUs045.png"
            headline="St. Ursula, England/Cologne, Died 4th century"
            description="Feast day: October 21. Patronages: archers, orphans, female students"
@@ -47,9 +47,9 @@ type: "exhibit"
            description=""
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs051.png"
            headline="St. Gemma Galgani, Italy, 1878-1903"
@@ -60,9 +60,9 @@ type: "exhibit"
            headline="St. Gemma Galgani (verso)"
            description=""
 >}}
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs046.png"
            headline="Basilica de Notre Dame de la Treille, Lille, France, Built 1854-1999"
@@ -73,9 +73,9 @@ type: "exhibit"
            headline="Basilica de Notre Dame de la Treille (verso)"
            description=""
 >}}
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 {{< figure src="../PrayForUs047.png"
            headline="The Martyr's Shrine at Forte Ste. Marie, Midland, Ontario, Canada, Built 1925"
            description="Dedicated to the memory of the Jesuit and lay person martyrs from the mission of Sainte Marie among the Hurons"
@@ -85,9 +85,9 @@ type: "exhibit"
            headline="The Martyr's Shrine at Forte Ste. Marie (verso)"
            description=""
 >}}
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs042.png"
            headline="John 6:48, 51"
@@ -98,9 +98,9 @@ type: "exhibit"
            headline="John 6:48, 51 (verso)"
            description=""
 >}}
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs052.png"
            headline="Madonna of the Chair, Italy, circa 1513-1514"
@@ -110,9 +110,9 @@ type: "exhibit"
            headline="Madonna of the Chair (verso)"
            description=""
 >}}
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs053.png"
            headline="Matthew 28:20"
@@ -123,9 +123,9 @@ type: "exhibit"
            headline="Matthew 28:20 (verso)"
            description=""
 >}}
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs049.png"
            headline="Jesus Mercy, Mary Help"
@@ -137,9 +137,9 @@ type: "exhibit"
            description=""
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs048.png"
            headline="Prayer to our Blessed Mother, circa 1955"
@@ -151,9 +151,9 @@ type: "exhibit"
            description=""
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs024.png"
            headline="St. Charles Borromeo Milan, Italy (1538 - 1584)"
@@ -165,9 +165,9 @@ type: "exhibit"
            description=""
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs030.png"
            headline="Priez pour moi"
@@ -179,9 +179,9 @@ type: "exhibit"
            description=""
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs031.png"
            headline="The Cross in My Pocket"
@@ -191,9 +191,9 @@ type: "exhibit"
            headline="The Cross in My Pocket (verso)"
            description=""
 >}}
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs033.png"
            headline="John 1:1-5"
@@ -204,9 +204,9 @@ type: "exhibit"
            headline="John 1:1-5 (verso)"
            description=""
 >}}
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 {{< figure src="../PrayForUs025.png"
            headline=""
            description=""
@@ -215,9 +215,9 @@ type: "exhibit"
            headline=""
            description=""
 >}}
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs027.png"
            headline="Spring: Monastery Farm (last line); Thomas Merton, original by Jorge Carrera Andrade, 1948"
@@ -228,9 +228,9 @@ type: "exhibit"
            headline="Spring: Monastery Farm (verso)"
            description=""
 >}}
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 {{< figure src="../PrayForUs037.png"
            headline="Adeste Fideles"
            description="Christmas carol attributed to different authors and centuries. Verse 8: Jesu infanti corda praebeamus;(We to the Christ-child, bring our hearts oblations)"
@@ -240,9 +240,9 @@ type: "exhibit"
            description=""
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs043.png"
            headline="Voici ce Cœur, qui a tant amé les hommes; Doux Cœur de Jésus, Soyez mon Amour"
@@ -253,9 +253,9 @@ type: "exhibit"
            description=""
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs029.png"
            headline="Our Lady of Guadalupe, Mexico City, Mexico, 1531"
@@ -266,9 +266,9 @@ type: "exhibit"
            description=""
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs041.png"
            headline="Memento of Ordination / First Mass, 1933"
@@ -279,9 +279,9 @@ type: "exhibit"
            description=""
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs036.png"
            headline="St. Norbert of Xanten, Germany, 1080 - 1134	"
@@ -292,9 +292,9 @@ type: "exhibit"
            description=""
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs050.png"
            headline="St. Matthias’ Basilica, Chapel of Mercy, Trier, Germany, Dedicated 1148"
@@ -305,9 +305,9 @@ type: "exhibit"
            description=""
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs028.png"
            headline="Devotion to Most Sacred Heart of Jesus, ca. 1890"
@@ -318,9 +318,9 @@ type: "exhibit"
            description=""
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs034.png"
            headline="Les Epines de la Terre et les Roses du Ciel"
@@ -331,9 +331,9 @@ type: "exhibit"
            description=""
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs026.png"
            headline="St. John Paul II, Poland, 1920 - 2005"
@@ -344,9 +344,9 @@ type: "exhibit"
            description=""
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs032.png"
            headline="Mater Pietatis"
@@ -357,9 +357,9 @@ type: "exhibit"
            description=""
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs038.png"
            headline="Abbey of the Dormition, Mt. Zion, Jerusalem, Dedicated 1910"
@@ -370,9 +370,9 @@ type: "exhibit"
            description=""
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs039.png"
            headline="Santo Bambino di Aracoeli Roma (Holy Boy of Aracoeli, Rome), c. 15th century"
@@ -383,9 +383,9 @@ type: "exhibit"
            description=""
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs035.png"
            headline="St. Ludovicus (Louis), France, 1214 - 1270"
@@ -396,4 +396,4 @@ type: "exhibit"
 description=""
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}

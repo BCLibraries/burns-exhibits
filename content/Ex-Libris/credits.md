@@ -13,7 +13,7 @@ draft: true
 type: "exhibit"
 ---
 
-{{% figure src="Baring.JPG" %}}
+{{< figure src="Baring.JPG" >}}
 
 Sponsored by Boston College Libraries
 

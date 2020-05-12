@@ -13,7 +13,7 @@ type: "exhibit"
 ---
 These holy cards were all designed by Ade Bethune (1914-2002), who was born in Belgium and immigrated to the United States in 1928. She studied at the National Academy of Design in New York City and became involved with Dorothy Day's Catholic Worker Movement. Her art reflects her involvement in this movement, frequently depicting images of saints, Biblical figures, and working-class men and women performing acts of mercy.
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs009.png"
            headline="St. Jerome, Antioch (Turkey), 347 - 420"
@@ -28,9 +28,9 @@ These holy cards were all designed by Ade Bethune (1914-2002), who was born in B
 
 
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs011.png"
            headline="St. Joan of Arc, France, 1412 - 1431"
@@ -41,9 +41,9 @@ These holy cards were all designed by Ade Bethune (1914-2002), who was born in B
            headline="St. Martin de Porres, Peru, 1579 - 1639"
            description="Patronages: race relations, public education, lottery winners"
 >}}
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs013.png"
            headline="St. George, Roman Empire, Died 303"
@@ -54,9 +54,9 @@ These holy cards were all designed by Ade Bethune (1914-2002), who was born in B
            headline="St. Elizabeth of Hungary, Hungary, 1207 - 1231	"
            description="Patronages: bakers, dying children, exiles, homeless people"
 >}}
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs015.png"
            headline="King of Kings, Lord of Lords"
@@ -69,9 +69,9 @@ These holy cards were all designed by Ade Bethune (1914-2002), who was born in B
 >}}
 
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs017.png"
            headline="St. Isaac Jogues, New France, North America, 1607 - 1646"
@@ -82,9 +82,9 @@ These holy cards were all designed by Ade Bethune (1914-2002), who was born in B
            description="Patronages: Scotland,  Anglo-Scottish relations"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs019.png"
            headline="St. Gaspar del Bufalo, Rome, Italy, 1786 - 1837"
@@ -95,9 +95,9 @@ These holy cards were all designed by Ade Bethune (1914-2002), who was born in B
            headline="St. Clare, Assisi, Italy, 1194 - 1253"
            description="Patronage: eye disease, goldsmiths, laundry, television"
 >}}
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../PrayForUs021.png"
            headline="Sts. Perpetua & Felicitas, Carthage (modern day Tunisia), Died 203"
@@ -109,11 +109,11 @@ These holy cards were all designed by Ade Bethune (1914-2002), who was born in B
            description="Patronages: fishermen, rope-makers, textile workers, miners"
 >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
-{{% figure src="../PrayForUs022.png" headline="Judith"
-description="A figure from the Catholic Old Testament who, upset with the Jewish people for not trusting God to deliver them from their conquerors, gains the trust of the Assyrian general, Holofernes. She cuts Holofernes’ head off and takes it back to her people, who rally and defeat their enemy." side="left" size="small" %}}
+{{< figure src="../PrayForUs022.png" headline="Judith"
+description="A figure from the Catholic Old Testament who, upset with the Jewish people for not trusting God to deliver them from their conquerors, gains the trust of the Assyrian general, Holofernes. She cuts Holofernes’ head off and takes it back to her people, who rally and defeat their enemy." side="left" size="small" >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}

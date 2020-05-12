@@ -14,10 +14,10 @@ type: "exhibit"
 ---
 **Mass Appeal**
 
-{{% figure src="../009I-B_FaustusKelly.jpg"
+{{< figure src="../009I-B_FaustusKelly.jpg"
            headline="Abbey Theatre Program, Faustus Kelly"
            description="Box 1, folder 46, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027"
-           side="right" %}}
+           side="right" >}}
 
 Although critics have tended to dismiss O’Nolan’s shorter fiction as byproducts of failed attempts to establish himself as a novelist, from another perspective they appear to reflect a deeper ambition to reach mass rather than elite audiences, as evidenced by his concurrent forays into writing for the stage, radio, and the new medium of television. He in fact rewrote several of his short stories as dramas. In other cases, he adapted dramatic works by others for the Irish stage or considered publishing his plays.
 
@@ -30,28 +30,28 @@ As a boy, O’Nolan was fascinated with silent movies, which were just coming in
 Dublin’s main mid-century literary journal, *The Bell*, was founded in the fall of 1940 by short story writer Seán Ó Faoláin, who included essays by O’Nolan in the first two issues, their public spat that earlier year in *The Irish Times* editorial pages notwithstanding. Like *Envoy*, *The Bell* purposed to promote the work of Irish writers and challenge the oppressive censorship laws and Catholic moral culture that had been bolstered by Ireland’s 1937 Constitution.
 
 *The Bell* faltered under the editorship of the radical republican Peadar O’Donnell, who took over from Ó Faoláin in 1946, and eventually ceased publication in 1954. One of the last issues included grisly tale by Myles na Gopaleen that epitomizes the use of comic irony in gothic horror. Titled “Two in One,” a taxidermist’s assistant murders his boss, flays his body, and dons his skin in order to escape, only to get arrested and convicted for killing the now missing assistant—himself. In 1962, O’Nolan wrote a dramatized version for television, calling it “The Dead Spit of Kelly.”
-{{% galleryrow %}}
+{{< galleryrow >}}
 
-{{% galleryfigure src="../005B_TwoInOne.jpg" headline="The Bell" %}}
+{{< galleryfigure src="../005B_TwoInOne.jpg" headline="The Bell" >}}
 na Gopaleen, "Two in One," [*The Bell XIX*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21347983050001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), no. 8 (1954), PR6029 .N56 T96 1954 O'BRIEN LIBRARY
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% galleryfigure src="../113-Dead-Spit_TP.png" headline="Typescript for 'Dead Spit of Kelly'" %}}
+{{< galleryfigure src="../113-Dead-Spit_TP.png" headline="Typescript for 'Dead Spit of Kelly'" >}}
 Box 5, folder 2 , [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% galleryfigure src="../113-Deadspit-p-4.png" headline="'Dead Spit of Kelly', TV play, dramatised version of Myles na Gopaleen's 'Two in One,' 1962" %}}
+{{< galleryfigure src="../113-Deadspit-p-4.png" headline="'Dead Spit of Kelly', TV play, dramatised version of Myles na Gopaleen's 'Two in One,' 1962" >}}
 Box 5, folder 2 , [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
 **Airplane!**
 
-{{% figure src="../114-Flight.png"
+{{< figure src="../114-Flight.png"
            headline="'Flight,' TV playscript, 1962"
            description="Box 5, folder 5, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027"
-           side="right" %}}
+           side="right" >}}
 
 Ireland’s national airline service, Aerlínte Éireann, was renamed Aer Lingus on January 1, 1960. Later that year, it acquired three Boeing 720 jets to provide transatlantic service to New York and Boston.
 
@@ -63,25 +63,25 @@ In 1928, English-born actors, producers, and lovers Micheál MacLiammóir and Hi
 
 Two of O’Nolan’s plays were staged at the Abbey Theatre in early 1942, Faustus Kelly, a parody of the German legend, and an adaptation of The Insect Play by the Brothers Čapek. Both were box office failures, but later that year O’Nolan had better success with a one-act play titled Thirst. It was staged at the Gate Theatre as part of a Christmas variety program intended to lift public spirit during the otherwise dark years of the Second World War. A barroom story with popular appeal, Thirst was subsequently adapted for radio and television.
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
-{{% galleryfigure src="../009I-B_FaustusKelly.jpg" headline="Abbey Theatre Program, Faustus Kelly, 1943" %}}
+{{< galleryfigure src="../009I-B_FaustusKelly.jpg" headline="Abbey Theatre Program, Faustus Kelly, 1943" >}}
 Box 1, folder 49 , [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% galleryfigure src="../112-Thirst-Playscript.png" headline="'Thirst', playscript for stage, carbon copy" %}}
+{{< galleryfigure src="../112-Thirst-Playscript.png" headline="'Thirst', playscript for stage, carbon copy" >}}
 Box 4, folder 14 , [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% galleryfigure src="../110-Thirst-Radio.png" headline="'Make it a Double!' adaptation of 'Thirst' for radio" %}}
+{{< galleryfigure src="../110-Thirst-Radio.png" headline="'Make it a Double!' adaptation of 'Thirst' for radio" >}}
 Box 4, folder 14 , [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% galleryfigure src="../111-Thirst-TV.png" headline="Television script for 'Thirst,' no date" %}}
+{{< galleryfigure src="../111-Thirst-TV.png" headline="Television script for 'Thirst,' no date" >}}
 Box 4, folder 14 , [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
 **Let’s Make a Deal**
 
@@ -89,14 +89,14 @@ During the final years of his life, while undergoing x-ray treatments and surger
 
 As a reward and enticement to do further business, O’Nolan offered to fly Miller over from London to see a performance of Hugh Leonard’s stage adaptation of *The Dalkey Archive* at Dublin’s Gate Theatre. It is doubtful that Miller took him up on the bargain. If they exchanged any further correspondence, it has not survived. O’Nolan would survive only another six months.
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
-{{% galleryfigure src="../074-CCL-to-Miller.png" headline="O'Nolan carbon copy letter to A.T. Miller, 14 Oct 1965, re: sale of mss. to America" %}}
+{{< galleryfigure src="../074-CCL-to-Miller.png" headline="O'Nolan carbon copy letter to A.T. Miller, 14 Oct 1965, re: sale of mss. to America" >}}
 Box 1, folder 19, [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% galleryfigure src="../009M_SaintsMarching.jpg" headline="*When The Saints go Cycling In*, Gate Theatre Program, 1965" %}}
+{{< galleryfigure src="../009M_SaintsMarching.jpg" headline="*When The Saints go Cycling In*, Gate Theatre Program, 1965" >}}
 Box 4, folder 50 , [Flann O’Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21332671220001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) MS1997-027
-{{% /galleryfigure %}}
+{{< /galleryfigure >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}

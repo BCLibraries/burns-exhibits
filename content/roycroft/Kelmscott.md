@@ -12,13 +12,13 @@ draft: false
 type: "exhibit"
 ---
 
-{{% largefigure src="../William_Morris_age_53.jpg"
+{{< largefigure src="../William_Morris_age_53.jpg"
                 headline="William Morris age 53"
                 description="Mackail, [*The Life of William Morris*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21349101070001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), PR5083 .M25 1901 GENERAL"
-                size="large" %}}
+                size="large" >}}
 William Morris, already well known for his decorative arts—including tapestries, wallpaper, fabrics, furniture, and stained glass windows—founded the Kelmscott Press in 1891. His aesthetic was a major inspiration for the Arts and Crafts movement, which began in England in the 1880s, and quickly spread to North America and Continental Europe. The Arts and Crafts movement incorporated traditional styles and simple, angular forms, especially those from medieval times. From 1891-1898, the Kelmscott Press published over 50 works in 66 volumes. In May 1894, Elbert Hubbard traveled to England and Ireland, visiting the Kelmscott Press and taking inspiration from their work.
 
-{{% /largefigure %}}
+{{< /largefigure >}}
 
 
 
@@ -28,7 +28,7 @@ The title page of *Child Christopher and Goldilind the Fair* (v. 1, 1895) by the
 
 
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../child chrictopher title page.jpg"
            headline="Title Page"
@@ -41,7 +41,7 @@ The title page of *Child Christopher and Goldilind the Fair* (v. 1, 1895) by the
 >}}
 
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
 
 
@@ -51,7 +51,7 @@ The colophon, a statement at the end of a book giving information about its auth
 
 
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
 {{< figure src="../child christopher colophon.jpg"
            headline="Colophon"
@@ -64,13 +64,13 @@ The colophon, a statement at the end of a book giving information about its auth
 >}}
 
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% largefigure src="../Utopia.jpg"
+{{< largefigure src="../Utopia.jpg"
                 headline=""
                 description="More, [*Utopia*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21312191480001021&context=L&vid=bclib_new&search_scope=lib_LAW&tab=bcl_only&lang=en_US), More HX810.5 .E54 1893 Boston College Law Library"
 				size="medium"
-                align="left" %}}
+                align="left" >}}
 
 *Utopia* (1893) by Thomas More is covered in a limp vellum binding with silk ribbon ties and a gold spine title made by T.J. Cobden-Sanderson. Limp binding means a book that does not have stiff covers, but instead has flexible sides which could be made from various materials. Cobden-Sanderson, British lawyer turned bookbinder, ran Doves Bindery. He was a friend of William Morris and embraced Morris’s socialist views, known as Libertarian Socialism; seeking a non-hierarchical society and encouraging beauty for all in everyday life.
-{{% /largefigure %}}
+{{< /largefigure >}}

@@ -38,18 +38,18 @@ While she found the once well-to-do South End neighborhood of Roxbury suffering 
 
 During the 1950s and 60s, under the leadership of Boston mayors John B. Hynes and John F. Collins, city officials took advantage of the federal Housing Act of 1949 to rebuild Boston. They pursued the kinds of large-scale urban renewal schemes that Jacobs decried in *The Death and Life of Great American Cities*. They designated densely populated tenement neighborhoods as slums, then razed and replaced them with “superblocks” of commercial, government, and residential buildings. Sections of the South End were thus turned into industrial plants, but the West End was totally demolished to make way for high-rise apartments and city office complexes that embodied the period’s Brutalist architectural style in their massive concrete structures.
 
-{{% figure src="../JaneJacobs005.jpg"
+{{< figure src="../JaneJacobs005.jpg"
           headline=""
            description=" Fisher and Hughes, [*The Last Tenement*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21312592540001021), HT177 .B6 L37 1992 BOSTON"
-           side="left" %}}
+           side="left" >}}
 A 1992 Bostonian Society publication examined the effects of urban renewal on the West End. Remarkably, although displaced and scattered more than half a century ago, former residents have continued to maintain a museum and newspaper dedicated to their bygone neighborhood.
 
 **North End Triumphs**
 
 Boston’s North End was spared the complete demolition that befell its West End, but in the 1950s sections were leveled to make room for the Central Artery, an elevated expressway that looped around the city’s shoreline. The expressway effectively cut off the North End from the rest of the city until it was replaced in the 1990s and 2000s by a system of underground traffic tunnels known as the “Big Dig.” Today the North End is once again thriving as Boston’s “Little Italy.”
 
-{{% figure src="../JaneJacobs002.jpg"
+{{< figure src="../JaneJacobs002.jpg"
           headline=""
            description="  Langone, [*The North End*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21366126140001021), 08-000012104 BOSTON"
-           side="left" %}}
+           side="left" >}}
  The history of the North End’s Italian immigrant population was recounted in a 1994 memoir by Boston City Council member Fred Langone, unofficially dubbed mayor of the district. Langone implemented rent control to prevent outside developers from taking over buildings and displacing elderly residents. He also helped preserve more than 70 warehouse buildings along the waterfront.
