@@ -16,7 +16,7 @@ type: "exhibit"
                 headline="Postcard from George Bernard Shaw"
                 description="Box 1, folder 41, [Samuel N. Freedman of Bernard Shaw](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21354365750001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), (MS2002-044)"
                 size="large" align="right" >}}
-{{< heading >}}Post This Message STOP{{< /heading >}}  
+## Post This Message STOP  
 A weather report, birthday wish, major life event, or news flash -- all can be posted in a matter of seconds on many platforms. Although it wasn’t always instantaneous or widely available, people found ways to share quick updates or messages about their day or plans. With some services, like telegrams, there was a pay-per-word policy -- a great incentive to stay under 140 characters!
 {{< /largefigure >}}
 

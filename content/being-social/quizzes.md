@@ -16,7 +16,7 @@ type: "exhibit"
                 headline="Chess by Mail"
                 description="Box 41, folder 2, [Rex Stout papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21323242860001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), MS1986-089"
                 size="large" align="left" >}}
-{{< heading >}}The Original Cut and Paste{{< /heading >}}  
+## The Original Cut and Paste  
 Commonplace books were a way to gather your favorite poems and quotes. Scrapbooks held ideas, clippings, or mementos collected around a theme. Recipes, if kept loose, were easy to copy and share with a friend or neighbor. Today, we pin it, post it, download it, email it, text it.
 {{< /largefigure >}}
 

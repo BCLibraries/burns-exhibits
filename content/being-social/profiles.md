@@ -16,7 +16,7 @@ type: "exhibit"
                 headline="Avatar letterhead"
                 description="Box 12, folder 54, [Eleanor Early papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21311150800001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), MS1995-005"
                 size="large" align="left" >}}
-{{< heading >}}Express Yourself{{< /heading >}}  
+## Express Yourself
 A lot of thought goes into how we present ourselves online: profiles, avatars, and usernames are used to make a statement, be memorable, and display who we really are (or would like to be). Can we really distill that down to an eye catching image or a few lines on a page or a screen? Whether we are authors or evangelists, we have long been trying.
 {{< /largefigure >}}
 

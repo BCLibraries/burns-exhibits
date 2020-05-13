@@ -16,7 +16,7 @@ type: "exhibit"
                 headline="Dance Invitation"
                 description="Box 6, Folder 24, [George Cahill papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21422082920001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), MS1993-041"
                 size="large" align="left" >}}
-{{< heading >}}Love Connection{{< /heading >}}  
+## Love Connection  
 Social events and dating were just as much a part of life before the internet as they are now. Dances, dinners, and music all brought people together for fun and to meet new people. If you were interested in someone, they might show up more than anyone else on your dance card. No swiping right necessary!
 {{< /largefigure >}}
 

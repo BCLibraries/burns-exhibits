@@ -16,7 +16,7 @@ type: "exhibit"
                 headline="Postcard"
                 description="Box 2, [Boston College collection of photographic postcards](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21503452010001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), BC1986-089"
                 size="large" align="left" >}}
-{{< heading >}}Been There, Done That{{< /heading >}}  
+## Been There, Done That  
 Scrolling through your Facebook and Instagram feeds, you’re awash in posts about your friends’ adventures, whether it’s a night out on the town or a trip around the world. #FOMO (Fear Of Missing Out) isn’t new. Pre-smartphone, people shared information about where they’d been, what they liked and didn’t, and what they experienced in a variety of less-instant ways.
 {{< /largefigure >}}
 

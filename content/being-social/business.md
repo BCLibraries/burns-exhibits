@@ -16,7 +16,7 @@ type: "exhibit"
                 headline="Phone message book"
                 description="Box 354, folder 5, [Robert F. Drinan, SJ, papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21318075190001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), CA1986-001"
                 size="large" align="right" >}}
-{{< heading >}}In Good Company{{< /heading >}}
+## In Good Company
 Apps and technology have usurped the place of the previously all-powerful memo. No longer are the printed schedule and paper phone messages necessities. Business moves faster and less tangibly now thanks to online calendars, shared project management apps, and tools for collaboration.
 {{< /largefigure >}}
 

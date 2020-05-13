@@ -16,7 +16,7 @@ type: "exhibit"
                 headline="Receipt and financial ledger"
                 description="Box 1, folder 21 [Thomas Ignatius Gasson, SJ, President's Office records](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21331141970001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), BC1986-020E"
                 size="large" align="left" >}}
-{{< heading >}}Buddy, Can You Spare a Dime?{{< /heading >}}  
+## Buddy, Can You Spare a Dime?  
 Have you ever invented the next big thing, but didn’t have the cash to make it a reality? Have you ever believed in a cause so worthwhile that you were compelled to donate? Today, it is easy to find strangers willing to invest in an idea quickly. It wasn’t always so easy, but people were willing to contribute to ventures that spoke to them when pledge drives, telethons, and collection boxes came their way.
 {{< /largefigure >}}
 

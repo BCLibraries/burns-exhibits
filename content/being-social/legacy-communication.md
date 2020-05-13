@@ -16,7 +16,7 @@ type: "exhibit"
                 headline=""
                 description="Box 7, folder 43, [Newton College of the Sacred Heart Records](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21323284070001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), BC1998-031"
                 size="x-large" >}}
-{{< heading >}}Get it Done!{{< /heading >}}              
+## Get it Done!              
 Specialized equipment was once required to record thoughts, events, and contacts. Typewriters, address books, cameras, and film -- not one of which fits in a pocket -- were among the bulky technologies necessary for all sorts of communication. Many of these tools have been replaced by available modern technological applications.
 {{< /largefigure >}}
 

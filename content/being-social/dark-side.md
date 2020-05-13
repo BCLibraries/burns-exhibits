@@ -16,7 +16,7 @@ type: "exhibit"
                 headline="Telegram concerning a fake Graham Greene"
                 description="Box 43, folder 8, [Graham Greene papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21351254200001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US), MS1995-003"
                 size="large" align="left" >}}
-{{< heading >}}Dark Side{{< /heading >}}
+## Dark Side
 We may think of trolling, impersonation, and identity theft as uniquely modern problems brought about by technology, but in fact these bad behaviors have a long legacy behind them -- including escapades such as impersonating a famous British author.
 {{< /largefigure >}}
 

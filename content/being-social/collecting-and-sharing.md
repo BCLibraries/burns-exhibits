@@ -16,8 +16,7 @@ type: "exhibit"
                 headline="William Landrey Scrapbook"
                 description="Box 2, William Landrey Scrapbooks, BC2003-030"
                 size="large" align="right" >}}
-{{< heading >}}The Original Cut and Paste
-{{< /heading >}}  
+## The Original Cut and Paste  
 Commonplace books were a way to gather your favorite poems and quotes. Scrapbooks held ideas, clippings, or mementos collected around a theme. Recipes, if kept loose, were easy to copy and share with a friend or neighbor. Today, we pin it, post it, download it, email it, text it.
 {{< /largefigure >}}
 

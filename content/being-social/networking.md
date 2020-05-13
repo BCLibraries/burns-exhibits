@@ -16,7 +16,7 @@ type: "exhibit"
                 headline="Philomatheia Membership Card"
                 description="Box 81, folder 57, [David Goldstein and Martha Moore Avery papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21387017070001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US), MS1986-167"
                 size="large" align="right" >}}
-{{< heading >}}The More the Merrier{{< /heading >}}  
+## The More the Merrier  
 It’s not hard to connect online with people who share our interests, profession, or causes. With the advent of these more immediate forms of networking, we have lost some the once-prevalent trinkets we collected as card-carrying members of our affinity groups. These were the tangible ways we used to let everyone know who we are and where we belong.
 {{< /largefigure >}}
 
