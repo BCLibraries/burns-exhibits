@@ -18,7 +18,7 @@ type: "exhibit"
 
 
 
-[Bette Arnold Collection of Bette's Rolls Royce Restaurant Materials] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21420354730001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS2012-009)
+[Bette Arnold Collection of Bette's Rolls Royce Restaurant Materials](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21420354730001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US) (MS2012-009)
 
 [Hilaire Belloc Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311957810001021) (MS2005-003)
 
@@ -36,7 +36,7 @@ Chinese Chess Set (MS1992-014)
 
 [David Goldstein and Martha Moore Avery Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21387017070001021&context=L&vid=bclib_new&search_scope=onesearch&tab=onesearch&lang=en_US) (MS1986-167)
 
-[Greater Boston Area Materials] (https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21429780640001021&context=L&vid=bclib_new&search_scope=onesearch&tab=onesearch&lang=en_US) (MS2013-020)
+[Greater Boston Area Materials](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21429780640001021&context=L&vid=bclib_new&search_scope=onesearch&tab=onesearch&lang=en_US) (MS2013-020)
 
 [Graham Greene Papers](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21351254200001021&context=L&vid=bclib_new&search_scope=onesearch&tab=onesearch&lang=en_US) (MS1995-00)
 
