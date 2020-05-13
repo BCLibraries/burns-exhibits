@@ -19,7 +19,7 @@ type: "exhibit"
 This selection includes works on and about Hopkins, such as the first biography, G. F. Lahey’s *Gerard Manley Hopkins*. A Jesuit and early collector of Hopkins, Lahey maintained regular conversation with Joseph Keating, another early Jesuit interested in Hopkins, and Robert Bridges. Lahey would hold Bridges’s feet to the flame to release the Hopkins letters, calling it “intolerable, and contrary to the principles of scrupulous and painstaking biography.” The Lahey Papers in the Jesuit Provincial Archives at Farm Street, London, contain valuable information on the earliest work on Hopkins, including the misattribution by Alfred Thomas of a poem by Hopkins, “Original Lines on a Fossil Tree in a Garden at Highgate.” The collection also contains information on Hopkins from Joseph Rickaby, S.J., a fellow with Hopkins for three years in Theology: Rickaby drawing attention to Hopkins’s failure in theology and his concerns for the poor; Bridges wanting to show Lahey Hopkins’s unpublished verse; Lahey’s discovery of the Newman letters; and Hopkins’s sister Kate’s letter on Gerard’s hatred of ugliness. And there is this salient reflection on Gerard from Father Darlington, who writes on 13 July 1928: "H. had developed a remarkable platonic life as a Poet & Religious -- his outward appearance, & his conversation adapted to the  company of men he was -- reveals little of his inner self…. H. was always full of fun simple jokes. He could not play the piano at all -- but he occupied a good deal of his leisure in writing original musical accompaniment for Song Sylvia Who is She? Took him some time…."
 
 	 
-	 {{< figure src="../Lahey.jpg"
+{{< figure src="../Lahey.jpg"
            headline="The first biography of GMH" 
            description="Lahey, [*Gerard Manley Hopkins*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21333759200001021), PR4803.H44 Z7" 
            side="left" >}}
@@ -36,7 +36,7 @@ The collection also includes some prints, digital copies, a Hopkins icon with it
 
 {{< /largefigure >}}
 
-Boston College’s Professor Paul Mariani joins the collection, with his insightful essay, [“Revisiting the Catholic Imagination”] (https://issuu.com/church21c/docs/c21resourcesspring2013?e=1307091/1015152). Paul offers a reading of “As kingfishers catch fire” to explore Hopkins’s verbalness of being: “what I do is me.” Paul calls this the “doing-be, the essential inscape of the thing,” to discover that “Each thing, then, doing what it was made to do, whether made by mortals, or—better—by the great God Creator.” This, says Paul, is the “sacral imagination,” discovering, inscaping as it were, Christ in each created thing. In Hopkins, the “Catholic imagination adds to the reading of creation.”
+Boston College’s Professor Paul Mariani joins the collection, with his insightful essay, "[Revisiting the Catholic Imagination](https://issuu.com/church21c/docs/c21resourcesspring2013?e=1307091/1015152)". Paul offers a reading of “As kingfishers catch fire” to explore Hopkins’s verbalness of being: “what I do is me.” Paul calls this the “doing-be, the essential inscape of the thing,” to discover that “Each thing, then, doing what it was made to do, whether made by mortals, or—better—by the great God Creator.” This, says Paul, is the “sacral imagination,” discovering, inscaping as it were, Christ in each created thing. In Hopkins, the “Catholic imagination adds to the reading of creation.”
 
 {{< largefigure src="../What are We.jpg"
            headline="What Are We?" 
