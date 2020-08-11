@@ -22,14 +22,16 @@
     <div class="row current_exhibits">
         
         <div class="col-12">
-            <h3>Current Exhibits</h3>
+            <h3>Current Exhibitss</h3>
         </div>
         
     <!-- TOP 2 LATEST EXHIBITS -->   
 
-        {{ $allthepages := where .Site.Pages "Kind" "section" }}
+        {{ $alltheexhibits:= where .Site.Pages "Kind" "section" }}
+        
+        {{ $allcurrent:= where $alltheexhibits .Params.current true }}
 
-        {{ range $allthepages | first 2 }} 
+        {{ range $allcurrent }} 
 
             <div class="col-md-6 col-12">
                 
@@ -55,7 +57,10 @@
         </div>
 
         <!-- A BUNCH OF OLDER EXHIBITS -->
-        {{ range $allthepages | first 10 | }}
+
+        {{ $allold:= where .Site.Pages "Kind" "section" }}
+
+        {{ range $allold | first 10 | }}
 
             <div class="col-md-3 col-6 oldgallery">
                 <a href=".{{ .RelPermalink }}" class="hp_img" 

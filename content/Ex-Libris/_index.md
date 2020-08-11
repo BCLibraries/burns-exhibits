@@ -12,7 +12,7 @@ date: 2019-10-16T11:55:29-04:00
 weight: 1 
 
 # Big image on first page.
-front_image: "bookplates title draft2.png" # Replace with the real image
+front_image: "bookplates-title-draft2.png" # Replace with the real image
 
 
 # Change to true if this exhibit is currently running.

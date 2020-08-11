@@ -127,10 +127,6 @@ a:hover .hp_title, a:active .hp_title {
 
 /* SILLY HACK TO HIGHLIGHT FIRST 2 CHILDREN OF OLD GALLERY */
 
-.oldgallery:nth-child(n+1):nth-child(-n+3) {
-    display: none;
-}
-
 /* HOURS */ 
 
 
