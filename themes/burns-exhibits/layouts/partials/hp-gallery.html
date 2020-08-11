@@ -60,7 +60,7 @@
 
         {{ $allold:= where .Site.Pages "Kind" "section" }}
 
-        {{ range $allold | first 10 | }}
+        {{ range $allold | first 8 | }}
 
             <div class="col-md-3 col-6 oldgallery">
                 <a href=".{{ .RelPermalink }}" class="hp_img" 
