@@ -15,10 +15,9 @@ type: "exhibit"
 
 Sponsored by Boston College Libraries
 
-Curator(s): Person, Title
+Curator(s):
+Katherine Fox, Head of Public Services and User Engagement; Kathleen Monahan, Reference, Instruction and Digital Services Librarian
 
-Person, Title
+Graphic design by Kate Edrington, Administrative Assistant, Burns Library
 
-Person, Title
 
-Originally displayed: Location, Month - Month 2017

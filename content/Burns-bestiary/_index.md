@@ -25,6 +25,4 @@ draft: true
 type: "exhibit"
 ---
 
-Vestibulum id ligula porta felis euismod semper. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
-
-Curabitur blandit tempus porttitor. Maecenas sed diam eget risus varius blandit sit amet non magna. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sed diam eget risus varius blandit sit amet non magna.
+Depictions of animals can be found throughout the Burns Library collections, as, for centuries,  they have been featured for artistic appreciation, scientific inquiry, general learning, or pure entertainment via armchair travel to the wonders of the natural world. Bestiaries—medieval compilations and descriptions of animals, both real and imagined—were common in the medieval world, and used as a way to convey Christian views of morality. For our own Burns Bestiary, presented here, we’ve ransacked the collections to compile illustrations of animals from various works, and pondered why they were presented in the ways they were. Please enjoy surveying this selection of beasts from the realms of air, water, land, and myth, and we encourage you to explore many others on your own in our Reading Room.
