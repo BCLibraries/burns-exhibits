@@ -18,17 +18,17 @@ The illustrations of aquatic animals we selected fall into two broad categories.
 
 {{% galleryrow %}}
 
-{{< figure src="../038-dolphin-porpoise.gif"
+{{< figure src="../038-dolphin-porpoise copy.jpg"
            headline="Early maps, such as this one from 1699, used large sea creatures both for decoration and symbols for the ocean."
            description="[Tachard, Voyage de Siam, des peres jesuites, envoyez par le roy aux Indes & a la Chine, 1686.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21386247610001021)"
 >}}
 
-{{< figure src="../058A-seahorses.gif"
+{{< figure src="../058A-seahorses copy.jpg"
            headline="Bright colors and unusual shapes, such as this seahorse, can inspire more decorative representations by artists."
            description="[Calabi,  Estratto dal Per l'arte rivista di arte decorativa, between 1909 and 1915.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21490062220001021)"
 >}}
 
-{{< figure src="../081-ScorpionFish.gif"
+{{< figure src="../081-ScorpionFish copy.jpg"
            headline="Detailed, scientific illustrations—such as this one from Zoology of the Voyage of the HMS Beagle—can bring out the oddities of such species as the Scorpaena Histrio, or player scorpionfish. "
            description="[Bell,  The Zoology of the voyage of H.M.S. Beagle, under the command of Captain Fitzroy, R.N., during the years 1832 to 1836, 1994.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21369915000001021)"
 >}}
@@ -37,17 +37,17 @@ The illustrations of aquatic animals we selected fall into two broad categories.
 
 {{% galleryrow %}}
 
-{{< figure src="../005-seal.gif"
+{{< figure src="../005A-seal copy.jpg"
            headline="Seal"
            description="[Cuvier, The animal kingdom, arranged after its organization, 1893.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21321590080001021)"
 >}}
 
-{{< figure src="../026A-manatee.gif"
+{{< figure src="../026A-manatee copy.jpg"
            headline="Manatee"
            description="[Goodrich, Johnson's natural history, comprehensive, scientific, and popular, illustrating and describing the animal kingdom with its wonders and curiosities… ,1872.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21326166860001021)"
 >}}
 
-{{< figure src="../028-seaotters.gif"
+{{< figure src="../028-seaotters copy.jpg"
            headline="Sea Otters"
            description="[Goodrich, Johnson's natural history, comprehensive, scientific, and popular, illustrating and describing the animal kingdom with its wonders and curiosities… ,1872.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21326166860001021)"
 >}}
@@ -56,20 +56,112 @@ The illustrations of aquatic animals we selected fall into two broad categories.
 
 {{% galleryrow %}}
 
-{{< figure src="../029-walrus.gif"
+{{< figure src="../029-walrus copy.jpg"
            headline="Walrus"
            description="[Goodrich, Johnson's natural history, comprehensive, scientific, and popular, illustrating and describing the animal kingdom with its wonders and curiosities… ,1872.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21326166860001021)"
 >}}
 
-{{< figure src="../030A-Shark.gif"
+{{< figure src="../030A-shark copy.jpg"
            headline="Shark"
            description="[Snow, The Romance of Boston Bay, 1944.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361566380001021)"
 >}}
 
-{{< figure src="../032-sturgeon.gif"
+{{< figure src="../032-sturgeon copy.jpg"
            headline="Sturgeon"
            description="[Goldsmith, Pictorial history of the earth and animated nature, 18--.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21332353210001021)"
 >}}
 
 {{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{< figure src="../034-unctuoussucker copy.jpg"
+           headline="Unctuous Sucker Fish"
+           description="[Goldsmith, Pictorial history of the earth and animated nature, 18--.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21332353210001021)"
+>}}
+
+{{< figure src="../094-FlyingFish copy.jpg"
+           headline="Flying Fish"
+           description="[Darwin, What Mr. Darwin saw in his voyage round the world in the ship **Beagle**., 1880.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21321847870001021)"
+>}}
+
+{{< figure src="../044-sharks copy.jpg"
+           headline="Sharks"
+           description="[Phillip, The voyage of Governor Philiip to Botany Bay, 1790.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21347378150001021)"
+>}}
+
+{{% /galleryrow %}}
+
+
+{{% galleryrow %}}
+
+{{< figure src="../067-oyster copy.jpg"
+           headline="Oyster"
+           description="[Coffey, Abecedarian, 1974.(https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21324543390001021)"
+>}}
+
+{{< figure src="../068A-whale copy.jpg"
+           headline="Whale"
+           description="[Coffey, Abecedarian, 1974.(https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21324543390001021)"
+>}}
+
+{{< figure src="../078A-cod copy.jpg"
+           headline="Cod"
+           description="[Trimmer, A natural history of the most remarkable quadrupeds, birds, fishes, serpents, reptiles and insects, 1829.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21367435380001021)"
+>}}
+
+{{% /galleryrow %}}
+
+
+{{% galleryrow %}}
+
+{{< figure src="../079-electriceel copy.jpg"
+           headline="Electric eel"
+           description="[Trimmer, A natural history of the most remarkable quadrupeds, birds, fishes, serpents, reptiles and insects, 1829.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21367435380001021)"
+>}}
+
+{{< figure src="../080-swordfish copy.jpg"
+           headline="Swordfish"
+           description="[Trimmer, A natural history of the most remarkable quadrupeds, birds, fishes, serpents, reptiles and insects, 1829.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21367435380001021)"
+>}}
+
+{{< figure src="../083A-lobster copy.jpg"
+           headline="Lobster"
+           description="[Redfield, Zoological science, or, Nature in living forms …, 1865.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21312488120001021)"
+>}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{< figure src="../090A-swordfish copy.jpg"
+           headline="Swordfish"
+           description="[Falls, A B C book, 1923.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21320370680001021)"
+>}}
+
+{{< figure src="../091-octopus copy.jpg"
+           headline="Octopus"
+           description="[Beerbolm, The Octopus, 1895. ](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21310784080001021)"
+>}}
+
+{{< figure src="../092-porpoise copy.jpg"
+           headline="Porpoise"
+           description="[Bell,  The Zoology of the voyage of H.M.S. Beagle, under the command of Captain Fitzroy, R.N., during the years 1832 to 1836, 1994.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21369915000001021)"
+>}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{< figure src="../093A-Monkfish copy.jpg"
+           headline="Monk Fish"
+           description="[Dampier, A new voyage round the world … , 1699.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21319067470001021)"
+>}}
+
+
+
+
+
+{{% /galleryrow %}}
+
 
