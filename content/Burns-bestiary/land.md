@@ -125,3 +125,72 @@ type: "exhibit"
 >}}
 
 {{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{< figure src="../037-elephant copy.jpg"
+           headline="Elephant"
+           description="[Kircher, Jesu Arca Noe in tres libros digesta… 1675.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21316418640001021)"
+>}}
+
+{{< figure src="../042-flyingopossum copy.jpg"
+           headline="Flying Opossum"
+           description="[Phillip, The voyage of Governor Phillip to Botany Bay …, 1790.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21347378150001021)"
+>}}
+
+{{< figure src="../057-snail copy.jpg"
+           headline="Snail"
+           description="[Calabi,  Estratto dal "Per l'arte" rivista di arte decorativa, between 1909 and 1915.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21490062220001021)"
+>}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{< figure src="../062-ostrich copy.jpg"
+           headline="Ostrich"
+           description="[Renard, Natural history: Lithographs, 1960.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21379343010001021)"
+>}}
+
+{{< figure src="../063-weasel-cropped copy.jpg"
+           headline="Weasel"
+           description="[Renard, Natural history: Lithographs, 1960.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21379343010001021)"
+>}}
+
+{{< figure src="../066A-frog copy.jpg"
+           headline="Frog"
+           description="[Belloc, Beasts from Belloc : a selection of poems from Hilaire Belloc's The book of beasts for bad children and More beasts for worse children, 1982.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21363268550001021)"
+>}}
+
+{{% /galleryrow %}}
+
+{{% galleryrow %}}
+
+{{< figure src="../072-giraffe copy.jpg"
+           headline="Camel-leopard (Giraffe)"
+           description="[Schott, Physica curiosa, 1667.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21386228300001021)"
+>}}
+
+{{< figure src="../073-rhino copy.jpg"
+           headline="Rhino"
+           description="[Schott, Physica curiosa, 1667.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21386228300001021)"
+>}}
+
+
+{{% /galleryrow %}}
+
+
+{{% galleryrow %}}
+
+{{< figure src="../074-sloth copy.jpg"
+           headline="Sloth"
+           description="[Schott, Physica curiosa, 1667.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21386228300001021)"
+>}}
+
+{{< figure src="../082A-lizard copy.jpg"
+           headline="Lizard"
+           description="[Bell,  The Zoology of the voyage of H.M.S. Beagle, under the command of Captain Fitzroy, R.N., during the years 1832 to 1836, 1994.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21369915000001021)"
+>}}
+
+
+{{% /galleryrow %}}
