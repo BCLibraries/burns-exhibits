@@ -97,12 +97,12 @@ The illustrations of aquatic animals we selected fall into two broad categories.
 
 {{< figure src="../067-oyster copy.jpg"
            headline="Oyster"
-           description="[Coffey, Abecedarian, 1974.(https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21324543390001021)"
+           description="[Coffey, Abecedarian, 1974.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21324543390001021)"
 >}}
 
 {{< figure src="../068A-whale copy.jpg"
            headline="Whale"
-           description="[Coffey, Abecedarian, 1974.(https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21324543390001021)"
+           description="[Coffey, Abecedarian, 1974.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21324543390001021)"
 >}}
 
 {{< figure src="../078A-cod copy.jpg"
