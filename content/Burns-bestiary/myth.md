@@ -97,3 +97,35 @@ Just how odd can animals be, before the line crosses from real to imaginary? Wit
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="../069A-Chimera copy.jpg"
+           headline="Chimera">}} [Mahon, The chimeras, 1982.] (https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21348203470001021)
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="../071-dragon copy.jpg"
+           headline="Dragon">}} [Kircher,  Mundus subterraneus, 1665. ] (https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21344897670001021)
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="../075A-satyrs copy.jpg"
+           headline="Satyr">}} [Schott, Physica curiosa, 1667.] (https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21386228300001021)
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="../069A-Chimera copy.jpg"
+           headline="Griffin">}} [Munster, Cosmographia, 1564.] (https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21383471500001021)
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="../071-dragon copy.jpg"
+           headline="Hippalectryon">}}Box 9, G. William Patten papers, [MS2003-042](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21323320790001021)
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="../075A-satyrs copy.jpg"
+           headline="Seamonster">}} [Snow, The Romance of Boston bay, 1944.] (https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21361566380001021)
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
