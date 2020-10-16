@@ -140,7 +140,7 @@ type: "exhibit"
 
 {{< figure src="../057-snail copy.jpg"
            headline="Snail"
-           description="[Calabi,  Estratto dal "Per l'arte" rivista di arte decorativa, between 1909 and 1915.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21490062220001021)"
+           description="[Calabi,  Estratto dal **Per l'arte** rivista di arte decorativa, between 1909 and 1915.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21490062220001021)"
 >}}
 
 {{% /galleryrow %}}
