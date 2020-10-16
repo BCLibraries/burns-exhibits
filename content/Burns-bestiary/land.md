@@ -120,9 +120,16 @@ type: "exhibit"
            headline="Flying Opossum">}} [Phillip, The voyage of Governor Phillip to Botany Bay …, 1790.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21347378150001021)
 {{< /galleryfigure >}}
 
+<<<<<<< HEAD
+{{< figure src="../057-snail copy.jpg"
+           headline="Snail"
+           description="[Calabi,  Estratto dal *Per l'arte* rivista di arte decorativa, between 1909 and 1915.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21490062220001021)"
+>}}
+=======
 {{< galleryfigure src="../057-snail copy.jpg"
            headline="Snail">}} [Calabi,  Estratto dal **Per l'arte** rivista di arte decorativa, between 1909 and 1915.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21490062220001021)
 {{< /galleryfigure >}}
+>>>>>>> d4e6903e9a1fff3f6dd867b2b27b8c70a870a340
 
 {{< /galleryrow >}}
 
