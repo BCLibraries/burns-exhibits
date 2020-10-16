@@ -13,7 +13,7 @@ draft: true
 type: "exhibit"
 ---
 
-{{% figure src="../portrait-image.jpg" headline="" size="x-large" %}}
+{{< figure src="" headline="" size="x-large" >}}
 
 
 List of all collections used in exhibit, in alphabetical order:

@@ -12,35 +12,30 @@ draft: true
 type: "exhibit"
 ---
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
-{{< figure src="../portrait-image.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras"
-           description="Sollicitudin Mollis Venenatis Sit"
->}}
+{{< galleryfigure src="../portrait-image.jpg"
+           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+{{< /galleryfigure >}}
 
-{{< figure src="../portrait-image.jpg"
-           headline="Porta Tristique Ligula"
-           description="Fringilla Cursus Sollicitudin Dapibus"
->}}
+{{< galleryfigure src="../portrait-image.jpg"
+           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+{{< /galleryfigure >}}
 
-{{< figure src="../portrait-image.jpg"
-           headline="Amet Pellentesque"
-           description="Parturient Nullam Tellus Vehicula"
->}}
+{{< galleryfigure src="../portrait-image.jpg"
+           headline="Amet Pellentesque" >}}
+{{< /galleryfigure >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}
 
-{{% galleryrow %}}
+{{< galleryrow >}}
 
-{{< figure src="../intro-image.jpg"
-           headline="Tellus"
-           description="Pellentesque Vehicula Aenean"
->}}
+{{< galleryfigure src="../intro-image.jpg"
+           headline="Tellus">}} Pellentesque Vehicula Aenean
+{{< /galleryfigure >}}
 
-{{< figure src="../intro-image.jpg"
-           headline="Mollis Quam Vehicula Lorem"
-           description="Ullamcorper Egestas Dapibus"
->}}
+{{< galleryfigure src="../intro-image.jpg"
+           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+{{< /galleryfigure >}}
 
-{{% /galleryrow %}}
+{{< /galleryrow >}}

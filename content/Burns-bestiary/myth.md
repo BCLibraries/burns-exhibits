@@ -12,7 +12,7 @@ draft: true
 type: "exhibit"
 ---
 
-{{% figure src="../Burns Bestiary titles3.png" headline="" size="x-large" %}}
+{{< figure src="../Burns Bestiary titles3.png" headline="" size="x-large" >}}
 
 Just how odd can animals be, before the line crosses from real to imaginary? With beasts as strange as platypuses, flying fish, and long eared bats, it can be hard to tell actual animals from flights of imagination. Early natural historians often did not distinguish between legendary and real creatures, including them all in early zoologies. Even animals like the rhinoceros could be portrayed oddly, perhaps the result of descriptions that grew farther from the truth with each telling. Some mythical creatures, like the unicorn, remain part of popular knowledge and are still found centuries later in storybooks and artists’ notes. Others, like the cacodemon, are virtually unknown to modern audiences. 
 
@@ -36,7 +36,7 @@ Just how odd can animals be, before the line crosses from real to imaginary? Wit
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../031A-dragon copyjpg"
+{{< galleryfigure src="../031A-dragon copy.jpg"
            headline="Dragons can be found across almost all cultures, but their characteristics differ widely. Although almost always reptilian, dragons can look like snakes or lizards, have wings or not, have zero, two, or four legs, breathe fire or live under water, represent evil or wisdom-with this kind of creative license, who wouldn’t want to draw dragons?">}} [Tudor, A little bird of books and beasts, 1929.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21318211380001021)
 {{< /galleryfigure >}}
 
@@ -89,11 +89,11 @@ Just how odd can animals be, before the line crosses from real to imaginary? Wit
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../059-pegasus copy.jpg"
-           headline="Pegasus">}} [Fontana, Poems, 1752.] (https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21318369710001021)
+           headline="Pegasus">}} [Fontana, Poems, 1752.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21318369710001021)
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../064A-merman copy.jpg"
-           headline="Merman">}} [Barker, The alphabetical zoo, 1972.] (https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21328549550001021)
+           headline="Merman">}} [Barker, The alphabetical zoo, 1972.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21328549550001021)
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -101,31 +101,31 @@ Just how odd can animals be, before the line crosses from real to imaginary? Wit
 {{< galleryrow >}}
 
 {{< galleryfigure src="../069A-Chimera copy.jpg"
-           headline="Chimera">}} [Mahon, The chimeras, 1982.] (https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21348203470001021)
+           headline="Chimera">}} [Mahon, The chimeras, 1982.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21348203470001021)
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../071-dragon copy.jpg"
-           headline="Dragon">}} [Kircher,  Mundus subterraneus, 1665. ] (https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21344897670001021)
+           headline="Dragon">}} [Kircher,  Mundus subterraneus, 1665. ](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21344897670001021)
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../075A-satyrs copy.jpg"
-           headline="Satyr">}} [Schott, Physica curiosa, 1667.] (https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21386228300001021)
+           headline="Satyr">}} [Schott, Physica curiosa, 1667.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21386228300001021)
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../069A-Chimera copy.jpg"
-           headline="Griffin">}} [Munster, Cosmographia, 1564.] (https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21383471500001021)
+{{< galleryfigure src="../096A-Griffin copy.jpg"
+           headline="Griffin">}} [Munster, Cosmographia, 1564.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21383471500001021)
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../071-dragon copy.jpg"
-           headline="Hippalectryon">}}Box 9, G. William Patten papers, [MS2003-042](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21323320790001021)
+{{< galleryfigure src="../097-Hippalectryon.jpg"
+           headline="Hippalectryon">}} Box 9, G. William Patten papers, [MS2003-042](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21323320790001021)
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../075A-satyrs copy.jpg"
-           headline="Seamonster">}} [Snow, The Romance of Boston bay, 1944.] (https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21361566380001021)
+{{< galleryfigure src="../098-seamonster copy.jpg"
+           headline="Seamonster">}} [Snow, The Romance of Boston bay, 1944.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21361566380001021)
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}

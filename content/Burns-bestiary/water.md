@@ -12,7 +12,7 @@ draft: true
 type: "exhibit"
 ---
 
-{{% figure src="../Burns Bestiary titles.png" headline="" size="x-large" %}}
+{{< figure src="../Burns Bestiary titles.png" headline="" size="x-large" >}}
 
 The illustrations of aquatic animals we selected fall into two broad categories. Scientific works are swimming with images of fish, educating readers on taxonomies and how to identify the exact species they might see in the water. But there are far more than fish in the sea! Although also covered in scientific tomes, the more distinctive water animals invite a more creative approach. From using dolphins in early printed maps to symbolize the oceans, to brightly colored representations of sea horses and playful sketches of oysters, some creatures from the depths seem to capture the imaginations of authors, artists, and readers. Both categories show an enduring desire to dive below the surface and create images of the mostly unseen creatures that lurk below.
 
