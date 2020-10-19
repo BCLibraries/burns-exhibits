@@ -6,7 +6,7 @@ title: "Introduction"
 exhibit_title: "Burns Bestiary"
 exhibit_subtitle: ""
 
-date: 2020-09-18T11:02:58-04:00
+date: 2020-10-19T11:02:58-04:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1 
