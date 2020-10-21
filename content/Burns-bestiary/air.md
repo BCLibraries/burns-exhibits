@@ -14,7 +14,7 @@ type: "exhibit"
 
 {{< figure src="../Burns Bestiary titles4.png" headline="" size="x-large" >}}
 
-The bright colors and beauty of birds and other flying fauna may be meant to attract mates or provide camouflage, but also draw in the attention of many artists and naturalists. Compilations of birds—such as John Audubon's Birds of America  or William Beebe's A Monograph of  the Pheasants (shown below)—focus as much on the beauty of our feathered friends as the accurate depictions of their habitats and other scenery. Many of the illustrations are exquisitely detailed, as artists capture the full effect of these winged creatures. Accordingly, these are some of our largest illustrations, with many featuring full page plates to show off the beauty of the birds, butterflies and other air creatures, and the skill of the artists depicting them. 
+The bright colors and beauty of birds and other flying fauna may be meant to attract mates or provide camouflage, but also draw in the attention of many artists and naturalists. Compilations of birds—such as John Audubon's Birds of America  or William Beebe's A Monograph of  the Pheasants (shown below)—focus as much on the beauty of our feathered friends as the accurate depictions of their habitats and other scenery. Many of the illustrations are exquisitely detailed, as artists capture the full effect of these winged creatures. Accordingly, these are some of our largest illustrations, with many featuring full page plates to show off the beauty of the birds, butterflies and other air creatures, and the skill of the artists depicting them.
 
 
 {{< galleryrow >}}
@@ -39,28 +39,28 @@ The bright colors and beauty of birds and other flying fauna may be meant to att
            headline="Insects">}} [Cuvier, The animal kingdom, arranged after it's organization...1893.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21321590080001021)
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../001A-insects.jpg"
-           headline="Scaphuruw">}} [Cuvier, The animal kingdom, arranged after it's organization...1893.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21321590080001021)
+{{< galleryfigure src="../001AMetallyticusSplendens-PrayingMantis.jpg"
+           headline="Praying Mantis">}} [Cuvier, The animal kingdom, arranged after it's organization...1893.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21321590080001021)
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../001B-insects.jpg"
-           headline="Metallyticus">}} [Cuvier, The animal kingdom, arranged after it's organization...1893.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21321590080001021)
+{{< galleryfigure src="../001BScaphuraKirbii-Cricket.jpg"
+           headline="Cricket">}} [Cuvier, The animal kingdom, arranged after it's organization...1893.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21321590080001021)
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../001C-insects.jpg"
-           headline="Prisopus">}} [Cuvier, The animal kingdom, arranged after it's organization...1893.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21321590080001021)
+{{< galleryfigure src="../001C-PrisopusHorridus-StickInsect.jpg"
+           headline="Stick Insect">}} [Cuvier, The animal kingdom, arranged after it's organization...1893.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21321590080001021)
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../001D-insects.jpg"
-           headline="Schizodacytlus">}} [Cuvier, The animal kingdom, arranged after it's organization...1893.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21321590080001021)
+{{< galleryfigure src="../001D-SchizodacytlusMonstrosus-maizecricket.jpg"
+           headline="Maize Cricket">}} [Cuvier, The animal kingdom, arranged after it's organization...1893.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21321590080001021)
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../001E-insects.jpg"
-           headline="Tripetalocerafe">}} [Cuvier, The animal kingdom, arranged after it's organization...1893.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21321590080001021)
+{{< galleryfigure src="../001E-Tripetaloceraferrugunea-GroundHopper.jpg"
+           headline="Ground Hopper">}} [Cuvier, The animal kingdom, arranged after it's organization...1893.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21321590080001021)
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
