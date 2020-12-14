@@ -37,7 +37,7 @@ Just how odd can animals be, before the line crosses from real to imaginary? Wit
 {{< galleryrow >}}
 
 {{< galleryfigure src="../031A-dragon copy.jpg"
-           headline="Dragons can be found across almost all cultures, but their characteristics differ widely. Although almost always reptilian, dragons can look like snakes or lizards, have wings or not, have zero, two, or four legs, breathe fire or live under water, represent evil or wisdom-with this kind of creative license, who wouldn’t want to draw dragons?">}} [Tudor, A little bird of books and beasts, 1929.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21318211380001021)
+           headline="Dragons can be found across almost all cultures, but their characteristics differ widely. Although almost always reptilian, dragons can look like snakes or lizards, have wings or not, have zero, two, or four legs, breathe fire or live under water, represent evil or wisdom-with this kind of creative license, who wouldn’t want to draw dragons?">}} [Tudor, A little book of birds & beasts, 1929.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21318211380001021)
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../077A-dragon copy.jpg"
