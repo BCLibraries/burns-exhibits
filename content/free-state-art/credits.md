@@ -15,10 +15,8 @@ type: "exhibit"
 
 Sponsored by Boston College Libraries
 
-Curator(s): Person, Title
+Curator(s): Brian Ó Conchubhair
 
-Person, Title
+Andrew Isidoro, Public Services Specailist, John J. Burns Library, Boston College
 
-Person, Title
-
-Originally displayed: Location, Month - Month 2017
+Originally displayed: Online, Summer 2004
