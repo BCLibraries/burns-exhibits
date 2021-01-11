@@ -13,8 +13,8 @@ weight: 1
 
 # Big image on first page.
 front_image: "8792.jpg" # Replace with the real image
-front_caption_headline: ""
-front_caption_text: "[Munro, Iain Áluinn (Beautiful Ian), 1936](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21376305590001021)"
+front_caption_headline: "Iain Áluinn (Beautiful Ian)"
+front_caption_text: "[Munro, 1936](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21376305590001021)"
 
 # Change to true if this exhibit is currently running.
 current: false
