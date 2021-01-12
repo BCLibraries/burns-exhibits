@@ -26,3 +26,11 @@ Tomás Ó Criomhthain, a native of the Great Blasket Island off the Kerry coast,
 				align="left">}}
 Born Alfred Willmore in London, Mícheál Mac Liammóir is best known as an actor and director. With his life-long partner Hilton Edwards (1903-1982), he founded the Gate Theatre in Dublin in 1928 and co-founded An Taibhdhearc, the Irish language theatre in Galway.
 {{< /largefigure >}}
+
+{{< largefigure src="../8795.jpg"
+                headline="Sgéalta na nOileán (Stories of the Islands)"
+                description="[Ó Direáin, 1929](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21376302330001021)"
+                size="large"
+				align="right">}}
+A native of Leitir Mealláin, Co. Galway. He published two collections of local short stories in 1926 and 1929. He also wrote pantomimes for the Galway based theatre An Taibhdhearc.
+{{< /largefigure >}}

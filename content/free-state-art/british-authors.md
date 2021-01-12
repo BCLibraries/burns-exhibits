@@ -1,6 +1,6 @@
 ---
 title: "British Authors"
-description: ""
+description: "Translations of British Authors"
 
 # Page order (1 is 1st page, etc.)
 weight:  3
@@ -12,30 +12,39 @@ draft: true
 type: "exhibit"
 ---
 
-{{% largefigure src="../intro-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                description="Dapibus Vulputate Sollicitudin Cras"
-                size="x-large" %}}
-Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Curabitur blandit tempus porttitor.
-{{% /largefigure %}}
+{{< largefigure src="../8796.jpg"
+                headline="An Fuadach (The Kidnapping)"
+                description="[Stevenson, 1931](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21368923810001021) Translator: Leon Ó Broin"
+                size="large" >}}
+Leon Ó Broin was active in establishing An Gúm. He was Permanent Secretary for the Department of Posts and Telegraphs from 1948 and wrote numerous biographical studies in English and Irish.
+{{< /largefigure >}}
 
-{{% largefigure src="../portrait-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                description="Fringilla Quam Consectetur Commodo" 
-                size="large" align="center" %}}
-Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-{{% /largefigure %}}
+{{< largefigure src="../8797.jpg"
+                headline="Árda Wuthering (Wuthering Heights)"
+                description="[Brontë, 1933](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21376318000001021) Translator: Seán Ó Cíosáin"
+                size="large" 
+				align="left">}}
+Ó Cíosáin also translated Oliver Goldsmith's (1728-1774) novel The Vicar of Wakefield (1766) as Viocáire Wakefield in 1931.
+{{< /largefigure >}}
 
-{{% largefigure src="../intro-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                size="medium"
-                align="left" %}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
-{{% /largefigure %}}
+{{< largefigure src="../8798.jpg"
+                headline="Cú na mBaskerville (Hound of the Baskervilles)"
+                description="[Doyle, 1934](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21376314340001021) Translator: Nioclás Tóibín"
+                size="large" 
+				align="right">}}
+{{< /largefigure >}}
 
-{{% largefigure src="../portrait-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                description="Pharetra Mattis Inceptos"
-                size="small" %}}
-Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean lacinia bibendum nulla sed consectetur.
-{{% /largefigure %}}
+{{< largefigure src="../8799.jpg"
+                headline="Scéal Lorna Doone (Lorna Doone's Story)"
+                description="[Blackmore, 1934](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21378078000001021) Translator: Aindrias Ó Baoighil"
+                size="large" 
+				align="left">}}
+{{< /largefigure >}}
+
+{{< largefigure src="../8800.jpg"
+                headline="An tOileán Corghruanach (The Coral Island)"
+                description="[Ballantyre, 1939](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21368924540001021) Translator: Mícheál Ó Catháin"
+                size="large" 
+				align="right">}}
+{{< /largefigure >}}
+
