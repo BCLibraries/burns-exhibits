@@ -22,7 +22,7 @@ Leon Ó Broin was active in establishing An Gúm. He was Permanent Secretary for
 {{< largefigure src="../8797.jpg"
                 headline="Árda Wuthering (Wuthering Heights)"
                 description="[Brontë, 1933](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21376318000001021) Translator: Seán Ó Cíosáin"
-                size="large" 
+                size="small" 
 				align="left">}}
 Ó Cíosáin also translated Oliver Goldsmith's (1728-1774) novel The Vicar of Wakefield (1766) as Viocáire Wakefield in 1931.
 {{< /largefigure >}}

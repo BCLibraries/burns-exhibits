@@ -1,6 +1,6 @@
 ---
 title: "Irish Writers"
-description: ""
+description: "TRANSLATIONS OF IRISH Writers"
 
 # Page order (1 is 1st page, etc.)
 weight:  4
@@ -12,30 +12,43 @@ draft: true
 type: "exhibit"
 ---
 
-{{% largefigure src="../intro-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                description="Dapibus Vulputate Sollicitudin Cras"
-                size="x-large" %}}
-Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Curabitur blandit tempus porttitor.
-{{% /largefigure %}}
+{{< largefigure src="../8801.jpg"
+                headline="Teacht Chúchulainn (Cúchulainn's Arrival)"
+                description="[O'Grady, 1933](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21376305270001021) Translated by: Fr. Tomás Ó Gallchobhair"
+                size="x-large"
+				align="right">}}
+O'Grady's books on Irish mythology had a profound effect on younger writers, particularly William Butler Yeats.
+{{< /largefigure >}}
 
-{{% largefigure src="../portrait-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                description="Fringilla Quam Consectetur Commodo" 
-                size="large" align="center" %}}
-Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-{{% /largefigure %}}
+{{< largefigure src="../8802.jpg"
+                headline="Aodh de Róiste (Hugh Roche)"
+                description="[Murphy, 1933](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21376305100001021) Translated by: Dómhnall Ó Ceocháin & Dómhnall Ó Céilleachair"
+                size="small"
+				align="left">}}
+James Murphy was a Professor of Mathematics at the Catholic University in Dublin.
+{{< /largefigure >}}
 
-{{% largefigure src="../intro-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                size="medium"
-                align="left" %}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
-{{% /largefigure %}}
+{{< largefigure src="../8803.jpg"
+                headline="Dinní Ó Frighil (Dinny O'Friel)"
+                description="[MacManus, 1933](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21376304480001021) Translated by: Nioclás Tóibín"
+                size="small"
+				align="right">}}
+ MacManus, a native of Donegal, was a prolific writer who died having fallen from the seventh floor of a New York nursing home.
+{{< /largefigure >}}
 
-{{% largefigure src="../portrait-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                description="Pharetra Mattis Inceptos"
-                size="small" %}}
-Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean lacinia bibendum nulla sed consectetur.
-{{% /largefigure %}}
+{{< largefigure src="../8804.jpg"
+                headline="Síobhraí na mBeann is na nGleann (Fairies of the Peaks and Valleys)"
+                description="[Croker, 1939](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21376304290001021) Translated by: Brighid Ní Loinsigh"
+                size="small"
+				align="left">}}
+ Brighid Ní Loinsigh is one of the few women who translated for An Gúm. Others include: Máire Ní Shíthe, Máire Ní Shíothcháin, Máiréad Ní Ghráda, Sister Felíme, Áine Ní Fhoghlú, Maighréad Nic Mhaicín, Máire Ní Dhaobhoireann, Sorcha Ní Ghuairim and Eibhlín Ní Churraoin. An Abbey Theatre actress, she translated children's books including several by Eileen O'Faolain.
+{{< /largefigure >}}
+
+{{< largefigure src="../8805.jpg"
+                headline="Iarann an Tuaiscirt (The Northern Iron)"
+                description="[Birmingham, 1933](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21376315800001021) Translated by: Muiris Ó Catháin"
+                size="small"
+				align="right">}}
+Born in Kerry, Ó Catháin taught Irish for a brief period at Loyola College, Montreal.
+{{< /largefigure >}}
+
