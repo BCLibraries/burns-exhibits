@@ -52,3 +52,19 @@ James Murphy was a Professor of Mathematics at the Catholic University in Dublin
 Born in Kerry, Ó Catháin taught Irish for a brief period at Loyola College, Montreal.
 {{< /largefigure >}}
 
+{{< largefigure src="../8806.jpg"
+                headline="Fear Fíor agus Fealltóir (True Man and Traitor)"
+                description="[Bodkin, 1935](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21376304760001021) Translated by: Domhnall Ó Grianna"
+                size="small"
+				align="left">}}
+Mc Donnell Bodkin was born in Galway and served as Nationalist Member of Parliament for Roscommon, before later becoming a judge. He wrote detective fiction and two novels of the 1798 rebellion.
+{{< /largefigure >}}
+
+{{< largefigure src="../8807.jpg"
+                headline="A Dúthchas Gaedhealach (Her Irish Heritage)"
+                description="[Smithson, 1938](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21376314940001021) Translated by: Tadhg Ó Rabhartaigh"
+                size="small"
+				align="right">}}
+Annie M.P. Smithson was born in Dublin and converted to Catholicism on learning that her father had been a Fenian supporter. Later, she became Secretary of the Irish Nurses Organization.
+{{< /largefigure >}}
+
