@@ -6,7 +6,7 @@ title: "Introduction"
 exhibit_title: "Free State Art"
 exhibit_subtitle: "Judging Ireland by its Book Covers"
 
-date: 2021-01-11T15:37:21-05:00
+date: 2020-01-28T15:37:21-05:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1 
@@ -20,7 +20,7 @@ front_caption_text: "[Munro, 1936](https://bc-primo.hosted.exlibrisgroup.com/per
 current: false
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
