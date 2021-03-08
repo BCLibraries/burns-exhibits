@@ -15,10 +15,9 @@ type: "exhibit"
 
 Sponsored by Boston College Libraries
 
-Curator(s): Person, Title
+Curator(s): Katie Lamontagne, Project Archivist
 
-Person, Title
+Graphic design by Kate Edrington, Administrative Assistant, Burns Library
 
-Person, Title
 
-Originally displayed: Location, Month - Month 2017
+Originally displayed: Online, March 2021

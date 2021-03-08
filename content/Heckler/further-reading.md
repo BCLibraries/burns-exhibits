@@ -13,18 +13,7 @@ draft: true
 type: "exhibit"
 ---
 
-{{% figure src="../portrait-image.jpg" headline="" size="x-large" %}}
+{{< figure src="../003-Heckler-150.jpg" headline="Tip O’Neill, Margaret Heckler, and President J. Donald Monan at the Boston College Commencement, 1981." description="Box 129, Folder 53, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)"  size="x-large" >}}
 
-Collection Used: David Goldstein and Martha Moore Avery Papers [(MS1986-167)](https://link-to-collection.edu)  
+Collection Used: Margaret Heckler papers, [(CA.1998.004)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)  
 
-__Heading__
-
-Last, First M. *[Title of resource](https://link-to-resource.edu)*. Place of pub: Publisher, Year.
-
-*[Newspaper title](https://link-to-resource.edu)*. “Article Title” Date, Year.
-
-Last, First M. *[Title of resource](https://link-to-resource)*. Place of pub: Publisher, Year.
-
-Last, First M. *[Title of resource](https://link-to-resource.edu)*. Place of pub: Publisher, Year.
-
-------. “Article title” *[Journal](https://link-to-resource.edu)* Vol, Issue (Date Year): page-page.
