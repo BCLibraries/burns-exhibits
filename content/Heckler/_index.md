@@ -6,7 +6,7 @@ title: "Introduction"
 exhibit_title: "We Need a Heckler!"
 exhibit_subtitle: ""
 
-date: 2021-02-15T11:34:19-05:00
+date: 2021-03-11T11:34:19-05:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1 
@@ -17,10 +17,10 @@ front_caption_headline: ""
 front_caption_text: ""
 
 # Change to true if this exhibit is currently running.
-current: false
+current: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
