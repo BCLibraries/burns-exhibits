@@ -12,7 +12,7 @@ date: 2021-03-11T11:34:19-05:00
 weight: 1 
 
 # Big image on first page.
-front_image: "" # Replace with the real image
+front_image: "heckler_promo8.png" # Replace with the real image
 front_caption_headline: ""
 front_caption_text: ""
 
