@@ -25,11 +25,11 @@ Dismissed in the newspapers as "petite," "perky," "diminutive and demure," Heckl
 {{< galleryrow >}}
 
 {{< galleryfigure src="../006-Heckler-150.jpg"
-           headline=" 'Republicans’ prettiest nominee,' The Boston Herald, September 14, 1966.">}} Box 1, Folder 3, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
+           headline=" 'Republicans’ prettiest nominee,' *The Boston Herald*, September 14, 1966.">}} Box 1, Folder 3, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../018-Heckler-150.jpg"
-           headline="'A New England lady upsets an old pro' Life magazine reprint, 1966.">}} Box 1, Folder 5, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
+           headline="'A New England lady upsets an old pro' *Life* magazine reprint, 1966.">}} Box 1, Folder 5, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
 
 {{< /galleryfigure >}}
 
