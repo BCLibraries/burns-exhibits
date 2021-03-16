@@ -21,11 +21,11 @@ Throughout her career, Margaret Heckler kept a sign on her desk that read "Whate
 {{< galleryrow >}}
 
 {{< galleryfigure src="../035-Heckler-150.jpg"
-           headline="Sign from Margaret Heckler’s desk, circa 1967-1983">}} Box 149, Object 25, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
+           headline="Sign from Margaret Heckler’s desk, circa 1967-1983.">}} Box 149, Object 25, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../004-Heckler.jpg"
-           headline="Margaret Heckler testifying at a Congressional hearing, 1977">}} Box 129, Folder 47, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
+           headline="Margaret Heckler testifying at a Congressional hearing, 1977.">}} Box 129, Folder 47, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
 
 {{< /galleryfigure >}}
 

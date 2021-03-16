@@ -30,7 +30,7 @@ Appointed to the Veterans' Affairs Committee in 1967, Margaret Heckler joined th
 {{< galleryrow >}}
 
 {{< galleryfigure src="../010Cropped-Heckler-150.jpg"
-           headline="'Heckler hits administration inaction as vets’ job losses mount', Congresswoman Margaret M. Heckler press release, September 21, 1978">}} Box 53, Folder 7, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
+           headline="'Heckler hits administration inaction as vets’ job losses mount', Congresswoman Margaret M. Heckler press release, September 21, 1978.">}} Box 53, Folder 7, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../011-Heckler-150.jpg"

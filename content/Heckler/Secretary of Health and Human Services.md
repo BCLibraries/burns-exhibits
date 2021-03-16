@@ -20,7 +20,7 @@ As Heckler quickly learned, the most pressing issue she faced at HHS was the AID
 {{< galleryrow >}}
 
 {{< galleryfigure src="../020-Heckler-150.jpg"
-           headline="Margaret Heckler visiting an AIDS Hotline Center, 1983">}} Box 128, Folder 15, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
+           headline="Margaret Heckler visiting an AIDS Hotline Center, 1983.">}} Box 128, Folder 15, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../023-Heckler-150.jpg"

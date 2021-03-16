@@ -28,7 +28,7 @@ type: "exhibit"
 Margaret Heckler was many things during her long career: lawyer, Rockefeller - or moderate -  Republican, Congresswoman, devout Catholic, trailblazer, Cabinet Secretary, pragmatist, Ambassador, feminist, wife, mother, and certainly a "heckler." She earned a law degree and entered politics during a time when those fields were male-dominated, believing that women belonged anywhere decisions were made. Her career is a story of firsts. Elected to eight terms in Congress, she championed women's rights, served as the nation's health secretary during the rise of the AIDS epidemic, and ended her career as U.S. Ambassador to Ireland, the land of her parents' birth.
 
 {{< largefigure src="../008-Heckler-150.jpg"
-                headline="Margaret Heckler, candidate for Governor’s Council, and Edward W. Brooke, Republican candidate for Massachusetts Attorney General, 1962"
+                headline="Margaret Heckler, candidate for Governor’s Council, and Edward W. Brooke, Republican candidate for Massachusetts Attorney General, 1962."
                 description="Box 128, Folder 2, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) "
                 size="large"
 					align="right">}}
@@ -39,7 +39,7 @@ Born Margaret Mary O’Shaughnessy in Flushing, New York in 1931 to Irish immigr
 {{< /largefigure >}}
 
 {{< largefigure src="../019-Heckler-150.jpg"
-                headline="'Let’s Keep a 'Heckler' on the Governor’s Council' campaign card, 1964"
+                headline="'Let’s Keep a 'Heckler' on the Governor’s Council' campaign card, 1964."
                 description=" Box 1, Folder 5, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)"
                 size="x-large"
 					align="left">}}
