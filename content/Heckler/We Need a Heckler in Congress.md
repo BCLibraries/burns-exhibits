@@ -13,7 +13,7 @@ type: "exhibit"
 ---
 
 {{< largefigure src="../005-Heckler-150.jpg"
-                headline="Notice of Primary nomination papers received for Margaret M. Heckler, July 26, 1966"
+                headline="Notice of Primary nomination papers received for Margaret M. Heckler, July 26, 1966."
                 description="Box 1, Folder 2, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)"
                 size="large" >}}
 In 1966, Margaret Heckler defied her party and ran in the Republican primary against 42-year incumbent and former Speaker of the House Joseph W. Martin, Jr. Massachusetts Republican party leaders, including Governor John Volpe, opposed her campaign on the grounds that she was an unknown and that Martin was not ready to retire. Also, a planned, party sanctioned successor had already been identified. Heckler ignored her party leadership and declared that no one, not even the governor, had a right to determine who could run.
