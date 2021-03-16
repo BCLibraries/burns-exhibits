@@ -29,7 +29,7 @@ When Margaret Heckler arrived in Ireland in January 1986, the Irish people recei
 				align="left">}}
 
 
-By all accounts, she was a successful advocate for American business interests and investment in Ireland. As American ambassador she played an important role in supporting the recently signed Anglo-Irish Agreement, a treaty between the U.K. and Ireland designed to help bring an end to the violent, nationalistic conflict in Northern Ireland. Heckler maintained her interest in health care and visited Irish hospitals. She spent considerable time traveling across Ireland, and made frequent trips back to America to promote economic and cultural connections between the two countries. The impressive ambassador's residence in Phoenix Park in Dublin was the site of numerous social events during her time in Ireland.\
+By all accounts, she was a successful advocate for American business interests and investment in Ireland. As American ambassador she played an important role in supporting the recently signed Anglo-Irish Agreement, a treaty between the U.K. and Ireland designed to help bring an end to the violent, nationalistic conflict in Northern Ireland. Heckler maintained her interest in health care and visited Irish hospitals. She spent considerable time traveling across Ireland, and made frequent trips back to America to promote economic and cultural connections between the two countries. The impressive ambassador's residence in Phoenix Park in Dublin was the site of numerous social events during her time in Ireland.
 
 {{< /largefigure >}}
 
