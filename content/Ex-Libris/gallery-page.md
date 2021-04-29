@@ -117,9 +117,9 @@ type: "exhibit"
            description="Box 111, Folder 12, [Alfred Noyes papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), MS2006-054"
 >}}
 
-{{< figure src="Grant002.jpg"
-           headline="Alexander Galt Grant"
-           description="Colum, *[The voyagers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21332393930001021)*, E101 .C72 IRISH"
+{{< figure src="Nelson.png"
+           headline="Thomas A. Nelson"
+           description="Box 111, Folder 12, [Alfred Noyes papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), MS2006-054"
 >}}
 
 {{< /galleryrow >}}
@@ -252,14 +252,14 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
-{{< figure src="../intro-image.jpg"
-           headline="Tellus"
+{{< figure src="Walsh.jpg"
+           headline="Timothy and Marian Walsh"
            description="Pellentesque Vehicula Aenean"
 >}}
 
 {{< figure src="../intro-image.jpg"
            headline="Mollis Quam Vehicula Lorem"
-           description="Ullamcorper Egestas Dapibus"
+           description="Box 4, folder 12, [Charles D. Maginnis and Timothy F. Walsh papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21358207810001021) MS1998-034"
 >}}
 
 {{< /galleryrow >}}
