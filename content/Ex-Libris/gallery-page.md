@@ -254,7 +254,7 @@ type: "exhibit"
 
 {{< figure src="Walsh.jpg"
            headline="Timothy and Marian Walsh"
-           description="Pellentesque Vehicula Aenean"
+           description="Box 4, Folder 12, [Charles D. Maginnis and Timothy F. Walsh papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21358207810001021), MS1998-034"
 >}}
 
 {{< figure src="../intro-image.jpg"
