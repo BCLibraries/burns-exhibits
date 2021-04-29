@@ -17,11 +17,19 @@ type: "exhibit"
 
 Collections Used: 
 
+General
+
+Greene's Library
+
+Irish
+
+Manley Hopkins
+
+Patmore
+
+Stout
+
 Alfred Noyes papers [(MS2006-054)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021)	
-
-Boston College collection of Eric Gill materials [(MS1986-139)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344683760001021)
-
-Hilaire Belloc papers [(MS2005-003)]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311957810001021)
 
 [Charles Maginnis collection](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21358207810001021)
 
