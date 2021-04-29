@@ -257,9 +257,9 @@ type: "exhibit"
            description="Box 4, Folder 12, [Charles D. Maginnis and Timothy F. Walsh papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21358207810001021), MS1998-034"
 >}}
 
-{{< figure src="../intro-image.jpg"
-           headline="Mollis Quam Vehicula Lorem"
-           description="Box 4, Folder 12, [Charles D. Maginnis and Timothy F. Walsh papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21358207810001021), MS1998-034"
+{{< figure src="Unger.jpg"
+           headline="Gladys Unger"
+           description="Box 1, Folder 8, [Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016"
 >}}
 
 {{< /galleryrow >}}
