@@ -126,9 +126,9 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
-{{< figure src="Wheatley002.jpg"
-           headline="Dennis Wheatley"
-           description="Milne, *[The house at Pooh Corner](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21427736410001021)*, PR6025.I65 H68 1928a GENERAL"
+{{< figure src="Brocklebank.png"
+           headline="Isabel Katherine Brocklebank"
+           description="Box 111, Folder 12, [Alfred Noyes papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), MS2006-054"
 >}}
 
 {{< figure src="Greenough.jpg"
@@ -196,9 +196,9 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
-{{< figure src="Kinnaird002.jpg"
-           headline="Kinnaird"
-           description="Brodie, *[An account of the trial of William Brodie, and George Smith](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21339086770001021)*, KDC186 .B76 B76 1788b GREENE'S LIBRARY"
+{{< figure src="LindsayAndCourteney.png"
+           headline="Norah Lindsay and Sutton Courteney"
+           description="Box 1, Folder 7, [Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016"
 >}}
 
 {{< figure src="StOswald.png"
