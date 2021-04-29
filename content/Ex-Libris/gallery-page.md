@@ -259,7 +259,7 @@ type: "exhibit"
 
 {{< figure src="../intro-image.jpg"
            headline="Mollis Quam Vehicula Lorem"
-           description="Box 4, folder 12, [Charles D. Maginnis and Timothy F. Walsh papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21358207810001021) MS1998-034"
+           description="Box 4, Folder 12, [Charles D. Maginnis and Timothy F. Walsh papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21358207810001021), MS1998-034"
 >}}
 
 {{< /galleryrow >}}
