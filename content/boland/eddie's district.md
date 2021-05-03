@@ -88,11 +88,28 @@ By 1966, Boland challenged the closure in a Senate hearing, citing economics, po
 
 
 {{< galleryfigure src="../018-BolandB88F3-ReportProceedingsCover.jpg"
-           headline="Transcript of Massachusetts Congressional Delegation meeting with Secretary of Defense Robert S. McNamara, 1965.">}} Box 87, Folder 1,  [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
+           headline="Preparedness Investigative Subcommittee of the Committee of Armed Services report on the Closure of Springfield Armory, March 22, 1966.">}} Box 88, Folder 3,  [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../019-BolandB88F3-Testimony-CROPPED.jpg"
-           headline="Boland’s testimony at Massachusetts Congressional Delegation meeting with Secretary of Defense Robert S. McNamara, 1965.">}} Box 87, Folder 1,  [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
+           headline="Boland’s testimony for Preparedness Investigative Subcommittee of the Committee of Armed Services report on the Closure of Springfield Armory, March 22, 1966.">}} Box 88, Folder 3,  [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
+{{< /galleryfigure >}}
+
+
+{{< /galleryrow >}}
+
+An independent consultant report stated that the Armory closure would have an adverse impact on the economy, but McNamara was not swayed. After a long fight, Boland was forced to concede that the Armory would close in 1968. 
+
+
+{{< galleryrow >}}
+
+
+{{< galleryfigure src="../020-cropped-BolandB90F5-2300JobsPhasedOut.jpg"
+           headline="Springfield Daily News clipping of Boland announcing the Springfield Armory closure with Mayor Charles V. Ryan, November 16, 1965.">}} Box 90, Folder 5,  [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="../035-BolandB131F33-Parade-CROPPED.jpg"
+           headline="Boland as Marshal of the Springfield St. Patrick’s Day Parade.">}} Box 133, Folder 33,  [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
 {{< /galleryfigure >}}
 
 
