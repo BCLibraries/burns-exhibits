@@ -14,7 +14,7 @@ type: "exhibit"
 
 {{< largefigure src="../001-Heckler-150.jpg"
                 headline="Veterans’ Affairs Committee, circa 1977-1979."
-                description="Box 129, Folder 34, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)"
+                description="Box 129, Folder 34, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004"
                 size="large" >}}
 When Margaret Heckler was sworn in on January 3, 1967, she was one of only 11 women in the House of Representatives, and the first to be elected to Congress from Massachusetts without succeeding her husband. Congratulatory letters from fellow Representatives soon flooded in, many of them addressed to "Mr. Heckler" or "Dear Sir." In her first months in Congress, Heckler championed legislation to enforce congressional ethics. Her committee assignments were not her first choices, but her assignment to the Veterans' Affairs Committee would prove to be the start of a 16-year commitment to fervently supporting the health and education of America's veterans.
 
@@ -30,11 +30,11 @@ Appointed to the Veterans' Affairs Committee in 1967, Margaret Heckler joined th
 {{< galleryrow >}}
 
 {{< galleryfigure src="../010Cropped-Heckler-150.jpg"
-           headline="'Heckler hits administration inaction as vets’ job losses mount', Congresswoman Margaret M. Heckler press release, September 21, 1978.">}} Box 53, Folder 7, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
+           headline="'Heckler hits administration inaction as vets’ job losses mount', Congresswoman Margaret M. Heckler press release, September 21, 1978.">}} Box 53, Folder 7, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../011-Heckler-150.jpg"
-           headline="Committee on Veterans’ Affairs meeting notice regarding the legislative goals of paralyzed veterans, March 12, 1980.">}} Box 53, Folder 17, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
+           headline="Committee on Veterans’ Affairs meeting notice regarding the legislative goals of paralyzed veterans, March 12, 1980.">}} Box 53, Folder 17, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004
 
 {{< /galleryfigure >}}
 
@@ -42,7 +42,7 @@ Appointed to the Veterans' Affairs Committee in 1967, Margaret Heckler joined th
 
 {{< largefigure src="../002-Heckler-150.jpg"
                 headline="Margaret Heckler shaking hands with a Massachusetts veteran, circa 1977-1979."
-                description="Box 129, Folder 34, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)"
+                description="Box 129, Folder 34, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004"
                 size="large"
 				align="left">}}
 
@@ -57,11 +57,11 @@ In 1975, Margaret Heckler left the Banking and Currency Committee and joined the
 {{< galleryrow >}}
 
 {{< galleryfigure src="../017-Heckler-150.jpg"
-           headline="Margaret Heckler with nutritionist Mary Madeiros at the Fall River Community Development Center, March 10, 1978.">}} Box 129, Folder 49, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
+           headline="Margaret Heckler with nutritionist Mary Madeiros at the Fall River Community Development Center, March 10, 1978.">}} Box 129, Folder 49, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../013-Heckler-150.jpg"
-           headline="H.R. 12428 'National Consumer Nutrition Information Act of 1978,' co-sponsored by Margaret Heckler, April 27, 1978.">}} Box 77, Folder 12, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
+           headline="H.R. 12428 'National Consumer Nutrition Information Act of 1978,' co-sponsored by Margaret Heckler, April 27, 1978.">}} Box 77, Folder 12, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004
 
 {{< /galleryfigure >}}
 
@@ -71,7 +71,7 @@ In 1975, Margaret Heckler left the Banking and Currency Committee and joined the
 
 {{< largefigure src="../016FULL-Heckler-150.jpg"
                 headline="Poster advertising daycare hearings in Fall River on November 15, 1971."
-                description="Shared Box 117, Folder 1, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)"
+                description="Shared Box 117, Folder 1, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004"
                 size="large"
 				align="right">}}
 
@@ -81,7 +81,7 @@ In addition to her committee work, Margaret Heckler was a tireless advocate for 
 
 {{< largefigure src="../012-Heckler-150.jpg"
                 headline="H.R. 5087, a bill to recognize Women Airforce Service Pilots (WASPs) as veterans, sponsored by Margaret Heckler, March 15, 1977."
-                description="Box 77, Folder 10, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)"
+                description="Box 77, Folder 10, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004"
                 size="large"
 				align="left">}}
 
@@ -93,11 +93,11 @@ Much of Heckler's work in Congress was bipartisan, particularly when it came to 
 {{< galleryrow >}}
 
 {{< galleryfigure src="../015-Heckler-150.jpg"
-           headline="Invitation by the ERA Extension Committee to meet Tip O’Neill, Margaret Heckler, and Edward Brooke at the Copley Plaza Ballroom, June 15, 1978.">}} Box 44, Folder 16, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
+           headline="Invitation by the ERA Extension Committee to meet Tip O’Neill, Margaret Heckler, and Edward Brooke at the Copley Plaza Ballroom, June 15, 1978.">}} Box 44, Folder 16, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../014-Heckler-150.jpg"
-           headline="Flyer for the ERA March in Washington, D.C. on July 9, 1978.">}} Box 44, Folder 16, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
+           headline="Flyer for the ERA March in Washington, D.C. on July 9, 1978.">}} Box 44, Folder 16, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004
 
 {{< /galleryfigure >}}
 
