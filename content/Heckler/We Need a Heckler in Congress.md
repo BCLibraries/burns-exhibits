@@ -14,7 +14,7 @@ type: "exhibit"
 
 {{< largefigure src="../005-Heckler-150.jpg"
                 headline="Notice of Primary nomination papers received for Margaret M. Heckler, July 26, 1966."
-                description="Box 1, Folder 2, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)"
+                description="Box 1, Folder 2, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004"
                 size="large" >}}
 In 1966, Margaret Heckler defied her party and ran in the Republican primary against 42-year incumbent and former Speaker of the House Joseph W. Martin, Jr. Massachusetts Republican party leaders, including Governor John Volpe, opposed her campaign on the grounds that she was an unknown and that Martin was not ready to retire. Also, a planned, party sanctioned successor had already been identified. Heckler ignored her party leadership and declared that no one, not even the governor, had a right to determine who could run.
 
@@ -25,11 +25,11 @@ Dismissed in the newspapers as "petite," "perky," "diminutive and demure," Heckl
 {{< galleryrow >}}
 
 {{< galleryfigure src="../006-Heckler-150.jpg"
-           headline=" 'Republicans’ prettiest nominee,' *The Boston Herald*, September 14, 1966.">}} Box 1, Folder 3, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
+           headline=" 'Republicans’ prettiest nominee,' *The Boston Herald*, September 14, 1966.">}} Box 1, Folder 3, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../018-Heckler-150.jpg"
-           headline="'A New England lady upsets an old pro' *Life* magazine reprint, 1966.">}} Box 1, Folder 5, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
+           headline="'A New England lady upsets an old pro' *Life* magazine reprint, 1966.">}} Box 1, Folder 5, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004)
 
 {{< /galleryfigure >}}
 
@@ -41,11 +41,11 @@ The Democratic party in Massachusetts saw Heckler's win as a benefit to them, be
 {{< galleryrow >}}
 
 {{< galleryfigure src="../007-Heckler-150.jpg"
-           headline="'Peg' campaign sticker, 1966.">}} Box 1, Folder 5, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
+           headline="'Peg' campaign sticker, 1966.">}} Box 1, Folder 5, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../009-Heckler-150.jpg"
-           headline="Margaret Heckler for Congress campaign mailing, 1966.">}} Box 1, Folder 5, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
+           headline="Margaret Heckler for Congress campaign mailing, 1966.">}} Box 1, Folder 5, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004
 
 {{< /galleryfigure >}}
 

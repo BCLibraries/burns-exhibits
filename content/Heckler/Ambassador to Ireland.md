@@ -14,7 +14,7 @@ type: "exhibit"
 
 {{< largefigure src="../028-Heckler-150.jpg"
                 headline="Margaret Heckler with Carmencita Hederman, Lord Mayor of Dublin, circa 1987-1988."
-                description="Box 128, Folder 10, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)"
+                description="Box 128, Folder 10, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004"
                 size="large" >}}
 
 
@@ -24,7 +24,7 @@ When Margaret Heckler arrived in Ireland in January 1986, the Irish people recei
 
 {{< largefigure src="../030-Heckler-150.jpg"
                 headline="Margaret Heckler and an Irish official, 1986."
-                description="Box 128, Folder 11, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)"
+                description="Box 128, Folder 11, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004"
                 size="large"
 				align="left">}}
 
@@ -37,16 +37,16 @@ By all accounts, she was a successful advocate for American business interests a
 
 
 {{< galleryfigure src="../033-Heckler-150.jpg"
-           headline="Margaret Heckler at an event promoting U.S. technology, circa 1986-1989.">}} Box 128, Folder 11, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
+           headline="Margaret Heckler at an event promoting U.S. technology, circa 1986-1989.">}} Box 128, Folder 11, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../031-Heckler-150.jpg"
-           headline="Margaret Heckler at an event promoting U.S. technology, circa 1986-1989.">}} Box 128, Folder 11, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
+           headline="Margaret Heckler at an event promoting U.S. technology, circa 1986-1989.">}} Box 128, Folder 11, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004
 {{< /galleryfigure >}}
 
 
 {{< galleryfigure src="../032-Heckler-150.jpg"
-           headline="Margaret Heckler at an event promoting U.S. technology, circa 1986-1989.">}} Box 128, Folder 11, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
+           headline="Margaret Heckler at an event promoting U.S. technology, circa 1986-1989.">}} Box 128, Folder 11, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004
 {{< /galleryfigure >}}
 
 
@@ -58,11 +58,11 @@ Margaret Mary O'Shaughnessy Heckler spent four years in Ireland and served durin
 {{< galleryrow >}}
 
 {{< galleryfigure src="../034-Heckler-150.jpg"
-           headline="Margaret Heckler at the Irish Derby, 1986.">}} Box 128, Folder 11, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
+           headline="Margaret Heckler at the Irish Derby, 1986.">}} Box 128, Folder 11, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../029Crop3-Heckler-150.jpg"
-           headline=" Margaret Heckler with her Irish Wolfhound Jackson O’Toole at the ambassador’s residence, circa 1986-1989.">}} Box 128, Folder 11, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
+           headline=" Margaret Heckler with her Irish Wolfhound Jackson O’Toole at the ambassador’s residence, circa 1986-1989.">}} Box 128, Folder 11, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004
 {{< /galleryfigure >}}
 
 

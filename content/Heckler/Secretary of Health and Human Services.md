@@ -20,11 +20,11 @@ As Heckler quickly learned, the most pressing issue she faced at HHS was the AID
 {{< galleryrow >}}
 
 {{< galleryfigure src="../020-Heckler-150.jpg"
-           headline="Margaret Heckler visiting an AIDS Hotline Center, 1983.">}} Box 128, Folder 15, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
+           headline="Margaret Heckler visiting an AIDS Hotline Center, 1983.">}} Box 128, Folder 15, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../023-Heckler-150.jpg"
-           headline="Margaret Heckler giving blood, circa 1983-1985.">}} Box 128, Folder 36, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
+           headline="Margaret Heckler giving blood, circa 1983-1985.">}} Box 128, Folder 36, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004
 
 {{< /galleryfigure >}}
 
@@ -32,7 +32,7 @@ As Heckler quickly learned, the most pressing issue she faced at HHS was the AID
 
 {{< largefigure src="../027-Heckler-150.jpg"
                 headline="Task Force on Black and Minority Health meeting, 1985."
-                description="Box 119, Folder 7, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)"
+                description="Box 119, Folder 7, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004"
                 size="large" >}}
 
 Heckler prioritized numerous other issues as HHS Secretary, including research on Alzheimer's disease and breast cancer, technology to support the disabled, the enforcement of child support payments by absent parents, and increasing vaccination rates. When she joined HHS in early 1983, she was shocked by data documenting racial inequalities in health outcomes and access to healthcare. Her Secretary's Task Force on Black and Minority Health led to the monumental Heckler Report, an eight volume report on the health disparities between whites and minorities in the United States. The Heckler Report marked the first time the federal government had conducted a comprehensive study of the health status of minorities. It led to the creation of the HHS Office of Minority Health in 1986, as well as offices of minority health within a number of HHS agencies, including the CDC and the NIH.
@@ -42,11 +42,11 @@ Heckler prioritized numerous other issues as HHS Secretary, including research o
 {{< galleryrow >}}
 
 {{< galleryfigure src="../021-Heckler-150.jpg"
-           headline="Margaret Heckler visiting the Boston Center for Independent Living, December, 1983.">}} Box 128, Folder 24, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
+           headline="Margaret Heckler visiting the Boston Center for Independent Living, December, 1983.">}} Box 128, Folder 24, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../022-Heckler-150.jpg"
-           headline="Heckler with President Reagan at the bill signing for the Child Support Enforcement Amendments of 1984, August 16, 1984.">}} Box 128, Folder 28, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
+           headline="Heckler with President Reagan at the bill signing for the Child Support Enforcement Amendments of 1984, August 16, 1984.">}} Box 128, Folder 28, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004
 
 {{< /galleryfigure >}}
 
@@ -54,7 +54,7 @@ Heckler prioritized numerous other issues as HHS Secretary, including research o
 
 {{< largefigure src="../024-Heckler-150.jpg"
                 headline="Margaret Heckler at the podium at the Republican National Convention, August, 1984."
-                description="Box 128, Folder 93, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)"
+                description="Box 128, Folder 93, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004"
                 size="medium"
 					align="left">}}
 
@@ -65,11 +65,11 @@ While serving as HHS Secretary, Margaret Heckler played a pivotal and visible ro
 {{< galleryrow >}}
 
 {{< galleryfigure src="../026-Heckler-150.jpg"
-           headline="Women for Reagan-Bush ‘84 campaign button.">}} Box 184, Object 15, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
+           headline="Women for Reagan-Bush ‘84 campaign button.">}} Box 184, Object 15, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../025-Heckler-150.jpg"
-           headline="Margaret Heckler with George and Barbara Bush at the Republican National Convention, August, 1984.">}} Box 128, Folder 94, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)
+           headline="Margaret Heckler with George and Barbara Bush at the Republican National Convention, August, 1984.">}} Box 128, Folder 94, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004)
 
 {{< /galleryfigure >}}
 

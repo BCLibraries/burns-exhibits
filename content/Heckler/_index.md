@@ -29,7 +29,7 @@ Margaret Heckler was many things during her long career: lawyer, Rockefeller - o
 
 {{< largefigure src="../008-Heckler-150.jpg"
                 headline="Margaret Heckler, candidate for Governor’s Council, and Edward W. Brooke, Republican candidate for Massachusetts Attorney General, 1962."
-                description="Box 128, Folder 2, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) "
+                description="Box 128, Folder 2, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004 "
                 size="large"
 					align="right">}}
 				
@@ -40,7 +40,7 @@ Born Margaret Mary O’Shaughnessy in Flushing, New York in 1931 to Irish immigr
 
 {{< largefigure src="../019-Heckler-150.jpg"
                 headline="'Let’s Keep a 'Heckler' on the Governor’s Council' campaign card, 1964."
-                description=" Box 1, Folder 5, Margaret Heckler papers, [CA.1998.004](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021)"
+                description=" Box 1, Folder 5, [Margaret Heckler papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21361016800001021) CA1998-004"
                 size="x-large"
 					align="left">}}
 				
