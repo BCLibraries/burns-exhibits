@@ -1,6 +1,6 @@
 ---
 # Title of page
-title: "From “Hungry” beginnings"
+title: "From 'Hungry' Beginnings"
 description: ""
 
 # Page order (1 is 1st page, etc.)
@@ -12,6 +12,15 @@ draft: true
 
 type: "exhibit"
 ---
+
+{{< largefigure src="../boland page (1).png"
+           headline="" 
+           description="" size="large" align="center" >}}
+		   
+		   {{< /largefigure >}}
+
+
+
 {{< largefigure src="../043-BolandB132F37-ArmyPortrait.jpg"
            headline="Boland’s U.S. Army portrait, 1940s." 
            description="Box 132, Folder 37, [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003" size="small" align="right" >}}
