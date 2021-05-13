@@ -90,7 +90,7 @@ type: "exhibit"
 >}}
 
 {{< figure src="ES.jpg"
-           headline="E.S."
+           headline="E.S. Artist, Elizabeth Corbet Yeats"
            description="Box 1, Folder 8, [Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016"
 >}}
 
@@ -99,12 +99,12 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< figure src="Garnett.png"
-           headline="Garnett"
+           headline="Garnett. Pictorial bookplate."
            description="Box 1, Folder 8, [Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016"
 >}}
 
 {{< figure src="Franklin.jpg"
-           headline="Cyril Franklin"
+           headline="Cyril Franklin. Pictorial bookplate by Cuala Press."
            description="Box 1, Folder 8, [Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016"
 >}}
 
@@ -113,12 +113,12 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< figure src="Paget.png"
-           headline="Olive Cecilia Paget"
+           headline="Olive Cecilia Paget. Pictorial bookplate from the William Phillips Barrett workshop, John & Edward Bumpus, Ltd."
            description="Box 111, Folder 12, [Alfred Noyes papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), MS2006-054"
 >}}
 
 {{< figure src="Nelson.png"
-           headline="Thomas A. Nelson"
+           headline="Thomas A. Nelson, bookseller. Pictorial bookplate from the William Phillips Barrett workshop, John & Edward Bumpus, Ltd."
            description="Box 111, Folder 12, [Alfred Noyes papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), MS2006-054"
 >}}
 
@@ -127,12 +127,12 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< figure src="Brocklebank.png"
-           headline="Isabel Katherine Brocklebank"
+           headline="Isabel Katherine Brocklebank. Pictorial bookplate from the William Phillips Barrett workshop, John & Edward Bumpus, Ltd."
            description="Box 111, Folder 12, [Alfred Noyes papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), MS2006-054"
 >}}
 
 {{< figure src="Greenough.jpg"
-           headline="Ruth and Chester Greenough"
+           headline="Ruth and Chester Greenough. Pictorial bookplate signed A.J.S."
            description="Sacheverell, *[The perils of false brethren, both in church, and state](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21327303970001021)*, 02-40767 GENERAL"
 >}}
 
@@ -141,12 +141,12 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< figure src="NewEraPub.png"
-           headline="New Era Publishing Coy Ltd"
+           headline="New Era Publishing Coy Ltd. Pictorial bookplate from the William Phillips Barrett workshop, John & Edward Bumpus, Ltd."
            description="Box 111, Folder 12, [Alfred Noyes papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), MS2006-054"
 >}}
 
 {{< figure src="Weyerhausser.jpg"
-           headline="Charles and Maud Moon Weyerhaeuser"
+           headline="Charles and Maud Moon Weyerhaeuser. Pictorial bookplate signed A.W."
            description="Gregory, *[The dragon: a wonder play in three acts](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352811830001021)*, PR4728 .G5 D8 1920 IRISH"
 >}}
 
@@ -155,12 +155,12 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< figure src="Berridge.png"
-           headline="Eulalia Beatrice Berridge"
+           headline="Eulalia Beatrice Berridge. Pictorial bookplate."
            description="Box 1, Folder 7, [Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016"
 >}}
 
 {{< figure src="Heape.png"
-           headline="Bernard Heape"
+           headline="Bernard Heape. Pictorial bookplate by Jack Butler Yeats, Cuala Press."
            description="Box 1, Folder 7, [Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016"
 >}}
 
@@ -169,12 +169,12 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< figure src="Robinson.png"
-           headline="Lenox Robinson"
+           headline="Lenox Robinson. Pictorial bookplate by Jack Butler Yeats, Cuala Press."
            description="Box 1, Folder 7, [Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016"
 >}}
 
 {{< figure src="ThornhamHall.png"
-           headline="Thornham Hall"
+           headline="Thornham Hall. Armorial bookplate."
            description="Cressy, *[A collection of several treatises in answer to Dr. Stillingfleet](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21339094720001021)*, BX1752 .C655 1672 GREENE'S LIBRARY"
 >}}
 
@@ -183,7 +183,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< figure src="Trotter.png"
-           headline="Ellinor Trotter"
+           headline="Ellinor Trotter. Pictorial bookplate from the William Phillips Barrett workshop, John & Edward Bumpus, Ltd."
            description="Box 111, Folder 12, [Alfred Noyes papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), MS2006-054"
 >}}
 
@@ -197,12 +197,12 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< figure src="LindsayAndCourteney.png"
-           headline="Norah Lindsay and Sutton Courteney"
+           headline="Norah Lindsay and Sutton Courteney. Pictorial bookplate by Jack Butler Yeats, Cuala Press."
            description="Box 1, Folder 7, [Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016"
 >}}
 
 {{< figure src="StOswald.png"
-           headline="Mabel St. Oswald"
+           headline="Mabel St. Oswald. Pictorial bookplate from the William Phillips Barrett workshop, John & Edward Bumpus, Ltd."
            description="Box 111, Folder 12, [Alfred Noyes papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), MS2006-054"
 >}}
 
@@ -211,12 +211,12 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< figure src="Walmesley.png"
-           headline="Charles Walmesley, Westwood"
+           headline="Charles Walmesley, Westwood. Armorial bookplate."
            description="Gother, *[A papist mis-represented and represented, or, A twofold character of popery](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21333512070001021)*, BX1763 .G68 1685 GREENE'S LIBRARY"
 >}}
 
 {{< figure src="Powerscourt.png"
-           headline="Lord Viscount Powerscourt"
+           headline="Lord Viscount Powerscourt. Armorial booplate"
            description="Morgan, *[A complete history of Algiers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21357694270001021)*, DT284 .M84 WILLIAMS"
 >}}
 
@@ -225,12 +225,12 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< figure src="Noyes.png"
-           headline="Thomas Herbert Noyes, Esquire"
+           headline="Thomas Herbert Noyes, Esquire. Armorial bookplate."
            description="Box 111, Folder 11, [Alfred Noyes papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), MS2006-054"
 >}}
 
 {{< figure src="Pitchford.jpg"
-           headline="John Pitchford"
+           headline="John Pitchford. Armorial bookplate."
            description="Le Sage, *[Aventuras de Gil Blas de Santillana](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21357360120001021)*, PQ1997.G6 S5 1788 MANLEY HOPKINS"
 >}}
 
@@ -239,12 +239,12 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< figure src="Petworth.png"
-           headline="Elizabeth Wyndham, Petworth"
+           headline="Elizabeth Wyndham, Petworth. Pictorial bookplate, Jack Butler Yeats, Cuala Press."
            description="Box 1, Folder 8, [Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016"
 >}}
 
 {{< figure src="Swire.png"
-           headline="Juliet Swire"
+           headline="Juliet Swire. Pictorial bookplate from the William Phillips Barrett workshop, John & Edward Bumpus, Ltd."
            description="Box 111, Folder 11, [Alfred Noyes papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), MS2006-054"   
 >}}
 
@@ -253,12 +253,12 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< figure src="Walsh.jpg"
-           headline="Timothy and Marian Walsh"
+           headline="Timothy and Marian Walsh. Pictorial bookplate."
            description="Box 4, Folder 12, [Charles D. Maginnis and Timothy F. Walsh papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21358207810001021), MS1998-034"
 >}}
 
 {{< figure src="Unger.jpg"
-           headline="Gladys Unger"
+           headline="Gladys Unger. Pictorial bookplate."
            description="Box 1, Folder 8, [Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016"
 >}}
 
