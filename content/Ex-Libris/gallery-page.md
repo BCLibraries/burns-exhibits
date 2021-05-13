@@ -155,7 +155,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< figure src="Berridge.png"
-           headline="Eulalia Beatrice Berridge. Pictorial bookplate."
+           headline="Eulalia Beatrice Berridge. Pictorial bookplate by Dorothy Blackham."
            description="Box 1, Folder 7, [Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016"
 >}}
 
