@@ -12,7 +12,7 @@ date: 2021-04-26T11:27:25-04:00
 weight: 1 
 
 # Big image on first page.
-front_image: "063-BolandB132F2-HandsSteepled.jpg" # Replace with the real image
+front_image: "boland online exhibit tile.png" # Replace with the real image
 front_caption_headline: "Boland seated behind a desk"
 front_caption_text: "Box 132, folder 2, Edward P. Boland congressional papers, [CA.1998.003](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021)"
 
