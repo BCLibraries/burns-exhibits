@@ -6,7 +6,7 @@ title: "Introduction"
 exhibit_title: "Ex Libris"
 exhibit_subtitle: "Bookplates from the John J. Burns Library Collections"
 
-date: 2019-10-16T11:55:29-04:00
+date: 2021-05-13
 
 # Page order (1 is 1st page, etc.)
 weight: 1 
@@ -19,7 +19,7 @@ front_image: "tile-square.png" # Replace with the real image
 current: false
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
