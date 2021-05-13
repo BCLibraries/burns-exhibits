@@ -15,12 +15,12 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< figure src="Alexandra.png"
-           headline="Alexandra"
+           headline="Pictorial bookplate from the William Phillips Barrett workshop, John & Edward Bumpus, Ltd. Alexandra"
            description="Box 111, Folder 12, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), MS2006-054"
 >}}
 
 {{< figure src="Anstruther.jpg"
-           headline="Ian Anstruther"
+           headline="Pictorial bookplate signed T. Pomfret. Ian Anstruther"
            description="Patmore, *[The angel in the house](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21337179030001021)*, 95 / 96 0162-20 PATMORE"
 >}}
 
@@ -29,12 +29,12 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< figure src="PendrellSmith.png"
-           headline="Eric Pendrell Smith"
+           headline="Pictorial bookplate from the William Phillips Barrett workshop, John & Edward Bumpus, Ltd. Eric Pendrell Smith"
            description="Box 111, Folder 12, [Alfred Noyes papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), MS2006-054"
 >}}
 
 {{< figure src="DukeOfBedford.png"
-           headline="Duke of Bedford"
+           headline="Armorial bookplate. Wriothesley Russell, Duke of Bedford"
            description="Sanson, *[The present state of Persia]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21331921280001021)*, DS257 .S3 WILLIAMS"
 >}}
 
