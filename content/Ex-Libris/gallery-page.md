@@ -43,12 +43,12 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< figure src="Bierstadt.png"
-           headline="Edward Hale Bierstadt"
+           headline="Edward Hale Bierstadt. Pictorial bookplate signed E.D. French."
            description="Box 111, Folder 12, [Alfred Noyes papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), MS2006-054"
 >}}
 
 {{< figure src="Combe.png"
-           headline="Ethel Combe"
+           headline="Ethel Combe. Pictorial bookplate from the William Phillips Barrett workshop, John & Edward Bumpus, Ltd."
            description="Box 111, Folder 12, [Alfred Noyes papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), MS2006-054"
 >}}
 
@@ -57,12 +57,12 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< figure src="DameChristian_sHouse.png"
-           headline="Dame Christian's House"
+           headline="Dame Christian's House. Pictorial bookplate from the William Phillips Barrett workshop, John & Edward Bumpus, Ltd."
            description="Box 1, Folder 8, [Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016"
 >}}
 
 {{< figure src="Dix.png"
-           headline="E. R. McC. Dix"
+           headline="E. R. McC. Dix. Pictorial bookplate by Dun Emer Press."
            description="Box 1, Folder 8, [Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016"
 >}}
 
@@ -71,12 +71,12 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< figure src="Webb.png"
-           headline="Josephine Webb"
+           headline="Josephine Webb. Pictorial bookplate by Dun Emer Press."
            description="Box 1, Folder 8, [Loretta Clarke Murray collection of women in revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016"
 >}}
 
 {{< figure src="DeLaRue.png"
-           headline="Stuart de la Rue"
+           headline="Stuart de la Rue. Pictorial bookplate from the William Phillips Barrett workshop, John & Edward Bumpus, Ltd."
            description="Box 111, Folder 12, [Alfred Noyes papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), MS2006-054"
 >}}
 
@@ -85,7 +85,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< figure src="Doheny.jpg"
-           headline="Edward Lawrence Doheny"
+           headline="Edward Lawrence Doheny. Pictorial bookplate"
            description="Byrne, *[The power of the dog](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21322419840001021)*, PR6003.Y43 P65 1929 IRISH"
 >}}
 
