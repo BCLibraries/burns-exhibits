@@ -13,6 +13,13 @@ draft: true
 type: "exhibit"
 ---
 
+{{< largefigure src="../boland page (2).png"
+           headline="" 
+           description="" size="large" align="center" >}}
+		   
+		   {{< /largefigure >}}
+
+
 
 {{< galleryrow >}}
 
@@ -90,13 +97,20 @@ A large part of Boland’s job was remaining informed on various legislative eff
 {{< galleryfigure src="../003-CROPPED-BolandB12F1-RemarksHJRES192.jpg"
            headline="Boland’s house floor remarks on HJ Res 192 (A joint resolution to designate April 24, 1985, as 'National Day of Remembrance of Man's Inhumanity to Man') , June 4, 1985.">}} Box 12, Folder 1, [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
 {{< /galleryfigure >}}
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
 
 {{< galleryfigure src="../033-BolandB131F29-Headphones.jpg"
            headline="Boland in headphones, listening to the Watergate tapes, August 5, 1974.">}} Box 131, Folder 29, [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
 {{< /galleryfigure >}}
 
-
+{{< galleryfigure src="../039-BolandB131F29_BolandWithGeneral.jpg"
+           headline="Boland speaking with a U.S. Air Force Major General.">}} Box 131, Folder 29, [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
+{{< /galleryfigure >}}
 {{< /galleryrow >}}
+
+
 
 #### Committees
 

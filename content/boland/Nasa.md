@@ -13,6 +13,12 @@ draft: true
 type: "exhibit"
 ---
 
+{{< largefigure src="../boland page (5).png"
+           headline="" 
+           description="" size="large" align="center" >}}
+		   
+		   {{< /largefigure >}}
+
 {{< galleryrow >}}
 
 

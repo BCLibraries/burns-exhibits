@@ -12,6 +12,13 @@ draft: true
 
 type: "exhibit"
 ---
+{{< largefigure src="../boland page (4).png"
+           headline="" 
+           description="" size="large" align="center" >}}
+		   
+		   {{< /largefigure >}}
+
+
 {{< largefigure src="../023-BolandB115F13-CampaignFlyeredited.png"
            headline="1968 Re-election Campaign pamphlet 'In Congress Experience Really Counts'" 
            description="Box 115, Folder 9, [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003" 

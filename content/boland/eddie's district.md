@@ -13,6 +13,12 @@ draft: true
 type: "exhibit"
 ---
 
+{{< largefigure src="../boland page (3).png"
+           headline="" 
+           description="" size="large" align="center" >}}
+		   
+		   {{< /largefigure >}}
+
 {{< largefigure src="../079-BolandB154Object9.jpg"
            headline="Make it in Massachusetts thumbs up pin" 
            description="Box 154, Object 9, [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003" size="small" align="left" >}}
