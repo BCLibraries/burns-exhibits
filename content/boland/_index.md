@@ -6,7 +6,7 @@ title: "Introduction"
 exhibit_title: "Betting Big on Boland!"
 exhibit_subtitle: ""
 
-date: 2021-04-26T11:27:25-04:00
+date: 2021-05-18T11:27:25-04:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1 
@@ -17,10 +17,10 @@ front_caption_headline: "Boland seated behind a desk"
 front_caption_text: "Box 132, folder 2, Edward P. Boland congressional papers, [CA.1998.003](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021)"
 
 # Change to true if this exhibit is currently running.
-current: false
+current: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
