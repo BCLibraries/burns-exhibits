@@ -5,10 +5,10 @@ description: ""
 
 # Page order (1 is 1st page, etc.)
 weight: 4
-alwaysopen: false
+alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
