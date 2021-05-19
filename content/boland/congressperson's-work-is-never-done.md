@@ -138,7 +138,7 @@ In 1975 the Select Committee on Intelligence was formed to investigate the U.S. 
 
 {{< /galleryrow >}}
 
-{{< largefigure src="../001-BolandB1F8-MrBotts.jpg"
+{{< figure src="../001-BolandB1F8-MrBotts.jpg"
            headline="Complaint from Matthew G. Martinez (D-CA) about theft in the House gym, March 28, 1994." 
            description="Box 1, Folder 8,  [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003" 
            align="left" >}}
@@ -147,7 +147,7 @@ In 1975 the Select Committee on Intelligence was formed to investigate the U.S. 
 
 Boland was known to regularly lift weights at the House gymnasium, and was also on the informal House Gymnasium Committee, which consisted of three white males. In the 1980s, California Congresswoman Barbara Boxer led the charge demanding that women be allowed to use the House gym instead of the separate Ladies Health Facility. Boland’s blustery response to the initial request of updating the women’s facility equipment was “I don’t know why you want machines. You know, those machines only build muscles.” After more pressure from Boxer and other female colleagues, the House gymnasium opened to women in 1985. 
 
-  {{< /largefigure >}}
+  {{< /figure >}}
 
 		   
 #### Travel
