@@ -33,7 +33,7 @@ Boland never lost an election, but he did face a serious challenge to his Congre
            align="center" >}}
 		   {{< /largefigure >}}
 
-Boland’s campaign mobilized a tremendous number of volunteers to spread the message about how Boland’s experience, knowledge, and strong work ethic would keep delivering for the 2nd District. Phone banking, signs, bumper stickers, buttons, balloons, sashes, and even a giveaway comb were all used to spread the word about voting for Boland. Another effective campaign tactic were the “Boland Girls”, dressed in hats and sashes. They would congregate in front of department stores and, holding placards, walk in circles and tell people to “Vote for Boland!” It was also common for the girls to sing campaign songs extolling the virtues of Boland within the lyrics. 
+Boland’s campaign mobilized a tremendous number of volunteers to spread the message about how his experience, knowledge, and strong work ethic would keep delivering for the 2nd District. Phone banking, signs, bumper stickers, buttons, balloons, sashes, and even a giveaway comb were all used to spread the word about voting for Boland. Another effective campaign tactic were the 'Boland Girls', dressed in hats and sashes. They would congregate in front of department stores and, holding placards, walk in circles and tell people to 'Vote for Boland!' It was also common for the girls to sing campaign songs extolling the virtues of Boland within the lyrics. 
 	
 	
 'We’re betting big on Boland
@@ -44,10 +44,12 @@ So let’s shout it loud and strong'
 	
 {{< galleryrow >}}
 
-
-{{< galleryfigure src="../046-BolandB132F6-ReElectBolandSashesHats.jpg"
-           headline="Group shot of Boland campaign workers - 'Boland Girls' in hats and sashes, 1968.">}} Box 132, Folder 36,  [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
+{{< galleryfigure src="../022-BolandB115F9-CampaignSong-CROPPED.jpg"
+           headline="Excerpt of Boland campaign song lyrics, 1968.">}} Box 115, Folder 9,  [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
 {{< /galleryfigure >}}
+
+
+
 
 {{< galleryfigure src="../045-BolandB132F36_ILikeEddieBolandButtonsChoir-CROPPED.jpg"
            headline="Group shot of 'Boland girls' singing and wearing I Like 'Eddie' Boland pins, 1968.">}} Box 132, Folder 36,  [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
@@ -62,13 +64,15 @@ So let’s shout it loud and strong'
            headline="I Like 'Eddie' Boland Campaign button, 1968.">}} Box 154, Object 19,  [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../022-BolandB115F9-CampaignSong-CROPPED.jpg"
-           headline="Excerpt of Boland campaign song lyrics, 1968.">}} Box 115, Folder 9,  [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
+
+{{< galleryfigure src="../046-BolandB132F6-ReElectBolandSashesHats.jpg"
+           headline="Group shot of Boland campaign workers - 'Boland Girls' in hats and sashes, 1968.">}} Box 132, Folder 36,  [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
 {{< /galleryfigure >}}
+
 {{< /galleryrow >}}
 
 
-Mary Hurley, former Mayor of Springfield, was once a Boland Girl, and, when pressed into campaign service by her father, she asked him “What is a Congressman?” His response was that in Eddie’s case it is someone that helps people. She remembers that as she worked on the campaign, everyone had a story about how Eddie touched their lives to make things better. She credits his example as inspiration for her getting into public service, and described him succinctly: “His was not to brag or boast. His was not concern over publicity. His was concern for people.”
+Mary Hurley, former Mayor of Springfield, was once a Boland Girl, and, when pressed into campaign service by her father, she asked him “What is a Congressman?” His response was that in Eddie’s case it is someone that helps people. She remembers that as she worked on the campaign, everyone had a story about how Eddie touched their lives to make things better. She credits his example as inspiration for her career in public service, and described him succinctly: “His was not to brag or boast. His was not concern over publicity. His was concern for people.”
 
 {{< galleryrow >}}
 
@@ -86,10 +90,10 @@ Mary Hurley, former Mayor of Springfield, was once a Boland Girl, and, when pres
 
 
 {{< galleryfigure src="../075-BolandB154Tray3Object15-comb.jpg"
-           headline="Boland campaign merchandise: Re-elect Boland comb.">}} Box 154, Object 15,  [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
+           headline="Boland campaign ephemera: Re-elect Boland comb.">}} Box 154, Object 15,  [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../078-BolandB154Tray3Object22-Balloon3.jpg"
-           headline="Boland campaign merchandise: Congressman Edward P. Boland balloon.">}} Box 154, Object 22, [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
+           headline="Boland campaign ephemera: Congressman Edward P. Boland balloon.">}} Box 154, Object 22, [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
 {{< /galleryfigure >}}
 {{< /galleryrow >}}

@@ -18,16 +18,23 @@ type: "exhibit"
            description="" size="large" align="center" >}}
 		   
 		   {{< /largefigure >}}
-
-{{< largefigure src="../079-BolandB154Object9.jpg"
-           headline="Make it in Massachusetts thumbs up pin" 
-           description="Box 154, Object 9, [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003" size="small" align="left" >}}
 		   
-		  
+		   
+{{< galleryrow >}}
+
+           {{< gallerygefigure src="../079-BolandB154Object9.jpg"
+           headline="'Make it in Massachusetts' thumbs up pin" 
+           description="Box 154, Object 9, [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
+		   
+		   {{< galleryfigure src="../035-BolandB131F33-Parade-CROPPED.jpg"
+           headline="Boland as Marshal of the Springfield St. Patrick’s Day Parade."
+		   description="Box 133, Folder 33, [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
+{{< /galleryfigure >}}
+		   
+		  {{< /galleryrow >}}
 
 Boland was a beloved figure throughout the 2nd District of Massachusetts, especially in the city of Springfield.  Boland excelled at connecting with his constituents, and he received vast amounts of mail from them covering issues such as taxes, social security, terrorism, pollution and the environment, protection of wild horses and burros, and Vietnam. These letters were an important glimpse of what mattered to the people, so Eddie listened and responded.
 
-{{< /largefigure >}}
 
 {{< galleryrow >}}
 
@@ -66,7 +73,7 @@ One of Boland’s biggest fights and ultimate disappointments was the closure of
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../014-BolandB86F9-GunReportMay1964.jpg"
-           headline="The Gun Report (May 1964) with article on the Springfield Armory.">}} Box 86, Folder 9,  [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
+           headline="*The Gun Report* (May 1964) with article on the Springfield Armory.">}} Box 86, Folder 9,  [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
 {{< /galleryfigure >}}
 
 
@@ -88,7 +95,8 @@ The Springfield Armory employed many in Western Massachusetts and supported othe
 
 {{< /galleryrow >}}
 
-By 1966, Boland challenged the closure in a Senate hearing, citing economics, policy, and legal issues. 
+The fight to prevent the Armory’s closure continued for several years and by 1966 Boland challenged the closure in a Senate hearing, citing economic, policy, and legal issues.
+
 
 {{< galleryrow >}}
 
@@ -104,7 +112,7 @@ By 1966, Boland challenged the closure in a Senate hearing, citing economics, po
 
 {{< /galleryrow >}}
 
-An independent consultant report stated that the Armory closure would have an adverse impact on the economy, but McNamara was not swayed. After a long fight, Boland was forced to concede that the Armory would close in 1968. 
+Even an independent consultant report stated that the Armory closure would have an adverse impact on the economy, but McNamara was not swayed by any of the arguments. After a long fight, Boland was forced to concede that the Armory would close in 1968. 
 
 
 {{< galleryrow >}}
@@ -112,10 +120,6 @@ An independent consultant report stated that the Armory closure would have an ad
 
 {{< galleryfigure src="../020-cropped-BolandB90F5-2300JobsPhasedOut.jpg"
            headline="Springfield Daily News clipping of Boland announcing the Springfield Armory closure with Mayor Charles V. Ryan, November 16, 1965.">}} Box 90, Folder 5,  [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
-{{< /galleryfigure >}}
-
-{{< galleryfigure src="../035-BolandB131F33-Parade-CROPPED.jpg"
-           headline="Boland as Marshal of the Springfield St. Patrick’s Day Parade.">}} Box 133, Folder 33,  [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
 {{< /galleryfigure >}}
 
 

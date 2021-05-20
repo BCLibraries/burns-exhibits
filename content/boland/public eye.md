@@ -18,10 +18,10 @@ type: "exhibit"
 		   
 		   {{< /largefigure >}}
 
-An important part of Boland’s job was making public appearances, meeting with diplomats and dignitaries, attending events and conferences, as well as meeting with constituents. It was common to document these occasions with exchanges of signed or inscribed photographs. Breakfast meetings such as one with Taoiseach (Irish Prime Minister) Jack Lynch were a regular occurance. Those that were part of the Massachusetts Congressional Delegation, including Boland, were able to combine their efforts for the good of Massachusetts. 
+An important part of Boland’s job was making public appearances, meeting with diplomats and dignitaries, attending events and conferences, as well as meeting with constituents. It was common to document these occasions with exchanges of signed or inscribed photographs. Breakfast meetings such as one with Taoiseach (Irish Prime Minister) Jack Lynch were a regular occurance. Often the entire Massachusetts Congressional Delegation, including Boland, would come together for events as well as occasions to combine their efforts for the good of all Massachusetts constituents.  
 {{< galleryrow >}}
 {{< galleryfigure src="../056-BolandB132F2-JackLynch.jpg"
-           headline="Ted Kennedy, Eddie Boland, and Jack Lynch (right) May 25, 1978.">}} Box 132, Folder 2,  [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003"
+           headline="Ted Kennedy, Eddie Boland, and Jack Lynch (right) May 25, 1978.">}} Box 132, Folder 2,  [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../040-BolandB131F33-MADelegation(Tip).jpg"
@@ -33,12 +33,12 @@ An important part of Boland’s job was making public appearances, meeting with 
 {{< /galleryfigure >}}
 {{< /galleryrow >}}
 
-When constituents visited Washington, D.C. and requested to meet Boland, he would regularly oblige them.Boland's staff would usually take a photograph of Boland and the visitors on the steps of the Capitol, with the distinctive dome in the background and mail a copy to the constituents. Another way that Boland kept in touch with his constituents was to send out newsletters or create recordings to address specific issues or legislation. Boland often made audio recordings on red Edison diamond discs and had accompanying transcripts prepared. Burns Library has digitized all of these discs; the one in this exhibit concerns flood control and can be listened to in the Reading Room. 
+When constituents visited Washington, D.C. and requested to meet Boland, he would regularly oblige them. Boland's staff would usually take a photograph of Boland and the visitors on the steps of the Capitol, with the distinctive dome in the background, and mail a copy to the constituents. Another way that Boland kept in touch with his constituents was to send out newsletters or create audio and video recordings to address specific issues or legislation. Boland often made audio recordings on red Edison diamond discs and had accompanying transcripts prepared. Burns Library has digitized all of these discs; the one in this exhibit concerns flood control and can be listened to in the Reading Room. 
 
 {{< galleryrow >}}
 
 {{< galleryfigure src="../037-BolandB131F2-WarnerSchool.jpg"
-           headline="Boland and Ted Kennedy pose with Springfield, MA students outside the Capitol, April 10, 1964.">}} Box 131, Folder 2,  [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003"
+           headline="Boland and Ted Kennedy pose with Springfield, MA students outside the Capitol, April 10, 1964.">}} Box 131, Folder 2,  [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../025-BolandB121F20-RedEdisonDiscA.jpg"
@@ -50,7 +50,7 @@ When constituents visited Washington, D.C. and requested to meet Boland, he woul
 {{< /galleryfigure >}}
 {{< /galleryrow >}}
 
-A Congressperson never quite knew who they might bump into, and Boland’s papers document some of his encounters with well known figures. 
+In the course of a day a Congressperson never quite knew who they might bump into, and Boland’s papers document some of his encounters with well known figures and various groups from Massachusetts. 
 
 {{< galleryrow >}}
 

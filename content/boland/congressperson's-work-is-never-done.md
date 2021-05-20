@@ -43,7 +43,7 @@ type: "exhibit"
            description="Box 131, Folder 30, [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003" 
            align="right" >}}
 
-What does a congressional representative in the House actually do to serve the people of specific districts? One of their main roles is to introduce bills and resolutions as well as offer amendments on legislation that serve the people. In Eddie's case, the 2nd District was central and western Massachusetts, including Springfield. The most famous pieces of legislation that Boland sponsored were the Boland Amendments in the 1980s. President Reagan was trying to overthrow the pro-communist Sandinista government in Nicaragua, by supporting rebel Contras with money approved by Congress. Congress decided to take action following several CIA operations that were kept from congressional intelligence committee members. The Boland Amendments sought to limit U.S. governmental assistance to the Contras by cutting off the cash flow and closing loopholes from the original legislation. 
+What does a congressional representative in the House actually do to serve the people of their district? One of their main roles is to introduce bills and resolutions as well as offer amendments on legislation that serve the people. In Eddie's case, the 2nd District was central and western Massachusetts, including Springfield. The most famous pieces of legislation that Boland sponsored were the Boland Amendments in the 1980s. At the time President Reagan was trying to overthrow the pro-communist Sandinista government in Nicaragua by supporting rebel Contras with money approved by Congress. Congress decided to take action following several CIA operations that were kept from congressional intelligence committee members. The Boland Amendments sought to limit U.S. governmental assistance to the Contras by cutting off the cash flow and closing the remaining loopholes from the original legislation. 
 
 {{< /largefigure >}}
 
@@ -66,7 +66,7 @@ What does a congressional representative in the House actually do to serve the p
 {{< /galleryrow >}}
 
 
-A large part of Boland’s job was remaining informed on various legislative efforts, offering remarks on legislation, meeting with Congressional colleagues, and attending events. It was common to create legislative files on specific issues, which contained research, tracked meetings, and provided strategy about votes. One example is the acid rain legislation in which Boland's staff compiled research and other information for the Acid Rain Hearings in 1986, about the effects of acid rain. The collection also contains photographs of Boland working during the hearings, and even a “Stop Acid Rain” button that a colleague was wearing. 
+A large part of Boland’s job was remaining informed on various legislative efforts, offering remarks on legislation, meeting with Congressional colleagues, and attending events. It was common to create legislative files on specific issues, which contained research, tracked meetings, and provided strategy about votes. One example is the acid rain legislation in which Boland's staff compiled research and other information for the Acid Rain Hearings in 1986, about the effects of acid rain. The collection also contains photographs of Boland working during the hearings, and even a 'Stop Acid Rain' button that a colleague was wearing. 
 
 
 {{< galleryrow >}}
@@ -77,7 +77,7 @@ A large part of Boland’s job was remaining informed on various legislative eff
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../073-BolandB149Tray1Item1-AcidRain.jpg"
-           headline="'Stop Acid Rain' button.">}} Box 149, Object 1, [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003)
+           headline="'Stop Acid Rain' button.">}} Box 149, Object 1, [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../065-BolandB133F1-AcidRainHearing.jpg"
@@ -121,7 +121,7 @@ A large part of Boland’s job was remaining informed on various legislative eff
 
 Members of Congress serve on committees and Boland was no exception. Early in his career he was appointed as chairman of the powerful House Committee on Appropriations, which funds the activities of the federal government. Throughout his many years on appropriations, Boland administered the funding of housing and urban development, education, improvements to the interior, transportation, public works, and even space exploration.
 
-In 1975 the Select Committee on Intelligence was formed to investigate the U.S. Intelligence Agency’s activities domestically and abroad. In 1977, Speaker of the House Tip O’Neill appointed Boland as the Chairman of the House Permanent Select Committee on Intelligence with a mandate to continue providing oversight on intelligence matters. This committee was quite different from others in that it restricted information to only committee members. Many of the topics were classified, and often documents were not allowed outside specific secure rooms in which the committee met.   
+In 1975 the Select Committee on Intelligence was formed to investigate the U.S. Intelligence Agency’s activities domestically and abroad. In 1977, Speaker of the House Tip O’Neill appointed Boland as the Chairman of the House Permanent Select Committee on Intelligence with a mandate to continue providing oversight on intelligence matters. This committee was quite different from others in that it restricted information to committee members only. Many of the topics were classified and often documents were not allowed outside specific secure rooms in which the committee met.   
 
 {{< /largefigure >}}
 
@@ -145,7 +145,7 @@ In 1975 the Select Committee on Intelligence was formed to investigate the U.S. 
 		   
 		 
 
-Boland was known to regularly lift weights at the House gymnasium, and was also on the informal House Gymnasium Committee, which consisted of three white males. In the 1980s, California Congresswoman Barbara Boxer led the charge demanding that women be allowed to use the House gym instead of the separate Ladies Health Facility. Boland’s blustery response to the initial request of updating the women’s facility equipment was “I don’t know why you want machines. You know, those machines only build muscles.” After more pressure from Boxer and other female colleagues, the House gymnasium opened to women in 1985. 
+Boland was known to regularly lift weights at the House gymnasium and was also on the informal House Gymnasium Committee, which consisted of three white males. In the 1980s, California Congresswoman Barbara Boxer led the charge demanding that women be allowed to use the House gym instead of the separate Ladies Health Facility. Boland’s blustery response to the initial request of updating the women’s facility equipment was “I don’t know why you want machines. You know, those machines only build muscles.” After more pressure from Boxer and other female colleagues, the House gymnasium opened to women in 1985. 
 
   {{< /largefigure >}}
 
@@ -161,7 +161,7 @@ Representatives from the House are often sent to other countries for diplomacy, 
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../083-BolandTempBoxA-FolderOvercoat.jpg"
-           headline="Boland with Congressional Delegation in South Korea, 1969.">}} Box 156, [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003)
+           headline="Boland with Congressional Delegation in South Korea, 1969.">}} Box 156, [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
