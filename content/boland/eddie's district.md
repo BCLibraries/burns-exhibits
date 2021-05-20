@@ -22,12 +22,12 @@ type: "exhibit"
 		   
 {{< galleryrow >}}
 
-           {{< gallerygefigure src="../079-BolandB154Object9.jpg"
-           headline="'Make it in Massachusetts' thumbs up pin" 
+           {{< galleryfigure src="../079-BolandB154Object9.jpg"
+           headline="'Make it in Massachusetts' thumbs up pin">}}
            description="Box 154, Object 9, [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
 		   
 		   {{< galleryfigure src="../035-BolandB131F33-Parade-CROPPED.jpg"
-           headline="Boland as Marshal of the Springfield St. Patrick’s Day Parade."
+           headline="Boland as Marshal of the Springfield St. Patrick’s Day Parade.">}}
 		   description="Box 133, Folder 33, [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
 {{< /galleryfigure >}}
 		   
