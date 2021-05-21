@@ -98,6 +98,25 @@ Are they meant to inspire or terrorize the viewer?
 
 {{< /galleryrow >}}
 
+{{< galleryrow >}}
+
+{{< figure src="024-Ferocious_Females.jpg"
+           headline="“Walkyries Leading the Warriors on to Battle”"
+           description="Wagner. *[Asgard and the Gods](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332186780001021)*."
+>}}
+
+{{< figure src="027-Ferocious_Females.jpg"
+           headline="The Furies fly above Dante and Virgil"
+           description="Alighieri. *[The Vision of Hell](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21382026760001021)*."
+>}}
+
+{{< figure src="028-Ferocious_Females.jpg"
+           headline="“Here the Brute Harpies Make Their Nest”"
+           description="Alighieri. *[The Vision of Hell](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21382026760001021)*."
+>}}
+
+{{< /galleryrow >}}
+
 
 {{< galleryrow >}}
 
