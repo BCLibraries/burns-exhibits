@@ -157,12 +157,28 @@ Are they meant to inspire or terrorize the viewer?
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../intro-image.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
-{{< /galleryfigure >}}
+{{< figure src="046-Ferocious_Females.jpg"
+           headline="Winged female spirit"
+           description="Goethe. *[Faust](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21377370380001021)*."
+>}}
 
-{{< galleryfigure src="../intro-image.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
-{{< /galleryfigure >}}
+{{< figure src="“On the brocken the witches are flocking”"
+           headline="“They were divinities of death, symbols of funeral chant and lamentation”"
+           description="Goethe. *[Faust](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21377370380001021)*."
+>}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< figure src="051-Ferocious_Females.jpg"
+           headline="Witch"
+           description="Gummere. *[Witchcraft and Quakerism](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21370886670001021)*."
+>}}
+
+{{< figure src="053-Ferocious_Females.jpg"
+           headline="“Full and plain evidence concerning witches and apparitions”"
+           description="Glanvill. *[Saducismus triumphatus](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21374849530001021)*."
+>}}
 
 {{< /galleryrow >}}
