@@ -117,6 +117,24 @@ Are they meant to inspire or terrorize the viewer?
 
 {{< /galleryrow >}}
 
+{{< galleryrow >}}
+
+{{< figure src="031-Ferocious_Females.jpg"
+           headline="Elf girls danced in the night with “shawls which were woven of mist and moonshine”"
+           description="Andersen. *[Fairy Tales](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21448429600001021)*."
+>}}
+
+{{< figure src="035C-Ferocious_Females.jpg"
+           headline="“To behold the wandring Moon, / Riding neer her highest noon, / Like one that had bin led astray / Through the Heav’ns wide pathles way”"
+           description="Milton. Miscellaneous Poems](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21367989890001021)*."
+>}}
+
+{{< figure src="035D-Ferocious_Females.jpg"
+           headline="“Who with her radiant finger still’d the roar / Of thunder”"
+           description="Milton. Miscellaneous Poems](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21367989890001021)*."
+>}}
+
+{{< /galleryrow >}}
 
 {{< galleryrow >}}
 
