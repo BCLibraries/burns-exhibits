@@ -62,7 +62,7 @@ Are they meant to inspire or terrorize the viewer?
 {{< galleryrow >}}
 
 {{< galleryfigure src="004-Ferocious_Females.jpg"
-           headline="Nymph named Ino with the “likeness of seagull” who helped Odysseus in his journey: Colum, The Adventures of Odysseus and the Tale of Troy, PR6005.O38 A685 1944 IRISH">}} Sollicitudin Mollis Venenatis Sit
+           headline="Nymph named Ino with the “likeness of seagull” who helped Odysseus in his journey: Colum. The Adventures of Odysseus and the Tale of Troy, PR6005.O38 A685 1944 IRISH">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="007-Ferocious_Females.jpg"
@@ -72,6 +72,25 @@ Are they meant to inspire or terrorize the viewer?
 {{< galleryfigure src="009-Ferocious_Females.jpg"
            headline="Sirens serenading Odysseus: Homer, The Odyssey, 04-8309 GENERAL" >}}
 {{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< figure src="004-Ferocious_Females.jpg"
+           headline="Nymph named Ino with the “likeness of seagull” who helped Odysseus in his journey"
+           description="Column. *[The Adventures of Odysseus and the Tale of Troy](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21332396650001021)*."
+>}}
+
+{{< figure src="../02_b11271_web.jpg"
+           headline="East of the Sun and West of the Moon"
+           description="Asbjørnsen. *[East of the Sun and West of the Moon](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21325791980001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: Hodder & Stoughton, 1914."
+>}}
+
+{{< figure src="../03_not_available_web.jpg"
+           headline="New England"
+           description="Bacon. *[Historic Pilgrimages in New England: Among Landmarks of Pilgrim and Puritan Days and of the Provincial and Revolutionary Periods](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21374972640001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Silver Burdett & Company, c.1898."
+>}}
 
 {{< /galleryrow >}}
 
