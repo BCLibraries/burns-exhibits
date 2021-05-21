@@ -62,9 +62,9 @@ Are they meant to inspire or terrorize the viewer?
 
 {{< galleryrow >}}
 
-{{< figure src="004-Ferocious_Females.jpg"
-           headline="Nymph named Ino with the “likeness of seagull” who helped Odysseus in his journey"
-           description="Column. *[The Adventures of Odysseus and the Tale of Troy](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21332396650001021)*."
+{{< figure src="010-Ferocious_Females.jpg"
+           headline="Witches flying into the night"
+           description="“McAnally. *[Irish Wonders]  (https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21373864330001021)*.”
 >}}
 
 {{< figure src="007-Ferocious_Females.jpg"
