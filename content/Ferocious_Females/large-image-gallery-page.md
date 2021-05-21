@@ -41,9 +41,32 @@ How do you think these depictions of winged women were interpreted? How, if all 
 Are they meant to inspire or terrorize the viewer?
 {{< /largefigure >}}
 
-{{< largefigure src="../portrait-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                description="Pharetra Mattis Inceptos"
-                size="small" >}}
-Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean lacinia bibendum nulla sed consectetur.
-{{< /largefigure >}}
+
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="../portrait-image.jpg"
+           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="../portrait-image.jpg"
+           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="../portrait-image.jpg"
+           headline="Amet Pellentesque" >}}
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="../intro-image.jpg"
+           headline="Tellus">}} Pellentesque Vehicula Aenean
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="../intro-image.jpg"
+           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
