@@ -41,8 +41,6 @@ How do you think these depictions of winged women were interpreted? How, if all 
 Are they meant to inspire or terrorize the viewer?
 {{< /largefigure >}}
 
-
-
 {{< galleryrow >}}
 
 {{< figure src="004-Ferocious_Females.jpg"
