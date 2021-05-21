@@ -126,12 +126,12 @@ Are they meant to inspire or terrorize the viewer?
 
 {{< figure src="035C-Ferocious_Females.jpg"
            headline="“To behold the wandring Moon, / Riding neer her highest noon, / Like one that had bin led astray / Through the Heav’ns wide pathles way”"
-           description="Milton. Miscellaneous Poems](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21367989890001021)*."
+           description="Milton. *[Miscellaneous Poems](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21367989890001021)*."
 >}}
 
 {{< figure src="035D-Ferocious_Females.jpg"
            headline="“Who with her radiant finger still’d the roar / Of thunder”"
-           description="Milton. Miscellaneous Poems](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21367989890001021)*."
+           description="Milton. *[Miscellaneous Poems](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21367989890001021)*."
 >}}
 
 {{< /galleryrow >}}
