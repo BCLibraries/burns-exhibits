@@ -82,14 +82,14 @@ Are they meant to inspire or terrorize the viewer?
            description="Column. *[The Adventures of Odysseus and the Tale of Troy](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21332396650001021)*."
 >}}
 
-{{< figure src="../02_b11271_web.jpg"
-           headline="East of the Sun and West of the Moon"
-           description="Asbjørnsen. *[East of the Sun and West of the Moon](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21325791980001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. London: Hodder & Stoughton, 1914."
+{{< figure src="007-Ferocious_Females.jpg"
+           headline="Pallas Athene, goddess of wisdom and war, ordering peace between Odyssesus and Eurpeithes"
+           description="Asbjørnsen. *[The Adventures of Odysseus and the Tale of Troy](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21332396650001021)*."
 >}}
 
-{{< figure src="../03_not_available_web.jpg"
-           headline="New England"
-           description="Bacon. *[Historic Pilgrimages in New England: Among Landmarks of Pilgrim and Puritan Days and of the Provincial and Revolutionary Periods](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21374972640001021&context=L&vid=bclib_new&search_scope=bcl&tab=bcl_only&lang=en_US)*. New York: Silver Burdett & Company, c.1898."
+{{< figure src="009-Ferocious_Females.jpg"
+           headline="Sirens serenading Odysseus"
+           description="Homer. *[The Odyssey](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352044400001021)*."
 >}}
 
 {{< /galleryrow >}}
