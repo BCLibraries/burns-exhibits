@@ -138,6 +138,25 @@ Are they meant to inspire or terrorize the viewer?
 
 {{< galleryrow >}}
 
+{{< figure src="038-Ferocious_Females.jpg"
+           headline="Winged Sirens"
+           description=“Douglas. *[Siren Land](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21372777850001021)*.”
+>}}
+
+{{< figure src="040-Ferocious_Females.jpg"
+           headline="“They were divinities of death, symbols of funeral chant and lamentation”"
+           description=“Douglas. *[Siren Land](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21372777850001021)*.”
+>}}
+
+{{< figure src="045-Ferocious_Females.jpg"
+           headline="Winged woman guiding Goethe away from reality"
+           description=“Goethe. *[Faust](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21377370380001021)*.”
+>}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
 {{< galleryfigure src="../intro-image.jpg"
            headline="Tellus">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
