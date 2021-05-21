@@ -162,8 +162,8 @@ Are they meant to inspire or terrorize the viewer?
            description="Goethe. *[Faust](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21377370380001021)*."
 >}}
 
-{{< figure src="“On the brocken the witches are flocking”"
-           headline="“They were divinities of death, symbols of funeral chant and lamentation”"
+{{< figure src="047-Ferocious_Females.jpg"
+           headline="“On the brocken the witches are flocking”"
            description="Goethe. *[Faust](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21377370380001021)*."
 >}}
 
