@@ -46,13 +46,13 @@ How can these women be seen as individuals outside their role as a “symbol of 
 {{< galleryrow >}}
 
 {{< figure src="003-Ferocious_Females.jpg"
-           headline="Winged female spirit"
-           description="Goethe. *[Faust](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21377370380001021)*."
+           headline="Mermaid in Irish folklore book"
+           description="Graves. *[The Irish Fairy Book](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21317779050001021)*."
 >}}
 
 {{< figure src="005-Ferocious_Females.jpg"
-           headline="“On the brocken the witches are flocking”"
-           description="Goethe. *[Faust](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21377370380001021)*."
+           headline="Sirens calling to Odysseus’ ship"
+           description="Colum. *[The Adventures of Odysseus and the Tale of Troy](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21332396650001021)*."
 >}}
 
 {{< /galleryrow >}}
@@ -60,13 +60,13 @@ How can these women be seen as individuals outside their role as a “symbol of 
 {{< galleryrow >}}
 
 {{< figure src="014-Ferocious_Females.jpg"
-           headline="Witch"
-           description="Gummere. *[Witchcraft and Quakerism](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21370886670001021)*."
+           headline="Melusine, female spirit in French folklore, and her son depicted on printer’s device"
+           description="Davies. *[Devices of the Early Printers, 1457-1560](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21356429620001021)*."
 >}}
 
 {{< figure src="015-Ferocious_Females.jpg"
-           headline="“Full and plain evidence concerning witches and apparitions”"
-           description="Glanvill. *[Saducismus triumphatus](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21374849530001021)*."
+           headline="Mermaids on French printer’s device"
+           description="Davies. *[Devices of the Early Printers, 1457-1560](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21356429620001021)*."
 >}}
 
 {{< /galleryrow >}}
