@@ -64,7 +64,7 @@ Are they meant to inspire or terrorize the viewer?
 
 {{< figure src="010-Ferocious_Females.jpg"
            headline="Witches flying into the night"
-           description="McAnally. *[Irish Wonders](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21373864330001021)*.”
+           description="McAnally. *[Irish Wonders](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21373864330001021)*."
 >}}
 
 {{< figure src="007-Ferocious_Females.jpg"
