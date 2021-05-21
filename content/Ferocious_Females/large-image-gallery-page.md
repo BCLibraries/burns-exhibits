@@ -16,10 +16,7 @@ type: "exhibit"
                 headline=""
                 size="large" align="center" >}}
 {{< /largefigure >}}
-
-{{< largefigure src="fftitle1.png"
-                size="x-large" >}}
-{{< /largefigure >}}
+}
 
 {{< largefigure src="059-Ferocious_Females-Whiteedited.jpg"
                 headline="Harpy: Box 9, Folder 2, G. William Patten papers, (MS--2003--042)"
