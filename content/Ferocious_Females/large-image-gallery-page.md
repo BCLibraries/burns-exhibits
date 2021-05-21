@@ -88,12 +88,12 @@ Are they meant to inspire or terrorize the viewer?
 
 {{< figure src="020-Ferocious_Females.jpg"
            headline="Sol, the personification of Day in Germanic mythology, rides across the sky"
-           description="Wagner. *[Asgard and the Gods] (https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332186780001021)*."
+           description="Wagner. *[Asgard and the Gods](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332186780001021)*."
 >}}
 
 {{< figure src="023-Ferocious_Females.jpg"
            headline="“Walkyries Conducting the Fallen Heroes to Walhalla”"
-           description="Wagner. *[Asgard and the Gods] (https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332186780001021)*."
+           description="Wagner. *[Asgard and the Gods](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332186780001021)*."
 >}}
 
 {{< /galleryrow >}}
