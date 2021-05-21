@@ -67,13 +67,13 @@ Are they meant to inspire or terrorize the viewer?
            description="McAnally. *[Irish Wonders](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21373864330001021)*."
 >}}
 
-{{< figure src="007-Ferocious_Females.jpg"
-           headline="Pallas Athene, goddess of wisdom and war, ordering peace between Odyssesus and Eurpeithes"
-           description="Asbjørnsen. *[The Adventures of Odysseus and the Tale of Troy](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21332396650001021)*."
+{{< figure src="011-Ferocious_Females.jpg"
+           headline="Banshee wailing from the sky, warning of death"
+           description="McAnally. *[Irish Wonders](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21373864330001021)*."
 >}}
 
-{{< figure src="009-Ferocious_Females.jpg"
-           headline="Sirens serenading Odysseus"
+{{< figure src="017-Ferocious_Females.jpg"
+           headline="“She is winged and...the cornucopias evidently contain water and fire respectively: the one which she stands represents the solid earth”"
            description="Homer. *[The Odyssey](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352044400001021)*."
 >}}
 
