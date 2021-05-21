@@ -13,6 +13,11 @@ type: "exhibit"
 ---
 
 {{< largefigure src="fftitle1.png"
+                headline=""
+                size="large" align="center" >}}
+{{< /largefigure >}}
+
+{{< largefigure src="fftitle1.png"
                 size="x-large" >}}
 {{< /largefigure >}}
 
