@@ -83,17 +83,17 @@ Are they meant to inspire or terrorize the viewer?
 
 {{< figure src="016-Ferocious_Females.jpg"
            headline="Nemesis, believed to be a goddess of retribution, centered on a German printers device"
-           description="McAnally. *[Irish Wonders](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21373864330001021)*."
+           description="Davies. *[Devices of the Early Printers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21356429620001021)*."
 >}}
 
 {{< figure src="020-Ferocious_Females.jpg"
            headline="Sol, the personification of Day in Germanic mythology, rides across the sky"
-           description="McAnally. *[Irish Wonders](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21373864330001021)*."
+           description="Wagner. *[Asgard and the Gods] (https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332186780001021)*."
 >}}
 
 {{< figure src="023-Ferocious_Females.jpg"
            headline="“Walkyries Conducting the Fallen Heroes to Walhalla”"
-           description="Davies. *[Devices of the Early Printers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21356429620001021)*."
+           description="Wagner. *[Asgard and the Gods] (https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332186780001021)*."
 >}}
 
 {{< /galleryrow >}}
