@@ -46,15 +46,31 @@ Are they meant to inspire or terrorize the viewer?
 {{< galleryrow >}}
 
 {{< galleryfigure src="004-Ferocious_Females.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+           headline="Nymph named Ino with the “likeness of seagull” who helped Odysseus in his journey: Colum, The Adventures of Odysseus and the Tale of Troy, PR6005.O38 A685 1944 IRISH">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="007-Ferocious_Females.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Pallas Athene, goddess of wisdom and war, ordering peace between Odyssesus and Eurpeithes: Colum, The Adventures of Odysseus and the Tale of Troy, PR6005.O38 A685 1944 IRISH">}} Fringilla Cursus Sollicitudin Dapibus
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="009-Ferocious_Females.jpg"
-           headline="Amet Pellentesque" >}}
+           headline="Sirens serenading Odysseus: Homer, The Odyssey, 04-8309 GENERAL" >}}
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="004-Ferocious_Females.jpg"
+           headline="Nymph named Ino with the “likeness of seagull” who helped Odysseus in his journey: Colum, The Adventures of Odysseus and the Tale of Troy, PR6005.O38 A685 1944 IRISH">}} Sollicitudin Mollis Venenatis Sit
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="007-Ferocious_Females.jpg"
+           headline="Pallas Athene, goddess of wisdom and war, ordering peace between Odyssesus and Eurpeithes: Colum, The Adventures of Odysseus and the Tale of Troy, PR6005.O38 A685 1944 IRISH">}} Fringilla Cursus Sollicitudin Dapibus
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="009-Ferocious_Females.jpg"
+           headline="Sirens serenading Odysseus: Homer, The Odyssey, 04-8309 GENERAL" >}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
