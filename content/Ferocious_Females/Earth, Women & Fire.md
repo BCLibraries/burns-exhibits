@@ -153,3 +153,59 @@ Throughout this exhibit we have seen women cast into particular roles, what role
 >}}
 
 {{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< figure src="044-Ferocious_Females.jpg"
+           headline="Reimagined story of Beauty and the Beast, with beauty as a witch"
+           description="Sullivan. *[Tangleweed and Brine](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21477178280001021)*."
+>}}
+
+{{< figure src="048-Ferocious_Females.jpg"
+           headline="The White Witch"
+           description="Lewis. *[The Lion, The Witch and The Wardrobe](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21333902490001021)*."
+>}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< figure src="049-Ferocious_Females.jpg"
+           headline="Witches, facsimile image from the Cologne 1489 Latin edition"
+           description="Molitor. *[Des sorcières et des devineresses](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21370890790001021)*."
+>}}
+
+{{< figure src="051-Ferocious_Females.jpg"
+           headline="“As I was going to a meeting I saw some women in a field and I discerned them to be witches”"
+           description="Gummere. *[Witchcraft and Quakerism](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21370886670001021)*."
+>}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< figure src="013-Ferocious_Females.jpg"
+           headline="Gorgon (Medusa) featured on printer’s device"
+           description="Davies. *[Devices of the Early Printers, 1457-1560](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21356429620001021)*."
+>}}
+
+{{< figure src="017-Ferocious_Females.jpg"
+           headline="Either Cybele, nature goddess, or Proserpine, as “personifications of the Seasons [and] their changes and effect on man,” depicted on French printers device"
+           description="Davies. *[Devices of the Early Printers, 1457-1560](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21356429620001021)*."
+>}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< figure src="019-Ferocious_Females.jpg"
+           headline="Frigga, mother of the gods in Germanic and Norse mythology"
+           description="Wagner. *[Asgard and the Gods](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332186780001021)*."
+>}}
+
+{{< figure src="021-Ferocious_Females.jpg"
+           headline="Hilde, a Valkyrie that personifies war"
+           description="Wagner. *[Asgard and the Gods](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332186780001021)*."
+>}}
+
+{{< /galleryrow >}}
