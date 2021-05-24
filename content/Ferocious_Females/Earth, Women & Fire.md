@@ -18,13 +18,13 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="063-Ferocious_Females-White.jpg"
-                headline="Siren: Box 12, Folder 3, G. William Patten papers, (MS--2003--042)"
+                headline="G. William Patten papers, (MS--2003--042)"
                 size="medium"
 				align="left" >}}
 {{< /largefigure >}}
 
 {{< largefigure src="057-Ferocious_Females-White.jpg"
-                headline="Mermaid: Box 9, Folder 3, G. William Patten papers, (MS--2003--042)"
+                headline="G. William Patten papers, (MS--2003--042)"
                 size="medium"
                 align="right" >}}
 Our category of earthly and fiery women gathers witches, warriors, goddesses, princesses, and blessed virgins together. These women make clear the duality often used in representations of women: the beautiful savior vs the frightening enchantress.
