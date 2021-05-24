@@ -70,3 +70,31 @@ How can these women be seen as individuals outside their role as a “symbol of 
 >}}
 
 {{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< figure src="018-Ferocious_Females.jpg"
+           headline="Prominent in German tales, the norns watch over springs of water and often appear at the birth of royal infants"
+           description="Wagner. *[Asgard and the Gods](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332186780001021)*."
+>}}
+
+{{< figure src="032-Ferocious_Females.jpg"
+           headline="Sea Witch and The Little Mermaid"
+           description="Andersen. *[Fairy Tales](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21448429600001021)*."
+>}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< figure src="001-Ferocious_Females.jpg"
+           headline="Water faerie calling out to children in the W.B. Yeats poem “The Stolen Child”"
+           description="Graves. *[The Irish Fairy Book](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21317779050001021)*."
+>}}
+
+{{< figure src="033-Ferocious_Females.jpg"
+           headline="Mermaid in 1574"
+           description="Walsingham. *[Historia bruins Thomae Walsingham, ab Edwardo Primo, ad Henricum Quintum](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21349527820001021)*."
+>}}
+
+{{< /galleryrow >}}
