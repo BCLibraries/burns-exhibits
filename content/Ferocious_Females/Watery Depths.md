@@ -98,3 +98,45 @@ How can these women be seen as individuals outside their role as a “symbol of 
 >}}
 
 {{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< figure src="035-Ferocious_Females.jpg"
+           headline="Sabrina and her fellow water nymphs save a young woman in peril"
+           description="Milton *[Miscellaneous Poems](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21367989890001021)*."
+>}}
+
+{{< figure src="036-Ferocious_Females.jpg"
+           headline="Siren Land by Norman Douglas, a book celebrating life in Southern Italy"
+           description="Douglas *[Siren Land](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21372777850001021)*."
+>}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< figure src="037-Ferocious_Females.jpg"
+           headline="Siren"
+           description="Douglas *[Siren Land](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21372777850001021)*."
+>}}
+
+{{< figure src="039-Ferocious_Females.jpg"
+           headline="Sea Witch and The Little Mermaid"
+           description="Douglas. *[Siren Land](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21372777850001021)*."
+>}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< figure src="042-FerociousFemales.jpg"
+           headline="Sea-witch right before painfully changing the mermaid"
+           description="Sullivan. [Tangleweed and Brine](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21477178280001021)*."
+>}}
+
+{{< figure src="043-Ferocious_Females.jpg"
+           headline="Princess, with the powers of a water witch, floats in the water next to an untoward suitor she dispose of"
+           description="Sullivan. *[Tangleweed and Brine](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21477178280001021)*."
+>}}
+
+{{< /galleryrow >}}
