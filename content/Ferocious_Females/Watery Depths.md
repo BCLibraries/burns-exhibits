@@ -131,7 +131,7 @@ How can these women be seen as individuals outside their role as a “symbol of 
 
 {{< figure src="042-FerociousFemales.jpg"
            headline="Sea-witch right before painfully changing the mermaid"
-           description="Sullivan. [Tangleweed and Brine](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21477178280001021)*."
+           description="Sullivan. *[Tangleweed and Brine](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21477178280001021)*."
 >}}
 
 {{< figure src="043-Ferocious_Females.jpg"
