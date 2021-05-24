@@ -140,3 +140,17 @@ How can these women be seen as individuals outside their role as a “symbol of 
 >}}
 
 {{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< figure src="050-Ferocious_Females.jpg"
+           headline="Mermaid in Irish fairy tale"
+           description="O Laoghaire. *[An fáinne draoidheachta](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21376328190001021)*."
+>}}
+
+{{< figure src="054-Ferocious_Females.jpg"
+           headline="Woman in the water who promises men successfully fishing trips in exchange for their wives children"
+           description="Asbjørnsen. *[East of the Sun and West of the Moon](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21325791980001021)*."
+>}}
+
+{{< /galleryrow >}}
