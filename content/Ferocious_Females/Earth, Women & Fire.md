@@ -45,12 +45,12 @@ Throughout this exhibit we have seen women cast into particular roles, what role
 {{< galleryrow >}}
 
 {{< figure src="002-Ferocious_ Females.jpg"
-           headline="Mermaid in Irish folklore book"
+           headline="“Golden-haired Niamh is my name,” the daughter of the King of Youth in Irish folklore"
            description="Graves. *[The Irish Fairy Book](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21317779050001021)*."
 >}}
 
 {{< figure src="006-Ferocious_Females.jpg"
-           headline="Sirens calling to Odysseus’ ship"
+           headline="Pallas Athene, goddess of wisdom and war, speaking to Odysseus"
            description="Colum. *[The Adventures of Odysseus and the Tale of Troy](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21332396650001021)*."
 >}}
 
@@ -59,13 +59,13 @@ Throughout this exhibit we have seen women cast into particular roles, what role
 {{< galleryrow >}}
 
 {{< figure src="008-Ferocious_Females.jpg"
-           headline="Melusine, female spirit in French folklore, and her son depicted on printer’s device"
-           description="Davies. *[Devices of the Early Printers, 1457-1560](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21356429620001021)*."
+           headline="Circe turning men into pigs"
+           description="Homer. *[The Odyssey](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352044400001021)*."
 >}}
 
 {{< figure src="012-Ferocious_Females.jpg"
-           headline="Mermaids on French printer’s device"
-           description="Davies. *[Devices of the Early Printers, 1457-1560](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21356429620001021)*."
+           headline="The “friendly banshee”"
+           description="McAnally. *[Irish Wonders](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21373864330001021)*."
 >}}
 
 {{< /galleryrow >}}
@@ -73,13 +73,13 @@ Throughout this exhibit we have seen women cast into particular roles, what role
 {{< galleryrow >}}
 
 {{< figure src="013-Ferocious_Females.jpg"
-           headline="Prominent in German tales, the norns watch over springs of water and often appear at the birth of royal infants"
-           description="Wagner. *[Asgard and the Gods](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332186780001021)*."
+           headline="Gorgon (Medusa) featured on printer’s device"
+           description="Davies. *[Devices of the Early Printers, 1457-1560](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21356429620001021)*."
 >}}
 
 {{< figure src="017-Ferocious_Females.jpg"
-           headline="Sea Witch and The Little Mermaid"
-           description="Andersen. *[Fairy Tales](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21448429600001021)*."
+           headline="Either Cybele, nature goddess, or Proserpine, as “personifications of the Seasons [and] their changes and effect on man,” depicted on French printers device"
+           description="Davies. *[Devices of the Early Printers, 1457-1560](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21356429620001021)*."
 >}}
 
 {{< /galleryrow >}}
@@ -87,13 +87,13 @@ Throughout this exhibit we have seen women cast into particular roles, what role
 {{< galleryrow >}}
 
 {{< figure src="019-Ferocious_Females.jpg"
-           headline="Water faerie calling out to children in the W.B. Yeats poem “The Stolen Child”"
-           description="Graves. *[The Irish Fairy Book](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21317779050001021)*."
+           headline="Frigga, mother of the gods in Germanic and Norse mythology"
+           description="Wagner. *[Asgard and the Gods](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332186780001021)*."
 >}}
 
 {{< figure src="021-Ferocious_Females.jpg"
-           headline="Mermaid in 1574"
-           description="Walsingham. *[Historia bruins Thomae Walsingham, ab Edwardo Primo, ad Henricum Quintum](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21349527820001021)*."
+           headline="Hilde, a Valkyrie that personifies war"
+           description="Wagner. *[Asgard and the Gods](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332186780001021)*."
 >}}
 
 {{< /galleryrow >}}
@@ -101,13 +101,13 @@ Throughout this exhibit we have seen women cast into particular roles, what role
 {{< galleryrow >}}
 
 {{< figure src="022-Ferocious_Females.jpg"
-           headline="Sabrina and her fellow water nymphs save a young woman in peril"
-           description="Milton *[Miscellaneous Poems](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21367989890001021)*."
+           headline="Holda or Hulda, a Germanic goddess of grace and mercy, who resides in the forest"
+           description="Wagner. *[Asgard and the Gods](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332186780001021)*."
 >}}
 
 {{< figure src="025-Ferocious_Females.jpg"
-           headline="Siren Land by Norman Douglas, a book celebrating life in Southern Italy"
-           description="Douglas *[Siren Land](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21372777850001021)*."
+           headline="“Frigg and Her Maidens,” in Norse mythology"
+           description="Wagner. *[Asgard and the Gods](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332186780001021)*."
 >}}
 
 {{< /galleryrow >}}
@@ -115,13 +115,13 @@ Throughout this exhibit we have seen women cast into particular roles, what role
 {{< galleryrow >}}
 
 {{< figure src="026-Ferocious_Females.jpg"
-           headline="Siren"
-           description="Douglas *[Siren Land](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21372777850001021)*."
+           headline="Sheela-na-gigs were Irish stone carvings of women that emphasized their sexual parts, reflecting the central role of fertility in early Irish deities"
+           description="Kerrigan. *[Old Ways, Old Secrets](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21451791300001021)*."
 >}}
 
 {{< figure src="029-Ferocious_Females.jpg"
-           headline="Sea Witch and The Little Mermaid"
-           description="Douglas. *[Siren Land](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21372777850001021)*."
+           headline="“Very hideous” witch who is killed by a soldier"
+           description="Andersen. *[Fairy Tales](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21448429600001021)*."
 >}}
 
 {{< /galleryrow >}}
@@ -129,13 +129,13 @@ Throughout this exhibit we have seen women cast into particular roles, what role
 {{< galleryrow >}}
 
 {{< figure src="030-Ferocious_Females.jpg"
-           headline="Sea-witch right before painfully changing the mermaid"
-           description="Sullivan. *[Tangleweed and Brine](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21477178280001021)*."
+           headline="Thumbelina befriends a butterfly"
+           description="Andersen. *[Fairy Tales](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21448429600001021)*."
 >}}
 
 {{< figure src="034-Ferocious_Females.jpg"
-           headline="Princess, with the powers of a water witch, floats in the water next to an untoward suitor she dispose of"
-           description="Sullivan. *[Tangleweed and Brine](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21477178280001021)*."
+           headline="Sin depicted as woman from the waist up, coiled serpent from the waist down"
+           description="Milton. *[Paradise Lost](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21373831460001021)*."
 >}}
 
 {{< /galleryrow >}}
@@ -143,13 +143,13 @@ Throughout this exhibit we have seen women cast into particular roles, what role
 {{< galleryrow >}}
 
 {{< figure src="035B-Ferocious_Females.jpg"
-           headline="Mermaid in Irish fairy tale"
-           description="O Laoghaire. *[An fáinne draoidheachta](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21376328190001021)*."
+           headline="Milton’s image of “Mirth”"
+           description="Milton. *[Paradise Lost](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21373831460001021)*."
 >}}
 
 {{< figure src="041-Ferocious_Females.jpg"
-           headline="Woman in the water who promises men successfully fishing trips in exchange for their wives children"
-           description="Asbjørnsen. *[East of the Sun and West of the Moon](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21325791980001021)*."
+           headline="Witch who will take the baby from the pregnant woman"
+           description="Sullivan. *[Tangleweed and Brine](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21477178280001021)*."
 >}}
 
 {{< /galleryrow >}}
