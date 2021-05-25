@@ -18,7 +18,7 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="059-Ferocious_Females-Whiteedited.jpg"
-                headline="Harpy: Box 9, Folder 2, G. William Patten papers, (MS--2003--042)"
+                headline="Harpy: Box 12, Folder 5, *[G. William Patten papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21323320790001021) MS2003-042"."
                 size="medium"
 				align="right" >}}
 Patten defines wind as “freedom, inspiration, divine power” and whirlwinds as “irresistible force,” “the might of God,” and the “special powers of warriors.” Winged women embrace many of these qualities, often having terrible and awe-inspiring power. Some prime examples include harpies, furies, sirens (who were originally depicted as winged threats), and Valkyrie. Even death has a history of being depicted as a woman. Patten writes that some images of death are that of “a women clad in black, fierce, inveterate, deaf and blind, sword in hand she slays stabs and cuts” or a “bat winged fury of a woman with streaming hair and claws, flying through air swinging a scythe.”
