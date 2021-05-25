@@ -18,14 +18,14 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="059-Ferocious_Females-Whiteedited.jpg"
-                headline="Harpy: Box 9, Folder 2, G. William Patten papers, (MS--2003--042)"
+                headline="Death: Box 10, Folder 4, [G. William Patten papers,]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21323320790001021) MS2003-042"
                 size="medium"
 				align="right" >}}
 Patten defines wind as “freedom, inspiration, divine power” and whirlwinds as “irresistible force,” “the might of God,” and the “special powers of warriors.” Winged women embrace many of these qualities, often having terrible and awe-inspiring power. Some prime examples include harpies, furies, sirens (who were originally depicted as winged threats), and Valkyrie. Even death has a history of being depicted as a woman. Patten writes that some images of death are that of “a women clad in black, fierce, inveterate, deaf and blind, sword in hand she slays stabs and cuts” or a “bat winged fury of a woman with streaming hair and claws, flying through air swinging a scythe.”
 {{< /largefigure >}}
 
 {{< largefigure src="056-Ferocious_Females-White.jpg"
-                headline="Harpy: Box 9, Folder 2, G. William Patten papers, (MS--2003--042)"
+                headline="Harpy: Box 9, Folder 2, [G. William Patten papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21323320790001021) MS2003-042"
                 size="medium"
                 align="left" >}}
 Harpies are similarly construed as horrifying and deadly women, emerging to wreak terror on mortals. They are almost always historically depicted as vicious, harsh creatures. However, Harpies pop up, both as figures of good and evil, in more modern tales such as William Shakespeare’s The Tempest, Philip Pullman's His Dark Materials series, and even the 2000s hit TV show Charmed. Pattens base definitions of harpies include [Image #56]: 
