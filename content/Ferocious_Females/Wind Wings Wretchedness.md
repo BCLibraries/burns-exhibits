@@ -46,8 +46,8 @@ Are they meant to inspire or terrorize the viewer?
 {{< galleryrow >}}
 
 {{< figure src="004-Ferocious_Females.jpg"
-           headline="Nymph named Ino with the “likeness of seagull” who helped Odysseus in his journey"
-           description="Column. *[The Adventures of Odysseus and the Tale of Troy](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21332396650001021)*."
+           headline="Winged female spirit"
+           description="Goethe. *[Faust](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21377370380001021)*."
 >}}
 
 {{< figure src="007-Ferocious_Females.jpg"
@@ -55,19 +55,23 @@ Are they meant to inspire or terrorize the viewer?
            description="Asbjørnsen. *[The Adventures of Odysseus and the Tale of Troy](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21332396650001021)*."
 >}}
 
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
 {{< figure src="009-Ferocious_Females.jpg"
            headline="Sirens serenading Odysseus"
            description="Homer. *[The Odyssey](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352044400001021)*."
 >}}
 
-{{< /galleryrow >}}
-
-{{< galleryrow >}}
-
 {{< figure src="010-Ferocious_Females.jpg"
            headline="Witches flying into the night"
            description="McAnally. *[Irish Wonders](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21373864330001021)*."
 >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
 
 {{< figure src="011-Ferocious_Females.jpg"
            headline="Banshee wailing from the sky, warning of death"
@@ -93,19 +97,23 @@ Are they meant to inspire or terrorize the viewer?
            description="Wagner. *[Asgard and the Gods](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332186780001021)*."
 >}}
 
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
 {{< figure src="023-Ferocious_Females.jpg"
            headline="“Walkyries Conducting the Fallen Heroes to Walhalla”"
+           description="Wagner. *[Asgard and the Gods](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332186780001021)*."
+>}}
+
+{{< figure src="024-Ferocious_Females.jpg"
+           headline="“Walkyries Leading the Warriors on to Battle”"
            description="Wagner. *[Asgard and the Gods](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332186780001021)*."
 >}}
 
 {{< /galleryrow >}}
 
 {{< galleryrow >}}
-
-{{< figure src="024-Ferocious_Females.jpg"
-           headline="“Walkyries Leading the Warriors on to Battle”"
-           description="Wagner. *[Asgard and the Gods](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332186780001021)*."
->}}
 
 {{< figure src="027-Ferocious_Females.jpg"
            headline="The Furies fly above Dante and Virgil"
