@@ -20,7 +20,8 @@ type: "exhibit"
 {{< largefigure src="062-Ferocious_Females-White.jpg"
                 headline="Siren: Box 11, Folder 3, G. William Patten papers, (MS--2003--042)"
                 size="medium"
-				align="left" >}}
+				align="right" >}}
+Sirens, originally winged creatures, have taken to the seas as an image of the seductive temptress, symbolizing, according to Patten, “the delusive fascinations of this world.” The fierce women in this category typify beliefs about human desires. Sirens and mermaids are the obvious examples of water women, but nymphs and fairies often possess similar aquatic and alluring powers. 
 {{< /largefigure >}}
 
 {{< largefigure src="058-Ferocious_Females-White.jpg"
