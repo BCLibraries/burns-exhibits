@@ -20,7 +20,7 @@ type: "exhibit"
 {{< largefigure src="063-Ferocious_Females-White.jpg"
                 headline="Hygieia. Box 12, Folder 3, G. William Patten papers, (MS--2003--042)"
                 size="medium"
-				align="left" >}}
+				align="right" >}}
 {{< /largefigure >}}
 
 {{< largefigure src="057-Ferocious_Females-White.jpg"
