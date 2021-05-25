@@ -13,7 +13,7 @@ draft: true
 type: "exhibit"
 ---
 
-As Patten began an encyclopedia but came nowhere close to finishing it, nor do our additions exhaust the depictions, representations, and illustrations of ferocious women. These can be found throughout history and time, and far beyond the Western works collected here. To find more, one only needs to look around themselves, for not only do women “destroy the peace of the world,” they also carry it on their back.
+Patten began an encyclopedia but came nowhere close to finishing it, nor do our additions exhaust the depictions, representations, and illustrations of ferocious women. These can be found throughout history and time, and far beyond the Western works collected here. To find more, one only needs to look around themselves, for not only do women “destroy the peace of the world,” they also carry it on their back.
 
 __Collections Used__
 

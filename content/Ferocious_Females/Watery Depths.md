@@ -135,7 +135,7 @@ How can these women be seen as individuals outside their role as a “symbol of 
 >}}
 
 {{< figure src="043-Ferocious_Females.jpg"
-           headline="Princess, with the powers of a water witch, floats in the water next to an untoward suitor she dispose of"
+           headline="Princess, with the powers of a water witch, floats in the water next to an untoward suitor she disposed of"
            description="Sullivan. *[Tangleweed and Brine](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21477178280001021)*."
 >}}
 
@@ -149,7 +149,7 @@ How can these women be seen as individuals outside their role as a “symbol of 
 >}}
 
 {{< figure src="054-Ferocious_Females.jpg"
-           headline="Woman in the water who promises men successfully fishing trips in exchange for their wives children"
+           headline="Woman in the water who promises men successful fishing trips in exchange for their wives and children"
            description="Asbjørnsen. *[East of the Sun and West of the Moon](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21325791980001021)*."
 >}}
 
