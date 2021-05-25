@@ -139,19 +139,23 @@ Are they meant to inspire or terrorize the viewer?
            description="Milton. *[Miscellaneous Poems](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21367989890001021)*."
 >}}
 
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
 {{< figure src="035D-Ferocious_Females.jpg"
            headline="“Who with her radiant finger still’d the roar / Of thunder”"
            description="Milton. *[Miscellaneous Poems](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21367989890001021)*."
 >}}
 
-{{< /galleryrow >}}
-
-{{< galleryrow >}}
-
 {{< figure src="038-Ferocious_Females.jpg"
            headline="Winged Sirens"
            description="Douglas. *[Siren Land](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21372777850001021)*."
 >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
 
 {{< figure src="040-Ferocious_Females.jpg"
            headline="“They were divinities of death, symbols of funeral chant and lamentation”"
