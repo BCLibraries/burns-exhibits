@@ -184,28 +184,23 @@ Throughout this exhibit we have seen women cast into particular roles, what role
 
 {{< galleryrow >}}
 
-{{< figure src="013-Ferocious_Females.jpg"
-           headline="Gorgon (Medusa) featured on printer’s device"
-           description="Davies. *[Devices of the Early Printers, 1457-1560](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21356429620001021)*."
+{{< figure src="055-Ferocious_Females.jpg"
+           headline="Princesses buried in ground who have the power to grant wishes"
+           description="Asbjørnsen. *[East of the Sun and West of the Moon](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21325791980001021)*."
 >}}
 
-{{< figure src="017-Ferocious_Females.jpg"
-           headline="Either Cybele, nature goddess, or Proserpine, as “personifications of the Seasons [and] their changes and effect on man,” depicted on French printers device"
-           description="Davies. *[Devices of the Early Printers, 1457-1560](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21356429620001021)*."
+{{< figure src="061-Ferocious_Females-White.jpg"
+           headline="Justice"
+           description="Box 10, Folder 6, G. William Patten papers, (MS--2003--042)"
 >}}
 
 {{< /galleryrow >}}
 
 {{< galleryrow >}}
 
-{{< figure src="019-Ferocious_Females.jpg"
-           headline="Frigga, mother of the gods in Germanic and Norse mythology"
-           description="Wagner. *[Asgard and the Gods](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332186780001021)*."
->}}
-
-{{< figure src="021-Ferocious_Females.jpg"
-           headline="Hilde, a Valkyrie that personifies war"
-           description="Wagner. *[Asgard and the Gods](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332186780001021)*."
+{{< figure src="064-Ferocious_Females-White.jpg"
+           headline="“A beautiful figure of night, with a veil gemmed with stars”"
+           description="Box 12, Folder 5, G. William Patten papers, (MS--2003--042)"
 >}}
 
 {{< /galleryrow >}}
