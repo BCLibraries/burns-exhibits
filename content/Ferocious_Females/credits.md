@@ -15,11 +15,11 @@ type: "exhibit"
 
 Sponsored by Boston College Libraries
 
+
 Curator: Anne Cushman, M.A. Boston College
 
 {{< largefigure src="fftrans.png"
                 headline=""
                 size="large" align="center" >}}
 {{< /largefigure >}}
-
-Graphic design by Kate Edrington, Administrative Assistant, Burns Library
+Graphic design by Kate Edrington, Administrative Assistant, Burns Librar
