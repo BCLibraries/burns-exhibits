@@ -191,7 +191,7 @@ Throughout this exhibit we have seen women cast into particular roles, what role
 
 {{< figure src="061-Ferocious_Females-White.jpg"
            headline="Justice"
-           description="Box 10, Folder 6, G. William Patten papers, (MS--2003--042)"
+           description="Box 10, Folder 6, [G. William Patten papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21323320790001021) MS2003-042"
 >}}
 
 {{< /galleryrow >}}
@@ -200,7 +200,7 @@ Throughout this exhibit we have seen women cast into particular roles, what role
 
 {{< figure src="064-Ferocious_Females-White.jpg"
            headline="“A beautiful figure of night, with a veil gemmed with stars”"
-           description="Box 12, Folder 5, G. William Patten papers, (MS--2003--042)"
+           description="Box 12, Folder 5, [G. William Patten papers,]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21323320790001021) MS2003-042"
 >}}
 
 {{< /galleryrow >}}
