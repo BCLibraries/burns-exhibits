@@ -20,7 +20,7 @@ type: "exhibit"
 {{< largefigure src="062-Ferocious_Females-White.jpg"
                 headline="Siren: Box 11, Folder 3, G. William Patten papers, (MS--2003--042)"
                 size="medium"
-				align="left" >}}
+				align="right" >}}
 {{< /largefigure >}}
 
 {{< largefigure src="058-Ferocious_Females-White.jpg"
