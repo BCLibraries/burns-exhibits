@@ -18,7 +18,7 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="063-Ferocious_Females-White.jpg"
-                headline="Hygieia. Box 12, Folder 3, G. William Patten papers, (MS--2003--042)"
+                headline="Hygieia. Box 12, Folder 3,[G. William Patten papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21323320790001021) MS2003-042"
                 size="medium"
 				align="right" >}}
 Our category of earthly and fiery women gathers witches, warriors, goddesses, princesses, and blessed virgins together. These women make clear the duality often used in representations of women: the beautiful savior vs the frightening enchantress.
@@ -32,7 +32,7 @@ Warrior women and fearsome females dominate this category. Brunhilde, “Chief o
 Contrastingly, nature-tied women can also represent health, healing, and birth too. Hygieia, goddess of health, is described as a giver and also a “protectress of mental health.” Vestal Virgins are “mother goddesses who bestow offspring on women.’ Diana, or Artemis, is both the “patroness of hunting” and “protectress of women in childbirth.” Princess fairy tales, such as Cinderella, often use the heroine as “the personification of truth.” These women are often a sharp juxtaposition to the grossness of witches, instead possessing a kindness and beauty that inspires.
 
 {{< largefigure src="057-Ferocious_Females-White.jpg"
-                headline="Lamia. Box 9, Folder 3, G. William Patten papers, (MS--2003--042)"
+                headline="Lamia. Box 9, Folder 3,[G. William Patten papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21323320790001021) MS2003-042"
                 size="medium"
                 align="left" >}}
 Just like our previous categories, our women here are pushed into representing a certain side of human nature. They can represent the light or the dark, the good or the evil, but rarely both. Regardless, their power oozes throughout their illustrations and stories. When examining their power, consider the following:  
