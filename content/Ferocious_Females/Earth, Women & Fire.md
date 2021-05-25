@@ -20,7 +20,7 @@ type: "exhibit"
 {{< largefigure src="063-Ferocious_Females-White.jpg"
                 headline="Hygieia. Box 12, Folder 3, G. William Patten papers, (MS--2003--042)"
                 size="medium"
-				align="right" >}}
+				align="left" >}}
 Our category of earthly and fiery women gathers witches, warriors, goddesses, princesses, and blessed virgins together. These women make clear the duality often used in representations of women: the beautiful savior vs the frightening enchantress.
 
 Earth and nature have long been connected with women. Patten’s definitions claim that many believe “the earth was feminine” and describe that “the earth was looked upon as the mould of nature. The sky was the father, for it cast seed into the bosom of the earth, which in receiving them became fruited and brought forth and was the mother.” There is a well-known association between women and nature, but, as with air and water women, there is a ferocious and devilish side of Earth-bound mythological females. 
@@ -30,7 +30,7 @@ Earth and nature have long been connected with women. Patten’s definitions cla
 {{< largefigure src="057-Ferocious_Females-White.jpg"
                 headline="Lamia. Box 9, Folder 3, G. William Patten papers, (MS--2003--042)"
                 size="medium"
-                align="left" >}}
+                align="r" >}}
 
 Warrior women and fearsome females dominate this category. Brunhilde, “Chief of the Fire Maidens or Valkyrie,” commands armies of women. Devil-worshipping witches, who are a “foresight for evil,” are depicted as stealing children and cursing men. Lamia, who Patten describes as having the “head and breasts of a woman, body of a four footed animal with flowing tail, hind feet have divided hoofs'' are “swiftest of four footed animals, very treacherous and cruel to men.” Stories of animalistic, mythical, and witchy women are often configured to scare children. In the entry for “Lamia,” Patten specifically states how they were “female phantom[s] used as a bugbear by Greeks and Romans to frighten children.” These women are described as bitter and shrew-like, often because they cannot or will not have children; therefore, they must be evil. [Image #57]
 
