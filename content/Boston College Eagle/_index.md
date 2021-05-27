@@ -3,8 +3,8 @@
 title: "Introduction"
 
 # Title of exhibit
-exhibit_title: "My New Exhibit"
-exhibit_subtitle: ""
+exhibit_title: "The Boston College Eagle"
+exhibit_subtitle: "Origins and Development of the University Mascot"
 
 date: 2021-05-05T11:47:53-04:00
 
@@ -12,9 +12,9 @@ date: 2021-05-05T11:47:53-04:00
 weight: 1 
 
 # Big image on first page.
-front_image: "intro-image.jpg" # Replace with the real image
-front_caption_headline: "Ullamcorper Condimentum Tortor Parturient"
-front_caption_text: "Donec id elit non mi porta gravida at eget metus."
+front_image: "022_gassontowerbig.jpg" # Replace with the real image
+front_caption_headline: ""
+front_caption_text: ""
 
 # Change to true if this exhibit is currently running.
 current: false
@@ -25,6 +25,7 @@ draft: true
 type: "exhibit"
 ---
 
-Vestibulum id ligula porta felis euismod semper. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
-
-Curabitur blandit tempus porttitor. Maecenas sed diam eget risus varius blandit sit amet non magna. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sed diam eget risus varius blandit sit amet non magna.
+Though use of mascots goes back to ancient history, the word "mascot" did not come into usage in the English language until the late 19th century. A French composer named Edmond Audran (1842-1901) wrote a popular operetta entitled "La Mascotte" (1880). It was quickly translated in English and performed in London in 1881 and in Boston in 1882. The plot was very light-hearted fare concerning a rural girl who brought good luck to whoever possessed her, provided that she remained uncorrupted. The term, translated into English as "mascot" and used as a noun, has a notion of a person, animal or thing that brings good luck. It quickly became employed by sports teams. Besides serving as a good luck charm, a mascot also provides a school with an added sense of identity. In 1889, Yale University became the first American university to adopt a mascot, a bulldog named "Handsome Dan." Prior to 1921, Boston College did not have an official mascot. Between 1905-1910, the student body began voicing the desirability of having a mascot. Briefly, they toyed with the idea of using the owl as mascot, but this never caught on. 1920 was a year of great success for the track team and certain students suggested the antelope. However, the enthusiasm for this choice soon lagged as well. Then, as goes the college lore, a certain "Old Man" suggested the eagle and the rest is history. This online exhibit looks at the efforts to establish the eagle as the Boston College mascot. It includes different artistic interpretations, as well as the eagle's continuing role and use in University life.
+ 
+Collegiate teams are often identified by and referred to as their mascots. In Boston, Harvard University has a pilgrim-like mascot known as "John Harvard;" Massachusetts Institute of Technology's mascot is a beaver; Northeastern University's mascot is a Siberian husky; Boston University's mascot is a Boston terrier; and Boston College's mascot is the aforementioned eagle. Reproduced here is the cover from the 1955 program of a football game played between the Boston College "Eagles" and Boston University "Terriers."
+Used with the permission of the Howard Gotlieb Archival Research Center at Boston University.
