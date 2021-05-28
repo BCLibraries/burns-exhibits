@@ -12,6 +12,7 @@
 
     <figure class="{{ $front_image_layout_class }}">
         {{ $img := $.Resources.GetMatch .Params.front_image }}
+        {{- if $img -}}
         {{ $resized := $img.Resize "800x q50" }}
         <img src="{{ $resized.RelPermalink }}">
 
@@ -21,6 +22,7 @@
                 <p>{{ .Params.front_caption_text | markdownify }}</p>
             </figcaption>
         {{ end }}
+        {{- end -}}
 
     </figure>
     {{ end }}
