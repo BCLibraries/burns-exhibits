@@ -18,7 +18,7 @@ Prior to 1920, Boston College lacked a mascot. In the Spring of 1920, the Boston
 {{< figure src="003_mclaughlinbig.jpg"
            headline="" 
            description="Edward J. McLaughlin" 
-           side="right" >}
+           side="right" >}}
 
 Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Sed posuere consectetur est at lobortis.
 
