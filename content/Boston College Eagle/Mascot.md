@@ -14,20 +14,19 @@ type: "exhibit"
 ---
 
 In the fall of 1923, Boston College was presented with a gift of a live eagle (it was actually a hawk). Surviving a horrible storm, the exhausted bird landed on a fishing schooner fifty miles out from the coast of Chatham, Massachusetts. The ship, itself, had barely survived the storm. The bird became entangled in the ship's rigging and was rescued by the crew. Having read of the school's recent adoption of the eagle as a mascot, they presented the bird as a gift to Boston College. With a diet of buffalo meat and the tender care of Father Daniel Lynch, SJ, the bird soon regained its strength. Alas, less than two weeks after arriving at the Heights, the bird flew away on Sunday morning prior to the game with Marquette University. BC lost the game by one point. Football Captain Charles Darling is pictured with the "eagle."
-
 {{< figure src="010_darlingeaglebig.jpg"
            headline="Consectetur Ligula Venenatis Vestibulum" 
            description="Tellus Sem Pharetra Ridiculus" 
-           side="right" >}}
+           side="left" >}}
 
 {{< figure src="011_risacherbig.jpg"
            headline="Consectetur Ligula Venenatis Vestibulum" 
-           description="Tellus Sem Pharetra Ridiculus" side="left" >}}
+           description="Tellus Sem Pharetra Ridiculus" side="right" >}}
 		   
 {{< figure src="012_eagle1923big.jpg"
            headline="Consectetur Ligula Venenatis Vestibulum" 
            description="Tellus Sem Pharetra Ridiculus" 
-           side="right" >}}
+           side="left" >}}
 
 In the Spring of 1924, a bald eagle was captured on a New Mexico ranch and sent to Boston College by Rev. John A. Risacher, SJ, (a former teacher at Boston College High School). This event received national attention as the bird was captured by a cowboy employed on the ranch of Senator Albert B. Fall. The eagle was never officially named but became known to the students as "Herpy." A junior, in jest, had pointed out the relationship between a "bald" head and a certain remedy for hair loss known as "herpicide." Unfortunately, Herpy was rather unhappy with his new home and tried to bite through his cage, resulting in an injured beak and other ailments. The eagle was sent to Angell Memorial Hospital and upon his release given to the Franklin Park Zoo. A snapshot of Rev. John A. Risacher, SJ, is reproduced here.
 
