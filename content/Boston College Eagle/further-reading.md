@@ -15,9 +15,9 @@ type: "exhibit"
 
 {{% figure src="../portrait-image.jpg" headline="" size="x-large" %}}
 
-Collection Used: 
+Collections Used: 
 
-[(MS1986-167)](https://link-to-collection.edu)  [Boston College athletic photographs](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21424921630001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) (BC1986-19)
+[Boston College athletic photographs](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21424921630001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) (BC1986-19)
 
 [Boston College athletic programs](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21470522600001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US) (BC1997-06)
 
@@ -31,12 +31,5 @@ https://catalog.hathitrust.org/Record/011718435
 
 __Heading__
 
-Last, First M. *[Title of resource](https://link-to-resource.edu)*. Place of pub: Publisher, Year.
 
-*[Newspaper title](https://link-to-resource.edu)*. “Article Title” Date, Year.
-
-Last, First M. *[Title of resource](https://link-to-resource)*. Place of pub: Publisher, Year.
-
-Last, First M. *[Title of resource](https://link-to-resource.edu)*. Place of pub: Publisher, Year.
-
-------. “Article title” *[Journal](https://link-to-resource.edu)* Vol, Issue (Date Year): page-page.
+“Larsen, Diana, in “Proud Bird of Majesty: The Story of the Boston College Eagle,” essay in Weston. *[Eaglemania: Collecting Japanese Art in Gilded Age America](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21500842700001021)*.”
