@@ -1,6 +1,6 @@
 ---
 # Title of page
-title: "Narrative page"
+title: "More than a Mascot: A Symbol for the University"
 description: ""
 
 # Page order (1 is 1st page, etc.)
