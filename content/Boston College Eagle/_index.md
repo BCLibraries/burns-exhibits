@@ -13,7 +13,7 @@ weight: 1
 
 # Big image on first page.
 front_image: "015_mascotbig.jpg" # Replace with the real image
-front_caption_headline: ""
+front_caption_headline: "Introduction: Importance of a Mascot"
 front_caption_text: ""
 
 # Change to true if this exhibit is currently running.
@@ -24,8 +24,6 @@ draft: true
 
 type: "exhibit"
 ---
-
-Introduction: Importance of a Mascot
 
 Though use of mascots goes back to ancient history, the word "mascot" did not come into usage in the English language until the late 19th century. A French composer named Edmond Audran (1842-1901) wrote a popular operetta entitled "La Mascotte" (1880). It was quickly translated in English and performed in London in 1881 and in Boston in 1882. The plot was very light-hearted fare concerning a rural girl who brought good luck to whoever possessed her, provided that she remained uncorrupted. The term, translated into English as "mascot" and used as a noun, has a notion of a person, animal or thing that brings good luck. It quickly became employed by sports teams. Besides serving as a good luck charm, a mascot also provides a school with an added sense of identity. In 1889, Yale University became the first American university to adopt a mascot, a bulldog named "Handsome Dan." Prior to 1921, Boston College did not have an official mascot. Between 1905-1910, the student body began voicing the desirability of having a mascot. Briefly, they toyed with the idea of using the owl as mascot, but this never caught on. 1920 was a year of great success for the track team and certain students suggested the antelope. However, the enthusiasm for this choice soon lagged as well. Then, as goes the college lore, a certain "Old Man" suggested the eagle and the rest is history. This online exhibit looks at the efforts to establish the eagle as the Boston College mascot. It includes different artistic interpretations, as well as the eagle's continuing role and use in University life.
  
