@@ -52,13 +52,13 @@ Photograph by Gary Gilbert, Office of Marketing Communications
                 headline="Venenatis Euismod Tristique"
                 description="Fringilla Quam Consectetur Commodo" 
                 size="large" align="center" >}}
-Boston College unveiled a new logo for Boston College athletics in 2000. The logo is a modernized version of past logos that incorporate the interlocking letters "BC" with an eagle in the center. It appears on all varsity uniforms, athletic facilities, official athletic department publications and a variety of clothing and giftware. The university also designed a logo incorporating the image of the mascot Baldwin for use as a secondary logo and in children's marketing.
 {{< /largefigure >}}
 
 {{< largefigure src="023_bclogobig.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="left" >}}
+				Boston College unveiled a new logo for Boston College athletics in 2000. The logo is a modernized version of past logos that incorporate the interlocking letters "BC" with an eagle in the center. It appears on all varsity uniforms, athletic facilities, official athletic department publications and a variety of clothing and giftware. The university also designed a logo incorporating the image of the mascot Baldwin for use as a secondary logo and in children's marketing.
 {{< /largefigure >}}
 
 {{< largefigure src="024_bcholycross66big.jpg"
