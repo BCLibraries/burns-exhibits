@@ -62,7 +62,6 @@ Boston College unveiled a new logo for Boston College athletics in 2000. The log
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="left" >}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
 {{< /largefigure >}}
 
 {{< largefigure src="024_bcholycross66big.jpg"
