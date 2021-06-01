@@ -39,6 +39,14 @@ There was much excitement when Boston College defeated the heavily favored Yale 
            headline="The Heights, volume 2, number 3, October 15, 1920, edition 2, page 1" 
            description="" side="left" >}}
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+A month later, in the November 12 issue, an editorial entitled "About that Bird" was published. The editorial goaded the college's cartoonists to feature the eagle in their efforts, as "The work of getting the idea accepted lies almost entirely with them." They encouraged their readers to continue to voice their opinions. A month later, the Heights Art Department staff member John T. Sullivan (1924) drew the boldest cartoon depiction of the Heights to date, showing an eagle knocking a Holy Cross football player from the top of Gasson Tower. The cartoon celebrates BC's 14-0 victory over their bitter rival and, more important, clearly depicts the eagle as the symbol of Boston College.
 
-Cras mattis consectetur purus sit amet fermentum. Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ullamcorper nulla non metus auctor fringilla.
+{{< figure src="007_heightsholycrbig.jpg"
+           headline="The Heights, volume 2, number 9, December 10, 1920, page 1" 
+           description="" side="left" >}}
+
+The University quickly adopted the eagle more formally into campus life. A column dedicated to sports entitled "Through the Eagle's Eye" appeared for the first time in the January 20, 1921 issue of the Heights. The relay team was pictured in the February 2 issue with an eagle emblem incorporated into their athletic-wear.
+
+{{< figure src="008_heightstrackbig.jpg"
+           headline="The Heights, volume 2, number 14, February 3, 1921, page 3" 
+           description="1921 relay team" side="left" >}}
