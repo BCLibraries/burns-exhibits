@@ -44,7 +44,7 @@ A month later, in the November 12 issue, an editorial entitled "About that Bird"
 
 {{< figure src="007_heightsholycrbig.jpg"
            headline="The Heights, volume 2, number 9, December 10, 1920, page 1" 
-           description="" side="left" >}}
+           description="" side="right" >}}
 
 The University quickly adopted the eagle more formally into campus life. A column dedicated to sports entitled "Through the Eagle's Eye" appeared for the first time in the January 20, 1921 issue of the Heights. The relay team was pictured in the February 2 issue with an eagle emblem incorporated into their athletic-wear.
 
