@@ -23,15 +23,15 @@ In the fall of 1923, Boston College was presented with a gift of a live eagle (i
 {{< figure src="011_risacherbig.jpg"
            headline="Consectetur Ligula Venenatis Vestibulum" 
            description="Tellus Sem Pharetra Ridiculus" side="left" >}}
-
-In the Spring of 1924, a bald eagle was captured on a New Mexico ranch and sent to Boston College by Rev. John A. Risacher, SJ, (a former teacher at Boston College High School). This event received national attention as the bird was captured by a cowboy employed on the ranch of Senator Albert B. Fall. The eagle was never officially named but became known to the students as "Herpy." A junior, in jest, had pointed out the relationship between a "bald" head and a certain remedy for hair loss known as "herpicide." Unfortunately, Herpy was rather unhappy with his new home and tried to bite through his cage, resulting in an injured beak and other ailments. The eagle was sent to Angell Memorial Hospital and upon his release given to the Franklin Park Zoo. A snapshot of Rev. John A. Risacher, SJ, is reproduced here.
-
-With the loss of Herpy, Father Risacher gave Boston College a stuffed and mounted golden eagle that had an eight-foot-long wingspan. The stuffed bird served as the official Boston College eagle from 1923 through 1961. It is pictured with John Culhane, Charles Darling, Joseph Kozlowski and Edward Harrison (left to right) in a Keystone View Company of New York image.
-
+		   
 {{< figure src="012_eagle1923big.jpg"
            headline="Consectetur Ligula Venenatis Vestibulum" 
            description="Tellus Sem Pharetra Ridiculus" 
            side="right" >}}
+
+In the Spring of 1924, a bald eagle was captured on a New Mexico ranch and sent to Boston College by Rev. John A. Risacher, SJ, (a former teacher at Boston College High School). This event received national attention as the bird was captured by a cowboy employed on the ranch of Senator Albert B. Fall. The eagle was never officially named but became known to the students as "Herpy." A junior, in jest, had pointed out the relationship between a "bald" head and a certain remedy for hair loss known as "herpicide." Unfortunately, Herpy was rather unhappy with his new home and tried to bite through his cage, resulting in an injured beak and other ailments. The eagle was sent to Angell Memorial Hospital and upon his release given to the Franklin Park Zoo. A snapshot of Rev. John A. Risacher, SJ, is reproduced here.
+
+With the loss of Herpy, Father Risacher gave Boston College a stuffed and mounted golden eagle that had an eight-foot-long wingspan. The stuffed bird served as the official Boston College eagle from 1923 through 1961. It is pictured with John Culhane, Charles Darling, Joseph Kozlowski and Edward Harrison (left to right) in a Keystone View Company of New York image.
 
 In the Spring of 1961, three students (John D. Provasoli, Robert Hart and James McLaughlin), unhappy with BC's stuffed mascot, launched "Project Mascot," an effort to secure a live golden eagle. Boston College met the governmental requirements, inoculations, and necessary housing required to keep a live eagle. The University was assisted by Walter Stone, superintendent of the Franklin Park Zoo. The zoo, in fact, housed and cared for the bird. Margo is pictured here.
 
