@@ -30,7 +30,7 @@ In 1957, Boston College received the column and base of the Admiral George Dewey
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="left" >}}
-A photograph of the eagle on the 30 foot-tall, marble pillar at the end of Linden Lane.
+
 {{< /largefigure >}}
 
 {{< largefigure src="020_eaglecolumnbig.jpg"
