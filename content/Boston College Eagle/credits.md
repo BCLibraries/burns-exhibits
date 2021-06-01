@@ -15,6 +15,6 @@ type: "exhibit"
 
 Sponsored by Boston College Libraries
 
-Curator(s): Edward Copenhagen, Assistant Archivist
+Curator: Edward Copenhagen, Assistant Archivist
 
 Originally displayed as an online exhibit
