@@ -38,7 +38,8 @@ There was much excitement when Boston College defeated the heavily favored Yale 
 
 {{< figure src="006_heightsyalebig.jpg"
            headline="The Heights, volume 2, number 3, October 15, 1920, edition 2, page 1" 
-           description="" side="left" >}}
+           description="" 
+		   side="left" >}}
 
 A month later, in the November 12 issue, an editorial entitled "About that Bird" was published. The editorial goaded the college's cartoonists to feature the eagle in their efforts, as "The work of getting the idea accepted lies almost entirely with them." They encouraged their readers to continue to voice their opinions. A month later, the Heights Art Department staff member John T. Sullivan (1924) drew the boldest cartoon depiction of the Heights to date, showing an eagle knocking a Holy Cross football player from the top of Gasson Tower. The cartoon celebrates BC's 14-0 victory over their bitter rival and, more important, clearly depicts the eagle as the symbol of Boston College.
 
