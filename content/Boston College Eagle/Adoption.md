@@ -20,15 +20,13 @@ Prior to 1920, Boston College lacked a mascot. In the Spring of 1920, the Boston
            description="Edward J. McLaughlin" 
            side="right" >}}
 
-Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Sed posuere consectetur est at lobortis.
+In response to the Old Man's letter, the editor of the Heights reminded his fellow students that the cause of the insulting cartoon was not the fault of the sports cartoonist, as the student body (past and present) had never come up with a mascot. He wrote: "The fault is ours entirely. It is important that we adopt a mascot to preside at our pow-wows and triumphant fetes." He urged students to write to the Heights to voice their opinion of the Eagle or voice an alternative for the school mascot. In the June 17th issue, the first published drawing of an eagle appeared in a corner of the special pictorial edition. The artwork was not credited but was probably the work of either Robert P. Walsh (1922) or J. Robert Brawley (1920), both members of the newspaper's art department.
 
-Aenean lacinia bibendum nulla sed consectetur. Sed posuere consectetur est at lobortis. Nulla vitae elit libero, a pharetra augue. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Sed posuere consectetur est at lobortis.
-
-{{< figure src="../intro-image.jpg"
+{{< figure src="004_heightsfirstbig.jpg"
            headline="Consectetur Ligula Venenatis Vestibulum" 
            description="Tellus Sem Pharetra Ridiculus" side="left" >}}
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Curabitur blandit tempus porttitor.
+Known as the "College Cartoonist," J. Robert Brawley (1920) claimed to have drawn the first sketch of the eagle. McLaughlin's letter was brought to the attention of the student Athletic Association moderated by Rev. Richard A. O'Brien, SJ, In 1944, Brawley recalled "I was sold on the eagle idea of Father McLaughlin...I went to work into that night...I grabbed a big sheet of drawing board, some water colors and went to work...when I got done, I had so much paint on it, the board must have weighed five pounds...the supplies really caught it that night. I brought the sketch into the school the next morning to Father O'Brien and he put it on the bulletin board with the notation that it was the proposed new mascot. It was a sketch of an eagle bearing in its talons a BC banner and soaring over a bulldog crouched in the shadow of the football. That's all I did...The eagle won. Father McLaughlin [had] the idea, he presented it and it was chosen. I am grateful for the credit I have received but Father McLaughlin was the creator of the eagle." Brawley's yearbook photograph is reproduced here.
 
 Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
 
