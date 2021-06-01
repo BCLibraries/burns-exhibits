@@ -1,5 +1,5 @@
 ---
-title: "Large image gallery page"
+title: "Mascot: Live, Stuffed, and Costumed"
 description: ""
 
 # Page order (1 is 1st page, etc.)
