@@ -25,7 +25,7 @@ Collections Used:
 
 [WilliamJ. Flynn papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21345767470001021) (BC1997-077)
 
-*[Sub Turri](https://archive.org/search.php?query=sub%20turri%20under%20the%20tower)*.
+[Sub Turri](https://archive.org/search.php?query=sub%20turri%20under%20the%20tower)
 
 
 __Further Study__
