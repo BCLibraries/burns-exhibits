@@ -14,7 +14,7 @@ type: "exhibit"
 
 {{< largefigure src="003_mclaughlinbig.jpg"
                 headline="Rev. Edward J. McLaughlin"
-                description="Dapibus Vulputate Sollicitudin Cras"
+                description=""
                 size="x-large" >}}
 Prior to 1920, Boston College lacked a mascot. In the Spring of 1920, the Boston College Track team won the Eastern Intercollegiate competitions. Charlie Donelan of the Boston Traveler illustrated the mascot-less collegiate team as a stray cat lapping up the opposition. This did not sit very well with one loyal alumnus who voiced his displeasure to the Heights editorial staff. Identified at the time only as "The Old Man," the alum suggested that the lack of a school mascot led to the insulting cartoon. In his letter published in the May 14, 1920 issue, he suggested to the current student body, "Why not select - the Eagle, symbolic of majesty, power, and freedom. Its natural habitat is the high places. Surely, the Heights is made to order for such a suggestion." The old man was later identified as Fr. Edward J. McLaughlin ’14.
 {{< /largefigure >}}
