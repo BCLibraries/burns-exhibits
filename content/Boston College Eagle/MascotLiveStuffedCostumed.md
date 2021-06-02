@@ -16,14 +16,14 @@ type: "exhibit"
                 headline="Football Captain Charles Darling is pictured with the 'eagle'"
                 description=""
                 size="x-large" >}}
-In the fall of 1923, Boston College was presented with a gift of a live eagle (it was actually a hawk). Surviving a horrible storm, the exhausted bird landed on a fishing schooner fifty miles out from the coast of Chatham, Massachusetts. The ship, itself, had barely survived the storm. The bird became entangled in the ship's rigging and was rescued by the crew. Having read of the school's recent adoption of the eagle as a mascot, they presented the bird as a gift to Boston College. With a diet of buffalo meat and the tender care of Father Daniel Lynch, SJ, the bird soon regained its strength. Alas, less than two weeks after arriving at the Heights, the bird flew away on Sunday morning prior to the game with Marquette University. BC lost the game by one point. Football Captain Charles Darling is pictured with the "eagle."
+In the fall of 1923, Boston College was presented with a gift of a live eagle (it was actually a hawk). Surviving a horrible storm, the exhausted bird landed on a fishing schooner fifty miles out from the coast of Chatham, Massachusetts. The ship, itself, had barely survived the storm. The bird became entangled in the ship's rigging and was rescued by the crew. Having read of the school's recent adoption of the eagle as a mascot, they presented the bird as a gift to Boston College. With a diet of buffalo meat and the tender care of Father Daniel Lynch, SJ, the bird soon regained its strength. Alas, less than two weeks after arriving at the Heights, the bird flew away on Sunday morning prior to the game with Marquette University. BC lost the game by one point.
 {{< /largefigure >}}
 
 {{< largefigure src="011_risacherbig.jpg"
                 headline="Rev. John A. Risacher, SJ"
                 description="Boston College faculty and staff photographs" 
                 size="large" align="center" >}}
-In the Spring of 1924, a bald eagle was captured on a New Mexico ranch and sent to Boston College by Rev. John A. Risacher, SJ, (a former teacher at Boston College High School). This event received national attention as the bird was captured by a cowboy employed on the ranch of Senator Albert B. Fall. The eagle was never officially named but became known to the students as "Herpy." A junior, in jest, had pointed out the relationship between a "bald" head and a certain remedy for hair loss known as "herpicide." Unfortunately, Herpy was rather unhappy with his new home and tried to bite through his cage, resulting in an injured beak and other ailments. The eagle was sent to Angell Memorial Hospital and upon his release given to the Franklin Park Zoo. A snapshot of Rev. John A. Risacher, SJ, is reproduced here.
+In the Spring of 1924, a bald eagle was captured on a New Mexico ranch and sent to Boston College by Rev. John A. Risacher, SJ, (a former teacher at Boston College High School). This event received national attention as the bird was captured by a cowboy employed on the ranch of Senator Albert B. Fall. The eagle was never officially named but became known to the students as "Herpy." A junior, in jest, had pointed out the relationship between a "bald" head and a certain remedy for hair loss known as "herpicide." Unfortunately, Herpy was rather unhappy with his new home and tried to bite through his cage, resulting in an injured beak and other ailments. The eagle was sent to Angell Memorial Hospital and upon his release given to the Franklin Park Zoo.
 {{< /largefigure >}}
 
 {{< largefigure src="012_eagle1923big.jpg"
@@ -37,7 +37,7 @@ With the loss of Herpy, Father Risacher gave Boston College a stuffed and mounte
                 headline="Margo"
                 description="Pharetra Mattis Inceptos"
                 size="small" >}}
-In the Spring of 1961, three students (John D. Provasoli, Robert Hart and James McLaughlin), unhappy with BC's stuffed mascot, launched "Project Mascot," an effort to secure a live golden eagle. Boston College met the governmental requirements, inoculations, and necessary housing required to keep a live eagle. The University was assisted by Walter Stone, superintendent of the Franklin Park Zoo. The zoo, in fact, housed and cared for the bird. Margo is pictured here.
+In the Spring of 1961, three students (John D. Provasoli, Robert Hart and James McLaughlin), unhappy with BC's stuffed mascot, launched "Project Mascot," an effort to secure a live golden eagle. Boston College met the governmental requirements, inoculations, and necessary housing required to keep a live eagle. The University was assisted by Walter Stone, superintendent of the Franklin Park Zoo. The zoo, in fact, housed and cared for the bird.
 {{< /largefigure >}}
 
 {{< largefigure src="014_margotrainerbig.jpg"
@@ -58,5 +58,5 @@ Stricter regulations against capturing endangered species and a greater sensitiv
                 headline="Baldwin encourages the fans at Alumni Stadium"
                 size="medium"
                 align="left" >}}
-The twenty-first century has brought Boston College two costumed mascots named "Baldwin" and "Baldwin Jr." Baldwin is six and a half feet tall with many bird-like features, including wings with well designed feathers. "Baldwin, Jr." is a nine and a half foot tall mascot with inflatable features. Here Baldwin encourages the fans at Alumni Stadium.
+The twenty-first century has brought Boston College two costumed mascots named "Baldwin" and "Baldwin Jr." Baldwin is six and a half feet tall with many bird-like features, including wings with well designed feathers. "Baldwin, Jr." is a nine and a half foot tall mascot with inflatable features.
 {{< /largefigure >}}
