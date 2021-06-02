@@ -34,7 +34,7 @@ In 1957, Boston College received the column and base of the Admiral George Dewey
 
 {{< largefigure src="020_eaglecolumnbig.jpg"
                 headline="bronze eagle installed on the Dewey Memorial column on Linden Lane"
-                description="Pharetra Mattis Inceptos"
+                description=""
                 size="small" >}}
 In 1993, the original bronze sculpture was replaced with an exact replica. Due to the harsh New England winters, the original had begun to crack and could not withstand the natural elements for much longer. The work was done by Skylight Studios (Woburn, Massachusetts), a firm that has handled restoration projects for the Museum of Fine Arts. The firm first made cosmetic repairs to the original, then created a mold and finally cast a replica. Like the original, the identical replica stands four feet high and has a six-foot wingspan. 
 Photograph by Gary Gilbert, Office of Marketing Communications
