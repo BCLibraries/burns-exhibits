@@ -60,7 +60,7 @@ The University quickly adopted the eagle more formally into campus life. A colum
 
 {{< largefigure src="009_newerabig.jpg"
                 headline="Drawing by J. Robert Brawley"
-				description="Sub Turri = Under the Tower: the yearbook of Boston College. [Boston]: The College, 1921, page 193"
+				description="[Sub Turri](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21387089960001021)"
                 size="medium"
                 align="left" >}}
 Alumnus J. Robert Brawley, perhaps answering the call of current students for cartoons representing the eagle, contributed two significant pieces to the 1921 Sub Turri yearbook. This piece celebrated that season's undefeated football team earning the Eastern Championship.
