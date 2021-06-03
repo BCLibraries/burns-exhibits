@@ -51,7 +51,7 @@ A month later, in the November 12 issue, an editorial entitled "About that Bird"
 {{< /largefigure >}}
 
 {{< largefigure src="008_heightstrackbig.jpg"
-                headline="1921 relay team"
+                headline="1921 Boston College relay team"
                 description="The Heights, volume 2, number 14, February 3, 1921, page 3" 
                 size="medium"
                 align="right" >}}
