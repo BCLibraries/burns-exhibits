@@ -38,7 +38,7 @@ Cover of a 1962 program of a football game played between the Boston College "Ea
 {{< /largefigure >}}
 
 {{< largefigure src="002_flynnlogobig.jpg"
-                headline="Box 6, Folder 25, William J. Flynn papers, BC1997-007, John J. Burns Library, Boston College"
+                headline="[William J. Flynn papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21345767470001021), BC1997-007""
                 size="medium"
                 align="left" >}}
 In this photograph dated January 12, 1977, longtime Athletic Director William J. Flynn (1939; M.Ed., 1940) paints the University logo, which includes an image of the eagle, onto the gymnasium floor, a most prominent location.
