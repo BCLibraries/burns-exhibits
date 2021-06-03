@@ -36,15 +36,13 @@ In 1957, Boston College received the column and base of the Admiral George Dewey
                 headline="bronze eagle installed on the Dewey Memorial column on Linden Lane"
                 description=""
                 size="small" >}}
-In 1993, the original bronze sculpture was replaced with an exact replica. Due to the harsh New England winters, the original had begun to crack and could not withstand the natural elements for much longer. The work was done by Skylight Studios (Woburn, Massachusetts), a firm that has handled restoration projects for the Museum of Fine Arts. The firm first made cosmetic repairs to the original, then created a mold and finally cast a replica. Like the original, the identical replica stands four feet high and has a six-foot wingspan. 
-Photograph by Gary Gilbert, Office of Marketing Communications
 {{< /largefigure >}}
 
 {{< largefigure src="021_skyligtstudiosbig.jpg"
                 headline="Tom Cipolla cleaning the sculpture as he created a mold of it"
                 description=""
                 size="x-large" >}}
-Today the eagle sculpture in front of Gasson Hall is one of the most photographed locations on Boston College's campus. It has become almost a rite of passage for proud parents to take photographs of newly admitted students or graduating seniors in front of the statue, with Gasson Hall in the background.
+In 1993, the original bronze sculpture was replaced with an exact replica. Due to the harsh New England winters, the original had begun to crack and could not withstand the natural elements for much longer. The work was done by Skylight Studios (Woburn, Massachusetts), a firm that has handled restoration projects for the Museum of Fine Arts. The firm first made cosmetic repairs to the original, then created a mold and finally cast a replica. Like the original, the identical replica stands four feet high and has a six-foot wingspan. 
 Photograph by Gary Gilbert, Office of Marketing Communications
 {{< /largefigure >}}
 
