@@ -31,7 +31,7 @@ Collegiate teams are often identified by and referred to as their mascots. In Bo
 Used with the permission of the Howard Gotlieb Archival Research Center at Boston University.
 
 {{< largefigure src="001_BCvsBUProgramcover.jpg"
-                headline="[Boston College Athletic Programs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), BC1997-06"
+                headline="Box 6, Folder 25, Boston College Athletic Programs,[BC1997-007](htps://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021)"
                 size="medium"
                 align="left" >}}
 Cover of a 1962 program of a football game played between the Boston College "Eagles" and Boston University "Terriers."
