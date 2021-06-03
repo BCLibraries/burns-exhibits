@@ -50,7 +50,7 @@ Photograph by Gary Gilbert, Office of Marketing Communications
                 headline=""
                 description="" 
                 size="medium"
-                align="right" >}}
+                align="left" >}}
 Today the eagle sculpture in front of Gasson Hall is one of the most photographed locations on Boston College's campus. It has become almost a rite of passage for proud parents to take photographs of newly admitted students or graduating seniors in front of the statue, with Gasson Hall in the background.
 Photograph by Gary Gilbert, Office of Marketing Communications
 
@@ -59,7 +59,7 @@ Photograph by Gary Gilbert, Office of Marketing Communications
 {{< largefigure src="023_bclogobig.jpg"
                 headline="Boston College logo with eagle"
                 size="medium"
-                align="left" >}}
+                align="right" >}}
 Boston College unveiled a new logo for Boston College athletics in 2000. The logo is a modernized version of past logos that incorporate the interlocking letters "BC" with an eagle in the center. It appears on all varsity uniforms, athletic facilities, official athletic department publications and a variety of clothing and giftware. The university also designed a logo incorporating the image of the mascot Baldwin for use as a secondary logo and in children's marketing.
 {{< /largefigure >}}
 
