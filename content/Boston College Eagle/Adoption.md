@@ -28,7 +28,7 @@ In response to the Old Man's letter, the editor of the Heights reminded his fell
 
 {{< largefigure src="005_brawleybig.jpg"
                 headline="Senior portrait of J. Robert Brawley"
-				description="[Sub Turri](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21387089960001021)"
+				description="1920 [Sub Turri](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21387089960001021)"
                 size="medium"
                 align="left" >}}
 Known as the "College Cartoonist," J. Robert Brawley claimed to have drawn the first sketch of the eagle. McLaughlin's letter was brought to the attention of the student Athletic Association moderated by Richard A. O'Brien, SJ. In 1944, Brawley recalled "I was sold on the eagle idea of Father McLaughlin...I went to work into that night...I grabbed a big sheet of drawing board, some water colors and went to work...when I got done, I had so much paint on it, the board must have weighed five pounds...the supplies really caught it that night. I brought the sketch into the school the next morning to Father O'Brien and he put it on the bulletin board with the notation that it was the proposed new mascot. It was a sketch of an eagle bearing in its talons a BC banner and soaring over a bulldog crouched in the shadow of the football. That's all I did...The eagle won. Father McLaughlin [had] the idea, he presented it and it was chosen. I am grateful for the credit I have received but Father McLaughlin was the creator of the eagle."
@@ -60,7 +60,7 @@ The University quickly adopted the eagle more formally into campus life. A colum
 
 {{< largefigure src="009_newerabig.jpg"
                 headline="Drawing by J. Robert Brawley from the 1921 Sub Turri"
-				description="[Sub Turri](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21387089960001021)"
+				description="1921 [Sub Turri](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21387089960001021)"
                 size="medium"
                 align="left" >}}
 Alumnus J. Robert Brawley, perhaps answering the call of current students for cartoons representing the eagle, contributed two significant pieces to the 1921 Sub Turri yearbook. This piece celebrated that season's undefeated football team earning the Eastern Championship.
