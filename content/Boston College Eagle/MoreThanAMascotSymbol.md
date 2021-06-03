@@ -66,7 +66,8 @@ Boston College unveiled a new logo for Boston College athletics in 2000. The log
 {{< largefigure src="024_bcholycross66big.jpg"
                 headline="Football game program showing the eagle statue"
                 description="[Boston College Athletic Programs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), BC1997-06"
-                size="small" >}}
+                size="medium"
+                align="left" >}}
 A second eagle statue is located in front of the Silvio O. Conte Forum, near Alumni Stadium. Conte is the main arena for the basketball and hockey teams and houses the offices of most of the university's coaches and other athletic staff members. The statue was given to the university by the Class of 1939 and, in fact, predates Conte. It originally stood in front of the Roberts Center (the facility that Conte Forum replaced). Reproduced here is the cover from the 1966 program of a football game played between Boston College and the College of the Holy Cross. The artist shows his interpretation of this eagle statue confronting the "crusader" of Holy Cross.
 {{< /largefigure >}}
 
