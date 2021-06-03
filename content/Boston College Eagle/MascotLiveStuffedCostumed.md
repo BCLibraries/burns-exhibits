@@ -31,7 +31,7 @@ In the Spring of 1924, a bald eagle was captured on a New Mexico ranch and sent 
                 headline="John Culhane, Charles Darling, Joseph Kozlowski and Edward Harrison"
                 size="medium"
                 align="left" >}}
-With the loss of Herpy, Father Risacher gave Boston College a stuffed and mounted golden eagle that had an eight-foot-long wingspan. The stuffed bird served as the official Boston College eagle from 1923 through 1961. It is pictured with John Culhane, Charles Darling, Joseph Kozlowski and Edward Harrison (left to right) in a Keystone View Company of New York image.
+With the loss of Herpy, Father Risacher gave Boston College a stuffed and mounted golden eagle that had an eight-foot-long wingspan. The stuffed bird served as the official Boston College eagle from 1923 through 1961.
 {{< /largefigure >}}
 
 {{< largefigure src="013_margobig.jpg"
