@@ -52,7 +52,7 @@ In September 1961, the eagle was named "Margo" after a student-run name-the-eagl
                 headline="Early costumed mascot"
                 description=""
                 size="small" >}}
-Stricter regulations against capturing endangered species and a greater sensitivity about a captured animal's welfare prevented Boston College from again using a live mascot. Instead, Boston College employed a costumed human mascot. The costumed mascot acted less as a symbol and more like a supplementary cheerleader. Here one of the earliest costumed mascots is pictured.
+Stricter regulations against capturing endangered species and a greater sensitivity about a captured animal's welfare prevented Boston College from again using a live mascot. Instead, Boston College employed a costumed human mascot. The costumed mascot acted less as a symbol and more like a supplementary cheerleader.
 {{< /largefigure >}}
 
 {{< largefigure src="016_baldwinbig.jpg"
