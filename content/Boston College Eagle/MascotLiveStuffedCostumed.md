@@ -22,7 +22,8 @@ In the fall of 1923, Boston College was presented with a gift of a live eagle (i
 {{< largefigure src="011_risacherbig.jpg"
                 headline="Rev. John A. Risacher, SJ"
                 description="Boston College faculty and staff photographs" 
-                size="large" align="center" >}}
+                size="medium"
+                align="right" >}}
 In the Spring of 1924, a bald eagle was captured on a New Mexico ranch and sent to Boston College by Rev. John A. Risacher, SJ, (a former teacher at Boston College High School). This event received national attention as the bird was captured by a cowboy employed on the ranch of Senator Albert B. Fall. The eagle was never officially named but became known to the students as "Herpy." A junior, in jest, had pointed out the relationship between a "bald" head and a certain remedy for hair loss known as "herpicide." Unfortunately, Herpy was rather unhappy with his new home and tried to bite through his cage, resulting in an injured beak and other ailments. The eagle was sent to Angell Memorial Hospital and upon his release given to the Franklin Park Zoo.
 {{< /largefigure >}}
 
