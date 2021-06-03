@@ -31,14 +31,14 @@ Collegiate teams are often identified by and referred to as their mascots. In Bo
 Used with the permission of the Howard Gotlieb Archival Research Center at Boston University.
 
 {{< largefigure src="001_BCvsBUProgramcover.jpg"
-                headline="[Boston College Athletic Programs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), BC1997-06"
+                headline="[Boston College Athletic Programs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), BC1997-006"
                 size="medium"
                 align="left" >}}
 Cover of a 1962 program of a football game played between the Boston College "Eagles" and Boston University "Terriers."
 {{< /largefigure >}}
 
 {{< largefigure src="002_flynnlogobig.jpg"
-                headline="[William J. Flynn papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21345767470001021), BC1997-007"
+                headline="[William J. Flynn papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21345767470001021), BC1997-077"
                 size="medium"
                 align="left" >}}
 In this photograph dated January 12, 1977, longtime Athletic Director William J. Flynn (1939; M.Ed., 1940) paints the University logo, which includes an image of the eagle, onto the gymnasium floor, a most prominent location.
