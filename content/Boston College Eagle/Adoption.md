@@ -36,7 +36,8 @@ Known as the "College Cartoonist," J. Robert Brawley claimed to have drawn the f
 {{< largefigure src="006_heightsyalebig.jpg"
                 headline=""
                 description="The Heights, volume 2, number 3, October 15, 1920, edition 2, page 1" 
-                size="large" align="center" >}}
+                size="medium"
+                align="right" >}}
 There was much excitement when Boston College defeated the heavily favored Yale University football team in games played in 1919 and 1920. In the October 15, 1920 issue of the Heights, BC athlete Luke Urban ’21 was pictured in a cartoon drawn by John T. Sullivan ’24. He was shown with a bald eagle perched on his shoulder, taming the Yale Bulldog. In the same issue, the editor noted his disappointment that the local newspaper cartoonists still represented Boston College as "a sort of flat impersonal picture of a foot-ball player bearing a neat and inoffensive tag." He went on that the "University Heights has the altitude, the rocks, the trees, and the general wild and free aspect which go to make up the popular conception of what an eagle's surroundings should be...We want the eagle for the Boston College mascot."
 {{< /largefigure >}}
 
