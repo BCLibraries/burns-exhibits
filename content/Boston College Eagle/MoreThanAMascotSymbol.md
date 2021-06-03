@@ -50,6 +50,9 @@ Photograph by Gary Gilbert, Office of Marketing Communications
                 headline=""
                 description="" 
                 size="large" align="center" >}}
+Today the eagle sculpture in front of Gasson Hall is one of the most photographed locations on Boston College's campus. It has become almost a rite of passage for proud parents to take photographs of newly admitted students or graduating seniors in front of the statue, with Gasson Hall in the background.
+Photograph by Gary Gilbert, Office of Marketing Communications
+
 {{< /largefigure >}}
 
 {{< largefigure src="023_bclogobig.jpg"
