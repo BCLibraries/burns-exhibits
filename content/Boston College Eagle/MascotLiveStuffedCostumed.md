@@ -42,7 +42,7 @@ In the Spring of 1961, three students (John D. Provasoli, Robert Hart and James 
 {{< /largefigure >}}
 
 {{< largefigure src="014_margotrainerbig.jpg"
-                headline="Margo at a game, on student handler’s arm"
+                headline="Margo at a game, on a student handler’s arm"
                 size="medium"
                 align="left" >}}
 In September 1961, the eagle was named "Margo" after a student-run name-the-eagle contest. The name was formed by combining the first letters of the Boston College colors, maroon and gold. Margo was brought to every home game for five seasons and to selected away games. Unfortunately, in August 1966, Margo was struck by aviary virus and died in the Franklin Park Zoo.
