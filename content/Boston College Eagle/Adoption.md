@@ -59,7 +59,7 @@ The University quickly adopted the eagle more formally into campus life. A colum
 {{< /largefigure >}}
 
 {{< largefigure src="009_newerabig.jpg"
-                headline="Drawing by J. Robert Brawley"
+                headline="Drawing by J. Robert Brawley from the 1921 Sub Turri"
 				description="[Sub Turri](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21387089960001021)"
                 size="medium"
                 align="left" >}}
