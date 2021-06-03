@@ -23,13 +23,13 @@ In October 1954 Boston College received the statue of an eagle that had been in 
                 headline="bronze eagle at Alumni Hall, Boston College"
                 description="" 
                 size="large" align="center" >}}
-In 1957, Boston College received the column and base of the Admiral George Dewey Memorial from the city of Boston. The memorial had stood in front of South Station in Dewey Square and was taken down to make way for the Central Artery project. The column was placed in front of Gasson Hall, at the end of Linden Lane, and the eagle sculpture was mounted on the top. The prominent placement of the statue was clear evidence of the eagle's importance to the identity of the university.
 {{< /largefigure >}}
 
 {{< largefigure src="018_eagleinstallbig.jpg"
                 headline="installation of the bronze eagle"
                 size="medium"
                 align="left" >}}
+In 1957, Boston College received the column and base of the Admiral George Dewey Memorial from the city of Boston. The memorial had stood in front of South Station in Dewey Square and was taken down to make way for the Central Artery project. The column was placed in front of Gasson Hall, at the end of Linden Lane, and the eagle sculpture was mounted on the top. The prominent placement of the statue was clear evidence of the eagle's importance to the identity of the university.				
 {{< /largefigure >}}
 
 {{< largefigure src="020_eaglecolumnbig.jpg"
