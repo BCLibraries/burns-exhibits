@@ -13,27 +13,27 @@ type: "exhibit"
 ---
 
 {{< largefigure src="017_WaybackVersioneaglejapanesegarden.jpg"
-                headline="bronze eagle at the Anderson estate"
+                headline="Bronze eagle at the Anderson estate"
                 description=""
                 size="x-large" >}}
 In October 1954 Boston College received the statue of an eagle that had been in a Japanese garden on the estate of Larz Anderson in Brookline, Massachusetts. The garden was designed and planted in 1907, and a photograph in 1909 clearly shows the eagle. This happened before Anderson’s appointment as ambassador to Japan  (1912-1913). After the deaths of Larz Anderson and his wife Isabel, many possessions of the estate were distributed to people who had worked for the Andersons. They included Augustus (Gus) M. Anderson (no relation), who had been born on the estate and had worked as a private secretary for Isabel Anderson for over 40 years. “Gus” wanted to find a good place for the statue. He had displayed it outside his house but was worried about damage from hurricanes and other storms.  He was a fan of Boston College and knew that its mascot was the eagle. Working with Thomas M. Herlihy, SJ, pastor of St. Ignatius Parish, Gus Anderson donated the statue to the college. We are grateful to Augustus Anderson’s daughter, Betty Anderson Riley, and her cousin, Gerry Hayes, for providing much of this information. The photograph was taken by Isabel Anderson and published in House and Garden magazine and published in 1909. Mrs. Riley told us about an earlier connection between Isabel Anderson and Boston College: Mrs. Anderson wrote a play, “Dick Whittington,” which BC students performed enthusiastically in the 1930’s.
 {{< /largefigure >}}
 
 {{< largefigure src="017b_eaglealumhallbig.jpg"
-                headline="bronze eagle at Alumni Hall, Boston College"
+                headline="Bronze eagle at Alumni Hall, Boston College"
                 description="" 
                 size="large" align="center" >}}
 {{< /largefigure >}}
 
 {{< largefigure src="018_eagleinstallbig.jpg"
-                headline="installation of the bronze eagle"
+                headline="Installation of the bronze eagle"
                 size="medium"
                 align="left" >}}
 In 1957, Boston College received the column and base of the Admiral George Dewey Memorial from the city of Boston. The memorial had stood in front of South Station in Dewey Square and was taken down to make way for the Central Artery project. The column was placed in front of Gasson Hall, at the end of Linden Lane, and the eagle sculpture was mounted on the top. The prominent placement of the statue was clear evidence of the eagle's importance to the identity of the university.				
 {{< /largefigure >}}
 
 {{< largefigure src="020_eaglecolumnbig.jpg"
-                headline="bronze eagle installed on the Dewey Memorial column on Linden Lane"
+                headline="Bronze eagle installed on the Dewey Memorial column on Linden Lane"
                 description=""
                 size="small" >}}
 {{< /largefigure >}}
@@ -63,7 +63,7 @@ Boston College unveiled a new logo for Boston College athletics in 2000. The log
 {{< /largefigure >}}
 
 {{< largefigure src="024_bcholycross66big.jpg"
-                headline="football game program showing the eagle statue"
+                headline="Football game program showing the eagle statue"
                 description="[Boston College Athletic Programs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), BC1997-06"
                 size="small" >}}
 A second eagle statue is located in front of the Silvio O. Conte Forum, near Alumni Stadium. Conte is the main arena for the basketball and hockey teams and houses the offices of most of the university's coaches and other athletic staff members. The statue was given to the university by the Class of 1939 and, in fact, predates Conte. It originally stood in front of the Roberts Center (the facility that Conte Forum replaced). Reproduced here is the cover from the 1966 program of a football game played between Boston College and the College of the Holy Cross. The artist shows his interpretation of this eagle statue confronting the "crusader" of Holy Cross.
