@@ -42,3 +42,5 @@ Shown here is the cover of a 1962 program of a football game played between the 
                 align="left" >}}
 In this photograph dated January 12, 1977, longtime Athletic Director William J. Flynn (1939; M.Ed., 1940) paints the University logo, which includes an image of the eagle, onto the gymnasium floor, a most prominent location.
 {{< /largefigure >}}
+
+This exhibit was originally displayed online in 2002 and was recreated in 2021. Some images lack complete citations.
