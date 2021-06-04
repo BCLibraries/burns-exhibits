@@ -31,7 +31,7 @@ After the deaths of Larz Anderson and his wife Isabel, many possessions of the e
                 headline="Installation of the bronze eagle"
                 size="medium"
                 align="right" >}}
-In 1957, Boston College received the column and base of the Admiral George Dewey Memorial from the city of Boston. The memorial had stood in front of South Station in Dewey Square and was taken down to make way for the Central Artery project. The column was placed in front of Gasson Hall, at the end of Linden Lane, and the eagle sculpture was mounted on the top. The prominent placement of the statue was clear evidence of the eagle's importance to the identity of the university.				
+In 1957, Boston College received the column and base of the Admiral George Dewey Memorial from the city of Boston. The memorial had stood in front of South Station in Dewey Square and was taken down to make way for the Central Artery project. The column was placed in front of Gasson Hall, at the end of Linden Lane, and the eagle sculpture was mounted on the top.				
 
 {{< /largefigure >}}
 
@@ -40,6 +40,7 @@ In 1957, Boston College received the column and base of the Admiral George Dewey
                 description=""
                 size="medium"
                 align="left" >}}
+The prominent placement of the statue was clear evidence of the eagle's importance to the identity of the university.
 {{< /largefigure >}}
 
 {{< largefigure src="021_skyligtstudiosbig.jpg"
