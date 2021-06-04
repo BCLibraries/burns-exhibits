@@ -29,6 +29,6 @@ Collections Used:
 
 
 __Further Study__
-
+Further Study:
 
 “Larsen, Diana, in “Proud Bird of Majesty: The Story of the Boston College Eagle,” essay in Weston. *[Eaglemania: Collecting Japanese Art in Gilded Age America](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21500842700001021)*.”
