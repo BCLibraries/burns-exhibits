@@ -17,4 +17,4 @@ Sponsored by Boston College Libraries
 
 Curator: Edward Copenhagen, Assistant Archivist
 
-Originally displayed as an online exhibit in 2002. Some images lack complete citations.
+Originally displayed as an online exhibit in 2002 and recreated in 2021. Some images lack complete citations.
