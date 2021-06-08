@@ -13,7 +13,7 @@ draft: true
 type: "exhibit"
 ---
 
-{{% figure src="../portrait-image.jpg" headline="" size="x-large" %}}
+{{< figure src="../portrait-image.jpg" headline="" size="x-large" alt="hello">}}
 
 Collection Used: David Goldstein and Martha Moore Avery Papers [(MS1986-167)](https://link-to-collection.edu)  
 

@@ -22,7 +22,7 @@ The Golden Age of comics essentially begins with the creation and popularity wit
 {{< galleryrow >}}
 
 {{< galleryfigure src="../portrait-image.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+		   headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../portrait-image.jpg"
