@@ -29,9 +29,9 @@ Patten defines wind as “freedom, inspiration, divine power” and whirlwinds a
                 size="medium"
                 align="left" >}}
 Harpies are similarly construed as horrifying and deadly women, emerging to wreak terror on mortals. They are almost always historically depicted as vicious, harsh creatures. However, Harpies pop up, both as figures of good and evil, in more modern tales such as William Shakespeare’s *The Tempest*, Philip Pullman's *His Dark Materials* series, and even the 2000s hit TV show *Charmed*. Patten's base definitions of harpies include: 
-“Head and breasts of a woman; body and limbs of a vulture. Very fierce and loathsome, living in atmosphere of filth and stench” 
-“torment, voracious appetite” 
-“impersonations of whirlwinds and storms”
+“Head and breasts of a woman; body and limbs of a vulture. Very fierce and loathsome, living in atmosphere of filth and stench,” 
+“torment, voracious appetite,” 
+“impersonations of whirlwinds and storms,”
 “wonderful rapidity of flight, greater than that of any known bird and were considered to be the personification of sudden events”
 {{< /largefigure >}} 
 
