@@ -6,7 +6,7 @@ title: "Introduction"
 exhibit_title: "Ferocious Females"
 exhibit_subtitle: "Tracing Mythological, Magical, and Monstrous Women"
 
-date: 2021-05-20T12:49:20-04:00
+date: 2021-05-16T12:49:20-04:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1 
@@ -18,7 +18,7 @@ front_image: "ff4.png"
 current: false
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
