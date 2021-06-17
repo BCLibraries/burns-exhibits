@@ -34,3 +34,8 @@ On Patten’s encyclopedia page on “Women,” a few of the definitions read:
 “Motherhood. Supreme good on Earth. Temptation” 
 
 In myths and literature we see those characteristics and definitions of women exaggerated to the utmost extreme. Underlying these definitions is a strong, influential power that is both intriguing and exciting. We want to tap into that power, to understand both how it was originally interpreted and how it has been/can be reclaimed. The action of classifying these women symbols into categories inherently takes power away from them, confining them to merely their designed role. However, by critically examining how similar mythical figures arose in similar ways throughout different Western traditions, we can begin to push past the boundaries of socially-constructed borders, binaries, and beliefs.
+
+{{< largefigure src="060-Ferocious_Females-White.jpg"
+                headline=""
+                size="large" align="center" >}}
+{{< /largefigure >}}
