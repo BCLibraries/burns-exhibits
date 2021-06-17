@@ -17,7 +17,9 @@ Sponsored by Boston College Libraries
 
 
 Curator: Anne Cushman, M.A. Boston College
+
 Graphic design by Kate Edrington, Administrative Assistant, Burns Library
+
 {{< largefigure src="fftrans.png"
                 headline=""
                 size="large" align="center" >}}
