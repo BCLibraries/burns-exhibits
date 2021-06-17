@@ -23,7 +23,7 @@ draft: false
 type: "exhibit"
 ---
 
-Depictions of women in Western myth and literature have ranged from distressed damsels to avenging angels with all manner of slimy seductresses in between. Women with snakes as hair, women with scaled tails and enchanting voices, and women who have a deal with the devil are just a few manifestations of ferocious females over time.
+Depictions of women in Western myth and literature have ranged from distressed damsels to avenging angels with all manner of slimy seductresses in between. Women with snakes as hair, women with scaled tails and enchanting voices, and women with deals with the devil are just a few manifestations of ferocious females over time.
 
 For a window into varying cultural interpretations of women, we decided to start with a master symbolist: Glancy William Patten. Patten, a Boston architect, spent much of his time collecting and arranging information on the symbolism of animals, plants, people, and more. He gathered information from books, newspapers, pamphlets, and other sources to put together a homemade encyclopedia. As a result, his DIY encyclopedia contains over 3,000 entries and their possible definitions. Beginning with his numerous, yet nowhere near exhaustive definitions provides us a common starting point for each symbolic woman. From there, we hope to expand, challenge, and deconstruct previous notions of womanhood.
 
