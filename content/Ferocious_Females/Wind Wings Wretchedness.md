@@ -32,7 +32,7 @@ Harpies are similarly construed as horrifying and deadly women, emerging to wrea
 “Head and breasts of a woman; body and limbs of a vulture. Very fierce and loathsome, living in atmosphere of filth and stench,” 
 “torment, voracious appetite,” 
 “impersonations of whirlwinds and storms,”
-“wonderful rapidity of flight, greater than that of any known bird and were considered to be the personification of sudden events”
+“wonderful rapidity of flight, greater than that of any known bird and were considered to be the personification of sudden events.”
 {{< /largefigure >}} 
 
 The symbolic connections between harpies and the wind are easily seen. Through searching our collections, the fierceness and “wonderful rapidity” of the winged women became a recurring theme. Many were associated with death and darkness, figuring as both harbingers of death (harpies and banshees) and actual bringers of death (Valkyrie and sirens). Although there are some winged women portrayed as good, kind, and wise (such as guardian angels and several goddesses), all possess an awesome power that men have categorically seen as a threat.
