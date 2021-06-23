@@ -17,4 +17,6 @@ Sponsored by Boston College Libraries
 
 Curator: Edward Copenhagen, Assistant Archivist
 
+Graphic design by Kate Edrington, Administrative Assistant, Burns Library
+
 Originally displayed as an online exhibit in 2002 and recreated in 2021. Some images lack complete citations.
