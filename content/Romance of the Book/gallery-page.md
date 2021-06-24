@@ -142,16 +142,16 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+{{< galleryfigure src="002romance cover.jpg"
+           headline="Cover">}} Wägner and Macdowall, translator. *[Epics and Romances of the Middle Ages; Adapted from the Work of Dr. W. Wägner.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21347612230001021)*  London: G. Routledge, 1917.
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+{{< galleryfigure src="002Epics and Romances frontispiece.jpg"
+           headline="Frontispiece">}} Fringilla Cursus Sollicitudin Dapibus
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Amet Pellentesque" >}}
+{{< galleryfigure src=""
+           headline="" >}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
