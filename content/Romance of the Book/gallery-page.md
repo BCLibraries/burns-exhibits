@@ -174,16 +174,16 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+{{< galleryfigure src="013romance cover.jpg"
+           headline="Cover">}} Dellenbaugh. *[The Romance of the Colorado River; the Story of Its Discovery in 1540, with an Account of the Later Explorations, and with Special Reference to the Voyages of Powell through the Line of the Great Canyons.]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21369276430001021)* New York, London: G.P. Putnam's Sons, 1902.
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+{{< galleryfigure src="013romance spine.jpg"
+           headline="Spine">}} Dellenbaugh. *[The Romance of the Colorado River; the Story of Its Discovery in 1540, with an Account of the Later Explorations, and with Special Reference to the Voyages of Powell through the Line of the Great Canyons.]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21369276430001021)* New York, London: G.P. Putnam's Sons, 1902.
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Amet Pellentesque" >}}
+{{< galleryfigure src=""
+           headline="" >}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
