@@ -35,10 +35,10 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="010romancefrontispiece.jpg"
-           headline="Frontispiece">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Frontispiece">}} 
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="010romance spine.jpg"
+{{< galleryfigure src=""
            headline="Spine" >}}
 {{< /galleryfigure >}}
 
