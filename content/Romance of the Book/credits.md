@@ -22,6 +22,6 @@ Originally displayed: Gargan Hall Landing, Spring 2019
 {{< largefigure src="006romance frontispiece.jpg"
                 headline="Frontispiece"
                 description="Thackeray. *[Rebecca and Rowena: A Romance upon Romance.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21324882630001021)* London: Chapman and Hall, 1850."
-                size="x-large" >}}
+                size="large" align="center" >}}
 
 {{< /largefigure >}}
