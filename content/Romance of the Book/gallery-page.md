@@ -126,16 +126,16 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+{{< galleryfigure src="009romance cover.jpg"
+           headline="Cover">}} Williams. *[The Romance of Early Exploration: With Descriptions of Interesting Discoveries, Thrilling Adventures and Wonderful Bravery of the Early Explorers.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21319033010001021)* Philadelphia: London: Lippincott; Seeley & Co., 1907.
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+{{< galleryfigure src="009romance spine.jpg"
+           headline="Spine">}} Williams. *[The Romance of Early Exploration: With Descriptions of Interesting Discoveries, Thrilling Adventures and Wonderful Bravery of the Early Explorers.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21319033010001021)* Philadelphia: London: Lippincott; Seeley & Co., 1907.
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Amet Pellentesque" >}}
+{{< galleryfigure src=""
+           headline="" >}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
