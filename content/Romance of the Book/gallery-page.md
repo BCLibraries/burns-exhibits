@@ -47,15 +47,15 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="016romance cover.jpg"
-           headline="Cover">}} Colum. *[The Voyagers: Being Legends and Romances of Atlantic Discovery.]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332393930001021)* New York: Macmillan Company, 1925
+           headline="Cover">}} Colum. *[The Voyagers: Being Legends and Romances of Atlantic Discovery.]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332393930001021)* New York: Macmillan Company, 1925.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="016frontispiece.jpg"
-           headline="Frontispiece">}} Colum. *[The Voyagers: Being Legends and Romances of Atlantic Discovery.]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332393930001021)* New York: Macmillan Company, 1925
+           headline="Frontispiece">}} Colum. *[The Voyagers: Being Legends and Romances of Atlantic Discovery.]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332393930001021)* New York: Macmillan Company, 1925.
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="016romance spine.jpg"  Colum. *[The Voyagers: Being Legends and Romances of Atlantic Discovery.]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332393930001021)* New York: Macmillan Company, 1925
-           headline="Spine" >}}
+{{< galleryfigure src="016romance spine.jpg"
+           headline="Spine" >}} Colum. *[The Voyagers: Being Legends and Romances of Atlantic Discovery.]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332393930001021)* New York: Macmillan Company, 1925.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
