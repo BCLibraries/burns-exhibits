@@ -15,10 +15,13 @@ type: "exhibit"
 
 Sponsored by Boston College Libraries
 
-Curator(s): Person, Title
+Curator: Shelley Barber, Outreach & Reference Specialist, John J. Burns Library, Boston College
 
-Person, Title
+Originally displayed: Gargan Hall Landing, Spring 2019
 
-Person, Title
+{{< largefigure src="006romance frontispiece.jpg"
+                headline="Frontispiece"
+                description="Thackeray. *[Rebecca and Rowena: A Romance upon Romance.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21324882630001021)* London: Chapman and Hall, 1850."
+                size="x-large" >}}
 
-Originally displayed: Location, Month - Month 2017
+{{< /largefigure >}}
