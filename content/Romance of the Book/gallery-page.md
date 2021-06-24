@@ -243,7 +243,7 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="014romance spine.jpg"
-           headline="Spine">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Spine">}} Leonowens. *[The Romance of the Harem]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21349740720001021)* Boston: J.R. Osgood, 1873.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src=""
