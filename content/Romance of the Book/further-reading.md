@@ -13,9 +13,6 @@ draft: true
 type: "exhibit"
 ---
 
-
-Collections used:
-
 Boston
 
 British Catholic Authors
