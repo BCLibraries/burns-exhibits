@@ -15,7 +15,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="003romance cover.jpg"
-           headline="Cover">}} Roche. *[Her Majesty the King; a Romance of the Harem.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21379679060001021)*, Boston: R.G. Badger, 1899.
+           headline="Cover">}} Roche. *[Her Majesty the King; a Romance of the Harem.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21379679060001021)* Boston: R.G. Badger, 1899.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="003romance Shacabac.jpg"
