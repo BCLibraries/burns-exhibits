@@ -214,8 +214,8 @@ type: "exhibit"
            headline="Frontispiece">}} Hart. *[Eighteen-fifteen: A Romance of Waterloo.]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21344864010001021 )* London: Charles H. Kelly, 1915.
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="017romance spine.jpg"
-           headline="Spine" >}} Hart. *[Eighteen-fifteen: A Romance of Waterloo.]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21344864010001021 )* London: Charles H. Kelly, 1915.
+{{< galleryfigure src=""
+           headline="" >}} 
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
