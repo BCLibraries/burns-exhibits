@@ -46,16 +46,16 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+{{< galleryfigure src="016romance cover.jpg"
+           headline="Cover">}} Colum. *[The Voyagers: Being Legends and Romances of Atlantic Discovery.]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332393930001021)* New York: Macmillan Company, 1925
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+{{< galleryfigure src="016frontispiece.jpg"
+           headline="Frontispiece">}} Colum. *[The Voyagers: Being Legends and Romances of Atlantic Discovery.]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332393930001021)* New York: Macmillan Company, 1925
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Amet Pellentesque" >}}
+{{< galleryfigure src="016romance spine.jpg"  Colum. *[The Voyagers: Being Legends and Romances of Atlantic Discovery.]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21332393930001021)* New York: Macmillan Company, 1925
+           headline="Spine" >}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
