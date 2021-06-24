@@ -94,16 +94,16 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+{{< galleryfigure src="015romance cover.jpg"
+           headline="Cover">}} Smith. *[The Romance of the South Pole: Antarctic Voyages and Explorations.]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21334446650001021)* London; New York: T. Nelson, 1900.
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+{{< galleryfigure src="015romance spine.jpg"
+           headline="Spine">}} Smith. *[The Romance of the South Pole: Antarctic Voyages and Explorations.]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21334446650001021)* London; New York: T. Nelson, 1900.
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Amet Pellentesque" >}}
+{{< galleryfigure src=""
+           headline="" >}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
