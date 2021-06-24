@@ -222,16 +222,16 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+{{< galleryfigure src="018romance cover.jpg"
+           headline="Cover">}} Merezhkovsky. *[The Romance of Leonardo Da Vinci.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21366720800001021)* New York: Random House, 1931.
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+{{< galleryfigure src="018romance spine.jpg"
+           headline="Spine">}} Merezhkovsky. *[The Romance of Leonardo Da Vinci.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21366720800001021)* New York: Random House, 1931.
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Amet Pellentesque" >}}
+{{< galleryfigure src=""
+           headline="" >}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
