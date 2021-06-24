@@ -111,11 +111,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="006romance cover.jpg"
-           headline="Cover">}} Thackeray. *[Rebecca and Rowena: A Romance upon Romance.] (https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21324882630001021)* London: Chapman and Hall, 1850.
+           headline="Cover">}} Thackeray. *[Rebecca and Rowena: A Romance upon Romance.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21324882630001021)* London: Chapman and Hall, 1850.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="006romance title.jpg"
-           headline="Title page">}} Thackeray. *[Rebecca and Rowena: A Romance upon Romance.] (https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21324882630001021)* London: Chapman and Hall, 1850.
+           headline="Title page">}} Thackeray. *[Rebecca and Rowena: A Romance upon Romance.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21324882630001021)* London: Chapman and Hall, 1850.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="006romance spine.jpg"
