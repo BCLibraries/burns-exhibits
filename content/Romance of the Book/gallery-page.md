@@ -35,11 +35,11 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="010romancefrontispiece.jpg"
-           headline="Frontispiece">}} 
+           headline="Frontispiece">}} Tussaud. *[The Romance of Madame Tussaud's.]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21326244440001021)* New York: George H. Doran Co., 1920.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="010romance spine.jpg"
-           headline="Spine" >}}
+           headline="Spine" >}} Tussaud. *[The Romance of Madame Tussaud's.]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21326244440001021)* New York: George H. Doran Co., 1920.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
