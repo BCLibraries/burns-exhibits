@@ -15,15 +15,15 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="003romance cover.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+           headline="Cover">}} “Roche. *[Her Majesty the King; a Romance of the Harem.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21379679060001021)*, Boston: R.G. Badger, 1899.”
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="003romance Shacabac.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Illustration">}} 
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="003romance spine.jpg"
-           headline="Amet Pellentesque" >}}
+           headline="Spine" >}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
