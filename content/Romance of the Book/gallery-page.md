@@ -110,6 +110,54 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
+{{< galleryfigure src="006romance cover.jpg"
+           headline="Cover">}} Thackeray. *[Rebecca and Rowena: A Romance upon Romance.] (https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21324882630001021)* London: Chapman and Hall, 1850.
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="006romance title.jpg"
+           headline="Title page">}} Thackeray. *[Rebecca and Rowena: A Romance upon Romance.] (https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21324882630001021)* London: Chapman and Hall, 1850.
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="006romance spine.jpg"
+           headline="Spine" >}}
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="../portrait-image.jpg"
+           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="../portrait-image.jpg"
+           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="../portrait-image.jpg"
+           headline="Amet Pellentesque" >}}
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="../portrait-image.jpg"
+           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="../portrait-image.jpg"
+           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="../portrait-image.jpg"
+           headline="Amet Pellentesque" >}}
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
 {{< galleryfigure src="../portrait-image.jpg"
            headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
