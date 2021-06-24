@@ -13,8 +13,8 @@ weight: 1
 
 # Big image on first page.
 front_image: "Romance shelfie.jpg" # Replace with the real image
-front_caption_headline: "Ullamcorper Condimentum Tortor Parturient"
-front_caption_text: "Donec id elit non mi porta gravida at eget metus."
+front_caption_headline: ""
+front_caption_text: ""
 
 # Change to true if this exhibit is currently running.
 current: false
@@ -25,6 +25,8 @@ draft: true
 type: "exhibit"
 ---
 
-Vestibulum id ligula porta felis euismod semper. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+Many of us are familiar with romance as a concept of romantic love, but what if we looked at it in a different way? In literature, romance can be associated with adventure and things remote from everyday life. It evokes glamour, allure, and mystique, qualities of excitement.
 
-Curabitur blandit tempus porttitor. Maecenas sed diam eget risus varius blandit sit amet non magna. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sed diam eget risus varius blandit sit amet non magna.
+In addition to the expected tales of romantic love, Burns Library’s romances are convenient, armchair travel introductions to faraway places and cultures. On display are a few examples of the many Burns Library books that include the word “romance” in the title or subtitle.
+
+If you were going to lose yourself for hours, exploring a different place and time through the pages of a book - no passport or travel required - what would your romance be?
