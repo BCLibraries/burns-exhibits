@@ -19,27 +19,27 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="003romance Shacabac.jpg"
-           headline="Illustration">}} 
+           headline="Illustration">}} Roche. *[Her Majesty the King; a Romance of the Harem.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21379679060001021)* Boston: R.G. Badger, 1899.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="003romance spine.jpg"
-           headline="Spine" >}}
+           headline="Spine" >}} Roche. *[Her Majesty the King; a Romance of the Harem.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21379679060001021)* Boston: R.G. Badger, 1899.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+{{< galleryfigure src="010romance cover.jpg"
+           headline="Cover">}} Tussaud. *[The Romance of Madame Tussaud's.]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21326244440001021)* New York: George H. Doran Co., 1920.
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+{{< galleryfigure src="010romancefrontispiece.jpg"
+           headline="Frontispiece">}} Fringilla Cursus Sollicitudin Dapibus
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Amet Pellentesque" >}}
+{{< galleryfigure src="010romance spine.jpg"
+           headline="Spine" >}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
