@@ -147,11 +147,43 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="002Epics and Romances frontispiece.jpg"
-           headline="Frontispiece">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Frontispiece">}} Wägner and Macdowall, translator. *[Epics and Romances of the Middle Ages; Adapted from the Work of Dr. W. Wägner.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21347612230001021)*  London: G. Routledge, 1917.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src=""
            headline="" >}}
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="008romance cover.jpg"
+           headline="Cover">}} Snow. *[The Romance of Boston Bay.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21361566380001021)* Boston: Yankee Pub. Co., 1944
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="008Romance backcover.jpg"
+           headline="Cover">}} Snow. *[The Romance of Boston Bay.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21361566380001021)* Boston: Yankee Pub. Co., 1944
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="008romance spine.jpg"
+           headline="Spine" >}}
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="../portrait-image.jpg"
+           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="../portrait-image.jpg"
+           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="../portrait-image.jpg"
+           headline="Amet Pellentesque" >}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
