@@ -119,7 +119,7 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="006romance spine.jpg"
-           headline="Spine" >}}
+           headline="Spine" >}} Thackeray. *[Rebecca and Rowena: A Romance upon Romance.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21324882630001021)* London: Chapman and Hall, 1850.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
