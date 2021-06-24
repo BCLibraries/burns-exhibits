@@ -1,6 +1,6 @@
 ---
 # Title of page
-title: "Collection Used"
+title: "Further reading"
 description: ""
 
 # Page order (1 is 1st page, etc.)
@@ -13,13 +13,20 @@ draft: true
 type: "exhibit"
 ---
 
-{{% figure src="006romance ill 1.jpg %}}
+{{< largefigure src="006romance frontispiece.jpg"
+                headline="Frontispiece"
+                description="Thackeray. *[Rebecca and Rowena: A Romance upon Romance.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21324882630001021)* London: Chapman and Hall, 1850."
+                size="large" align="center" >}}
 
-Collections Used: 
+{{< /largefigure >}}
+
+__Heading__
+
+Collections used:
 Boston
 British Catholic Authors
 Fine Print
 Irish
 Kings Land
 Liturgy & Life
-Williams 
+Williams
