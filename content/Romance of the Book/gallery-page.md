@@ -78,16 +78,16 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+{{< galleryfigure src="011moving money title and facing page.jpg"
+           headline="Title and facing page">}} Crissey. *[The Romance of Moving Money: Celebrating the seventy-fifth anniversary of Brink's service, 1859-1934.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21310809990001021)* Chicago, Ill.: Library of Institutional Biography, 1934.
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+{{< galleryfigure src="011romance cover.jpg"
+           headline="Cover">}} Crissey. *[The Romance of Moving Money: Celebrating the seventy-fifth anniversary of Brink's service, 1859-1934.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21310809990001021)* Chicago, Ill.: Library of Institutional Biography, 1934.
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Amet Pellentesque" >}}
+{{< galleryfigure src="011romance spine.jpg"
+           headline="Spine" >}} Crissey. *[The Romance of Moving Money: Celebrating the seventy-fifth anniversary of Brink's service, 1859-1934.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21310809990001021)* Chicago, Ill.: Library of Institutional Biography, 1934.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
