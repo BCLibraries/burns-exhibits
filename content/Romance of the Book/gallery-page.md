@@ -190,6 +190,54 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
+{{< galleryfigure src="005romance cover.jpg"
+           headline="Cover">}} Johnston. *[Reality versus Romance in South Central Africa; Being an Account of a Journey across the Continent from Benguella on the West, through Bihe, Ganguella ... to the Mouth of the Zambesi on the East Coast.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21386382170001021)* New York, Chicago: F. H. Revell Company, 1893.
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="005romance spine.jpg"
+           headline="Spine">}} Johnston. *[Reality versus Romance in South Central Africa; Being an Account of a Journey across the Continent from Benguella on the West, through Bihe, Ganguella ... to the Mouth of the Zambesi on the East Coast.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21386382170001021)* New York, Chicago: F. H. Revell Company, 1893.
+{{< /galleryfigure >}}
+
+{{< galleryfigure src=""
+           headline="" >}}
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="017romance cover.jpg"
+           headline="Cover">}} Hart. *[Eighteen-fifteen: A Romance of Waterloo.]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21344864010001021 )* London: Charles H. Kelly, 1915.
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="017romance title and frontispiece.jpg"
+           headline="Frontispiece">}} Hart. *[Eighteen-fifteen: A Romance of Waterloo.]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21344864010001021 )* London: Charles H. Kelly, 1915.
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="../portrait-image.jpg"
+           headline="Spine" >}} Hart. *[Eighteen-fifteen: A Romance of Waterloo.]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21344864010001021 )* London: Charles H. Kelly, 1915.
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="../portrait-image.jpg"
+           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="../portrait-image.jpg"
+           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="../portrait-image.jpg"
+           headline="Amet Pellentesque" >}}
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
 {{< galleryfigure src="../portrait-image.jpg"
            headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
