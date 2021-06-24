@@ -38,7 +38,7 @@ type: "exhibit"
            headline="Frontispiece">}} 
 {{< /galleryfigure >}}
 
-{{< galleryfigure src=""
+{{< galleryfigure src="010romance spine.jpg"
            headline="Spine" >}}
 {{< /galleryfigure >}}
 
