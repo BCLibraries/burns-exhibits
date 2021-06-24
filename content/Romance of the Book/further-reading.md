@@ -13,20 +13,26 @@ draft: true
 type: "exhibit"
 ---
 
+
+Collections used:
+
+Boston
+
+British Catholic Authors
+
+Fine Print
+
+Irish
+
+Kings Land
+
+Liturgy & Life
+
+Williams
+
 {{< largefigure src="006romance frontispiece.jpg"
                 headline="Frontispiece"
                 description="Thackeray. *[Rebecca and Rowena: A Romance upon Romance.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21324882630001021)* London: Chapman and Hall, 1850."
                 size="large" align="center" >}}
 
 {{< /largefigure >}}
-
-__Heading__
-
-Collections used:
-Boston
-British Catholic Authors
-Fine Print
-Irish
-Kings Land
-Liturgy & Life
-Williams
