@@ -14,7 +14,7 @@ type: "exhibit"
 
 
 {{< largefigure src="017_WaybackVersioneaglejapanesegarden.jpg"
-                headline="Bronze eagle at Alumni Hall, Boston College"
+                headline="Bronze eagle at the Anderson estate"
                 size="medium"
                 align="right" >}}
 In October 1954 Boston College received the statue of an eagle that had been in a Japanese garden on the estate of Larz Anderson in Brookline, Massachusetts. The garden was designed and planted in 1907, and a photograph in 1909 clearly shows the eagle. This happened before Anderson’s appointment as ambassador to Japan  (1912-1913).							
