@@ -29,7 +29,8 @@ Though use of mascots goes back to ancient history, the word "mascot" did not co
 
 {{< largefigure src="001_BCvsBUProgramcover.jpg"
                 headline="Box 9, [Boston College Athletic Programs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), BC1997-006"
-                size="medium"
+                description="Shown here is the cover of a 1962 program of a football game played between the Boston College "Eagles" and Boston University "Terriers.""
+				size="medium"
                 align="left" >}}
 Collegiate teams are often identified by and referred to as their mascots. In Boston, Harvard University has a pilgrim-like mascot known as "John Harvard;" Massachusetts Institute of Technology's mascot is a beaver; Northeastern University's mascot is a Siberian husky; Boston University's mascot is a Boston terrier; and Boston College's mascot is the aforementioned eagle. 
 
