@@ -52,7 +52,7 @@ In 1993, the original bronze sculpture was replaced with an exact replica. Due t
 {{< /largefigure >}}
 
 {{< largefigure src="022_gassontowerbig.jpg"
-                headline=""
+                headline="The eagle sculpture in front of Gasson Hall"
                 description="" 
                 size="medium"
                 align="left" >}}
@@ -76,7 +76,7 @@ A second eagle statue is located in front of the Silvio O. Conte Forum, near Alu
 {{< /largefigure >}}
 
 {{< largefigure src="025_goldeaglebig.jpg"
-                headline=""
+                headline="The eagle sculpture in front of Gasson Hall"
                 description=""
                 size="x-large" >}}
 The eagle's importance has expanded beyond a mascot's typical role as a rallying point for athletic events. Though adopted less than a century ago, the eagle was quickly integrated into the University's institutional identity, and has become the paramount public symbol representing Boston College to the outside world.

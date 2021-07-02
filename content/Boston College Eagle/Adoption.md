@@ -20,7 +20,7 @@ Prior to 1920, Boston College lacked a mascot. In the Spring of 1920, the Boston
 {{< /largefigure >}}
 
 {{< largefigure src="004_heightsfirstbig.jpg"
-                headline=""
+                headline="Cartoon of an eagle with two scrolls saying 'University Heights' and 'Alumni Field.'"
                 description="The Heights, volume 1, number 25, June 17, 1920, page 1" 
                 size="large" align="center" >}}
 In response to the Old Man's letter, the editor of the Heights reminded his fellow students that the cause of the insulting cartoon was not the fault of the sports cartoonist, as the student body (past and present) had never come up with a mascot. He wrote: "The fault is ours entirely. It is important that we adopt a mascot to preside at our pow-wows and triumphant fetes." He urged students to write to the Heights to voice their opinion of the Eagle or voice an alternative for the school mascot. In the June 17th issue, the first published drawing of an eagle appeared in a corner of the special pictorial edition. The artwork was not credited but was probably the work of either Robert P. Walsh ’20 or J. Robert Brawley ’20, both members of the newspaper's art department.
@@ -35,7 +35,7 @@ Known as the "College Cartoonist," J. Robert Brawley claimed to have drawn the f
 {{< /largefigure >}}
 
 {{< largefigure src="006_heightsyalebig.jpg"
-                headline=""
+                headline="Cartoon of Luke Urban with a bald eagle perched on his shoulder, taming the Yale Bulldog."
                 description="The Heights, volume 2, number 3, October 15, 1920, edition 2, page 1" 
                 size="medium"
                 align="right" >}}
@@ -43,7 +43,7 @@ There was much excitement when Boston College defeated the heavily favored Yale 
 {{< /largefigure >}}
 
 {{< largefigure src="007_heightsholycrbig.jpg"
-                headline=""
+                headline="Cartoon of an eagle knocking a Holy Cross football player from the top of Gasson Tower."
 				description="The Heights, volume 2, number 9, December 10, 1920, page 1"
                 size="medium"
                 align="left" >}}
@@ -59,7 +59,7 @@ The University quickly adopted the eagle more formally into campus life. A colum
 {{< /largefigure >}}
 
 {{< largefigure src="009_newerabig.jpg"
-                headline="Drawing by J. Robert Brawley from the 1921 Sub Turri"
+                headline="Drawing by J. Robert Brawley from the 1921 Sub Turri showing a flying eagle dominating opponents' mascots"
 				description="1921 [Sub Turri](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21387089960001021)"
                 size="medium"
                 align="left" >}}
