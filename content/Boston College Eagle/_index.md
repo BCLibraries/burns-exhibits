@@ -38,7 +38,7 @@ Shown here is the cover of a 1962 program of a football game played between the 
 {{< /largefigure >}}
 
 {{< largefigure src="002_flynnlogobig.jpg"
-                headline="In this photograph dated January 12, 1977, longtime Athletic Director William J. Flynn (1939; M.Ed., 1940) paints the University logo, which includes an image of the eagle, onto the gymnasium floor, a most prominent location.">}} Box 6, Folder 25, [William J. Flynn papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21345767470001021), BC1997-077
+                headline="In this photograph dated January 12, 1977, longtime Athletic Director William J. Flynn (1939; M.Ed., 1940) paints the University logo, which includes an image of the eagle, onto the gymnasium floor, a most prominent location.">}} Box 6, Folder 25, [William J. Flynn papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21345767470001021), BC1997-077>}}
                 size="medium"
                 align="left"
 {{< /largefigure >}}
