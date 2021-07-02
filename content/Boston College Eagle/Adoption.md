@@ -21,7 +21,7 @@ Prior to 1920, Boston College lacked a mascot. In the Spring of 1920, the Boston
 
 {{< largefigure src="004_heightsfirstbig.jpg"
                 headline=""
-                description="The Heights, volume 1, number 25, June 17, 1920, page 1" 
+                description="Cartoon of an eagle with two scrolls saying 'University Heights' and 'Alumni Field.' The Heights, volume 1, number 25, June 17, 1920, page 1" 
                 size="large" align="center" >}}
 In response to the Old Man's letter, the editor of the Heights reminded his fellow students that the cause of the insulting cartoon was not the fault of the sports cartoonist, as the student body (past and present) had never come up with a mascot. He wrote: "The fault is ours entirely. It is important that we adopt a mascot to preside at our pow-wows and triumphant fetes." He urged students to write to the Heights to voice their opinion of the Eagle or voice an alternative for the school mascot. In the June 17th issue, the first published drawing of an eagle appeared in a corner of the special pictorial edition. The artwork was not credited but was probably the work of either Robert P. Walsh ’20 or J. Robert Brawley ’20, both members of the newspaper's art department.
 {{< /largefigure >}}
@@ -36,7 +36,7 @@ Known as the "College Cartoonist," J. Robert Brawley claimed to have drawn the f
 
 {{< largefigure src="006_heightsyalebig.jpg"
                 headline=""
-                description="The Heights, volume 2, number 3, October 15, 1920, edition 2, page 1" 
+                description="Cartoon of Luke Urban with a bald eagle perched on his shoulder, taming the Yale Bulldog. The Heights, volume 2, number 3, October 15, 1920, edition 2, page 1" 
                 size="medium"
                 align="right" >}}
 There was much excitement when Boston College defeated the heavily favored Yale University football team in games played in 1919 and 1920. In the October 15, 1920 issue of the Heights, BC athlete Luke Urban ’21 was pictured in a cartoon drawn by John T. Sullivan ’24. He was shown with a bald eagle perched on his shoulder, taming the Yale Bulldog. In the same issue, the editor noted his disappointment that the local newspaper cartoonists still represented Boston College as "a sort of flat impersonal picture of a foot-ball player bearing a neat and inoffensive tag." He went on that the "University Heights has the altitude, the rocks, the trees, and the general wild and free aspect which go to make up the popular conception of what an eagle's surroundings should be...We want the eagle for the Boston College mascot."
@@ -44,7 +44,7 @@ There was much excitement when Boston College defeated the heavily favored Yale 
 
 {{< largefigure src="007_heightsholycrbig.jpg"
                 headline=""
-				description="The Heights, volume 2, number 9, December 10, 1920, page 1"
+				description="Cartoon of an eagle knocking a Holy Cross football player from the top of Gasson Tower. The Heights, volume 2, number 9, December 10, 1920, page 1"
                 size="medium"
                 align="left" >}}
 A month later, in the November 12 issue, an editorial entitled "About that Bird" was published. The editorial goaded the college's cartoonists to feature the eagle in their efforts, as "The work of getting the idea accepted lies almost entirely with them." They encouraged their readers to continue to voice their opinions. A month later, Heights Art Department staff member John T. Sullivan drew the boldest cartoon depiction of the Heights to date, showing an eagle knocking a Holy Cross football player from the top of Gasson Tower. The cartoon celebrates BC's 14-0 victory over their bitter rival and, more important, clearly depicts the eagle as the symbol of Boston College.
