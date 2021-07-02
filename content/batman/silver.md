@@ -21,28 +21,25 @@ An increase in horror stories led to the Comics Code Authority (CCA) formed in 1
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+{{< galleryfigure src="silver-1960.jpg"
+           headline="Batman and Robin, about to be seized by guards, looking in horror at Superman sitting on a throne">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+{{< galleryfigure src="../silver-1962.jpg"
+           headline="Batman, holding the Joker while watching Batman II and Robin fight the son of Joker">}} [*Batman.*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21358830010001021) No. 145. Feb 1962.
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Amet Pellentesque" >}}
-{{< /galleryfigure >}}
 
 {{< /galleryrow >}}
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../intro-image.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+{{< galleryfigure src="../silver-1966.jpg"
+           headline="Shaggy-Man holding Flash and Batman in his huge hands while Green Arrow and Atom are laying, defeated in the foreground">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../intro-image.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+{{< galleryfigure src="../silver-1968.jpg"
+           headline="Close up of Batman and Robin's faces looking shocked as they pull back a curtain to reveal the shadow of a female figure">}} Ullamcorper Egestas Dapibus
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
