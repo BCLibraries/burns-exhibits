@@ -35,7 +35,7 @@ With the loss of Herpy, Father Risacher gave Boston College a stuffed and mounte
 {{< /largefigure >}}
 
 {{< largefigure src="013_margobig.jpg"
-                headline="Margo"
+                headline="Photo of a tethered Margo"
                 description=""
                 size="small" >}}
 In the Spring of 1961, three students (John D. Provasoli, Robert Hart and James McLaughlin), unhappy with BC's stuffed mascot, launched "Project Mascot," an effort to secure a live golden eagle. Boston College met the governmental requirements, inoculations, and necessary housing required to keep a live eagle. The University was assisted by Walter Stone, superintendent of the Franklin Park Zoo. The zoo, in fact, housed and cared for the bird.
