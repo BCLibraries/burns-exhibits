@@ -22,11 +22,11 @@ An increase in horror stories led to the Comics Code Authority (CCA) formed in 1
 {{< galleryrow >}}
 
 {{< galleryfigure src="silver-1960.jpg"
-           headline="Batman and Robin, about to be seized by guards, looking in horror at Superman sitting on a throne">}} Sollicitudin Mollis Venenatis Sit
+           headline="Batman and Robin, about to be seized by guards, looking in horror at Superman sitting on a large, stone throne">}} [*World's Finest*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21349807970001021) No. 111. Aug. 1960.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../silver-1962.jpg"
-           headline="Batman, holding the Joker while watching Batman II and Robin fight the son of Joker">}} [*Batman.*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21358830010001021) No. 145. Feb 1962.
+           headline="Batman holding the Joker while both watch Batman II and Robin fight the son of Joker">}} [*Batman.*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21358830010001021) No. 145. Feb 1962.
 {{< /galleryfigure >}}
 
 
@@ -35,11 +35,11 @@ An increase in horror stories led to the Comics Code Authority (CCA) formed in 1
 {{< galleryrow >}}
 
 {{< galleryfigure src="../silver-1966.jpg"
-           headline="Shaggy-Man holding Flash and Batman in his huge hands while Green Arrow and Atom are laying, defeated in the foreground">}} Pellentesque Vehicula Aenean
+           headline="Shaggy-Man holding Flash and Batman in his huge hands while Green Arrow and Atom are laying, defeated in the foreground">}} [*Justice League of America*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21365413440001021) No. 45. June 1965.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../silver-1968.jpg"
-           headline="Close up of Batman and Robin's faces looking shocked as they pull back a curtain to reveal the shadow of a female figure">}} Ullamcorper Egestas Dapibus
+           headline="Close up of Batman and Robin's faces looking shocked as they pull back a curtain to reveal the shadow of a female figure">}} [*Detective Comics*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21372590280001021) No. 360. Oct. 1968
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
