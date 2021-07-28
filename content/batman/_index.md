@@ -6,7 +6,7 @@ title: "Introduction"
 exhibit_title: "Batman at Eighty"
 exhibit_subtitle: "Caped Crusader Celebrates Eighth Decade"
 
-date: 2021-04-19T09:46:28-04:00
+date: 2019-11-1T09:46:28-04:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1 
@@ -20,7 +20,7 @@ front_caption_text: "Art courtesy of DC comics."
 current: false
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
