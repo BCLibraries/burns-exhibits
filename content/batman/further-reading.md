@@ -13,18 +13,10 @@ draft: true
 type: "exhibit"
 ---
 
-{{< figure src="../portrait-image.jpg" headline="" size="x-large" alt="hello">}}
+{{< figure src="../jokercard.jpg" headline="[*Batman: The Killing Joke.*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21318585900001021) No. 1, June, 1988." size="x-large" alt="hello">}}
 
-Collection Used: David Goldstein and Martha Moore Avery Papers [(MS1986-167)](https://link-to-collection.edu)  
+Collection Used: [Comics](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/search?query=lsr30,contains,COMICS,AND&tab=bcl_only&search_scope=lib_BURNS&sortby=rank&vid=bclib_new&lang=en_US&mode=advanced&offset=0)  
 
-__Heading__
+__Secondary Sources__
 
-Last, First M. *[Title of resource](https://link-to-resource.edu)*. Place of pub: Publisher, Year.
-
-*[Newspaper title](https://link-to-resource.edu)*. “Article Title” Date, Year.
-
-Last, First M. *[Title of resource](https://link-to-resource)*. Place of pub: Publisher, Year.
-
-Last, First M. *[Title of resource](https://link-to-resource.edu)*. Place of pub: Publisher, Year.
-
-------. “Article title” *[Journal](https://link-to-resource.edu)* Vol, Issue (Date Year): page-page.
+Bart, Beaty. Weiner, Stephen: Editors *[Critical survey of graphic novels : heroes & superheroes](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21422347630001021)*. Ipswitch, Mass.: Salem Press, 2012.
