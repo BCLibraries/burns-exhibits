@@ -6,7 +6,7 @@ title: "Introduction"
 exhibit_title: "The Boston College Eagle"
 exhibit_subtitle: "Origins and Development of the University Mascot"
 
-date: 2021-05-05T11:47:53-04:00
+date: 2021-07-02T11:47:53-04:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1 
