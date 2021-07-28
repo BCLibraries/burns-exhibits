@@ -15,6 +15,6 @@ type: "exhibit"
 
 Sponsored by Boston College Libraries
 
-Curator(s): Andrew Isidoro, Public Services Specialist, Burns Library
+Curator: Andrew Isidoro, Public Services Specialist, Burns Library
 
 Originally displayed: O'Neill Library Reading Room, November 2019
