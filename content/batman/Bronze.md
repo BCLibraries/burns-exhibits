@@ -18,7 +18,6 @@ During the Bronze Age of comics, topics that were never approved under the Comic
 
 
 
-
 {{< galleryrow >}}
 
 {{< galleryfigure src="../bronze-1972.jpg"

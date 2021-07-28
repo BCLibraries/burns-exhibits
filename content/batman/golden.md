@@ -19,7 +19,7 @@ type: "exhibit"
                 size="medium"
 				align="right" >}}
 
-The Golden Age of comics essentially begins with the creation and popularity of Batman and Superman. During World War II, Red, white and blue heroes fighting the Axis powers became popular. During the Golden Age, comics were very simple black and white stories, the good guys vs. the evil guys, and the heroes always easily won. They tended to have simple art with panels laid out in basic square grids, often full of more dialogue than imagery. By the post-war period, superheroes were declining. The industry diversified into other genres, such as war, Westerns, science fiction, romance, crime and horror. By the end of the Golden Age, comic books were portrayed as contributing to juvenile delinquency.
+The Golden Age of comics essentially begins with the creation and popularity of Batman and Superman. During World War II, red, white and blue heroes fighting the Axis powers became popular. During the Golden Age, comics were very simple: the good guys vs. the evil guys, and the heroes always easily won. They tended to have simple art with panels laid out in basic square grids, often full of more dialogue than imagery. By the post-war period, superheroes were declining. The industry diversified into other genres, such as war, Westerns, science fiction, romance, crime and horror. By the end of the Golden Age, comic books were portrayed as contributing to juvenile delinquency.
 {{< /largefigure >}}
 
 {{< largefigure src="golden-1942-interior.jpg"
