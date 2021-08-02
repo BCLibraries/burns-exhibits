@@ -6,7 +6,7 @@ title: "Introduction"
 exhibit_title: "Batman at Eighty"
 exhibit_subtitle: "Caped Crusader Celebrates Eighth Decade"
 
-date: 2019-11-1T09:46:28-04:00
+date: 2019-11-10T09:46:28-04:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1 
