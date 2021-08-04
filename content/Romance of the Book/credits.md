@@ -15,7 +15,9 @@ type: "exhibit"
 
 Sponsored by Boston College Libraries
 
-Curator: Shelley Barber, Outreach & Reference Specialist, John J. Burns Library, Boston College
+Curator: Shelley Barber, Outreach & Reference Specialist, John J. Burns Library
+
+Graphic design: Kate Edrington, Administrative Assistant, Burns Library
 
 Originally displayed: Gargan Hall Landing, Spring 2019
 
