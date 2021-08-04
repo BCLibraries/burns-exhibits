@@ -7,14 +7,14 @@ weight:  4
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 
 
 ---
 
-During the Bronze Age of comics, topics that were never approved under the Comics Code Authority were now broached. Sex, drug use, racism, horror and violence of a graphic nature found their way back into comics for the first time since the 1950s. Darker tones became prominent even so far as the death of characters. Art styles became photorealistic and included depictions of the urban landscape. The alter-ego side of the superhero’s life was given more panel time, and sensational costumes took a backseat to depictions of everyday people. This is also when comic books stores became popular, and the publishing of underground comics took off.
+During the Bronze Age of comics, topics that were never approved under the Comics Code Authority were now broached. Sex, drug use, racism, horror, and violence of a graphic nature found their way back into comics for the first time since the 1950s. Darker tones became prominent even so far as the death of characters. Art styles became photorealistic and included depictions of the urban landscape. The alter-ego side of the superhero’s life was given more panel time, and sensational costumes took a backseat to depictions of everyday people. This is also when comic books stores became popular, and the publishing of underground comics took off.
 
 
 

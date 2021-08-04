@@ -1,5 +1,5 @@
 ---
-title: "Modern Age 1986- Present"
+title: "Modern Age 1986-Present"
 description: ""
 
 # Page order
@@ -7,14 +7,14 @@ weight:  4
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 
 
 ---
 
-Along with Alan Moore’s *Watchmen*, *The Dark Knight Returns* is widely credited with beginning the Modern Age of comic books. Stories became much more sophisticated and aimed at older, more well-read audiences. Sexual themes and violence became prevalent. A marketing blitz led to a huge collecting frenzy, especially of Gold and Silver age comics. Collector’s editions of important milestone issues were printed by the millions and hoarded by collectors hoping to turn a profit in the future. But as most collectors know, when items are created specifically to be collected, they usually do not end up being valuable. The value of Gold and Silver Age comics is due to the scarcity of issues. For example, of the 200,000 original issues of *Action Comics* #1 printed, it is estimated that only 50-100 survive today, making it one of the most valauble comics in existence. These comics were made from cheap materials and not meant to last, similar to newspapers. *Detective Comics* # 700 came enclosed in a special collector's heavy stock sleve and came at a premium price: $4.95 vs. $2.95 for the standard edition.
+Along with Alan Moore’s *Watchmen*, *The Dark Knight Returns* is widely credited with beginning the Modern Age of comic books. Stories became much more sophisticated and aimed at older, more well-read audiences. Sexual themes and violence became prevalent. A marketing blitz led to a huge collecting frenzy, especially of Gold and Silver age comics. Collector’s editions of important milestone issues were printed by the millions and hoarded by collectors hoping to turn a profit in the future. But as most collectors know, when items are created specifically to be collected, they usually do not end up being valuable. The value of Gold and Silver Age comics is due to the scarcity of issues. For example, of the 200,000 original issues of *Action Comics* #1 printed, it is estimated that only 50-100 survive today, making it one of the most valuable comics in existence. These comics were made from cheap materials and not meant to last, similar to newspapers. *Detective Comics* # 700 came enclosed in a special collector's heavy stock sleve and came at a premium price: $4.95 vs. $2.95 for the standard edition.
 
 
 

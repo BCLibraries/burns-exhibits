@@ -7,7 +7,7 @@ weight:  2
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 
@@ -15,7 +15,7 @@ type: "exhibit"
 ---
 {{< largefigure src="gold-1942.jpg"
                 headline="Batman and Robin parachuting onto bullseyes on a black background with multiple searchlight beams."
-				description="[*Batman.*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21358830010001021) No. 13. Oct/Nov 1942."
+				description="[*Batman.*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21358830010001021) No. 13. Oct/Nov. 1942."
                 size="medium"
 				align="right" >}}
 
