@@ -27,7 +27,7 @@ Boston College building and campus images [(BC1987-012)](https://bc-primo.hosted
 
 Boston College Hockey Box Score (Final) and photos (BC2012-001)
 
-Boston College President's Office records [(BC1986-020C)]([(BC1987-012)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021))
+Boston College President's Office records [(BC1986-020C)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021))
 
 Willliam J. Flynn papers [(BC1997-007)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021)
 
