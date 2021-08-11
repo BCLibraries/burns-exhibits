@@ -35,10 +35,8 @@ __Heading__
 
 Last, First M. *[Title of resource](https://link-to-resource.edu)*. Place of pub: Publisher, Year.
 
-*[Newspaper title](https://link-to-resource.edu)*. “Article Title” Date, Year.
+*[The Heights](https://newspapers.bc.edu)*.
 
 Burke and Oslin. *[Tales from the Boston College Hockey Locker Room : a Collection of the Greatest Eagles Hockey Stories Ever Told](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21478009400001021)*. New York: Sports Publishing, 2014.
 
-Last, First M. *[Title of resource](https://link-to-resource.edu)*. Place of pub: Publisher, Year.
-
-------. “Article title” *[Journal](https://link-to-resource.edu)* Vol, Issue (Date Year): page-page.
+Hasenfus. *[Athletics at Boston College](https://catalog.hathitrust.org/Record/102437415)*. Heffernan Press, 1943.
