@@ -13,8 +13,8 @@ weight: 1
 
 # Big image on first page.
 front_image: "hockey_024_arenas_8x.jpg" # Replace with the real image
-front_caption_headline: "Ullamcorper Condimentum Tortor Parturient"
-front_caption_text: "Donec id elit non mi porta gravida at eget metus."
+front_caption_headline: ""
+front_caption_text: ""
 
 # Change to true if this exhibit is currently running.
 current: false
