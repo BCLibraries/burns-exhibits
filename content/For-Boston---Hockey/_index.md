@@ -12,7 +12,7 @@ date: 2021-08-11T11:38:11-04:00
 weight: 1 
 
 # Big image on first page.
-front_image: "intro-image.jpg" # Replace with the real image
+front_image: "hockey_024_arenas_8x.jpg" # Replace with the real image
 front_caption_headline: "Ullamcorper Condimentum Tortor Parturient"
 front_caption_text: "Donec id elit non mi porta gravida at eget metus."
 
