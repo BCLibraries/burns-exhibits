@@ -31,12 +31,12 @@ Boston College President's Office records [(BC1986-020C)]([(BC1987-012)](https:/
 
 Willliam J. Flynn papers [(BC1997-007)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021)
 
-__Heading__
-
-Last, First M. *[Title of resource](https://link-to-resource.edu)*. Place of pub: Publisher, Year.
-
-*[The Heights](https://newspapers.bc.edu)*.
+__Published Material:__
 
 Burke and Oslin. *[Tales from the Boston College Hockey Locker Room : a Collection of the Greatest Eagles Hockey Stories Ever Told](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21478009400001021)*. New York: Sports Publishing, 2014.
 
 Hasenfus. *[Athletics at Boston College](https://catalog.hathitrust.org/Record/102437415)*. Heffernan Press, 1943.
+
+*[The Heights](https://newspapers.bc.edu)*.
+
+*[Sub Turri](https://archive.org/details/subturri)*.
