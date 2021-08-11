@@ -14,7 +14,7 @@ weight: 1
 # Big image on first page.
 front_image: "hockey_024_arenas_8x.jpg" # Replace with the real image
 front_caption_headline: ""
-front_caption_text: "Alumni Field, 1915. Location of inter-class games and team practices, now occupied by McElroy Commons, Stokes Hall, and the Campus Green"
+front_caption_text: "Alumni Field,1915. Location of inter-class games and team practices, now occupied by McElroy Commons, Stokes Hall, and the Campus Green"
 
 # Change to true if this exhibit is currently running.
 current: false
