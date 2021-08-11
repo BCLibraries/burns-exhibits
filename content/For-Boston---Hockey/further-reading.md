@@ -15,7 +15,8 @@ type: "exhibit"
 
 {{% figure src="hockey-monan.jpg" headline="Photograph of J. Donald Monan, SJ, Eagles hockey fan and President of Boston College 1972-1996, undated" size="x-large" %}}
 
-Collection Used: 
+Collections Used:
+ 
 Boston College artifacts collection (BC1989-059)
 
 Boston College athletic photographs [(BC1986-019)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021)
@@ -36,7 +37,7 @@ Last, First M. *[Title of resource](https://link-to-resource.edu)*. Place of pub
 
 *[Newspaper title](https://link-to-resource.edu)*. “Article Title” Date, Year.
 
-Last, First M. *[Title of resource](https://link-to-resource)*. Place of pub: Publisher, Year.
+Burke and Oslin. *[Tales from the Boston College Hockey Locker Room : a Collection of the Greatest Eagles Hockey Stories Ever Told](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21478009400001021)*. New York: Sports Publishing, 2014.
 
 Last, First M. *[Title of resource](https://link-to-resource.edu)*. Place of pub: Publisher, Year.
 
