@@ -15,7 +15,7 @@ type: "exhibit"
 
 Sponsored by Boston College Libraries
 
-Curator(s): Shelley Barber, Outreach & Reference Specialist, Burns Library
+Curator: Shelley Barber, Outreach & Reference Specialist, Burns Library
 
 Graphic Design: Kate Edrington, Administrative Assistant, Burns Library
 
