@@ -15,10 +15,8 @@ type: "exhibit"
 
 Sponsored by Boston College Libraries
 
-Curator(s): Person, Title
+Curator(s): Shelley Barber, Outreach & Reference Specialist, Burns Library
 
-Person, Title
+Graphic Design: Kate Edrington, Administrative Assistant, Burns Library
 
-Person, Title
-
-Originally displayed: Location, Month - Month 2017
+Originally displayed: Gargan Hall, January - April, 2018
