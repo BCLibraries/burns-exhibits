@@ -20,7 +20,7 @@ front_caption_text: ""
 current: false
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
