@@ -3,7 +3,7 @@
 title: "Introduction"
 
 # Title of exhibit
-exhibit_title: "The Romance of Books"
+exhibit_title: "Ferocious Females"
 exhibit_subtitle: "A Diversion from Everyday Life"
 
 date: 2021-06-08T11:42:40-04:00
