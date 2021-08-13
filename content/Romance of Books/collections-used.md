@@ -1,28 +1,34 @@
 ---
 # Title of page
-title: "Credits"
+title: "Collections Used"
 description: ""
 
 # Page order (1 is 1st page, etc.)
-weight: 1000
+weight: 999
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
 
-Sponsored by Boston College Libraries
+Boston
 
-Curator: Shelley Barber, Outreach & Reference Specialist, John J. Burns Library
+British Catholic Authors
 
-Graphic design: Kate Edrington, Administrative Assistant, Burns Library
+Fine Print
 
-Originally displayed: Gargan Hall Landing, Spring 2019
+Irish
 
-{{< largefigure src="006romance frontispiece.jpg"
-                headline="Frontispiece"
+Kings Land
+
+Liturgy & Life
+
+Williams
+
+{{< largefigure src="006romance ill 1.jpg"
+                headline="Illustration"
                 description="Thackeray. *[Rebecca and Rowena: A Romance upon Romance.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21324882630001021)* London: Chapman and Hall, 1850."
                 size="large" align="center" >}}
 

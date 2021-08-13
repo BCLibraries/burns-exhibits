@@ -3,16 +3,18 @@
 title: "Introduction"
 
 # Title of exhibit
-exhibit_title: "Ferocious Females"
-exhibit_subtitle: "Tracing Mythological, Magical, and Monstrous Women"
+exhibit_title: "The Romance of Books"
+exhibit_subtitle: "A Diversion from Everyday Life"
 
-date: 2021-05-16T12:49:20-04:00
+date: 2021-06-08T11:42:40-04:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1 
 
 # Big image on first page.
-front_image: "ff4.png"
+front_image: "Romance shelfie.jpg" # Replace with the real image
+front_caption_headline: ""
+front_caption_text: ""
 
 # Change to true if this exhibit is currently running.
 current: false
@@ -23,19 +25,8 @@ draft: false
 type: "exhibit"
 ---
 
-Depictions of women in Western myth and literature have ranged from distressed damsels to avenging angels with all manner of slimy seductresses in between. Women with snakes as hair, women with scaled tails and enchanting voices, and women with deals with the devil are just a few manifestations of ferocious females over time.
+Many of us are familiar with romance as a concept of romantic love, but what if we looked at it in a different way? In literature, romance can be associated with adventure and things remote from everyday life. It evokes glamour, allure, and mystique, qualities of excitement.
 
-For a window into varying cultural interpretations of women, we decided to start with a master symbolist: Glancy William Patten. Patten, a Boston architect, spent much of his time collecting and arranging information on the symbolism of animals, plants, people, and more. He gathered information from books, newspapers, pamphlets, and other sources to put together a homemade encyclopedia. As a result, his DIY encyclopedia contains over 3,000 entries and their possible definitions. Beginning with his numerous, yet nowhere near exhaustive definitions provides us a common starting point for each symbolic woman. From there, we hope to expand, challenge, and deconstruct previous notions of womanhood.
+In addition to the expected tales of romantic love, Burns Library’s romances are convenient, armchair travel introductions to faraway places and cultures. On display are a few examples of the many Burns Library books that include the word “romance” in the title or subtitle.
 
-On Patten’s encyclopedia page on “Women,” a few of the definitions read: 
-“ally and satellite of the devil”,
-“seductive influence has been the cause of most of the social, political, and domestic intrigues that destroyed the peace of the world”,
-“the feminine principle accused of being chaos, giving birth to the world, bestowing the apple of discord and stirring things up generally whenever she ceases to be quiescent. She amuses, entertains, annoying, delights, destroys; is capable of wild and unreasoned malevolence; has steadfast patient endurance -- and carries the world on her back”, and
-“Motherhood. Supreme good on Earth. Temptation” 
-
-In myths and literature we see those characteristics and definitions of women exaggerated to the utmost extreme. Underlying these definitions is a strong, influential power that is both intriguing and exciting. We want to tap into that power, to understand both how it was originally interpreted and how it has been/can be reclaimed. The action of classifying these women symbols into categories inherently takes power away from them, confining them to merely their designed role. However, by critically examining how similar mythical figures arose in similar ways throughout different Western traditions, we can begin to push past the boundaries of socially-constructed borders, binaries, and beliefs.
-
-{{< largefigure src="060-Ferocious_Females-White.jpg"
-                headline=""
-                size="large" align="center" >}}
-{{< /largefigure >}}
+If you were going to lose yourself for hours, exploring a different place and time through the pages of a book - no passport or travel required - what would your romance be?

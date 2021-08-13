@@ -6,7 +6,7 @@ title: "Introduction"
 exhibit_title: "The Romance of Books"
 exhibit_subtitle: "A Diversion from Everyday Life"
 
-date: 2021-06-08T11:42:40-04:00
+date: 2021-08-13T11:42:40-04:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1 
