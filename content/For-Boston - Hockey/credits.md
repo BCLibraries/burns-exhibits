@@ -25,7 +25,7 @@ Originally displayed: Gargan Hall, January - April, 2018
 
 {{< galleryfigure src="hockey_004_SubTurri_4x3.jpg"
            headline="Caricature of Ralph A. Rochette, BC class of 1919">}}
-           description="Boston College, Sub Turri, LD478 .S8 REF
+
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="hockey_003_SubTurri_4x3.jpg"
