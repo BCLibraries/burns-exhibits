@@ -31,7 +31,7 @@ Originally displayed: Gargan Hall, January - April, 2018
            headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="hockey_003_SubTurri_4x3.jpg"
+{{< galleryfigure src="hockey_002_SubTurri_3x4.jpg"
            headline="Amet Pellentesque" >}}
 {{< /galleryfigure >}}
 
