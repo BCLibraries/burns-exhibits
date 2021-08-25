@@ -13,7 +13,10 @@ draft: true
 type: "exhibit"
 ---
 
-{{% figure src="hockey-monan.jpg" headline="Photograph of J. Donald Monan, SJ, Eagles hockey fan and President of Boston College 1972-1996, undated" size="x-large" %}}
+{{< largefigure src="hockey-monan.jpg"
+                headline=""
+                size="large" align="center" >}}
+{{< /largefigure >}}
 
 __Collections Used:__
  
