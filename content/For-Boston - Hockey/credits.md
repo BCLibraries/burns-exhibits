@@ -24,15 +24,15 @@ Originally displayed: Gargan Hall, January - April, 2018
 {{< galleryrow >}}
 
 {{< galleryfigure src="hockey_004_SubTurri_4x3.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+           headline="Ralph A. Rochette, BC 1919">}} 
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="hockey_003_SubTurri_4x3.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Walter A. Falvey, BC 1919">}}
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="hockey_001_SubTurri_4x3.jpg"
-           headline="Amet Pellentesque" >}}
+           headline="J. Paul Lynch, BC 1918" >}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
