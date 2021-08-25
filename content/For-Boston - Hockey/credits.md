@@ -24,15 +24,16 @@ Originally displayed: Gargan Hall, January - April, 2018
 {{< galleryrow >}}
 
 {{< galleryfigure src="hockey_004_SubTurri_4x3.jpg"
-           headline="Ralph A. Rochette, BC 1919">}} 
+           headline="Caricature of Ralph A. Rochette, BC class of 1919">}}
+           description="Boston College, Sub Turri, LD478 .S8 REF
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="hockey_003_SubTurri_4x3.jpg"
-           headline="Walter A. Falvey, BC 1919">}}
+           headline="Caricature of Walter A. Falvey, BC class of 1919">}}
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="hockey_001_SubTurri_4x3.jpg"
-           headline="J. Paul Lynch, BC 1918" >}}
+           headline="Caricature of J. Paul Lynch, BC class of 1918" >}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
