@@ -61,6 +61,20 @@ Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget m
 Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
 {{< /largefigure >}}
 
+{{< largefigure src="hockey_019_arenas_8x10.jpg"
+                headline="Venenatis Euismod Tristique"
+                size="medium"
+                align="left" >}}
+Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+{{< /largefigure >}}
+
+{{< largefigure src="hockey_035_Heights_.jpg"
+                headline="Venenatis Euismod Tristique"
+                size="medium"
+                align="right" >}}
+Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+{{< /largefigure >}}
+
 {{< largefigure src="../intro-image.jpg"
                 headline="Venenatis Euismod Tristique"
                 description="Dapibus Vulputate Sollicitudin Cras"
