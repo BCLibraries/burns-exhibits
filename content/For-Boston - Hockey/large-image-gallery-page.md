@@ -106,7 +106,7 @@ Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget m
 {{< largefigure src="hockey_020_arenas_8x10.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
-                align="left" >}}
+                align="right" >}}
 Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
 {{< /largefigure >}}
 
