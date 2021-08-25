@@ -36,9 +36,3 @@ BC’s hockey traditions include games against near-neighbor and hockey archriva
 This exhibit is a sampling of materials held by the Boston College Archives. They were created by students and alumni, faculty and administrators, managers and marketers – Superfans!
  
 How can you find these items? Much can be viewed online, including Sub Turri and The Heights. Many photographs are available online and those that are not may be used in the Burns Library. Collections of artifacts, programs, and correspondence are also available on request. Have questions? Contact us.
-
-
-# Big image on first page.
-front_image: "hockey_023_arenas_8x.jpg" # Replace with the real image
-front_caption_headline: ""
-front_caption_text: "Alumni Field,1915. Location of inter-class games and team practices, now occupied by McElroy Commons, Stokes Hall, and the Campus Green"
