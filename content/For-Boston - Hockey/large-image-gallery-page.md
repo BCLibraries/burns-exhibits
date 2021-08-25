@@ -75,7 +75,7 @@ Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget m
 Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
 {{< /largefigure >}}
 
-{{< largefigure src="../intro-image.jpg"
+{{< largefigure src="hockey_036_Heights_.jpg"
                 headline="Venenatis Euismod Tristique"
                 description="Dapibus Vulputate Sollicitudin Cras"
                 size="x-large" >}}
