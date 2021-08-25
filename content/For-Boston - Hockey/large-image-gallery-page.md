@@ -50,14 +50,14 @@ Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget m
 {{< largefigure src="hockey_041_alumni_10x8.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
-                align="left" >}}
+                align="right" >}}
 Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_018_MIH_11x.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
-                align="right" >}}
+                align="left" >}}
 Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
 {{< /largefigure >}}
 
