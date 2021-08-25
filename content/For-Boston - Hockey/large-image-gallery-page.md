@@ -12,7 +12,7 @@ draft: true
 type: "exhibit"
 ---
 
-{{< largefigure src="../intro-image.jpg"
+{{< largefigure src="hockey_025_teams_1896-1897_10x.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="left" >}}
