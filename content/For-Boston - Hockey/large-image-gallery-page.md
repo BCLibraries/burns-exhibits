@@ -131,6 +131,20 @@ Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget m
 Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
 {{< /largefigure >}}
 
+{{< largefigure src="hockey_038_york_8x10.jpg"
+                headline="Venenatis Euismod Tristique"
+                size="medium"
+                align="left" >}}
+Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+{{< /largefigure >}}
+
+{{< largefigure src="hockey_037_york_7x5.jpg"
+                headline="Venenatis Euismod Tristique"
+                size="medium"
+                align="right" >}}
+Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+{{< /largefigure >}}
+
 {{< largefigure src="../portrait-image.jpg"
                 headline="Venenatis Euismod Tristique"
                 description="Fringilla Quam Consectetur Commodo" 
