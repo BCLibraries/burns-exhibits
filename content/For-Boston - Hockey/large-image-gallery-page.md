@@ -26,7 +26,7 @@ Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget m
 Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
 {{< /largefigure >}}
 
-{{< largefigure src="../intro-image.jpg"
+{{< largefigure src="hockey_026_teams_1923_8x.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="left" >}}
