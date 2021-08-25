@@ -17,6 +17,6 @@ Sponsored by Boston College Libraries
 
 Curator: Shelley Barber, Outreach & Reference Specialist, Burns Library
 
-Graphic Design: Kate Edrington, Administrative Assistant, Burns Library
+Graphic Design: Kate Edrington, Multimedia & Administrative Specialist, Burns Library
 
 Originally displayed: Gargan Hall, January - April, 2018
