@@ -20,3 +20,19 @@ Curator: Shelley Barber, Outreach & Reference Specialist, Burns Library
 Graphic Design: Kate Edrington, Multimedia & Administrative Specialist, Burns Library
 
 Originally displayed: Gargan Hall, January - April, 2018
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="hockey_004_SubTurri_4x3.jpg"
+           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="hockey_003_SubTurri_4x3.jpg"
+           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="hockey_003_SubTurri_4x3.jpg"
+           headline="Amet Pellentesque" >}}
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
