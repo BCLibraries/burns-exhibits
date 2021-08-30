@@ -97,84 +97,85 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_029_1949_8x10.jpg"
-                headline="Venenatis Euismod Tristique"
+                headline="1949 campus celebration for the National Championship team, including Master of Ceremonies Paul Dunbar, coach John “Snooks” Kelley, goalie Bernie Burke, Moderator of Athletics, Maurice Dullea, SJ, and Walter Brown (seated)"
                 size="medium"
                 align="left" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_020_arenas_8x10.jpg"
-                headline="Venenatis Euismod Tristique"
+                headline="McHugh Forum interior, undated"
                 size="medium"
                 align="right" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_021_arenas_8x10.jpg"
-                headline="Venenatis Euismod Tristique"
+                headline="McHugh Forum just after completion, 1958"
                 size="medium"
                 align="l" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_014_MIH_11x.jpg"
-                headline="Venenatis Euismod Tristique"
+                headline="Game program and schedule, 1961-1962"
                 size="medium"
                 align="right" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_015_MIH_11x8.jpg"
-                headline="Venenatis Euismod Tristique"
+                headline="Beanpot tournament program, 1965"
                 size="medium"
                 align="left" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_038_york_8x10.jpg"
-                headline="Venenatis Euismod Tristique"
+                headline="Photograph of players Pat Murphy, Ralph Toran, and Jerry York at the Pike’s Peak Hockey Club dinner, 1965"
                 size="medium"
                 align="left" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_037_york_7x5.jpg"
-                headline="Venenatis Euismod Tristique"
+                headline="A page from the hockey fact book, 1966-1967"
                 size="medium"
                 align="right" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_016_MIH_11x8.5.jpg"
-                headline="Venenatis Euismod Tristique"
+                headline="ECAC championship tournament program, 1967"
                 size="medium"
                 align="left" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="SnooksBC2002-018Box5.jpg"
-                headline="Venenatis Euismod Tristique"
+                headline="“Snooks” Kelley pinback button, undated"
                 size="medium"
                 align="right" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_028_snooks_10x8.jpg"
-                headline="Venenatis Euismod Tristique"
+                headline="Menu page from the program for the celebration of Coach John “Snooks” Kelley at his retirement, 1972"
                 size="medium"
                 align="left" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_022_arenas.jpg"
-                headline="Venenatis Euismod Tristique"
+                headline="Kelley Rink at Conte Forum, illustration from the invitation to its dedication, 1989"
                 size="medium"
                 align="right" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_017_MIH_11x.jpg"
-                headline="Venenatis Euismod Tristique"
+                headline="Beanpot tournament program, 1991
+"
                 size="medium"
                 align="left" >}}
 
