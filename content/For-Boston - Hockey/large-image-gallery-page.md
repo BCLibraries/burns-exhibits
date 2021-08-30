@@ -20,7 +20,7 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="Wright Ditson.jpg"
-                headline="Venenatis Euismod Tristique"
+                headline="Wright & Ditson store advertisement, 1919"
                 size="medium"
                 align="right" >}}
 
