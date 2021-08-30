@@ -33,19 +33,13 @@ type: "exhibit"
 
 {{< /largefigure >}}
 
-{{< largefigure src="AthleticPrograms_schedule1928-29 - Copy.jpg"
+{{< largefigure src="1928-1929 AthleticPrograms.jpg"
                 headline="Season schedule, 1928-1929"
                 size="medium"
                 align="left" >}}
 
 {{< /largefigure >}}
 
-{{< largefigure src="verso AthleticPrograms_schedule1928-29.jpg"
-                headline="Season schedule, 1928-1929"
-                size="medium"
-                align="l" >}}
-
-{{< /largefigure >}}
 
 {{< largefigure src="hockey_041_alumni_10x8.jpg"
                 headline="Rejected proposal by the Hockey Graduate Board to fund the 1929-1930 season which was cancelled due to the Great Depression, 1929"
