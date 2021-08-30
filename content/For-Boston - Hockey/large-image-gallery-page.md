@@ -83,14 +83,14 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_027_teams_1949_8x.jpg"
-                headline="Venenatis Euismod Tristique"
+                headline="U.S. College Hockey NCAA Championship Team, 1949"
                 size="medium"
                 align="left" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_030_1949_8x10.jpg"
-                headline="Venenatis Euismod Tristique"
+                headline="Giles Threadgold, Bernie Burke, Len Ceglarski, and coach “Snooks” Kelley getting ready to travel to the national championship in Colorado, 1949"
                 size="medium"
                 align="right" >}}
 
