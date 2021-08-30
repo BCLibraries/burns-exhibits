@@ -16,20 +16,20 @@ type: "exhibit"
                 headline="1896-1897 Ice Polo Team"
                 size="medium"
                 align="left" >}}
-1896-1897 Ice Polo Team
+
 {{< /largefigure >}}
 
 {{< largefigure src="Wright Ditson.jpg"
                 headline="Wright & Ditson store advertisement, 1919"
                 size="medium"
-                align="right" >}}
+                align="left" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_026_teams_1923_8x.jpg"
                 headline="Intercollegiate Hockey Championship Team, 1923"
                 size="medium"
-                align="right" >}}
+                align="left" >}}
 
 {{< /largefigure >}}
 
