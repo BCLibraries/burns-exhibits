@@ -174,29 +174,28 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_017_MIH_11x.jpg"
-                headline="Beanpot tournament program, 1991
-"
+                headline="Beanpot tournament program, 1991"
                 size="medium"
                 align="left" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_011_WIH_11x8.5.jpg"
-                headline="Venenatis Euismod Tristique"
+                headline="Beanpot tournament program, 2014"
                 size="medium"
                 align="right" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_010_WIH_11x8.5.jpg"
-                headline="Venenatis Euismod Tristique"
+                headline="Frozen Four tournament program, 2007"
                 size="medium"
                 align="left" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_039_york_11x8.5.jpg"
-                headline="Venenatis Euismod Tristique"
+                headline="Autographed box score of the game which made Jerry York (BC ’67) the winningest coach in college hockey history with number 925, December 29, 2012"
                 size="medium"
                 align="right" >}}
 
