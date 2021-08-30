@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Gallery"
 description: ""
 
 # Page order (1 is 1st page, etc.)
