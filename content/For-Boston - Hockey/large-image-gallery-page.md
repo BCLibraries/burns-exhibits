@@ -98,14 +98,14 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_020_arenas_8x10.jpg"
-                headline="McHugh Forum interior under construction, undated"
+                headline="McHugh Forum interior under construction, undated, Box 7, Folder 8, Boston College athletic photographs [(BC1986-019)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021)"
                 size="medium"
                 align="left" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_021_arenas_8x10.jpg"
-                headline="McHugh Forum just after completion, 1958"
+                headline="McHugh Forum just after completion, 1958, Box 7, Folder 1, Boston College athletic photographs [(BC1986-019)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021)"
                 size="medium"
                 align="l" >}}
 
