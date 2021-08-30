@@ -119,7 +119,7 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_015_MIH_11x8.jpg"
-                headline="Beanpot tournament program, 1965, Box 40, Boston College athletic programs [(BC1997-006)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021)""
+                headline="Beanpot tournament program, 1965, Box 40, Boston College athletic programs [(BC1997-006)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021)"
                 size="medium"
                 align="left" >}}
 
