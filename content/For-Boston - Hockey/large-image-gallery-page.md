@@ -49,7 +49,7 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_018_MIH_11x.jpg"
-                headline="Boston Arena game program, 1932-1933"
+                headline="Boston Arena game program, 1932-1933,  Box 40, Boston College athletic programs [(BC1997-006)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021)""
                 size="medium"
                 align="left" >}}
 
@@ -98,14 +98,14 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_020_arenas_8x10.jpg"
-                headline="McHugh Forum interior under construction, undated, Box 7, Folder 8, Boston College athletic photographs [(BC1986-019)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021)"
+                headline="McHugh Forum interior under construction, undated, Box 7, Folder 8, Boston College building and campus images [(BC1987-012)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)"
                 size="medium"
                 align="left" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_021_arenas_8x10.jpg"
-                headline="McHugh Forum just after completion, 1958, Box 7, Folder 1, Boston College athletic photographs [(BC1986-019)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021)"
+                headline="McHugh Forum just after completion, 1958, Box 7, Folder 1, Boston College building and campus images [(BC1987-012)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)"
                 size="medium"
                 align="l" >}}
 
@@ -119,7 +119,7 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_015_MIH_11x8.jpg"
-                headline="Beanpot tournament program, 1965"
+                headline="Beanpot tournament program, 1965, Box 40, Boston College athletic programs [(BC1997-006)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021)""
                 size="medium"
                 align="left" >}}
 
