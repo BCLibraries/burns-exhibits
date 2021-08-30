@@ -13,10 +13,10 @@ type: "exhibit"
 ---
 
 {{< largefigure src="hockey_025_teams_1896-1897_10x.jpg"
-                headline="Venenatis Euismod Tristique"
+                headline="1896-1897 Ice Polo Team"
                 size="medium"
                 align="left" >}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+1896-1897 Ice Polo Team
 {{< /largefigure >}}
 
 {{< largefigure src="Wright Ditson.jpg"
