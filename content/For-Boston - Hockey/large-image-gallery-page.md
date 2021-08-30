@@ -1,5 +1,5 @@
 ---
-title: "Gallery"
+title: "Hockey History Images"
 description: ""
 
 # Page order (1 is 1st page, etc.)
@@ -98,7 +98,7 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_020_arenas_8x10.jpg"
-                headline="McHugh Forum interior, undated"
+                headline="McHugh Forum interior under construction, undated"
                 size="medium"
                 align="left" >}}
 
