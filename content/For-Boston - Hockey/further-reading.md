@@ -14,7 +14,7 @@ type: "exhibit"
 ---
 
 {{< largefigure src="hockey-monan.jpg"
-                headline=""
+                headline="J. Donald Monan, SJ, Eagles hockey fan, and President of Boston College 1972-1996, undated"
                 size="large" align="center" >}}
 {{< /largefigure >}}
 
