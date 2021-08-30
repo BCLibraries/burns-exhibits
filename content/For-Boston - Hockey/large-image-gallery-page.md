@@ -37,7 +37,7 @@ type: "exhibit"
                 headline="Season schedule, 1928-1929"
                 size="medium"
                 align="left" >}}
-
+Box 40, Boston College athletic programs [(BC1997-006)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021)
 {{< /largefigure >}}
 
 
