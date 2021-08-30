@@ -86,7 +86,7 @@ type: "exhibit"
 {{< largefigure src="hockey_030_1949_8x10.jpg"
                 headline="Giles Threadgold, Bernie Burke, Len Ceglarski, and coach “Snooks” Kelley getting ready to travel to the national championship in Colorado, 1949"
                 size="medium"
-                align="right" >}}
+                align="left" >}}
 
 {{< /largefigure >}}
 
@@ -100,7 +100,7 @@ type: "exhibit"
 {{< largefigure src="hockey_020_arenas_8x10.jpg"
                 headline="McHugh Forum interior, undated"
                 size="medium"
-                align="right" >}}
+                align="left" >}}
 
 {{< /largefigure >}}
 
@@ -114,7 +114,7 @@ type: "exhibit"
 {{< largefigure src="hockey_014_MIH_11x.jpg"
                 headline="Game program and schedule, 1961-1962"
                 size="medium"
-                align="right" >}}
+                align="left" >}}
 
 {{< /largefigure >}}
 
@@ -135,7 +135,7 @@ type: "exhibit"
 {{< largefigure src="hockey_037_york_7x5.jpg"
                 headline="A page from the hockey fact book, 1966-1967"
                 size="medium"
-                align="right" >}}
+                align="left" >}}
 
 {{< /largefigure >}}
 
@@ -149,7 +149,7 @@ type: "exhibit"
 {{< largefigure src="SnooksBC2002-018Box5.jpg"
                 headline="“Snooks” Kelley pinback button, undated"
                 size="medium"
-                align="right" >}}
+                align="left" >}}
 
 {{< /largefigure >}}
 
@@ -163,7 +163,7 @@ type: "exhibit"
 {{< largefigure src="hockey_022_arenas.jpg"
                 headline="Kelley Rink at Conte Forum, illustration from the invitation to its dedication, 1989"
                 size="medium"
-                align="right" >}}
+                align="left" >}}
 
 {{< /largefigure >}}
 
@@ -177,7 +177,7 @@ type: "exhibit"
 {{< largefigure src="hockey_011_WIH_11x8.5.jpg"
                 headline="Beanpot tournament program, 2014"
                 size="medium"
-                align="right" >}}
+                align="left" >}}
 
 {{< /largefigure >}}
 
@@ -191,6 +191,6 @@ type: "exhibit"
 {{< largefigure src="hockey_039_york_11x8.5.jpg"
                 headline="Autographed box score of the game which made Jerry York (BC ’67) the winningest coach in college hockey history with number 925, December 29, 2012"
                 size="medium"
-                align="right" >}}
+                align="left" >}}
 
 {{< /largefigure >}}
