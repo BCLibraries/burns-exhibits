@@ -71,8 +71,8 @@ type: "exhibit"
 
 {{< largefigure src="hockey_036_Heights_.jpg"
                 headline="The 1953-1954 hockey team, cartoon from The Heights, 1954"
-                description=""
-                size="x-large" >}}
+				size="medium"
+                align="left" >}}
 
 {{< /largefigure >}}
 
