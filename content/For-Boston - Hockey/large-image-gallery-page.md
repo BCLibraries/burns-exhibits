@@ -50,7 +50,7 @@ type: "exhibit"
 {{< largefigure src="hockey_041_alumni_10x8.jpg"
                 headline="Rejected proposal by the Hockey Graduate Board to fund the 1929-1930 season which was cancelled due to the Great Depression, 1929"
                 size="medium"
-                align="right" >}}
+                align="left" >}}
 
 {{< /largefigure >}}
 
@@ -62,22 +62,22 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_019_arenas_8x10.jpg"
-                headline="Venenatis Euismod Tristique"
+                headline="Boston Arena, 1951"
                 size="medium"
                 align="left" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_035_Heights_.jpg"
-                headline="Venenatis Euismod Tristique"
+                headline="“Snooks” Kelley, cartoon from The Heights, 1953"
                 size="medium"
-                align="right" >}}
+                align="left" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_036_Heights_.jpg"
-                headline="Venenatis Euismod Tristique"
-                description="Dapibus Vulputate Sollicitudin Cras"
+                headline="The 1953-1954 hockey team, cartoon from The Heights, 1954"
+                description=""
                 size="x-large" >}}
 
 {{< /largefigure >}}
@@ -86,117 +86,117 @@ type: "exhibit"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="left" >}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_030_1949_8x10.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="right" >}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_029_1949_8x10.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="left" >}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_020_arenas_8x10.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="right" >}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_021_arenas_8x10.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="l" >}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_014_MIH_11x.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="right" >}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_015_MIH_11x8.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="left" >}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_038_york_8x10.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="left" >}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_037_york_7x5.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="right" >}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_016_MIH_11x8.5.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="left" >}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+
 {{< /largefigure >}}
 
 {{< largefigure src="SnooksBC2002-018Box5.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="right" >}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_028_snooks_10x8.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="left" >}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_022_arenas.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="right" >}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_017_MIH_11x.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="left" >}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_011_WIH_11x8.5.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="right" >}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_010_WIH_11x8.5.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="left" >}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_039_york_11x8.5.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="right" >}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+
 {{< /largefigure >}}
