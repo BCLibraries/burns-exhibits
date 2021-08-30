@@ -49,7 +49,7 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_018_MIH_11x.jpg"
-                headline="Boston Arena game program, 1932-1933,  Box 40, Boston College athletic programs [(BC1997-006)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021)""
+                headline="Boston Arena game program, 1932-1933,  Box 40, Boston College athletic programs [(BC1997-006)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021)"
                 size="medium"
                 align="left" >}}
 
