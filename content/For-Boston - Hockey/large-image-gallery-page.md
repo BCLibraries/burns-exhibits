@@ -42,7 +42,7 @@ type: "exhibit"
 
 
 {{< largefigure src="hockey_041_alumni_10x8.jpg"
-                headline="Rejected proposal by the Hockey Graduate Board to fund the 1929-1930 season which was cancelled due to the Great Depression, 1929"
+                headline="Rejected proposal by the Hockey Graduate Board to fund the 1929-1930 season which was cancelled due to the Great Depression, 1929, Box 4, Folder 29, Boston College President's Office records [(BC1986-020C)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21331160510001021)"
                 size="medium"
                 align="left" >}}
 
@@ -84,14 +84,14 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_030_1949_8x10.jpg"
-                headline="Giles Threadgold, Bernie Burke, Len Ceglarski, and coach “Snooks” Kelley getting ready to travel to the national championship in Colorado, 1949"
+                headline="Giles Threadgold, Bernie Burke, Len Ceglarski, and coach “Snooks” Kelley getting ready to travel to the national championship in Colorado, 1949, Box 13, Boston College athletic photographs [(BC1986-019)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021)"
                 size="medium"
                 align="left" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_029_1949_8x10.jpg"
-                headline="1949 campus celebration for the National Championship team, including Master of Ceremonies Paul Dunbar, coach John “Snooks” Kelley, goalie Bernie Burke, Moderator of Athletics, Maurice Dullea, SJ, and Walter Brown (seated)"
+                headline="1949 campus celebration for the National Championship team, including Master of Ceremonies Paul Dunbar, coach John “Snooks” Kelley, goalie Bernie Burke, Moderator of Athletics, Maurice Dullea, SJ, and Walter Brown (seated), Box 13, Boston College athletic photographs [(BC1986-019)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021)"
                 size="medium"
                 align="left" >}}
 
