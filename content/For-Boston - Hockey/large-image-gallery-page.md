@@ -126,21 +126,21 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_038_york_8x10.jpg"
-                headline="Photograph of players Pat Murphy, Ralph Toran, and Jerry York at the Pike’s Peak Hockey Club dinner, 1965"
+                headline="Photograph of players Pat Murphy, Ralph Toran, and Jerry York at the Pike’s Peak Hockey Club dinner, 1965, Box 47, Boston College athletic photographs [(BC1986-019)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021)"
                 size="medium"
                 align="left" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_037_york_7x5.jpg"
-                headline="A page from the hockey fact book, 1966-1967"
+                headline="A page from the hockey fact book, 1966-1967, Box 40, Boston College athletic programs [(BC1997-006)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021)"
                 size="medium"
                 align="left" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_016_MIH_11x8.5.jpg"
-                headline="ECAC championship tournament program, 1967"
+                headline="ECAC championship tournament program, 1967, Box 40, Boston College athletic programs [(BC1997-006)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021)"
                 size="medium"
                 align="left" >}}
 
@@ -154,7 +154,7 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_028_snooks_10x8.jpg"
-                headline="Menu page from the program for the celebration of Coach John “Snooks” Kelley at his retirement, 1972"
+                headline="Menu page from the program for the celebration of Coach John “Snooks” Kelley at his retirement, 1972, Box 40, Boston College athletic programs [(BC1997-006)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021)"
                 size="medium"
                 align="left" >}}
 
@@ -168,21 +168,21 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_017_MIH_11x.jpg"
-                headline="Beanpot tournament program, 1991"
+                headline="Beanpot tournament program, 1991, Box 43, Boston College athletic programs [(BC1997-006)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021)"
                 size="medium"
                 align="left" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_011_WIH_11x8.5.jpg"
-                headline="Beanpot tournament program, 2014"
+                headline="Beanpot tournament program, 2014, Box 49, Boston College athletic programs [(BC1997-006)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021)"
                 size="medium"
                 align="left" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_010_WIH_11x8.5.jpg"
-                headline="Frozen Four tournament program, 2007"
+                headline="Frozen Four tournament program, 2007, Box 49, Boston College athletic programs [(BC1997-006)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021)"
                 size="medium"
                 align="left" >}}
 
