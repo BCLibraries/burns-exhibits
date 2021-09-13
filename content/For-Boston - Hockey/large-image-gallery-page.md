@@ -77,7 +77,7 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_027_teams_1949_8x.jpg"
-                headline="U.S. College Hockey NCAA Championship Team, 1949"
+                headline="U.S. College Hockey NCAA Championship Team, 1949, Box 13, Boston College athletic photographs [(BC1986-019)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021)"
                 size="medium"
                 align="left" >}}
 
