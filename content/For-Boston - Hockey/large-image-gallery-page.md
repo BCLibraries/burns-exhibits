@@ -1,5 +1,5 @@
 ---
-title: "Hockey History Images"
+title: "Hockey History"
 description: ""
 
 # Page order (1 is 1st page, etc.)
