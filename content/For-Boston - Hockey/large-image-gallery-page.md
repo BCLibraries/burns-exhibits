@@ -13,7 +13,7 @@ type: "exhibit"
 ---
 
 {{< largefigure src="hockey_025_teams_1896-1897_10x.jpg"
-                headline="Boston College 1896-1897 Ice Polo Team"
+                headline="Boston College 1896-1897 Ice Polo Team, Boston College athletic photographs [(BC1986-019)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021)"
                 size="medium"
                 align="left" >}}
 
