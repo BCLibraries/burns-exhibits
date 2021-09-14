@@ -56,7 +56,7 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_019_arenas_8x10.jpg"
-                headline="Boston Arena, 1951"
+                headline="Boston Arena, [Sub Turri](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21387089960001021), 1951"
                 size="medium"
                 align="left" >}}
 
