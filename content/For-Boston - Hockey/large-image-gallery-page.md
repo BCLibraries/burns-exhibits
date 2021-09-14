@@ -105,7 +105,7 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_021_arenas_8x10.jpg"
-                headline="McHugh Forum just after completion, 1958, Box 7, Folder 1, Boston College building and campus images [(BC1987-012)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)"
+                headline="McHugh Forum just after completion, 1958, Box 7, Folder 1, [Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021), (BC1987-012)]"
                 size="medium"
                 align="left" >}}
 
