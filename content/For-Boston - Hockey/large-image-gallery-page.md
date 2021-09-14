@@ -20,7 +20,7 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="Wright Ditson.jpg"
-                headline="Wright & Ditson store advertisement, [Sub Turri](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21387089960001021) 1919"
+                headline="Wright & Ditson store advertisement, [Sub Turri](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21387089960001021), 1919"
                 size="medium"
                 align="left" >}}
 
