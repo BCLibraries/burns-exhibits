@@ -77,21 +77,21 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_027_teams_1949_8x.jpg"
-                headline="U.S. College Hockey NCAA Championship Team, 1949, Box 13, Boston College athletic photographs [(BC1986-019)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021)"
+                headline="U.S. College Hockey NCAA Championship Team, 1949, Box 13, [Boston College athletic photographs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021), (BC1986-019)"
                 size="medium"
                 align="left" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_030_1949_8x10.jpg"
-                headline="Giles Threadgold, Bernie Burke, Len Ceglarski, and coach “Snooks” Kelley getting ready to travel to the national championship in Colorado, 1949, Box 13, Boston College athletic photographs [(BC1986-019)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021)"
+                headline="Giles Threadgold, Bernie Burke, Len Ceglarski, and coach “Snooks” Kelley getting ready to travel to the national championship in Colorado, 1949, Box 13, [Boston College athletic photographs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021), (BC1986-019)"
                 size="medium"
                 align="left" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_029_1949_8x10.jpg"
-                headline="1949 campus celebration for the National Championship team, including Master of Ceremonies Paul Dunbar, coach John “Snooks” Kelley, goalie Bernie Burke, Moderator of Athletics, Maurice Dullea, SJ, and Walter Brown (seated), Box 13, Boston College athletic photographs [(BC1986-019)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021)"
+                headline="1949 campus celebration for the National Championship team, including Master of Ceremonies Paul Dunbar, coach John “Snooks” Kelley, goalie Bernie Burke, Moderator of Athletics, Maurice Dullea, SJ, and Walter Brown (seated), Box 13, [Boston College athletic photographs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021), (BC1986-019)"
                 size="medium"
                 align="left" >}}
 
