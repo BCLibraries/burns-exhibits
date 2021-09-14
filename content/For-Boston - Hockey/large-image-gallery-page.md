@@ -182,7 +182,7 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_010_WIH_11x8.5.jpg"
-                headline="Frozen Four tournament program, 2007, Box 49, Boston College athletic programs [(BC1997-006)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021)"
+                headline="Frozen Four tournament program, 2007, Box 49, [Boston College athletic programs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), (BC1997-006)"
                 size="medium"
                 align="left" >}}
 
