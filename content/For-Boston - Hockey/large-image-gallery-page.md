@@ -34,7 +34,7 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="1928-1929 AthleticPrograms.jpg"
-                headline="Season schedule, 1928-1929, Box 40, Boston College athletic programs [(BC1997-006)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021)"
+                headline="Season schedule, 1928-1929, Box 40, Boston College athletic programs [Boston College athletic programs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), (BC1997-006)"
                 size="medium"
                 align="left" >}}
 
@@ -49,7 +49,7 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_018_MIH_11x.jpg"
-                headline="Boston Arena game program, 1932-1933, Box 40, Boston College athletic programs [(BC1997-006)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021)"
+                headline="Boston Arena game program, 1932-1933, Box 40, Boston College athletic programs [Boston College athletic programs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), (BC1997-006)"
                 size="medium"
                 align="left" >}}
 
@@ -112,14 +112,14 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_014_MIH_11x.jpg"
-                headline="Game program and schedule, 1961-1962, Box 40, Boston College athletic programs [(BC1997-006)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021)"
+                headline="Game program and schedule, 1961-1962, Box 40, Boston College athletic programs [Boston College athletic programs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), (BC1997-006)"
                 size="medium"
                 align="left" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_015_MIH_11x8.jpg"
-                headline="Beanpot tournament program, 1965, Box 40, Boston College athletic programs [(BC1997-006)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021)"
+                headline="Beanpot tournament program, 1965, Box 40, Boston College athletic programs [Boston College athletic programs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), (BC1997-006)"
                 size="medium"
                 align="left" >}}
 
@@ -133,14 +133,14 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_037_york_7x5.jpg"
-                headline="A page from the hockey fact book, 1966-1967, Box 40, Boston College athletic programs [(BC1997-006)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021)"
+                headline="A page from the hockey fact book, 1966-1967, Box 40, Boston College athletic programs [Boston College athletic programs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), (BC1997-006)"
                 size="medium"
                 align="left" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_016_MIH_11x8.5.jpg"
-                headline="ECAC championship tournament program, 1967, Box 40, Boston College athletic programs [(BC1997-006)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021)"
+                headline="ECAC championship tournament program, 1967, Box 40, [Boston College athletic programs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), (BC1997-006)"
                 size="medium"
                 align="left" >}}
 
@@ -154,7 +154,7 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_028_snooks_10x8.jpg"
-                headline="Menu page from the program for the celebration of Coach John “Snooks” Kelley at his retirement, 1972, Box 40, Boston College athletic programs [(BC1997-006)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021)"
+                headline="Menu page from the program for the celebration of Coach John “Snooks” Kelley at his retirement, 1972, Box 40, [Boston College athletic programs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), (BC1997-006)"
                 size="medium"
                 align="left" >}}
 
@@ -168,14 +168,14 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_017_MIH_11x.jpg"
-                headline="Beanpot tournament program, 1991, Box 43, Boston College athletic programs [(BC1997-006)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021)"
+                headline="Beanpot tournament program, 1991, Box 43, [Boston College athletic programs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), (BC1997-006)"
                 size="medium"
                 align="left" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_011_WIH_11x8.5.jpg"
-                headline="Beanpot tournament program, 2014, Box 49, Boston College athletic programs [(BC1997-006)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021)"
+                headline="Beanpot tournament program, 2014, Box 49, [Boston College athletic programs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), (BC1997-006)"
                 size="medium"
                 align="left" >}}
 
