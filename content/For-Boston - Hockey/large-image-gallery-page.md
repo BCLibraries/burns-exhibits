@@ -126,7 +126,7 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_038_york_8x10.jpg"
-                headline="Photograph of players Pat Murphy, Ralph Toran, and Jerry York at the Pike’s Peak Hockey Club dinner, 1965, Box 47, Boston College athletic photographs [(BC1986-019)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021)"
+                headline="Photograph of players Pat Murphy, Ralph Toran, and Jerry York at the Pike’s Peak Hockey Club dinner, 1965, Box 47, [Boston College athletic photographs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021), (BC1986-019)"
                 size="medium"
                 align="left" >}}
 
