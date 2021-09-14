@@ -189,7 +189,7 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_039_york_11x8.5.jpg"
-                headline="Autographed box score of the game which made Jerry York (BC ’67) the winningest coach in college hockey history with number 925, December 29, 2012."
+                headline="Autographed box score of the game which made Jerry York (BC ’67) the winningest coach in college hockey history with number 925, December 29, 2012. (BC2012-001)"
                 size="medium"
                 align="left" >}}
 
