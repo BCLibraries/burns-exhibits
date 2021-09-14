@@ -70,7 +70,7 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_036_Heights_.jpg"
-                headline="The 1953-1954 hockey team, cartoon from The Heights, 1954"
+                headline="The 1953-1954 hockey team, cartoon from [The Heights](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21368974300001021), 1954"
 				size="medium"
                 align="left" >}}
 
