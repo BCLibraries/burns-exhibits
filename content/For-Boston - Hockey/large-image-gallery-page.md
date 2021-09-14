@@ -27,7 +27,7 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_026_teams_1923_8x.jpg"
-                headline="Intercollegiate Hockey Championship Team, 1923"
+                headline="Intercollegiate Hockey Championship Team, [Sub Turri](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21387089960001021), 1923"
                 size="medium"
                 align="left" >}}
 
