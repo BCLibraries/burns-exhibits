@@ -63,7 +63,7 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_035_Heights_.jpg"
-                headline="“Snooks” Kelley, cartoon from The Heights, 1953"
+                headline="“Snooks” Kelley, cartoon from [The Heights](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21368974300001021), 1953"
                 size="medium"
                 align="left" >}}
 
