@@ -147,7 +147,7 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="SnooksBC2002-018Box5.jpg"
-                headline="“Snooks” Kelley pinback button, undated"
+                headline="“Snooks” Kelley pinback button, undated (BC2002-018)"
                 size="medium"
                 align="left" >}}
 
