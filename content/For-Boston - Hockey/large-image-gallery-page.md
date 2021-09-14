@@ -98,7 +98,7 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="hockey_020_arenas_8x10.jpg"
-                headline="McHugh Forum interior under construction, undated, Box 7, Folder 8, [Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021), (BC1987-012)]"
+                headline="McHugh Forum interior under construction, undated, Box 7, Folder 8, [Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021), (BC1987-012)"
                 size="medium"
                 align="left" >}}
 
