@@ -160,13 +160,6 @@ type: "exhibit"
 
 {{< /largefigure >}}
 
-{{< largefigure src="hockey_022_arenas.jpg"
-                headline="Kelley Rink at Conte Forum, illustration from the invitation to its dedication, 1989"
-                size="medium"
-                align="left" >}}
-
-{{< /largefigure >}}
-
 {{< largefigure src="hockey_017_MIH_11x.jpg"
                 headline="Beanpot tournament program, 1991, Box 43, [Boston College athletic programs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), (BC1997-006)"
                 size="medium"
