@@ -42,7 +42,7 @@ type: "exhibit"
 
 
 {{< largefigure src="hockey_041_alumni_10x8.jpg"
-                headline="Rejected proposal by the Hockey Graduate Board to fund the 1929-1930 season which was cancelled due to the Great Depression, 1929, Box 4, Folder 29, Boston College President's Office records [(BC1986-020C)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21331160510001021)"
+                headline="Rejected proposal by the Hockey Graduate Board to fund the 1929-1930 season which was cancelled due to the Great Depression, 1929, Box 4, Folder 29, [Boston College President's Office records](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21331160510001021) (BC1986-020C)"
                 size="medium"
                 align="left" >}}
 
