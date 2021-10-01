@@ -5,7 +5,7 @@ description: ""
 
 # Page order (1 is 1st page, etc.)
 weight: 1000
-alwaysopen: true
+alwaysopen: false
 
 # Change to false to publish.
 draft: true

@@ -6,7 +6,7 @@ title: "Introduction"
 exhibit_title: "For Boston"
 exhibit_subtitle: "Echoes of Hockey History from the Boston College Archives"
 
-date: 2021-10-02T11:38:11-04:00
+date: 2021-10-01T11:38:11-04:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1 
