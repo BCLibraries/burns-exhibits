@@ -6,7 +6,7 @@ title: "Introduction"
 exhibit_title: "For Boston"
 exhibit_subtitle: "Echoes of Hockey History from the Boston College Archives"
 
-date: 2021-08-11T11:38:11-04:00
+date: 2021-10-02T11:38:11-04:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1 
@@ -20,7 +20,7 @@ front_caption_text: "Location of inter-class games and team practices, now occup
 current: false
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
