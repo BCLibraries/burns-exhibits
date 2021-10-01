@@ -8,7 +8,7 @@ weight: 1000
 alwaysopen: false
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
