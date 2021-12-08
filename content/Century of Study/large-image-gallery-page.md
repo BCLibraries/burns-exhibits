@@ -20,9 +20,9 @@ type: "exhibit"
 {{< /largefigure >}}
 
 {{< largefigure src="02_1920s_BC1987-012_1_121 (1).jpg"
-                headline="Construction temporarily stopped in 1924, but a roof was installed over the first and second floors and the building opened for use in 1925."
-                description="Box 1, Folder 121, Boston College building and campus images (BC1987-012)." 
-                size="large" align="center" >}}
+                headline="Box 1, Folder 121, Boston College building and campus images (BC1987-012)"
+                description="Construction temporarily stopped in 1924, but a roof was installed over the first and second floors and the building opened for use in 1925." 
+                size="large" align="center" >}}				
 
 {{< /largefigure >}}
 
@@ -41,9 +41,9 @@ type: "exhibit"
 
 {{< largefigure src="05_1930sBasement.jpg"
                 headline=""
-                description="First floor floorplan from Boston College Library: History and Description, 1933." 
+                description="“*[The Boston College Library: History and Description]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341858200001021)*. Boston: 1924.”" 
                 size="large" align="center" >}}
-Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+First floor floorplan, 1933.
 {{< /largefigure >}}
 
 {{< largefigure src="06_1928_BC1986-020C_1_16_A.jpg"
