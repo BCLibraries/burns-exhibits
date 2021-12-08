@@ -22,7 +22,7 @@ type: "exhibit"
 {{< largefigure src="02_1920s_BC1987-012_1_121 (1).jpg"
                 headline="Box 1, Folder 121, Boston College building and campus images (BC1987-012)"
                 description="Construction temporarily stopped in 1924, but a roof was installed over the first and second floors and the building opened for use in 1925." 
-                size="large" align="center" >}}				
+                size="large" align="center" >}}
 
 {{< /largefigure >}}
 
