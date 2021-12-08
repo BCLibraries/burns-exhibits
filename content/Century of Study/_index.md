@@ -13,9 +13,9 @@ weight: 1
 
 # Big image on first page.
 front_image: "Intro_CDM_staircase.jpg"
-front_caption_headline: ""
-front_caption_text: "Box 14, Folder 6, Boston College building and campus images (BC1987-012), Bapst Library interior: main staircase, architectural
+front_caption_headline: "Bapst Library interior: main staircase, architectural
 drawing in pencil by Maginnis and Walsh, undated."
+front_caption_text: "Box 14, Folder 6, Boston College building and campus images (BC1987-012)."
 
 # Change to true if this exhibit is currently running.
 current: false
