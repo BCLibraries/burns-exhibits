@@ -13,12 +13,13 @@ draft: true
 type: "exhibit"
 ---
 
+{{< figure src="BC1987-012_14.jpg" >}}
+
 Sponsored by Boston College Libraries
 
-Curator(s): Person, Title
+Curator: Shelley Barber, Archives & Reference Specialist
 
-Person, Title
+Designer: Kate Edrington, Multimedia & Administrative Specialist
 
-Person, Title
 
-Originally displayed: Location, Month - Month 2017
+Originally displayed: Gargan Hall landing, Spring, 2022
