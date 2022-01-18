@@ -75,7 +75,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="09_Bapst_BC2000_005_ref15_015.jpg"
-           headline="In 1952, the library building was named in honor of Boston College's first president, John Bapst, SJ (1815-1887).">}} Box 1, Folder 16, Boston College faculty and staff photographs (BC2000-005).
+           headline="In 1952, the library building was named in honor of Boston College's first president, John Bapst, SJ (1815-1887).">}} Box 1, Folder 16, *[Boston College faculty and staff photographs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21427406550001021)* (BC2000-005).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -131,7 +131,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="18_1970s_LandrethGarganHall.jpg"
-           headline="Library staff working  in Gargan Hall, undated.">}} Box 23, Folder 31, Boston College faculty and staff photographs (BC2000-005).
+           headline="Library staff working  in Gargan Hall, undated.">}} Box 23, Folder 31, *[Boston College faculty and staff photographs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21427406550001021)* (BC2000-005).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="19_1980C_BC1987-012_2_72.jpg"
