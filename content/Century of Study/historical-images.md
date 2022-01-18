@@ -158,9 +158,6 @@ type: "exhibit"
            headline="When BC alum and Speaker of the United States House of Representatives Thomas P. “Tip” O'Neill (1912-1994) retired, his Washington DC office was recreated in the newly renovated Bapst Library, 1986.">}} University Photographer's photographs and contact sheets (BC2002-025), http://hdl.handle.net/2345/6971.
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../intro-image.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
-{{< /galleryfigure >}}
 
 {{< /galleryrow >}}
 
