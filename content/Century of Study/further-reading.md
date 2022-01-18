@@ -35,14 +35,12 @@ Illuminating Stained Glass: A Self-Guided Tour of the Decorative Windows of the 
 
 __CollectionsUsed__
 
-Collections Used:
+[Boston College athletic photographs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021) (BC1986-019).
 
-[Boston College athletic photographs]((https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021) BC1986-019).
+[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021) (BC1987-012).
 
-Boston College building and campus images [(BC1987-012)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)
+[Boston College faculty and staff photographs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21427406550001021) (BC2000-005).
 
-Boston College faculty and staff photographs [(BC2000-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21427406550001021)
+[Boston College President's Office records](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21331160510001021) (BC1986-020C).
 
-Boston College President's Office records [(BC1986-020C)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21331160510001021)
-
-Boston College stock photo collection
+Boston College stock photo collection.
