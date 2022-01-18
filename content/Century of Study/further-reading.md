@@ -37,7 +37,7 @@ __CollectionsUsed__
 
 Collections Used:
 
-Boston College athletic photographs [(BC1986-019)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021)
+[Boston College athletic photographs]((https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021) BC1986-019).
 
 Boston College building and campus images [(BC1987-012)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)
 
