@@ -13,20 +13,6 @@ draft: true
 type: "exhibit"
 ---
 
-__CollectionsUsed__
-
-Collections Used:
-
-Boston College athletic photographs [(BC1986-019)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021)
-
-Boston College building and campus images [(BC1987-012)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)
-
-Boston College faculty and staff photographs [(BC2000-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21427406550001021)
-
-Boston College President's Office records [(BC1986-020C)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21331160510001021)
-
-Boston College stock photo collection
-
 __FurtherReading__
 
 “Boston College. *[The Bapst Library](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21360708570001021)*. Chestnut Hill, Mass.: Boston College, 1952.” 
@@ -47,3 +33,18 @@ Illuminating Stained Glass: A Self-Guided Tour of the Decorative Windows of the 
 “O'Neill, Robert Keating, and Burns, Brian P., donor. *[The Honorable John J. Burns Library of Rare Books and Special Collections, 1987-2013, Boston College: the First Twenty-Six Years : a Personal Account](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21549386820001021)*. Chicoutimi, Quebec: Heritage Publishing, 2020.”
 
 “Raguin, Virginia Chieffo, and Gilbert, Gary Wayne. *[Transforming Light: the Stained-Glass Windows of Boston College](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21327944090001021)*. Chestnut Hill, Mass.: Linden Lane Press at Boston College, 2009.”
+
+
+__CollectionsUsed__
+
+Collections Used:
+
+Boston College athletic photographs [(BC1986-019)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021)
+
+Boston College building and campus images [(BC1987-012)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)
+
+Boston College faculty and staff photographs [(BC2000-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21427406550001021)
+
+Boston College President's Office records [(BC1986-020C)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21331160510001021)
+
+Boston College stock photo collection
