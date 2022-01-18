@@ -67,7 +67,7 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="08_Gargan_B_OMC_stock_photo.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline="Students studying in Gargan Hall in Bapst Library during Finals, Spring 2015.">}} Boston College Office of marketing Communication stock photo.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
