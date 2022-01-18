@@ -27,7 +27,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="06_1928_BC1986-020C_1_16_A.jpg"
-           headline="Program, 1928.">}} Box 1, Folder 16, James H. Dolan President’s Office records (BC1986-020C).
+           headline="Program, 1928.">}} Box 1, Folder 16, *[James H. Dolan President’s Office records](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21331160510001021)* (BC1986-020C).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="06_1928_BC1986-020C_1_16B.jpg"
