@@ -63,7 +63,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="07_1930_BC1986-012_2_58.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Bapst Library interior: Gargan Hall from entrance with students, 1930">}} Box 2, Folder 58, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)* (BC1987-012).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="08_Gargan_B_OMC_stock_photo.jpg"
