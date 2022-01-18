@@ -19,7 +19,7 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="02_1920s_BC1987-012_1_121 (1).jpg"
-           headline="Construction temporarily stopped in 1924, but a roof was installed over the first and second floors and the building opened for use in 1925.">}} Box 1, Folder 121, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)*.
+           headline="Construction temporarily stopped in 1924, but a roof was installed over the first and second floors and the building opened for use in 1925.">}} Box 1, Folder 121, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)* (BC1987-012).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
