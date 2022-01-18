@@ -15,7 +15,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="01_1922_BC1987-012_1_88.jpg"
-           headline="Students, faculty, and guests attend the groundbreaking ceremony for the library, October 31, 1922.">}} Box 1, Folder 88, Boston College building and campus images (BC1987-012).
+           headline="Students, faculty, and guests attend the groundbreaking ceremony for the library, October 31, 1922.">}} Box 1, Folder 88, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)* (BC1987-012).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="02_1920s_BC1987-012_1_121 (1).jpg"
