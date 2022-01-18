@@ -39,11 +39,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="04_1928_BC1987-012_1_43.jpg"
-           headline="Guests arrive at the library for its dedication, June 13, 1928.">}} Box 1, Folder 43, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)*.
+           headline="Guests arrive at the library for its dedication, June 13, 1928.">}} Box 1, Folder 43, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)* (BC1987-012).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="03_1926_BC1987-012_2_98.jpg"
-           headline="The library's auditorium was a popular venue for campus events, including Mass. It was replaced by shelving in 1970. It is now Bapst Library's Kresge Reading Room.">}} Box 2, Folder 98, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)*.
+           headline="The library's auditorium was a popular venue for campus events, including Mass. It was replaced by shelving in 1970. It is now Bapst Library's Kresge Reading Room.">}} Box 2, Folder 98, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)* (BC1987-012).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -83,7 +83,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="10_1940sC_bc1987-012_2_84.jpg"
-           headline="Students in the Browsing Room, now the Lonergan Center, undated.">}} Box 2, Folder 84, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)*.
+           headline="Students in the Browsing Room, now the Lonergan Center, undated.">}} Box 2, Folder 84, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)* (BC1987-012).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="11_1940_BC1986_019_2_84.jpg"
@@ -95,11 +95,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="13_IMG-5615.jpg"
-           headline="Students view a library exhibit commemorating Saint Ignatius, 1956.">}} Box 2, Folder 19, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)*.
+           headline="Students view a library exhibit commemorating Saint Ignatius, 1956.">}} Box 2, Folder 19, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)* (BC1987-012).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="14_1950s_PeriodicalRoom.jpg"
-           headline="Students in the Periodical Room, now the Burns Library Reading Room, undated.">}} Box 2, Folder 99, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)*.
+           headline="Students in the Periodical Room, now the Burns Library Reading Room, undated.">}} Box 2, Folder 99, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)* (BC1987-012).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -107,11 +107,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="12_1950s-60s_BC1987-012_2_101.jpg"
-           headline="The library stacks, with Librarian John O'Loughlin (1895-1964) at his desk, undated.">}} Box 2, Folder 101, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)*.
+           headline="The library stacks, with Librarian John O'Loughlin (1895-1964) at his desk, undated.">}} Box 2, Folder 101, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)* (BC1987-012).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="15_1958_BC1987-012_2_4.jpg"
-           headline="A helicopter lands on the Bapst Library lawn at the start of a business seminar on the role of aviation in the development of Greater Boston, 1958.">}} Box 2, Folder 4, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)*.
+           headline="A helicopter lands on the Bapst Library lawn at the start of a business seminar on the role of aviation in the development of Greater Boston, 1958.">}} Box 2, Folder 4, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)* (BC1987-012).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -135,7 +135,7 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="19_1980C_BC1987-012_2_72.jpg"
-           headline="A student uses a card catalog in Gargan Hall, 1980.">}} Box 2, Folder 72, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)*.
+           headline="A student uses a card catalog in Gargan Hall, 1980.">}} Box 2, Folder 72, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)* (BC1987-012).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -143,7 +143,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="21_Undated_BC1987-012_2_97.jpg"
-           headline="The library’s auditorium (now Bapst Library's Kresge Reading Room) being cleared during renovation, undated.">}} Box 2, Folder 97, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)*.
+           headline="The library’s auditorium (now Bapst Library's Kresge Reading Room) being cleared during renovation, undated.">}} Box 2, Folder 97, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)* (BC1987-012).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="21_1986C_Kresge_bc0000033.jpg"
