@@ -67,7 +67,7 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="08_Gargan_B_OMC_stock_photo.jpg"
-           headline="Students studying in Gargan Hall in Bapst Library during Finals, Spring 2015.">}} Boston College Office of marketing Communication stock photo.
+           headline="Students studying in Gargan Hall in Bapst Library during Finals, Spring 2015.">}} Boston College Office of Marketing Communication stock photo.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
