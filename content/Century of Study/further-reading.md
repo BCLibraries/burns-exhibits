@@ -13,8 +13,6 @@ draft: true
 type: "exhibit"
 ---
 
-{{% figure src="BC1987-012_14.jpg" headline="Architectural sketch by Charles Donagh Maginnis, undated" size="x-large" %}}
-
 __CollectionsUsed__
 
 Collections Used:
