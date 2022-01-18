@@ -87,7 +87,7 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="11_1940_BC1986_019_2_84.jpg"
-           headline="Patrick H. Collins, SJ (1899-1987), leads the baseball team in prayer for world peace on the library steps, 1940.">}} Box 7, Boston College athletic photographs (BC1986-019).
+           headline="Patrick H. Collins, SJ (1899-1987), leads the baseball team in prayer for world peace on the library steps, 1940.">}} Box 7, *[Boston College athletic photographs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021)* (BC1986-019).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
