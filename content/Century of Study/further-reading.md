@@ -13,8 +13,6 @@ draft: true
 type: "exhibit"
 ---
 
-__FurtherReading__
-
 “Boston College. *[The Bapst Library](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21360708570001021)*. Chestnut Hill, Mass.: Boston College, 1952.” 
 
 “Boston College. *[Introducing Your Library: a Guide to the Resources and Services of the Main Library](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21377954910001021)*. Chestnut Hill, Massachusetts: Boston College, 1950.” 
