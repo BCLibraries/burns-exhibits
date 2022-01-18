@@ -31,7 +31,7 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="06_1928_BC1986-020C_1_16B.jpg"
-           headline="Naming opportunities for donors, listed in the program for the dedication ceremony of the building,1928.">}} Box 1, Folder 16, James H. Dolan President’s Office records (BC1986-020C).
+           headline="Naming opportunities for donors, listed in the program for the dedication ceremony of the building,1928.">}} Box 1, Folder 16, *[James H. Dolan President’s Office records](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21331160510001021)* (BC1986-020C).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
