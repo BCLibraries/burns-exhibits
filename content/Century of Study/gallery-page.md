@@ -51,11 +51,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="05_1930sBasement.jpg"
-           headline="First floor floorplan.">}} The Boston College Library: History and Description. Boston: 1933, Z733 .B743 1933 REF.
+           headline="First floor floorplan.">}} *[The Boston College Library: History and Description](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341858200001021)*. Boston: 1933, Z733 .B743 1933 REF.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="24_1930s_SecondFloor (2).jpg"
-           headline="Fourth floor floorplan.">}} The Boston College Library: History and Description. Boston: 1933, Z733 .B743 1933 REF.
+           headline="Fourth floor floorplan.">}} *[The Boston College Library: History and Description](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341858200001021)*. Boston: 1933, Z733 .B743 1933 REF.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -176,30 +176,3 @@ type: "exhibit"
 
 {{< /galleryrow >}}
 
-{{< galleryrow >}}
-
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
-{{< /galleryfigure >}}
-
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
-{{< /galleryfigure >}}
-
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Amet Pellentesque" >}}
-{{< /galleryfigure >}}
-
-{{< /galleryrow >}}
-
-{{< galleryrow >}}
-
-{{< galleryfigure src="../intro-image.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
-{{< /galleryfigure >}}
-
-{{< galleryfigure src="../intro-image.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
-{{< /galleryfigure >}}
-
-{{< /galleryrow >}}
