@@ -19,7 +19,7 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="02_1920s_BC1987-012_1_121 (1).jpg"
-           headline="Construction temporarily stopped in 1924, but a roof was installed over the first and second floors and the building opened for use in 1925.">}} Box 1, Folder 121, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)* (BC1987-012).
+           headline="Construction temporarily stopped in 1924, but a roof was installed over the first and second floors and the building opened for use in 1925.">}} Box 1, Folder 121, [Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021) (BC1987-012).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -31,7 +31,7 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="06_1928_BC1986-020C_1_16B.jpg"
-           headline="Naming opportunities for donors, listed in the program for the dedication ceremony of the building,1928.">}} Box 1, Folder 16, *[James H. Dolan President’s Office records](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21331160510001021)* (BC1986-020C).
+           headline="Naming opportunities for donors, listed in the program for the dedication ceremony of the building,1928.">}} Box 1, Folder 16, [James H. Dolan President’s Office records](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21331160510001021) (BC1986-020C).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -39,11 +39,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="04_1928_BC1987-012_1_43.jpg"
-           headline="Guests arrive at the library for its dedication, June 13, 1928.">}} Box 1, Folder 43, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)* (BC1987-012).
+           headline="Guests arrive at the library for its dedication, June 13, 1928.">}} Box 1, Folder 43, [Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021) (BC1987-012).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="03_1926_BC1987-012_2_98.jpg"
-           headline="The library's auditorium was a popular venue for campus events, including Mass. It was replaced by shelving in 1970. It is now Bapst Library's Kresge Reading Room.">}} Box 2, Folder 98, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)* (BC1987-012).
+           headline="The library's auditorium was a popular venue for campus events, including Mass. It was replaced by shelving in 1970. It is now Bapst Library's Kresge Reading Room.">}} Box 2, Folder 98, [Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021) (BC1987-012).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -63,7 +63,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="07_1930_BC1986-012_2_58.jpg"
-           headline="Bapst Library interior: Gargan Hall from entrance with students, 1930">}} Box 2, Folder 58, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)* (BC1987-012).
+           headline="Bapst Library interior: Gargan Hall from entrance with students, 1930">}} Box 2, Folder 58, [Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021) (BC1987-012).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="08_Gargan_B_OMC_stock_photo.jpg"
@@ -75,7 +75,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="09_Bapst_BC2000_005_ref15_015.jpg"
-           headline="In 1952, the library building was named in honor of Boston College's first president, John Bapst, SJ (1815-1887).">}} Box 1, Folder 16, *[Boston College faculty and staff photographs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21427406550001021)* (BC2000-005).
+           headline="In 1952, the library building was named in honor of Boston College's first president, John Bapst, SJ (1815-1887).">}} Box 1, Folder 16, [Boston College faculty and staff photographs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21427406550001021) (BC2000-005).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -83,11 +83,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="10_1940sC_bc1987-012_2_84.jpg"
-           headline="Students in the Browsing Room, now the Lonergan Center, undated.">}} Box 2, Folder 84, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)* (BC1987-012).
+           headline="Students in the Browsing Room, now the Lonergan Center, undated.">}} Box 2, Folder 84, [Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021) (BC1987-012).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="11_1940_BC1986_019_2_84.jpg"
-           headline="Patrick H. Collins, SJ (1899-1987), leads the baseball team in prayer for world peace on the library steps, 1940.">}} Box 7, *[Boston College athletic photographs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021)* (BC1986-019).
+           headline="Patrick H. Collins, SJ (1899-1987), leads the baseball team in prayer for world peace on the library steps, 1940.">}} Box 7, [Boston College athletic photographs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21424921630001021) (BC1986-019).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -95,11 +95,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="13_IMG-5615.jpg"
-           headline="Students view a library exhibit commemorating Saint Ignatius, 1956.">}} Box 2, Folder 19, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)* (BC1987-012).
+           headline="Students view a library exhibit commemorating Saint Ignatius, 1956.">}} Box 2, Folder 19, [Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021) (BC1987-012).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="14_1950s_PeriodicalRoom.jpg"
-           headline="Students in the Periodical Room, now the Burns Library Reading Room, undated.">}} Box 2, Folder 99, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)* (BC1987-012).
+           headline="Students in the Periodical Room, now the Burns Library Reading Room, undated.">}} Box 2, Folder 99, [Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021) (BC1987-012).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -107,11 +107,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="12_1950s-60s_BC1987-012_2_101.jpg"
-           headline="The library stacks, with Librarian John O'Loughlin (1895-1964) at his desk, undated.">}} Box 2, Folder 101, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)* (BC1987-012).
+           headline="The library stacks, with Librarian John O'Loughlin (1895-1964) at his desk, undated.">}} Box 2, Folder 101, [Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021) (BC1987-012).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="15_1958_BC1987-012_2_4.jpg"
-           headline="A helicopter lands on the Bapst Library lawn at the start of a business seminar on the role of aviation in the development of Greater Boston, 1958.">}} Box 2, Folder 4, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)* (BC1987-012).
+           headline="A helicopter lands on the Bapst Library lawn at the start of a business seminar on the role of aviation in the development of Greater Boston, 1958.">}} Box 2, Folder 4, [Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021) (BC1987-012).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -119,7 +119,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="17_1963_subturriundertow1963bost_0018.jpg"
-           headline="Students in the Reception Room, now Burns Library's British Catholic Authors Room, 1963.">}} “Boston College. *[Sub Turri = (Under the Tower): the Yearbook of Boston College](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21387089960001021)*. Boston: The College, 1913.”
+           headline="Students in the Reception Room, now Burns Library's British Catholic Authors Room, 1963.">}} “Boston College. *[Sub Turri: the Yearbook of Boston College](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21387089960001021)*. Boston: The College, 1963.”
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="16_1964_subturriundertow1964bost_0047.jpg"
