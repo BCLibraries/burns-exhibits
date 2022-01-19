@@ -27,7 +27,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="06_1928_BC1986-020C_1_16_A.jpg"
-           headline="Program, 1928.">}} Box 1, Folder 16, *[James H. Dolan President’s Office records](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21331160510001021)* (BC1986-020C).
+           headline="Program, 1928.">}} Box 1, Folder 16, [James H. Dolan President’s Office records](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21331160510001021) (BC1986-020C).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="06_1928_BC1986-020C_1_16B.jpg"
@@ -119,11 +119,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="17_1963_subturriundertow1963bost_0018.jpg"
-           headline="Students in the Reception Room, now Burns Library's British Catholic Authors Room, 1963.">}} “Boston College. *[Sub Turri: the Yearbook of Boston College](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21387089960001021)*. Boston: The College, 1963.”
+           headline="Students in the Reception Room, now Burns Library's British Catholic Authors Room, 1963.">}} “Boston College. *[Sub Turri: The Yearbook of Boston College](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21387089960001021)*. Boston: The College, 1963.”
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="16_1964_subturriundertow1964bost_0047.jpg"
-           headline="Students in the Reference Room, now the Lonergan Center, 1964.">}} “Boston College. *[Sub Turri = (Under the Tower): the Yearbook of Boston College](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21387089960001021)*. Boston: The College, 1913.”
+           headline="Students in the Reference Room, now the Lonergan Center, 1964.">}} “Boston College. *[Sub Turri: The Yearbook of Boston College](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21387089960001021)*. Boston: The College, 1964.”
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -131,11 +131,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="18_1970s_LandrethGarganHall.jpg"
-           headline="Library staff working  in Gargan Hall, undated.">}} Box 23, Folder 31, *[Boston College faculty and staff photographs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21427406550001021)* (BC2000-005).
+           headline="Library staff working  in Gargan Hall, undated.">}} Box 23, Folder 31, [Boston College faculty and staff photographs](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21427406550001021) (BC2000-005).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="19_1980C_BC1987-012_2_72.jpg"
-           headline="A student uses a card catalog in Gargan Hall, 1980.">}} Box 2, Folder 72, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)* (BC1987-012).
+           headline="A student uses a card catalog in Gargan Hall, 1980.">}} Box 2, Folder 72, [Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021) (BC1987-012).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -143,11 +143,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="21_Undated_BC1987-012_2_97.jpg"
-           headline="The library’s auditorium (now Bapst Library's Kresge Reading Room) being cleared during renovation, undated.">}} Box 2, Folder 97, *[Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021)* (BC1987-012).
+           headline="The library’s auditorium (now Bapst Library's Kresge Reading Room) being cleared during renovation, undated.">}} Box 2, Folder 97, [Boston College building and campus images](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21428864290001021) (BC1987-012).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="21_1986C_Kresge_bc0000033.jpg"
-           headline="View of the mezzanine from the Bapst’s Kresge Reading Room, undated.">}} University Photographer's photographs and contact sheets (BC2002-025), http://hdl.handle.net/2345/6607.
+           headline="View of the mezzanine from the Bapst’s Kresge Reading Room, undated.">}} [University Photographer's photographs and contact sheets](http://hdl.handle.net/2345/6607) (BC2002-025).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -155,7 +155,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="20_bc0000029.jpg"
-           headline="When BC alum and Speaker of the United States House of Representatives Thomas P. “Tip” O'Neill (1912-1994) retired, his Washington DC office was recreated in the newly renovated Bapst Library, 1986.">}} University Photographer's photographs and contact sheets (BC2002-025), http://hdl.handle.net/2345/6971.
+           headline="When BC alum and Speaker of the United States House of Representatives Thomas P. “Tip” O'Neill (1912-1994) retired, his Washington DC office was recreated in the newly renovated Bapst Library, 1986.">}} [University Photographer's photographs and contact sheets](http://hdl.handle.net/2345/6971) (BC2002-025).
 {{< /galleryfigure >}}
 
 
@@ -168,7 +168,7 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="22_IrishRoom_bc0000026.jpg"
-           headline="Burns Library’s Irish Room.">}} University Photographer's photographs and contact sheets (BC2002-025), http://hdl.handle.net/2345/6970.
+           headline="Burns Library’s Irish Room.">}} [University Photographer's photographs and contact sheets](http://hdl.handle.net/2345/6970) (BC2002-025).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
