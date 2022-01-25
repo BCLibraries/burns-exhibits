@@ -150,6 +150,8 @@ type: "exhibit"
            headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
 {{< /galleryfigure >}}
 
+{{< /galleryrow >}}
+
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_012_OBrien_CatSketches.jpg"
