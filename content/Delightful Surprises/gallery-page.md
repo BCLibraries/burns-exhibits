@@ -42,9 +42,31 @@ type: "exhibit"
            headline="Tellus">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
 
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="Delightful_003A_Belloc_StormStarts.jpg"
+           headline="Tellus">}} Pellentesque Vehicula Aenean
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Delightful_003B_Belloc_Porcupines.jpg"
+           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+{{< /galleryfigure >}}
 
 {{< /galleryrow >}}
 
+{{< galleryrow >}}
+
+{{< galleryfigure src="Delightful_003C_Belloc_Monkeys.jpg"
+           headline="Tellus">}} Pellentesque Vehicula Aenean
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Delightful_003D_Belloc_Pythons.jpg"
+           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
 
 {{< galleryrow >}}
 
