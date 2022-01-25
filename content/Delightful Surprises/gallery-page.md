@@ -70,15 +70,15 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
+{{< galleryfigure src="Delightful_008_Noyes_Bookplate.jpg"
            headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
+{{< galleryfigure src="Delightful_008A_Noyes_Bookplate.jpg"
            headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
+{{< galleryfigure src="Delightful_008B_Noyes_Bookplate.jpg"
            headline="Amet Pellentesque" >}}
 {{< /galleryfigure >}}
 
