@@ -3,7 +3,7 @@
 title: "Introduction"
 
 # Title of exhibit
-exhibit_title: "Delightful"
+exhibit_title: "Delightful Surprises"
 exhibit_subtitle: ""
 
 date: 2022-01-21T13:10:25-05:00
