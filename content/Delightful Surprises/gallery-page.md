@@ -106,28 +106,24 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../intro-image.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+{{< galleryfigure src="Delightful_006_Meynell_IllustrationPreludes.jpg"
+           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../intro-image.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+{{< galleryfigure src="Delightful_005_Meynell_IllustrationPreludes.jpg"
+           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+{{< galleryfigure src="../intro-image.jpg"
+           headline="Tellus">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
-{{< /galleryfigure >}}
-
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Amet Pellentesque" >}}
+{{< galleryfigure src="../intro-image.jpg"
+           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
