@@ -98,6 +98,14 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
+{{< galleryfigure src="Delightful_004_Meynell_IllustrationPreludes.jpg"
+           headline="Tellus">}} Pellentesque Vehicula Aenean
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
 {{< galleryfigure src="../intro-image.jpg"
            headline="Tellus">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
