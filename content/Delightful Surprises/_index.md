@@ -14,7 +14,7 @@ weight: 1
 # Big image on first page.
 front_image: "Delightful_009_Noyes_ForestWildThyme.jpg" # Replace with the real image
 front_caption_headline: "Discovering Art in the Archives"
-front_caption_text: "Donec id elit non mi porta gravida at eget metus."
+front_caption_text: ""
 
 # Change to true if this exhibit is currently running.
 current: false
