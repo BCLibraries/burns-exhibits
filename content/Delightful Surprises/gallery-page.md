@@ -331,11 +331,11 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../intro-image.jpg"
+{{< galleryfigure src="Delightful_035_DSC3904.jpg"
            headline="Tellus">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../intro-image.jpg"
+{{< galleryfigure src="Delightful_035A_DSC3928.jpg"
            headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
 {{< /galleryfigure >}}
 
