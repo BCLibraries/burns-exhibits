@@ -198,7 +198,7 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="Delightful_C044_ClarkeMurray_BookStencil.jpg"
+{{< galleryfigure src="Delightful_044_turned.jpg"
            headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
 
