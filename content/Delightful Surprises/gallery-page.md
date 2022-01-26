@@ -70,6 +70,18 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
+{{< galleryfigure src="Delightful_003E_Belloc_Mammoth.jpg"
+           headline="Tellus">}} Pellentesque Vehicula Aenean
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Delightful_003F_Belloc_Elephant.jpg"
+           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
 {{< galleryfigure src="Delightful_008_Noyes_Bookplate.jpg"
            headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
@@ -335,7 +347,7 @@ type: "exhibit"
            headline="Tellus">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../intro-image.jpg"
+{{< galleryfigure src="Delightful_035A_DSC3928.jpg"
            headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
 {{< /galleryfigure >}}
 
