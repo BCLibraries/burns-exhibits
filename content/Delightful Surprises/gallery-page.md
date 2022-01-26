@@ -335,7 +335,7 @@ type: "exhibit"
            headline="Tellus">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="Delightful_035A_DSC3928.jpg"
+{{< galleryfigure src="../intro-image.jpg"
            headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
 {{< /galleryfigure >}}
 
