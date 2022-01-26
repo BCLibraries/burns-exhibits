@@ -206,32 +206,24 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
+{{< galleryfigure src="Delightful_016_Patten_WomanProfile.jpg"
            headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
+{{< galleryfigure src="Delightful_018_Patten_WonderWoman.jpg"
            headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
-{{< /galleryfigure >}}
-
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Amet Pellentesque" >}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
+{{< galleryfigure src="Delightful_019_Patten_Bullfighter.jpg"
            headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
+{{< galleryfigure src="Delightful_020_Patten_Dumptruck.jpg"
            headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
-{{< /galleryfigure >}}
-
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Amet Pellentesque" >}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
