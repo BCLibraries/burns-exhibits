@@ -115,7 +115,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_028_DSC2878.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Spirit of 1776, by Arthur Carlock">}} Box 17, [Boston College Alumni Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21345055540001021), BC1988-060.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_063_DSC2843.jpg"
