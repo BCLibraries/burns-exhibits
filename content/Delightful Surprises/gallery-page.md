@@ -300,7 +300,7 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_001A_McKee_Jewelry.jpg"
-           headline="Jewelry desogn">}} Box 1, Folder 11, [Eva McKee Art Works]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21355787120001021), MS2005-006.
+           headline="Jewelry design">}} Box 1, Folder 11, [Eva McKee Art Works]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21355787120001021), MS2005-006.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
