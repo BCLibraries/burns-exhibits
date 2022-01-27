@@ -71,11 +71,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_025_DSC3368.jpg"
-           headline="Souvenir of the Isle of Springs">}} Pellentesque Vehicula Aenean
+           headline="Souvenir of the Isle of Springs">}} Box 15, [Joseph J. Williams, SJ Ethnological Collection](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21345055540001021), MS2009-030.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_025A_DSC3378.jpg"
-           headline="Souvenir of the Isle of Springs">}} Ullamcorper Egestas Dapibus
+           headline="Souvenir of the Isle of Springs">}} Box 15, [Joseph J. Williams, SJ Ethnological Collection](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21345055540001021), MS2009-030.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
