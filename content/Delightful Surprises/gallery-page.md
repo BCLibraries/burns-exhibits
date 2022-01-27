@@ -46,12 +46,8 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="Delightful_003A_Belloc_StormStarts.jpg"
+{{< galleryfigure src="Delightful_003A-003E.jpg"
            headline="Tellus">}} Pellentesque Vehicula Aenean
-{{< /galleryfigure >}}
-
-{{< galleryfigure src="Delightful_003B_Belloc_Porcupines.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
