@@ -27,7 +27,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_030_DSC3699.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="St. Columba woodblock">}} Box 6, [Boston College Collection of David Jones](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21377440320001021), MS1986-001.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_029_DSC3689.jpg"
