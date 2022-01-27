@@ -15,11 +15,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_33_DSC3715.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Painted plate, by Kate Hopkins">}} Box 12, [Hopkins Family Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21380054540001021), MS1991-023.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_34_DSC3776.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline="Painted plate, by Kate Hopkins">}} Box 12, [Hopkins Family Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21380054540001021), MS1991-023.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
