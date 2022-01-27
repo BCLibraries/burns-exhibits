@@ -228,7 +228,7 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_031_DSC3814.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline="Rings from World War I trenches">}} Burns Library Collection MS2004-019
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
