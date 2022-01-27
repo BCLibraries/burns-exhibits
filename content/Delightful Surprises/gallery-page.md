@@ -55,15 +55,15 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_008_Noyes_Bookplate.jpg"
-           headline="Bookplate design">}} Sollicitudin Mollis Venenatis Sit
+           headline="Bookplate design">}} Box 111, Folder 1, [Alfred Noyes Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), MS2006-054.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_008A_Noyes_Bookplate.jpg"
-           headline="Bookplate design">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Bookplate design">}} Box 111, Folder 1, [Alfred Noyes Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), MS2006-054.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_008B_Noyes_Bookplate.jpg"
-           headline="Bookplate design" >}}
+           headline="Bookplate design" >}} Box 111, Folder 1, [Alfred Noyes Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), MS2006-054.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
