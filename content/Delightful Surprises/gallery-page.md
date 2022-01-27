@@ -306,6 +306,14 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
+{{< galleryfigure src="Panel_sketchbooks.jpg"
+           headline="Tellus">}} Pellentesque Vehicula Aenean
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
 {{< galleryfigure src="Delightful_001_McKee_Jewelry.jpg"
            headline="Jewelry design">}} Box 1, Folder 11, [Eva McKee Art Works]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21355787120001021), MS2005-006.
 {{< /galleryfigure >}}
