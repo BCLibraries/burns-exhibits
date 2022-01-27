@@ -75,7 +75,7 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_025A_DSC3378.jpg"
-           headline="Souvenir of the Isle of Springs">}} Box 15, [Joseph J. Williams, SJ, Ethnological Collection](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21345055540001021), MS2009-030.
+           headline="Cover, Souvenir of the Isle of Springs">}} Box 15, [Joseph J. Williams, SJ, Ethnological Collection](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21345055540001021), MS2009-030.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
