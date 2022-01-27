@@ -122,6 +122,14 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
+{{< galleryfigure src="Delightful_088-088F.jpg"
+           headline="Tellus">}} Pellentesque Vehicula Aenean
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
 {{< galleryfigure src="Delightful_011_OBrien_DoodleNotebook.jpg"
            headline="Tribunal notebook">}} Box 5, Folder 16, [Flann O'Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21332671220001021), MS1997-027.
 {{< /galleryfigure >}}
