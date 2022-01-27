@@ -308,7 +308,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_002_Leonard_OrdinanceBattalionChapel.jpg"
-           headline="9th Ordnance Battalion Chapel in Finschhafen, New Guinea">}} Box 65, [William J. Leonard, SJ Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21345056120001021) BC2000-023.
+           headline="9th Ordnance Battalion Chapel in Finschhafen, New Guinea">}} Box 65, [William J. Leonard, SJ Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21345056120001021), BC2000-023.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
