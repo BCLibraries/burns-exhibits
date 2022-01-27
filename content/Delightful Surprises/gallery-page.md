@@ -260,11 +260,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_032_Greene_ArdizzoneSketch.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+           headline="Letter from Edward Ardizzone to Graham Greene">}} Box 11, Folder 12, [Graham Green Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351254200001021), MS1995-003.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_045_ClarkeMurray_Embroidery.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Embroidery">}} Box 5, Folder 14, [Loretta Clarke Murray Collection of Women in Revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
