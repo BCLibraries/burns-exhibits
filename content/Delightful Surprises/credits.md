@@ -13,6 +13,8 @@ draft: true
 type: "exhibit"
 ---
 
+{{< figure src="DelightfulButtons_CatSketch.jpg" >}}
+
 Sponsored by Boston College Libraries
 
 Curators: Burns Library Archives Department
