@@ -159,11 +159,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_041_DSC2964.jpg"
-           headline="Leather book cover">}} Sollicitudin Mollis Venenatis Sit
+           headline="Leather book cover">}} Box 9, [Loretta Clarke Murray Collection of Women in Revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_043_DSC2892.jpg"
-           headline="Leather book cover">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Leather book cover">}} Box 9, [Loretta Clarke Murray Collection of Women in Revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -171,11 +171,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_044_rotated.jpg"
-           headline="Book cover stencil">}} Sollicitudin Mollis Venenatis Sit
+           headline="Book cover stencil">}} Box 2, Folder 13, [Loretta Clarke Murray Collection of Women in Revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_42_DSC2948.jpg"
-           headline="Leather book cover">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Leather book cover">}} Box 9, [Loretta Clarke Murray Collection of Women in Revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
