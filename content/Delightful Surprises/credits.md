@@ -15,12 +15,8 @@ type: "exhibit"
 
 Sponsored by Boston College Libraries
 
-Curators:
+Curators: Burns Library Archives Department
 
-Burns Library Archives Department
-
-Graphic Design:
-
-Kate Edrington, Multimedia & Administrative Specialist
+Graphic Design: Kate Edrington, Multimedia & Administrative Specialist
 
 Originally displayed: Burns Library, October 2018 - February 2019
