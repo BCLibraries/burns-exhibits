@@ -103,11 +103,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_027_Williams_Anansi.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Anansi story from Frankfield School, Parish of Manchester, Jamaica">}} Box 2, Folder 7, [Joseph J. Williams, SJ, Ethnological Collection]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21345055540001021), MS2009-030.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_027A_Williams_Anansi.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline="Detail, Anansi story from Frankfield School">}} Box 2, Folder 7, [Joseph J. Williams, SJ, Ethnological Collection]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21345055540001021), MS2009-030.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
