@@ -71,11 +71,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_025_DSC3368.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline=""Souvenir of the Isle of Springs"">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_025A_DSC3378.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline=""Souvenir of the Isle of Springs"">}} Ullamcorper Egestas Dapibus
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
