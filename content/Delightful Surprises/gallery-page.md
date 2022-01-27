@@ -119,7 +119,7 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_063_DSC2843.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline="Needlework, by Rosemary Dooley">}} Box 499, [Tip O'Neill Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21339013100001021 ), CA.2009.001.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
