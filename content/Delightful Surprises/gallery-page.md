@@ -284,11 +284,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_010_Greene_PaintingInvitation.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Invitation with watercolor, by Franta">}} Box 65, Folder 9, [Graham Greene Papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351254200001021), MS1995-003.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_010A_Greene_PaintingInvite.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline="Invitation with watercolor, by Franta">}} Box 65, Folder 9, [Graham Greene Papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351254200001021), MS1995-003.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
