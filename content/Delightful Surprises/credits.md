@@ -15,10 +15,12 @@ type: "exhibit"
 
 Sponsored by Boston College Libraries
 
-Curator(s): Person, Title
+Curators:
 
-Person, Title
+Burns Library Archives Department
 
-Person, Title
+Graphic Design:
 
-Originally displayed: Location, Month - Month 2017
+Kate Edrington, Multimedia & Administrative Specialist
+
+Originally displayed: Burns Library, October 2018 - February 2019
