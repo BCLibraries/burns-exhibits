@@ -224,7 +224,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_007_DSC3595.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="*The Rebirth of Traffic*, handmade book by Cynthia Hotvedt">}} Box 35, [Terence Winch Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21495631070001021), MS2017-005.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_031_DSC3814.jpg"
