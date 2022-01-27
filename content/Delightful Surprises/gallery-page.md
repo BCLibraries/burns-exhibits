@@ -31,7 +31,7 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_029_DSC3689.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline="Printing block for No Wild Beast Shall Dismay Me, The Song of the Soul, by Saint John of the Cross">}} Box 13, [Boston College Collection of Eric Gill Materials](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344683760001021), MS1986-139.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
