@@ -183,7 +183,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_022_Patten_Shazam.jpg"
-           headline="Fist with Lightning bolt">}} Pellentesque Vehicula Aenean
+           headline="Fist with Lightning bolt">}} Box 8, Folder 17, [G. William Patten Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21323320790001021), MS2003-042.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -191,11 +191,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_016_Patten_WomanProfile.jpg"
-           headline="Profile">}} Sollicitudin Mollis Venenatis Sit
+           headline="Profile">}} Box 1, Folder 1, [G. William Patten Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21323320790001021), MS2003-042.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_018_Patten_WonderWoman.jpg"
-           headline="Woman">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Woman">}} Box 1, Folder 1, [G. William Patten Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21323320790001021), MS2003-042.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -203,11 +203,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_019_Patten_Bullfighter.jpg"
-           headline="Toreador">}} Sollicitudin Mollis Venenatis Sit
+           headline="Toreador">}} Box 1, Folder 1, [G. William Patten Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21323320790001021), MS2003-042.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_020_Patten_Dumptruck.jpg"
-           headline="Dump truck">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Dump truck">}} Box 1, Folder 3, [G. William Patten Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21323320790001021), MS2003-042.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -215,7 +215,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_021_Patten_FlyingLobster.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+           headline="The Flying Lobster">}} Box 8, Folder 17, [G. William Patten Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21323320790001021), MS2003-042.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
