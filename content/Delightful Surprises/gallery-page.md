@@ -248,11 +248,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_026.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Envelope to Lily Yeats from W. B. Yeats">}} PBox 6, Folder 1, [Boston College Collection of Yeats Family Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21323260060001021), MS1986-054.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_026A.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline="Envelope to Lily Yeats from W. B. Yeats">}} Box 6, Folder 1, [Boston College Collection of Yeats Family Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21323260060001021), MS1986-054.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
