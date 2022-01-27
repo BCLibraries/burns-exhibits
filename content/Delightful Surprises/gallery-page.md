@@ -127,11 +127,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_011_OBrien_DoodleNotebook.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+           headline="Tribunal notebook">}} Box 5, Folder 16, [Flann O'Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21332671220001021), MS1997-027.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_011A_OBrien_DoodleNotebook.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Tribunal notebook">}} Box 5, Folder 16, [Flann O'Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21332671220001021), MS1997-027.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -139,11 +139,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_012_OBrien_CatSketches.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Cats">}} Box 1, Folder 51, [Flann O'Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21332671220001021), MS1997-027.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_012A_OBrien_CatSketches.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline="Cats">}} Box 1, Folder 51, [Flann O'Brien Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21332671220001021), MS1997-027.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
