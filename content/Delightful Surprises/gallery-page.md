@@ -296,11 +296,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_001_McKee_Jewelry.jpg"
-           headline="Jewelry designs">}} Box 1, Folder 11, [Eva McKee Art Works]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21355787120001021), MS2005-006.
+           headline="Jewelry design">}} Box 1, Folder 11, [Eva McKee Art Works]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21355787120001021), MS2005-006.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_001A_McKee_Jewelry.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline="Jewelry desogn">}} Box 1, Folder 11, [Eva McKee Art Works]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21355787120001021), MS2005-006.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
