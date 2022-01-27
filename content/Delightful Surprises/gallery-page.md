@@ -170,7 +170,7 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="Delightful_044_turned.jpg"
+{{< galleryfigure src="Delightful_044_rotated.jpg"
            headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
 
