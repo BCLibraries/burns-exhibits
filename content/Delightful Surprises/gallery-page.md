@@ -316,11 +316,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_035_DSC3904.jpg"
-           headline="Bodhrán, by prisoners at Maze Prison commemorating the 1981 hunger strike">}} Box 38, [Raymond G. Helmick, SJ Papers]( Box 65, Folder 9, [Graham Greene Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351254200001021), MS1995-003), BC2016-047
+           headline="Bodhrán, by prisoners at Maze Prison commemorating the 1981 hunger strike">}} Box 38, [Raymond G. Helmick, SJ Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21483611970001021), BC2016-047.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_035A_DSC3928.jpg"
-           headline="Bodhrán, by prisoners at Maze Prison commemorating the 1981 hunger strike">}} Box 38, [Raymond G. Helmick, SJ Papers]( Box 65, Folder 9, [Graham Greene Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351254200001021), MS1995-003), BC2016-047
+           headline="Bodhrán, by prisoners at Maze Prison commemorating the 1981 hunger strike">}} Box 38, [Raymond G. Helmick, SJ Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21483611970001021), BC2016-047.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
