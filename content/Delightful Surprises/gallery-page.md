@@ -39,15 +39,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_003_Belloc_NoahTP.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="The Story of Noah, by Elizabeth Y. Belloc">}} Box 53, Folder 15, [Hilaire Belloc Papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311957810001021), MS2005-003.
 {{< /galleryfigure >}}
 
-{{< /galleryrow >}}
-
-{{< galleryrow >}}
-
 {{< galleryfigure src="Delightful_003A-003E.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Illustrations from The Story of Noah, by Elizabeth Y. Belloc">}} Box 53, Folder 15, [Hilaire Belloc Papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311957810001021), MS2005-003.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
