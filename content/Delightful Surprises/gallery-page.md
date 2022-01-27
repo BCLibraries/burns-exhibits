@@ -236,11 +236,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_13_HighRes.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Cuala Press illustrated card">}} Box 3, Folder 1, [Loretta Clarke Murray Collection of Women in Revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_014_Yeats_JackToMrsCarthew.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline="Letter to Miss Carthew, from Jack B. Yeats">}} Box 1, Folder 27, [Boston College Collection of Yeats Family Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21323260060001021), MS1985-054.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
