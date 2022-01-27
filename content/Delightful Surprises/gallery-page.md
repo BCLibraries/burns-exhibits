@@ -264,7 +264,7 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_045_ClarkeMurray_Embroidery.jpg"
-           headline="Embroidery">}} Box 5, Folder 14, [Loretta Clarke Murray Collection of Women in Revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016.
+           headline="Embroidery of a Japanese House">}} Box 5, Folder 14, [Loretta Clarke Murray Collection of Women in Revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -272,11 +272,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_039_DSC2834.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+           headline="Embroidery stencil, by Elizabeth Corbet Yeats, 1902">}} Box 15, [Loretta Clarke Murray Collection of Women in Revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_040_DSC2800.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Embroidery stencil, by Elizabeth Corbet Yeats, undated">}} Box 16, Folder 1, [Loretta Clarke Murray Collection of Women in Revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
