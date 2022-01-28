@@ -6,7 +6,7 @@ title: "Introduction"
 exhibit_title: "A Century of Study: Bapst Library"
 exhibit_subtitle: ""
 
-date: 2022-01-28T11:15:26-05:00
+date: 2022-01-28T10:46:26-05:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1 
