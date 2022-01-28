@@ -6,7 +6,7 @@ title: "Introduction"
 exhibit_title: "A Century of Study: Bapst Library"
 exhibit_subtitle: ""
 
-date: 2021-12-03T14:46:26-05:00
+date: 2022-01-28T11:15:26-05:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1 
@@ -21,7 +21,7 @@ front_caption_text: "Box 14, Folder 6, Boston College building and campus images
 current: false
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
