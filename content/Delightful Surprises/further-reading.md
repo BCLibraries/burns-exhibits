@@ -1,6 +1,6 @@
 ---
 # Title of page
-title: "Further reading"
+title: "Collections Used:"
 description: ""
 
 # Page order (1 is 1st page, etc.)
@@ -14,8 +14,7 @@ type: "exhibit"
 ---
 
 {{< figure src="delightfulbuttons_Woodcut.jpg" >}}
-
-Collections Used: 
+ 
 
 Austin W. White papers [(MS2016-026)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21463009970001021)
 
