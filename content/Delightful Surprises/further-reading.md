@@ -13,7 +13,7 @@ draft: true
 type: "exhibit"
 ---
 
-{{% figure src="delightfulbuttons_Woodcut.jpg"" size="x-large" %}}
+{{% figure src="delightfulbuttons_Woodcut.jpg" headline="" size="x-large" %}}
 
 Collection Used: David Goldstein and Martha Moore Avery Papers [(MS1986-167)](https://link-to-collection.edu)  
 
