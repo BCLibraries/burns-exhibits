@@ -13,7 +13,7 @@ draft: true
 type: "exhibit"
 ---
 
-{{% figure src="../portrait-image.jpg" headline="" size="x-large" %}}
+{{% figure src="delightfulbuttons_Woodcut.jpg" headline="" size="x-large" %}}
 
 Collections Used: 
 
