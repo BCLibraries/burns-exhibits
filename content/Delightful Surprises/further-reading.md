@@ -1,6 +1,6 @@
 ---
 # Title of page
-title: "Collections Used:"
+title: "Collections Used"
 description: ""
 
 # Page order (1 is 1st page, etc.)
