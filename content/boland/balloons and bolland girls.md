@@ -97,3 +97,19 @@ Mary Hurley, former Mayor of Springfield, was once a Boland Girl, and, when pres
            headline="Boland campaign ephemera: Congressman Edward P. Boland balloon.">}} Box 154, Object 22, [Edward P. Boland congressional papers,](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21517689060001021) CA1998-003
 {{< /galleryfigure >}}
 {{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="../B420647.jpg"
+           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="../B427576.jpg"
+           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="../B496977.jpg"
+           headline="Amet Pellentesque" >}}
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
