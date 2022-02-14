@@ -13,18 +13,10 @@ draft: true
 type: "exhibit"
 ---
 
-{{% figure src="../portrait-image.jpg" headline="" size="x-large" %}}
+{{< figure src="../CVB1358877-10.jpg" headline="" size="large" >}}
 
-Collection Used: David Goldstein and Martha Moore Avery Papers [(MS1986-167)](https://link-to-collection.edu)  
+Collection Used: General  
 
 __Heading__
 
-Last, First M. *[Title of resource](https://link-to-resource.edu)*. Place of pub: Publisher, Year.
-
-*[Newspaper title](https://link-to-resource.edu)*. “Article Title” Date, Year.
-
-Last, First M. *[Title of resource](https://link-to-resource)*. Place of pub: Publisher, Year.
-
-Last, First M. *[Title of resource](https://link-to-resource.edu)*. Place of pub: Publisher, Year.
-
-------. “Article title” *[Journal](https://link-to-resource.edu)* Vol, Issue (Date Year): page-page.
+Carter, John *[ABC for book collectors](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21436144840001021)*. New Castle, DE: Oak Knoll Press, 2004.
