@@ -4,7 +4,7 @@ title: "Introduction"
 
 # Title of exhibit
 exhibit_title: "Marbled Endpapers"
-exhibit_subtitle: "Examples from the General collection of John J. Burns Library"
+exhibit_subtitle: "Examples from the General collection at John J. Burns Library"
 
 date: 2022-02-08T15:48:33-05:00
 
@@ -26,7 +26,7 @@ type: "exhibit"
 ---
 
 {{< figure src="../casebound-book-diagram.jpg"
-           headline="[Casebound Book Construction](http://ansteybookbinding.com/wp-content/uploads/2013/07/casebound-book-diagram.jpg)" 
+           headline="[Case Bound Book Construction](http://ansteybookbinding.com/wp-content/uploads/2013/07/casebound-book-diagram.jpg)" 
            description="" 
            side="right" 
 		   size="x-large" >}}

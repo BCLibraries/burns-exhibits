@@ -13,10 +13,10 @@ draft: true
 type: "exhibit"
 ---
 
-{{< figure src="../CVB1358877-10.jpg" headline="" size="large" >}}
+{{< figure src="../CVB1358877-10.jpg" headline="[The history of the French, Walloon, Dutch and other foreign Protestant refugees settled in England from the reign of Henry VIII to the revocation of the Edict of Nantes...](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21379450860001021) Burn, 	BR757 .B9 GENERAL" >}}
 
 Collection Used: General  
 
-__Heading__
+__Works Cited__
 
 Carter, John *[ABC for book collectors](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21436144840001021)*. New Castle, DE: Oak Knoll Press, 2004.
