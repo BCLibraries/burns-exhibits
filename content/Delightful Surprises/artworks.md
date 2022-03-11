@@ -79,7 +79,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_004_Meynell_IllustrationPreludes.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Illustration for Alice Meynell's Preludes, by Elizabeth Thompson">}} Box 1, Folder 45, [Boston College Collection of Alice Meynell]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21330996430001021), MS1986-061
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -344,14 +344,3 @@ type: "exhibit"
 
 {{< /galleryrow >}}
 
-{{< galleryrow >}}
-
-{{< galleryfigure src="Delightful_003C_Belloc_Monkeys.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
-{{< /galleryfigure >}}
-
-{{< galleryfigure src="Delightful_003D_Belloc_Pythons.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
-{{< /galleryfigure >}}
-
-{{< /galleryrow >}}
