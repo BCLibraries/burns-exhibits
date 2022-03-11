@@ -123,7 +123,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_088-088F.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Autograph book belonging to Máire “Mollie” Gill">}} Box 24, [Loretta Clarke Murray Collection of Women in Revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
