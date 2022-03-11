@@ -79,7 +79,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_004_Meynell_IllustrationPreludes.jpg"
-           headline="Illustration for Alice Meynell's Preludes, by Elizabeth Thompson">}} Box 1, Folder 45, [Boston College Collection of Alice Meynell]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21330996430001021), MS1986-061
+           headline="Illustration for Alice Meynell's Preludes, by Elizabeth Thompson">}} Box 1, Folder 45, [Boston College Collection of Alice Meynell]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21330996430001021), MS1986-061.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -87,11 +87,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_006_Meynell_IllustrationPreludes.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+           headline="Illustration for Alice Meynell's Preludes, by Elizabeth Thompson">}} Box 1, Folder 45, [Boston College Collection of Alice Meynell]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21330996430001021), MS1986-061.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_005_Meynell_IllustrationPreludes.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+           headline"Illustration for Alice Meynell's Preludes, by Elizabeth Thompson">}} Box 1, Folder 45, [Boston College Collection of Alice Meynell]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21330996430001021), MS1986-061.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
