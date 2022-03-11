@@ -355,15 +355,3 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
-
-{{< galleryrow >}}
-
-{{< galleryfigure src="Delightful_003E_Belloc_Mammoth.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
-{{< /galleryfigure >}}
-
-{{< galleryfigure src="Delightful_003F_Belloc_Elephant.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
-{{< /galleryfigure >}}
-
-{{< /galleryrow >}}
