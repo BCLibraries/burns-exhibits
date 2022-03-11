@@ -1,0 +1,34 @@
+---
+# Title of page
+title: "Introduction"
+
+# Title of exhibit
+exhibit_title: "Marbled Endpapers"
+exhibit_subtitle: "Examples from the General collection at John J. Burns Library"
+
+date: 2022-02-08T15:48:33-05:00
+
+# Page order (1 is 1st page, etc.)
+weight: 1 
+
+# Big image on first page.
+front_image: "intro-image.jpg" # Replace with the real image
+front_caption_headline: ""
+front_caption_text: ""
+
+# Change to true if this exhibit is currently running.
+current: false
+
+# Change to false to publish.
+draft: true
+
+type: "exhibit"
+---
+
+{{< figure src="../casebound-book-diagram.jpg"
+           headline="[Case Bound Book Construction](http://ansteybookbinding.com/wp-content/uploads/2013/07/casebound-book-diagram.jpg)" 
+           description="" 
+           side="right" 
+		   size="small" >}}
+Endpapers are the double leaves of a book that are inserted by the book binder in the front and back. Endpapers that are pasted to the covers are called paste-down endpapers, and ones that are not are called free endpapers. Marbling is a process that involves suspending colors in a liquid, and then lowering a piece of paper on top. Different patterns in the liquid are created using tools such as combs or sticks. When you combine these two words, you get marbled endpapers, a beautiful bookart that's been used since at least the seventeenth century. This exhibit is a small collection of marbled endpapers selected at random from the General collection at Burns Library. There are hundreds, if not thousands more examples among our holdings to be explored.
+
