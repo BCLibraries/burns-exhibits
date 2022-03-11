@@ -155,7 +155,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_64_violin.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Flann O’Brien’s violin, 1948, by Micheál Ó Nualláin">}} Box 27, Folder 8, [Flann O’Brien papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21332671220001021), MS1997-027.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
