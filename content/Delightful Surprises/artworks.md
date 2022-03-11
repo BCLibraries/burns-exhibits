@@ -307,8 +307,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Panel_sketchbooks.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
-{{< /galleryfigure >}}
+[Hopkins Family Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21380054540001021), MS1991-023.{{< /galleryfigure >}}
 
 {{< /galleryrow >}}
 
