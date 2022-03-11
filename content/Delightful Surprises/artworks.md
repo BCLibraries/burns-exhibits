@@ -307,7 +307,8 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Panel_sketchbooks.jpg"
-[Hopkins Family Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21380054540001021), MS1991-023.{{< /galleryfigure >}}
+           headline="Sketches by Kate Hopkins">}} [Hopkins Family Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21380054540001021), MS1991-023.
+{{< /galleryfigure >}}
 
 {{< /galleryrow >}}
 
