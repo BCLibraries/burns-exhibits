@@ -227,7 +227,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Panel_autographs.jpg"
-           headline="Kilmainham Jail women prisoners autograph books ">}} Box 12, [Loretta Clarke Murray Collection of Women in Revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016.
+           headline="Kilmainham Jail women prisoners autograph book ">}} Box 12, [Loretta Clarke Murray Collection of Women in Revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
