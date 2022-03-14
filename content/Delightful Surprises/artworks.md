@@ -79,7 +79,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_004_Meynell_IllustrationPreludes.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Illustration for Alice Meynell's Preludes, by Elizabeth Thompson">}} Box 1, Folder 45, [Boston College Collection of Alice Meynell]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21330996430001021), MS1986-061.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -87,11 +87,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_006_Meynell_IllustrationPreludes.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+           headline="Illustration for Alice Meynell's Preludes, by Elizabeth Thompson">}} Box 1, Folder 45, [Boston College Collection of Alice Meynell]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21330996430001021), MS1986-061.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Delightful_005_Meynell_IllustrationPreludes.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Illustration for Alice Meynell's Preludes, by Elizabeth Thompson">}} Box 1, Folder 45, [Boston College Collection of Alice Meynell]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21330996430001021), MS1986-061.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -123,7 +123,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_088-088F.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Autograph book belonging to Máire “Mollie” Gill">}} Box 24, [Loretta Clarke Murray Collection of Women in Revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -155,7 +155,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Delightful_64_violin.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Flann O’Brien’s violin, 1948, by Micheál Ó Nualláin">}} Box 27, Folder 8, [Flann O’Brien papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21332671220001021), MS1997-027.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -227,7 +227,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Panel_autographs.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Kilmainham Jail women prisoners autograph book ">}} Box 12, [Loretta Clarke Murray Collection of Women in Revolutionary Ireland](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21381862810001021), MS2016-016.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -307,7 +307,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="Panel_sketchbooks.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Sketches by Kate Hopkins">}} Box 11, [Hopkins Family Papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21380054540001021), MS1991-023.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -344,26 +344,3 @@ type: "exhibit"
 
 {{< /galleryrow >}}
 
-{{< galleryrow >}}
-
-{{< galleryfigure src="Delightful_003C_Belloc_Monkeys.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
-{{< /galleryfigure >}}
-
-{{< galleryfigure src="Delightful_003D_Belloc_Pythons.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
-{{< /galleryfigure >}}
-
-{{< /galleryrow >}}
-
-{{< galleryrow >}}
-
-{{< galleryfigure src="Delightful_003E_Belloc_Mammoth.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
-{{< /galleryfigure >}}
-
-{{< galleryfigure src="Delightful_003F_Belloc_Elephant.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
-{{< /galleryfigure >}}
-
-{{< /galleryrow >}}
