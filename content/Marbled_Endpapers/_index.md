@@ -4,7 +4,7 @@ title: "Introduction"
 
 # Title of exhibit
 exhibit_title: "Marbled Endpapers"
-exhibit_subtitle: "Examples from the General collection at John J. Burns Library"
+exhibit_subtitle: "Examples from the General Collection at John J. Burns Library"
 
 date: 2022-02-08T15:48:33-05:00
 
@@ -30,5 +30,5 @@ type: "exhibit"
            description="" 
            side="right" 
 		   size="small" >}}
-Endpapers are the double leaves of a book that are inserted by the book binder in the front and back. Endpapers that are pasted to the covers are called paste-down endpapers, and ones that are not are called free endpapers. Marbling is a process that involves suspending colors in a liquid, and then lowering a piece of paper on top. Different patterns in the liquid are created using tools such as combs or sticks. When you combine these two words, you get marbled endpapers, a beautiful bookart that's been used since at least the seventeenth century. This exhibit is a small collection of marbled endpapers selected at random from the General collection at Burns Library. There are hundreds, if not thousands more examples among our holdings to be explored.
+Endpapers are the double leaves of a book that are inserted by the book binder in the front and back. Endpapers that are pasted to the covers are called paste-down endpapers, and ones that are not are called free endpapers. Marbling is a process that involves suspending colors in a liquid, and then lowering a piece of paper on top. Different patterns in the liquid are created using tools such as combs or sticks. When you combine these two words, you get marbled endpapers, a beautiful bookart that's been used since at least the seventeenth century. This exhibit is a small collection of marbled endpapers selected at random from the General Collection at Burns Library. There are hundreds, if not thousands more examples among our holdings to be explored.
 
