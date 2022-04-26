@@ -6,7 +6,7 @@ title: "Introduction"
 exhibit_title: "Delightful Surprises"
 exhibit_subtitle: ""
 
-date: 2022-01-21T13:10:25-05:00
+date: 2022-04-26T13:10:25-05:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1 
@@ -20,7 +20,7 @@ front_caption_text: ""
 current: false
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
