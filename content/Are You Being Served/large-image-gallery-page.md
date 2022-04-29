@@ -19,21 +19,6 @@ type: "exhibit"
 Breaking bread together—at both elaborate and simple affairs—strengthens a sense of community. In its 150 years, Boston College, itself, has been the venue for innumerable celebratory meals, but Eagles also sometimes find themselves far from home. Represented here are souvenirs of informal occasions such as a hotel breakfast in New Orleans, afternoon tea in Chestnut Hill, and supper in a U.S. Navy mess in Manila, along with elaborate and formal banquets at the best hotels in Boston, New York, and elsewhere.
 {{< /largefigure >}}
 
-
-{{< galleryrow >}}
-
-
-{{< galleryfigure src="Menu9_BC1997.006_1_sideA.jpg"
-           headline="The 1928 Eagles were the season’s only undefeated football team on the eastern seaboard. A banquet for the team was hosted by the Boston College Athletic Association at Elks Hotel on Washington Street in Boston.
-{{< /galleryfigure >}}
-
-{{< galleryfigure src="Menu9_BC1997.006_1_sideB.jpg"
-           headline=""
-{{< /galleryfigure >}}
-
-
-{{< /galleryrow >}}
-
 {{< largefigure src="../portrait-image.jpg"
                 headline="Venenatis Euismod Tristique"
                 description="Fringilla Quam Consectetur Commodo" 
