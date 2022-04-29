@@ -12,7 +12,7 @@ draft: true
 type: "exhibit"
 ---
 
-{{< largefigure src="Menu9_BC1997.006_1_sideA.jpg"
+{{< largefigure src="Menu1_BC1991.042_b1_f1_sideA_web.jpg"
                 headline="Venenatis Euismod Tristique"
                 description="Dapibus Vulputate Sollicitudin Cras"
                 size="x-large" >}}
