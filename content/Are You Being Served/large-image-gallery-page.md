@@ -1,6 +1,6 @@
 ---
 title: "Large image gallery page"
-description: ""
+description: "Bird Food: Eagles at Home and Away"
 
 # Page order (1 is 1st page, etc.)
 weight:  3
@@ -12,11 +12,11 @@ draft: true
 type: "exhibit"
 ---
 
-{{< largefigure src="../intro-image.jpg"
+{{< largefigure src="Menu9_BC1997.006_1_sideA.jpg"
                 headline="Venenatis Euismod Tristique"
                 description="Dapibus Vulputate Sollicitudin Cras"
                 size="x-large" >}}
-Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Curabitur blandit tempus porttitor.
+Breaking bread together—at both elaborate and simple affairs—strengthens a sense of community. In its 150 years, Boston College, itself, has been the venue for innumerable celebratory meals, but Eagles also sometimes find themselves far from home. Represented here are souvenirs of informal occasions such as a hotel breakfast in New Orleans, afternoon tea in Chestnut Hill, and supper in a U.S. Navy mess in Manila, along with elaborate and formal banquets at the best hotels in Boston, New York, and elsewhere.
 {{< /largefigure >}}
 
 {{< largefigure src="../portrait-image.jpg"
