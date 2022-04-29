@@ -1,6 +1,6 @@
 ---
-title: "Large image gallery page"
-description: "Bird Food: Eagles at Home and Away"
+title: "Bird Food: Eagles at Home and Away"
+description: ""
 
 # Page order (1 is 1st page, etc.)
 weight:  3
