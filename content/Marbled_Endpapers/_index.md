@@ -17,10 +17,10 @@ front_caption_headline: ""
 front_caption_text: ""
 
 # Change to true if this exhibit is currently running.
-current: false
+current: true	
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
