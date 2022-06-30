@@ -12,7 +12,7 @@ date: 2022-02-08T15:48:33-05:00
 weight: 1 
 
 # Big image on first page.
-front_image: "intro-image.jpg" # Replace with the real image
+front_image: "tile-rect.png" # Replace with the real image
 front_caption_headline: ""
 front_caption_text: ""
 
