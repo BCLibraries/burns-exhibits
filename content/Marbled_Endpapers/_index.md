@@ -6,13 +6,13 @@ title: "Introduction"
 exhibit_title: "Marbled Endpapers"
 exhibit_subtitle: "Examples from the General Collection at John J. Burns Library"
 
-date: 2022-02-08T15:48:33-05:00
+date: 2022-06-29T15:48:33-05:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1 
 
 # Big image on first page.
-front_image: "tile-rect.png" # Replace with the real image
+front_image: "tile-rect.jpg" # Replace with the real image
 front_caption_headline: ""
 front_caption_text: ""
 
