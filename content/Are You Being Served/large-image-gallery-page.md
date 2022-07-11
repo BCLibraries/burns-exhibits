@@ -47,19 +47,10 @@ The undefeated 1940 Eagles met the Tennessee Volunteers in the Sugar Bowl at Tul
                 headline="Breakfast Menu, Hotel Reed, New Orleans, 1941"
                 description="Pharetra Mattis Inceptos"
                 size="small" >}}
-Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean lacinia bibendum nulla sed consectetur.
 {{< /largefigure >}}
 
 {{< largefigure src="Menu11_BC1997.006_b4_fSupperDanceProgram_sideB.jpg"
                 headline="Breakfast Menu, Hotel Reed, New Orleans, 1941"
                 size="medium"
                 align="left" >}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
-{{< /largefigure >}}
-
-{{< largefigure src="../portrait-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                description="Pharetra Mattis Inceptos"
-                size="small" >}}
-Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean lacinia bibendum nulla sed consectetur.
 {{< /largefigure >}}
