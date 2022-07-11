@@ -22,7 +22,7 @@ Breaking bread together—at both elaborate and simple affairs—strengthens a s
 {{< largefigure src="Menu9_BC1997.006_1_sideA.jpg"
                 headline="Venenatis Euismod Tristique"
                 description="Fringilla Quam Consectetur Commodo" 
-                size="large" align="center" >}}
+                size="x-large" >}}
 The 1899 Boston College Eagles were scored on only once in ten games, and completed their football season by beating Holy Cross. Boston College Alumni honored the team at Boston’s Parker House Hotel.
 1899 Team Dinner, Parker House, Boston, 1900
 
@@ -31,7 +31,7 @@ The 1899 Boston College Eagles were scored on only once in ten games, and comple
 {{< largefigure src="Menu9_BC1997.006_1_sideB.jpg"
                 headline="Venenatis Euismod Tristique"
                 description="Fringilla Quam Consectetur Commodo" 
-                size="large" align="center" >}}
+                size="x-large" >}}
 {{< /largefigure >}}
 
 {{< largefigure src="../intro-image.jpg"
