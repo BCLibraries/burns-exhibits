@@ -28,17 +28,18 @@ The 1899 Boston College Eagles were scored on only once in ten games, and comple
 
 {{< /largefigure >}}
 
-{{< largefigure src="Menu9_BC1997.006_1_sideB.jpg"
-                headline="Venenatis Euismod Tristique"
-                description="Fringilla Quam Consectetur Commodo" 
-                size="x-large" >}}
-{{< /largefigure >}}
-
 {{< largefigure src="Menu9_BC1997.006_1_sideA.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="left" >}}
 Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+{{< /largefigure >}}
+
+
+{{< largefigure src="Menu10_BC1997.006_b4_fSugarBowl1941MiscellaneousMemorabilia.jpg"
+                headline="Venenatis Euismod Tristique"
+                description="Fringilla Quam Consectetur Commodo" 
+                size="x-large" >}}
 {{< /largefigure >}}
 
 {{< largefigure src="../portrait-image.jpg"
