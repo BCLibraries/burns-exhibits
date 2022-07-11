@@ -49,7 +49,7 @@ Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget m
 Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean lacinia bibendum nulla sed consectetur.
 {{< /largefigure >}}
 
-{{< largefigure src="../intro-image.jpg"
+{{< largefigure src="Menu11_BC1997.006_b4_fSupperDanceProgram_sideB.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="left" >}}
