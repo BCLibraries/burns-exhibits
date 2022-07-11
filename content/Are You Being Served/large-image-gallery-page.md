@@ -34,7 +34,7 @@ The 1899 Boston College Eagles were scored on only once in ten games, and comple
                 size="x-large" >}}
 {{< /largefigure >}}
 
-{{< largefigure src="../intro-image.jpg"
+{{< largefigure src="Menu9_BC1997.006_1_sideA.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="left" >}}
