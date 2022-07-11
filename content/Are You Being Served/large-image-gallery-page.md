@@ -23,7 +23,7 @@ Breaking bread together—at both elaborate and simple affairs—strengthens a s
                 headline="1928 Team Banquet, Elks Hotel, Boston, 1929"
                 description="Fringilla Quam Consectetur Commodo" 
                 size="x-large" >}}
-The 1899 Boston College Eagles were scored on only once in ten games, and completed their football season by beating Holy Cross. 
+The 1899 Boston College Eagles were scored on only once in ten games, and completed their football season by beating Holy Cross. Boston College Alumni honored the team at Boston’s Parker House Hotel.
 1899 Team Dinner, Parker House, Boston, 1900
 
 {{< /largefigure >}}
@@ -32,7 +32,7 @@ The 1899 Boston College Eagles were scored on only once in ten games, and comple
                 headline="1928 Team Banquet, Elks Hotel, Boston, 1929"
                 size="medium"
                 align="left" >}}
-Boston College Alumni honored the team at Boston’s Parker House Hotel.
+
 {{< /largefigure >}}
 
 {{< largefigure src="Menu10_BC1997.006_b4_fSugarBowl1941MiscellaneousMemorabilia.jpg"
