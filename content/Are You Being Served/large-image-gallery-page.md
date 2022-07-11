@@ -37,21 +37,21 @@ Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget m
 
 
 {{< largefigure src="Menu10_BC1997.006_b4_fSugarBowl1941MiscellaneousMemorabilia.jpg"
-                headline="Venenatis Euismod Tristique"
+                headline="Sugar Bowl Supper Dance, Roosevelt Hotel, New Orleans, 1941"
                 description="Fringilla Quam Consectetur Commodo" 
                 size="x-large" >}}
 The undefeated 1940 Eagles met the Tennessee Volunteers in the Sugar Bowl at Tulane Stadium in New Orleans on New Year’s Day, 1941. Boston College defeated Tennessee 19-13. As a part of the event’s festivities, both teams were honored at a supper dance that evening at the Roosevelt Hotel.				
 {{< /largefigure >}}
 
 {{< largefigure src="Menu11_BC1997.006_b4_fSupperDanceProgram_sideA.jpg"
-                headline="Venenatis Euismod Tristique"
+                headline="Breakfast Menu, Hotel Reed, New Orleans, 1941"
                 description="Pharetra Mattis Inceptos"
                 size="small" >}}
 Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean lacinia bibendum nulla sed consectetur.
 {{< /largefigure >}}
 
 {{< largefigure src="Menu11_BC1997.006_b4_fSupperDanceProgram_sideB.jpg"
-                headline="Venenatis Euismod Tristique"
+                headline="Breakfast Menu, Hotel Reed, New Orleans, 1941"
                 size="medium"
                 align="left" >}}
 Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
