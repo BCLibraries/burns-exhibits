@@ -32,9 +32,8 @@ The 1899 Boston College Eagles were scored on only once in ten games, and comple
                 headline="1928 Team Banquet, Elks Hotel, Boston, 1929"
                 size="medium"
                 align="left" >}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
-{{< /largefigure >}}
 
+{{< /largefigure >}}
 
 {{< largefigure src="Menu10_BC1997.006_b4_fSugarBowl1941MiscellaneousMemorabilia.jpg"
                 headline="Sugar Bowl Supper Dance, Roosevelt Hotel, New Orleans, 1941"
