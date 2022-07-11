@@ -42,7 +42,7 @@ Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget m
                 size="x-large" >}}
 {{< /largefigure >}}
 
-{{< largefigure src="../portrait-image.jpg"
+{{< largefigure src="Menu11_BC1997.006_b4_fSupperDanceProgram_sideA.jpg"
                 headline="Venenatis Euismod Tristique"
                 description="Pharetra Mattis Inceptos"
                 size="small" >}}
