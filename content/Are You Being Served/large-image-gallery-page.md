@@ -40,6 +40,7 @@ Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget m
                 headline="Venenatis Euismod Tristique"
                 description="Fringilla Quam Consectetur Commodo" 
                 size="x-large" >}}
+The undefeated 1940 Eagles met the Tennessee Volunteers in the Sugar Bowl at Tulane Stadium in New Orleans on New Year’s Day, 1941. Boston College defeated Tennessee 19-13. As a part of the event’s festivities, both teams were honored at a supper dance that evening at the Roosevelt Hotel.				
 {{< /largefigure >}}
 
 {{< largefigure src="Menu11_BC1997.006_b4_fSupperDanceProgram_sideA.jpg"
