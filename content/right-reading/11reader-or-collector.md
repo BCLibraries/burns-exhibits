@@ -11,31 +11,10 @@ draft: true
 
 type: "exhibit"
 ---
+At what point does a reader become a book collector?
 
-{{< galleryrow >}}
+Burns Library inherited nearly 700 volumes from John J. Burns, Jr., but they represent only a portion of the personal library that he amassed over 60 years.
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
-{{< /galleryfigure >}}
+Burns read the books he bought, and bought books in order to read them. He may not have called himself a “collector,” but his disciplined reading habits resulted in a coherent collection formed around related topics.
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
-{{< /galleryfigure >}}
-
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Amet Pellentesque" >}}
-{{< /galleryfigure >}}
-
-{{< /galleryrow >}}
-
-{{< galleryrow >}}
-
-{{< galleryfigure src="../intro-image.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
-{{< /galleryfigure >}}
-
-{{< galleryfigure src="../intro-image.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
-{{< /galleryfigure >}}
-
-{{< /galleryrow >}}
+How about you? Are you a reader? A collector? Or both?
