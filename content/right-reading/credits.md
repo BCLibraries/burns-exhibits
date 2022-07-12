@@ -15,10 +15,6 @@ type: "exhibit"
 
 Sponsored by Boston College Libraries
 
-Curator(s): Person, Title
-
-Person, Title
-
-Person, Title
+Curator(s): Christian Dupont, Burns Librarian and Associate University Librarian for Collections
 
 Originally displayed: Location, Month - Month 2017

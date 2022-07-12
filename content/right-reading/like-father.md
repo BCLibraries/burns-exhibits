@@ -1,5 +1,5 @@
 ---
-title: "Gallery page"
+title: "Like Father, Like Son"
 description: ""
 
 # Page order
