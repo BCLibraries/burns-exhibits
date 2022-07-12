@@ -24,8 +24,7 @@ Burns nevertheless inspired his younger daughter to become a historian. A profes
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../rightreading2.png"
-           headline="Will Durant, The Lessons of History (New York: Simon and Schuster, 1968). D16.8.D84 1968
-">}}
+           headline="Will Durant, The Lessons of History (New York: Simon and Schuster, 1968). D16.8.D84 1968">}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
