@@ -13,7 +13,7 @@ type: "exhibit"
 ---
 Along with his reading habits, Burns inherited a number of books from his father, such as this copy of *A Short History of England* by Hilaire Belloc, who became one of his favorite writers. A prolific author of more than 150 books, Belloc turned to his pen to many subjects and genres, from travel writing to children’s literature, to poetry, novels, and essays. Like his contemporary G.K. Chesterton, Belloc was widely regarded as a Catholic apologist who promoted and defended the faith with exuberant alacrity and wit.
 
-Will Durant was born in North Adams, Massachusetts, to French-Canadian Catholic parents and educated by Jesuits. A historian and philosopher, he is best known for his encyclopedic *Story of Civilization* published in 11 volumes between 1935 and 1975. He wrote the latter volumes and a companion, The Lessons of History, in collaboration with his Ukrainian-born Jewish wife, Ariel, one of the few women represented in Burns’s library.
+Will Durant was born in North Adams, Massachusetts, to French-Canadian Catholic parents and educated by Jesuits. A historian and philosopher, he is best known for his encyclopedic *Story of Civilization* published in 11 volumes between 1935 and 1975. He wrote the latter volumes and a companion, *The Lessons of History*, in collaboration with his Ukrainian-born Jewish wife, Ariel, one of the few women represented in Burns’s library.
 
 Burns nevertheless inspired his younger daughter to become a historian. A professor at Stanford University and research fellow at Stanford’s Hoover Institution on War, Revolution, and Peace, Jennifer Burns has published an intellectual biography of libertarian novelist Ayn Rand and is presently completing a book on economist Milton Friedman.
 
