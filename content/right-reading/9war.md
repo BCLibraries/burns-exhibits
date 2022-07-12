@@ -1,9 +1,9 @@
 ---
-title: "Gallery page"
+title: "War"
 description: ""
 
 # Page order
-weight:  11
+weight:  9
 alwaysopen: true
 
 # Change to false to publish.

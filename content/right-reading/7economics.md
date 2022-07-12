@@ -1,9 +1,9 @@
 ---
-title: "Gallery page"
+title: "Economics"
 description: ""
 
 # Page order
-weight:  6
+weight:  7
 alwaysopen: true
 
 # Change to false to publish.

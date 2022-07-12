@@ -1,9 +1,9 @@
 ---
-title: "Gallery page"
+title: "business"
 description: ""
 
 # Page order
-weight:  2
+weight:  6
 alwaysopen: true
 
 # Change to false to publish.

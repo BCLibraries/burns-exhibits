@@ -1,9 +1,9 @@
 ---
-title: "Gallery page"
+title: "Religion"
 description: ""
 
 # Page order
-weight:  10
+weight:  5
 alwaysopen: true
 
 # Change to false to publish.

@@ -1,9 +1,9 @@
 ---
-title: "Gallery page"
+title: "Reader or Collector?"
 description: ""
 
 # Page order
-weight:  7
+weight:  11
 alwaysopen: true
 
 # Change to false to publish.

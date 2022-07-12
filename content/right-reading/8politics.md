@@ -1,5 +1,5 @@
 ---
-title: "Gallery page"
+title: "Politics"
 description: ""
 
 # Page order
