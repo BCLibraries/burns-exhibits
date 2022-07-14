@@ -49,8 +49,8 @@ Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget m
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Menu74_MS2013.020_b1_f1.jpg">}} Sollicitudin Mollis Venenatis Sit
+{{< galleryfigure src="Menu74_MS2013.020_b1_f1.jpg"
+           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../portrait-image.jpg"
