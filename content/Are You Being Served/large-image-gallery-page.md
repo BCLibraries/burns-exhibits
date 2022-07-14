@@ -114,3 +114,12 @@ Army Chaplain William J. Leonard, SJ, and a Navy colleague improved this delight
 
 {{< /galleryrow >}}
 
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu2_BC2000.023_b9_f60_sideA.jpg"
+           headline="Officers' Mess supper menu, Manila, Philippines, 1945">}} citation
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu2_BC2000.023_b9_f60_sideB_2.jpg"
+           headline="Officers' Mess supper menu, Manila, Philippines, 1945">}} citation
+{{< /galleryfigure >}}
