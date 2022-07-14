@@ -34,7 +34,7 @@ Fannie Farmer was born in Boston in 1857. After a bout of polio in young adultho
 {{< /galleryrow >}}
 
 {{< largefigure src="Menu54_TX715.F371921Boston.jpg"
-                headline="title"
+                headline="The Boston Cooking-School Cook Book, 1896"
                 description="credit"
                 size="small" >}}
 The Boston Cooking School was established by the Women’s Education Association of Boston in 1879 and incorporated in 1882. The School brought a scientific approach to cookery and sought to serve a wide audience, from professional cooks to housewives, nurses, teachers, housekeepers, and matrons of institutions. Mary Johnson Bailey Lincoln served as the first principal of the school, followed by Ida Maynard and Carrie Dearborn. The School’s fourth principal, Fannie Farmer, brought the School its greatest fame with her popular lectures series and a cookbook, The Boston Cooking-School Cook Book (1896). After Farmer left in 1902 to start her own school, the Boston Cooking School merged with Simmons College. Many local cooks trained at either the Boston Cooking School or Miss Farmer’s School, and many of the meals in Boston menus seen here were very likely prepared by their graduates.
