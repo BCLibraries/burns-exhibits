@@ -47,14 +47,15 @@ The Boston Cooking School was established by the Women’s Education Association
 Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
 {{< /largefigure >}}
 
+The Boston School Kitchens taught cooking in the Boston Public Schools beginning in 1885, “to humanize and refine” students and prepare them for work caring for invalids or as housekeepers. Their text book was written by Mary Johnson Bailey Lincoln, the first principal of the Boston Cooking School. The earliest school kitchens were started by wealthy individuals who donated the costs to the city. The Boston Public Schools assumed the administration of the kitchens in 1888, and by 1892 there were nearly a dozen of them scattered throughout the city. Boston School Kitchen No. 3 was at the Bowditch School in Jamaica Plain. Aside from her cooking skills, little else is known about Madolene Stanley Broadbent, the student whose photograph and certificate are seen here.
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu74_MS2013.020_b1_f1.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="title">}} citation
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../intro-image.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+{{< galleryfigure src=""
+           headline="title">}} citation
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
