@@ -23,11 +23,15 @@ Fannie Farmer was born in Boston in 1857. After a bout of polio in young adultho
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu52_05-17276Nursing.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Tellus">}} credit
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu76_TX825.F23.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline="Mollis Quam Vehicula Lorem">}} credit
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu54_TX715.F371921Boston.jpg"
+           headline="Mollis Quam Vehicula Lorem">}} credit
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
