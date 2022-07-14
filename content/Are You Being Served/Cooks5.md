@@ -3,7 +3,7 @@ title: "Cooks"
 description: ""
 
 # Page order (1 is 1st page, etc.)
-weight:  4
+weight:  5
 alwaysopen: true
 
 # Change to false to publish.
@@ -35,6 +35,13 @@ Fannie Farmer was born in Boston in 1857. After a bout of polio in young adultho
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
+
+{{< largefigure src="../portrait-image.jpg"
+                headline="Venenatis Euismod Tristique"
+                description="Fringilla Quam Consectetur Commodo" 
+                size="large" align="center" >}}
+Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+{{< /largefigure >}}
 
 {{< largefigure src="../intro-image.jpg"
                 headline="Venenatis Euismod Tristique"
