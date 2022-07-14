@@ -87,17 +87,6 @@ The menu, below, of the “Formal Installation Dinner” of Louis J. Gallagher, 
 
 {{< /galleryrow >}}
 
-{{< galleryrow >}}
-
-{{< galleryfigure src="Menu7_BC2013.016_b18_f2.jpg"
-           headline="Joseph R.N. Maxwell, SJ, Testimonial Dinner, Copely Plaza Hotel, 1940">}} citation
-{{< /galleryfigure >}}
-
-{{< galleryfigure src="Menu6_BC2013.016_b18_f1.jpg"
-           headline="Joseph R.N. Maxwell, SJ, Testimonial Dinner, Sheraton Plaza Hotel, 1955">}} citation
-{{< /galleryfigure >}}
-
-{{< /galleryrow >}}
 
 BOSTON COLLEGE FACULTY
 
@@ -113,13 +102,3 @@ Army Chaplain William J. Leonard, SJ, and a Navy colleague improved this delight
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
-
-{{< galleryrow >}}
-
-{{< galleryfigure src="Menu2_BC2000.023_b9_f60_sideA.jpg"
-           headline="Officers' Mess supper menu, Manila, Philippines, 1945">}} citation
-{{< /galleryfigure >}}
-
-{{< galleryfigure src="Menu2_BC2000.023_b9_f60_sideB_2.jpg"
-           headline="Officers' Mess supper menu, Manila, Philippines, 1945">}} citation
-{{< /galleryfigure >}}
