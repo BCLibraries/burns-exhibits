@@ -117,6 +117,7 @@ Daniel Linehan, SJ, (1904–1987), a member of Boston College’s class of 1927 
 {{< /largefigure >}}
 
 PHILOMATHEIA
+
 The Philomatheia Club, a women’s auxiliary group, was first organized in 1915. It was founded to “promote and foster the scholastic, athletic and social interests of Boston College.” The club’s members were mostly mothers of Boston College men, and the subsequently formed “Jr. Philomatheia” was composed of younger boosters of the college. Active until the early 1960s, the clubs regularly raised substantial amounts of money for various projects and scholarships, and supported Boston College men who fought in wars. At the home they purchased for their use—a wonderful chalet-style structure on the current site of Gabelli Hall—they held frequent social gatherings.
 {{< galleryrow >}}
 
