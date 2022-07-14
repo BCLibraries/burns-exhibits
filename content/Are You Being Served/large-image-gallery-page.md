@@ -74,7 +74,7 @@ Joseph R.N. Maxwell, SJ (1899–1971) was dean of studies at Boston College from
 
 {{< /galleryrow >}}
 
-This menu of the “Formal Installation Dinner” of Louis J. Gallagher, SJ, as Boston College’s 17th President is adorned with literary and scriptural jokes and references to Bolshevik Russia. It illustrates his colleagues’ sense of humor as well as his former role as Assistant Director of the Vatican Relief Mission and his part in the international relief efforts following the Russian famine of 1921.
+The menu, below, of the “Formal Installation Dinner” of Louis J. Gallagher, SJ, as Boston College’s 17th President is adorned with literary and scriptural jokes and references to Bolshevik Russia. It illustrates his colleagues’ sense of humor as well as his former role as Assistant Director of the Vatican Relief Mission and his part in the international relief efforts following the Russian famine of 1921.
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu5_BC2004.020_b1_f14_sideA.jpg"
