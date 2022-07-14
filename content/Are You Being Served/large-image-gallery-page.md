@@ -12,12 +12,11 @@ draft: true
 type: "exhibit"
 ---
 
-title: "Football"
 {{< largefigure src="Menu1_BC1991.042_b1_f1_sideA_web.jpg"
                 headline="1899 Team Dinner, Parker House, Boston, 1900"
                 description=""
                 size="x-large" >}}
-Breaking bread together—at both elaborate and simple affairs—strengthens a sense of community. In its 150 years, Boston College, itself, has been the venue for innumerable celebratory meals, but Eagles also sometimes find themselves far from home. Represented here are souvenirs of informal occasions such as a hotel breakfast in New Orleans, afternoon tea in Chestnut Hill, and supper in a U.S. Navy mess in Manila, along with elaborate and formal banquets at the best hotels in Boston, New York, and elsewhere.
+FOOTBALL: Breaking bread together—at both elaborate and simple affairs—strengthens a sense of community. In its 150 years, Boston College, itself, has been the venue for innumerable celebratory meals, but Eagles also sometimes find themselves far from home. Represented here are souvenirs of informal occasions such as a hotel breakfast in New Orleans, afternoon tea in Chestnut Hill, and supper in a U.S. Navy mess in Manila, along with elaborate and formal banquets at the best hotels in Boston, New York, and elsewhere.
 {{< /largefigure >}}
 
 {{< largefigure src="Menu1_BC1991.042_b1_f1_sideB_web.jpg"
