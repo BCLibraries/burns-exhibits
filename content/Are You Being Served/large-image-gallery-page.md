@@ -38,7 +38,22 @@ The 1928 Eagles were the season’s only undefeated football team on the eastern
                 headline="1928 Team Banquet, Elks Hotel, Boston, 1929"
                 size="medium"
                 align="left" >}}
-{{< /largefigure >}}
+{{< /largefigure >}}Joseph R.N. Maxwell, SJ (1899–1971) was dean of studies at Boston College from 1935 until his appointment as President of the College of the Holy Cross in 1939, at which time the newly-named head of Boston College’s Worcester rival was honored in Boston at the Copley Plaza Hotel. In 1955 Fr. Maxwell was again honored—this time by the Boston College Alumni Association—as he was elevated to the presidency of the Association of American Colleges. He served as the organization’s 41st President—the first Catholic priest to do so. Fr. Maxwell was Boston College’s President from 1951–1958.
+
+The 1928 Eagles were the season’s only undefeated football team on the eastern seaboard. A banquet for the team was hosted by the Boston College Athletic Association at Elks Hotel on Washington Street in Boston.
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu9_BC1997.006_1_sideA.jpg"
+           headline="1928 Team Banquet, Elks Hotel, Boston, 1929">}} citation
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu9_BC1997.006_1_sideB.jpg"
+           headline="1928 Team Banquet, Elks Hotel, Boston, 1929">}} citation
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+
 
 {{< largefigure src="Menu10_BC1997.006_b4_fSugarBowl1941MiscellaneousMemorabilia.jpg"
                 headline="Sugar Bowl Supper Dance, Roosevelt Hotel, New Orleans, 1941"
