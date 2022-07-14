@@ -27,6 +27,20 @@ The 1899 Boston College Eagles were scored on only once in ten games, and comple
 1899 Team Dinner, Parker House, Boston, 1900
 {{< /largefigure >}}
 
+The 1899 Boston College Eagles were scored on only once in ten games, and completed their football season by beating Holy Cross. Boston College Alumni honored the team at Boston’s Parker House Hotel.
+1899 Team Dinner, Parker House, Boston, 1900
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu1_BC1991.042_b1_f1_sideA_web.jpg"
+           headline="1899 Team Dinner, Parker House, Boston, 1900">}} citation
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu1_BC1991.042_b1_f1_sideB_web.jpg"
+           headline="1899 Team Dinner, Parker House, Boston, 1900">}} citation
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
 The 1928 Eagles were the season’s only undefeated football team on the eastern seaboard. A banquet for the team was hosted by the Boston College Athletic Association at Elks Hotel on Washington Street in Boston.
 {{< galleryrow >}}
 
