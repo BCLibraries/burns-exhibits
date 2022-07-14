@@ -65,11 +65,11 @@ Joseph R.N. Maxwell, SJ (1899–1971) was dean of studies at Boston College from
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu7_BC2013.016_b18_f2.jpg"
-           headline="Joseph R.N. Maxwell, SJ, Testimonial Dinner, Copely Plaza Hotel, 1940">}} Pellentesque Vehicula Aenean
+           headline="Joseph R.N. Maxwell, SJ, Testimonial Dinner, Copely Plaza Hotel, 1940">}} citation
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu6_BC2013.016_b18_f1.jpg"
-           headline="Joseph R.N. Maxwell, SJ, Testimonial Dinner, Sheraton Plaza Hotel, 1955">}} Ullamcorper Egestas Dapibus
+           headline="Joseph R.N. Maxwell, SJ, Testimonial Dinner, Sheraton Plaza Hotel, 1955">}} citation
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
