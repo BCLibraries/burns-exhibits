@@ -1,9 +1,9 @@
 ---
-title: "Large image gallery page"
+title: "Cooks"
 description: ""
 
 # Page order (1 is 1st page, etc.)
-weight:  3
+weight:  4
 alwaysopen: true
 
 # Change to false to publish.
@@ -39,3 +39,31 @@ Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget m
                 size="small" >}}
 Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean lacinia bibendum nulla sed consectetur.
 {{< /largefigure >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="../portrait-image.jpg"
+           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="../portrait-image.jpg"
+           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="../portrait-image.jpg"
+           headline="Amet Pellentesque" >}}
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="../intro-image.jpg"
+           headline="Tellus">}} Pellentesque Vehicula Aenean
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="../intro-image.jpg"
+           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
