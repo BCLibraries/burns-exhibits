@@ -12,6 +12,7 @@ draft: true
 type: "exhibit"
 ---
 
+title: "Football"
 {{< largefigure src="Menu1_BC1991.042_b1_f1_sideA_web.jpg"
                 headline="1899 Team Dinner, Parker House, Boston, 1900"
                 description=""
