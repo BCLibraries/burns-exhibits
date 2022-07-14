@@ -60,7 +60,6 @@ The undefeated 1940 Eagles met the Tennessee Volunteers in the Sugar Bowl at Tul
 {{< /largefigure >}}
 
 Joseph R.N. Maxwell, SJ (1899–1971) was dean of studies at Boston College from 1935 until his appointment as President of the College of the Holy Cross in 1939, at which time the newly-named head of Boston College’s Worcester rival was honored in Boston at the Copley Plaza Hotel. In 1955 Fr. Maxwell was again honored—this time by the Boston College Alumni Association—as he was elevated to the presidency of the Association of American Colleges. He served as the organization’s 41st President—the first Catholic priest to do so. Fr. Maxwell was Boston College’s President from 1951–1958.
-
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu7_BC2013.016_b18_f2.jpg"
