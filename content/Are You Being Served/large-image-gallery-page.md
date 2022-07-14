@@ -40,8 +40,6 @@ The 1928 Eagles were the season’s only undefeated football team on the eastern
 
 {{< /galleryrow >}}
 
-
-
 {{< largefigure src="Menu10_BC1997.006_b4_fSugarBowl1941MiscellaneousMemorabilia.jpg"
                 headline="Sugar Bowl Supper Dance, Roosevelt Hotel, New Orleans, 1941"
                 description="citation" 
@@ -105,4 +103,9 @@ Army Chaplain William J. Leonard, SJ, and a Navy colleague improved this delight
 
 {{< /galleryrow >}}
 
-
+{{< largefigure src="Menu14_B_web.jpg"
+                headline="Linehan Explorers’ Club Dinner, Waldorf-Astoria Hotel, New York City, 1964"
+                description="citation" 
+                size="x-large" >}}
+Daniel Linehan, SJ, (1904–1987), a member of Boston College’s class of 1927 was the first chair of the Boston College Department of Geophysics and was Director of the Weston Observatory from 1949–1972. Fr. Linehan is well known for his expeditions to Antarctica in the 1950s. Linehan Glacier is named in his honor. In 1957 he was elected a member of the Explorers’ Club, an organization founded in the year of his birth, whose purpose is to promote good fellowship and exploration. These days, as a part of the club’s annual dinner—always held at New York’s Waldorf Astoria Hotel—they are known for their “exotics” reception menu, which includes dishes not for the faint of heart.
+{{< /largefigure >}}
