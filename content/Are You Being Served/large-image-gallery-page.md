@@ -1,9 +1,9 @@
 ---
-title: "Large image gallery page"
+title: "CooksB"
 description: ""
 
 # Page order (1 is 1st page, etc.)
-weight:  8
+weight:  4
 alwaysopen: true
 
 # Change to false to publish.
@@ -12,11 +12,11 @@ draft: true
 type: "exhibit"
 ---
 
-{{< largefigure src="../intro-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                description="Dapibus Vulputate Sollicitudin Cras"
+{{< largefigure src="Menu52_05-cropped-17276Nursing.jpg"
+                headline="Cover detail of Food and Cookery for the Sick and Convalescent, 1904"
+                description="credit"
                 size="x-large" >}}
-Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Curabitur blandit tempus porttitor.
+For every delightful meal laid out in a menu, a cook – or several – labored away in the background. Many Boston cooks benefitted from an education at the Boston Cooking School, where the celebrated cook Fannie Farmer got her start. Boston public school students also received instruction in cooking at the Boston School Kitchens, which they could use in their private lives or parlay into paid work. For those without formal training, cookbooks like Mrs. Putnam's Receipt Book, and Young Housekeeper's Assistant (1858) included suggestions as to appropriate menus for large dinner parties.  While admiring these delightful menus, remember the cooks who wrote and tested recipes, pulled together the bills of fare, and prepared the food: they’re the unsung hero(ine)s of the exhibition!
 {{< /largefigure >}}
 
 {{< largefigure src="../portrait-image.jpg"
