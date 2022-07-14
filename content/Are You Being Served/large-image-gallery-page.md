@@ -87,6 +87,18 @@ The menu, below, of the “Formal Installation Dinner” of Louis J. Gallagher, 
 
 {{< /galleryrow >}}
 
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu7_BC2013.016_b18_f2.jpg"
+           headline="Joseph R.N. Maxwell, SJ, Testimonial Dinner, Copely Plaza Hotel, 1940">}} citation
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu6_BC2013.016_b18_f1.jpg"
+           headline="Joseph R.N. Maxwell, SJ, Testimonial Dinner, Sheraton Plaza Hotel, 1955">}} citation
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
 Army Chaplain William J. Leonard, SJ, and a Navy colleague improved this delightful Friday evening supper menu from an officers’ mess in Manila with smart-alecky notes before sending it home to the United States. Fr. Leonard (1909–2000) was a member of the Boston College faculty and later served as Chair of the Philosophy Department. He also was the curator of the Burns Library’s Liturgy and Life collection.
 {{< galleryrow >}}
 
@@ -99,14 +111,4 @@ Army Chaplain William J. Leonard, SJ, and a Navy colleague improved this delight
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
-{{< galleryrow >}}
 
-{{< galleryfigure src="Menu7_BC2013.016_b18_f2.jpg"
-           headline="Joseph R.N. Maxwell, SJ, Testimonial Dinner, Copely Plaza Hotel, 1940">}} citation
-{{< /galleryfigure >}}
-
-{{< galleryfigure src="Menu6_BC2013.016_b18_f1.jpg"
-           headline="Joseph R.N. Maxwell, SJ, Testimonial Dinner, Sheraton Plaza Hotel, 1955">}} citation
-{{< /galleryfigure >}}
-
-{{< /galleryrow >}}
