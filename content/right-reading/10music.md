@@ -20,11 +20,11 @@ The same might be said of Pyotr Ilyich Tchaikovsky (1840-1893), although direct 
 {{< galleryrow >}}
 
 {{< galleryfigure src="../rightreading16.png"
-           headline="Jens Malte Fischer, Gustav Mahler (New Haven: Yale University Press, 2011). ML410.M23F45 2011">}}
+           headline="Jens Malte Fischer, *Gustav Mahler* (New Haven: Yale University Press, 2011). ML410.M23F45 2011">}}
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../rightreading17.png"
-           headline="Alexander Poznansky, Tchaikovsky: The Quest for the Inner Man (New York: Schirmer Books, 1991). ML410.C4P85 1991">}}
+           headline="Alexander Poznansky, *Tchaikovsky: The Quest for the Inner Man* (New York: Schirmer Books, 1991). ML410.C4P85 1991">}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
