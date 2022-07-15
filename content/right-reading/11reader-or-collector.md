@@ -15,6 +15,7 @@ type: "exhibit"
            headline="John J. Burns, Jr., Class of 1953"
            description="Sub Turri 1953"
            side="right"
+           size="small"
 >}}
 
 At what point does a reader become a book collector?
