@@ -3,7 +3,7 @@ title: "Gallery page"
 description: ""
 
 # Page order
-weight:  2
+weight:  7
 alwaysopen: true
 
 # Change to false to publish.
