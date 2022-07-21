@@ -34,9 +34,6 @@ type: "exhibit"
            headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="Menu26_MS1992.017_b14_f3_sideA.jpg"
-           headline="Amet Pellentesque" >}}
-{{< /galleryfigure >}}
 
 {{< /galleryrow >}}
 
