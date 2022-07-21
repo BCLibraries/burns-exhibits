@@ -66,11 +66,11 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../intro-image.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+{{< galleryfigure src="Menu26_MS1992.017_b14_f3_sideA.jpg"
+           headline="Amet Pellentesque" >}}
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../intro-image.jpg"
+{{< galleryfigure src="Menu26_MS1992.017_b14_f3_sideB.jpg"
            headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
 {{< /galleryfigure >}}
 
