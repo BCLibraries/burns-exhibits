@@ -20,7 +20,7 @@ Burns nevertheless inspired his younger daughter to become a historian. A profes
 {{< galleryrow >}}
 
 {{< galleryfigure src="../rightreading1.png"
-           headline="Hilaire Belloc, *A History of England* (London: Methuen, 1925). DA30.B5 1925a">}}
+           headline="Hilaire Belloc, *A History of England* (London: Methuen, 1925). [DA30.B5 1925a](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21357998630001021)">}}
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../rightreading2.png"
