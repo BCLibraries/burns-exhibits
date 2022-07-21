@@ -39,7 +39,7 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="Menu35_MS1992.017_b23_f1.jpg"
+{{< galleryfigure src="croppedMenu35_MS1992.017_b23_f1.jpg"
            headline="Tellus">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
 
