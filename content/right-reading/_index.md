@@ -18,7 +18,7 @@ front_image: "rightreading.png"
 current: false
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
