@@ -12,7 +12,7 @@ date: 2022-03-10T14:27:10-05:00
 weight: 1
 
 # Big image on first page.
-front_image: "rightreading.png"
+front_image: "tile-square.jpg"
 
 # Change to true if this exhibit is currently running.
 current: true
