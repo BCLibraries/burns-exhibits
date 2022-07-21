@@ -12,7 +12,7 @@ date: 2022-04-27T16:15:55-04:00
 weight: 1 
 
 # Big image on first page.
-front_image: "Menu71_MS2012.009_b1.JPG.png"
+front_image: "Menu71_MS2012.009_b1.png"
 front_caption_headline: ""
 front_caption_text: ""
 
