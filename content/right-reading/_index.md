@@ -15,7 +15,7 @@ weight: 1
 front_image: "rightreading.png"
 
 # Change to true if this exhibit is currently running.
-current: false
+current: true
 
 # Change to false to publish.
 draft: false

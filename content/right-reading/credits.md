@@ -17,4 +17,4 @@ Sponsored by Boston College Libraries
 
 Curator(s): Christian Dupont, Burns Librarian and Associate University Librarian for Collections
 
-Originally displayed: Location, Month - Month 2017
+Originally displayed: Fine Print Room, 2017
