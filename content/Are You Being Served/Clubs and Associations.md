@@ -78,16 +78,12 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
+{{< galleryfigure src="Menu17_MS1993.012_b1_f47_sideA.jpg"
            headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
+{{< galleryfigure src="Menu18_MS1993.012_b21_f21_sideA.jpg"
            headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
-{{< /galleryfigure >}}
-
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Amet Pellentesque" >}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
