@@ -15,10 +15,16 @@ type: "exhibit"
 
 Sponsored by Boston College Libraries
 
-Curator(s): Person, Title
+Curators: Burns Library Archives Department:
 
-Person, Title
+Shelley Barber, Reference & Archives Specialist
 
-Person, Title
+Amy Braitsch, Head Archivist
 
-Originally displayed: Location, Month - Month 2017
+Xaviera Flores, Processing Assistant
+
+Jessica Meyer, Processing Assistant
+
+Adrienne Pruitt, Processing Archivist
+
+Originally displayed: Burns Library, 2014
