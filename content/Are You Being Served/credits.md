@@ -12,6 +12,11 @@ draft: true
 
 type: "exhibit"
 ---
+{{< figure src="croppedMenu25_MS1992.017_b14_f3 (2).jpg"
+           headline=""
+           description=""
+           size="large"
+           side="right" >}}
 
 Sponsored by Boston College Libraries
 
