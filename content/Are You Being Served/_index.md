@@ -12,7 +12,7 @@ date: 2022-04-27T16:15:55-04:00
 weight: 1 
 
 # Big image on first page.
-front_image: "Menu11_BC1997.006_b4_fSupperDanceProgram_sideB.jpg" # Replace with the real image
+front_image: "Menu72_MS2012.009_b3_f4.jpg" # Replace with the real image
 front_caption_headline: ""
 front_caption_text: ""
 
