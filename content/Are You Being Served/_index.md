@@ -12,9 +12,9 @@ date: 2022-04-27T16:15:55-04:00
 weight: 1 
 
 # Big image on first page.
-front_image: "intro-image.jpg" # Replace with the real image
-front_caption_headline: "Ullamcorper Condimentum Tortor Parturient"
-front_caption_text: "Donec id elit non mi porta gravida at eget metus."
+front_image: "Menu11_BC1997.006_b4_fSupperDanceProgram_sideB.jpg" # Replace with the real image
+front_caption_headline: ""
+front_caption_text: ""
 
 # Change to true if this exhibit is currently running.
 current: false
