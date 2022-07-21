@@ -22,11 +22,11 @@ Napoleon provided perennial fascination and his defeat at Waterloo a topic of en
 {{< galleryrow >}}
 
 {{< galleryfigure src="../rightreading14.png"
-           headline="Stanley Weintraub, *MacArthur’s War: Korea and the Undoing of an American Hero* (New York: The Free Press, 2000). DS919.W46 2000">}}
+           headline="Stanley Weintraub, *MacArthur’s War: Korea and the Undoing of an American Hero* (New York: The Free Press, 2000). [DS919.W46 2000](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341354390001021)">}}
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../rightreading15.png"
-           headline="Andrew Roberts, *Napoleon and Wellington* (London: Weidenfeld & Nicolson, 2001). DC203.R68 2001">}}
+           headline="Andrew Roberts, *Napoleon and Wellington* (London: Weidenfeld & Nicolson, 2001). [DC203.R68 2001](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21427041390001021)">}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}

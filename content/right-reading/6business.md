@@ -18,11 +18,11 @@ In 1994, Jim Collins co-authored with Jerry Porras a groundbreaking management s
 {{< galleryrow >}}
 
 {{< galleryfigure src="../rightreading7.png"
-           headline="Rush Loving, Jr., *The Men Who Loved Trains: The Story of Men Who Battled Greed to Save an Ailing Industry* (Bloomington: Indiana University Press, 2006). HE2752.L68 2006">}}
+           headline="Rush Loving, Jr., *The Men Who Loved Trains: The Story of Men Who Battled Greed to Save an Ailing Industry* (Bloomington: Indiana University Press, 2006). [HE2752.L68 2006](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21330258680001021)">}}
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../rightreading8.png"
-           headline="Jim Collins, *Good to Great* (New York: Harper Collins Publishers, 2001). HD57.7.C645 2001">}}
+           headline="Jim Collins, *Good to Great* (New York: Harper Collins Publishers, 2001). [HD57.7.C645 2001](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21329464140001021)">}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}

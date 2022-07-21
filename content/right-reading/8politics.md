@@ -20,11 +20,11 @@ Buckley also wrote a nationally syndicated newspaper column and several spy nove
 {{< galleryrow >}}
 
 {{< galleryfigure src="../rightreading12.png"
-           headline="William F. Buckley, Jr., *Right Reason* (New York: Doubleday & Company, Inc., 1985). E872.B83 1985">}}
+           headline="William F. Buckley, Jr., *Right Reason* (New York: Doubleday & Company, Inc., 1985). [E872.B83 1985](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21314460290001021)">}}
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../rightreading13.png"
-           headline="William F. Buckley, Jr., *Let Us Talk of Many Things* (Roseville: Forum, 2000). PS3552.U343L48 2000">}}
+           headline="William F. Buckley, Jr., *Let Us Talk of Many Things* (Roseville: Forum, 2000). [PS3552.U343L48 2000](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21426838350001021)">}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}

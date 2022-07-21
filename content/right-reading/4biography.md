@@ -21,12 +21,12 @@ Burns prized his books and sought to keep them in pristine condition. He avoided
 {{< galleryrow >}}
 
 {{< galleryfigure src="../rightreading3.png"
-            headline="William Randolph Hearst, *William Randolph Hearst: A Portrait in His Own Words* (New York: Simon and Schuster, 1952). PN4874.H4A3 1952">}}
+            headline="William Randolph Hearst, *William Randolph Hearst: A Portrait in His Own Words* (New York: Simon and Schuster, 1952). [PN4874.H4A3 1952](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21382162380001021)">}}
 
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../rightreading4.png"
-           headline="David Nasaw, *The Chief: The Life of William Randolph Hearst* (Boston: Houghton Mifflin, 2000). Z473.H4N37 2000">}}
+           headline="David Nasaw, *The Chief: The Life of William Randolph Hearst* (Boston: Houghton Mifflin, 2000). [Z473.H4N37 2000](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21380662520001021)">}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}

@@ -20,15 +20,15 @@ For economic history, Burns preferred Paul Johnson. Educated at the Jesuit indep
 {{< galleryrow >}}
 
 {{< galleryfigure src="../rightreading9.png"
-           headline="Karl Marx, *Capital:A Critique of Political Economy Volumes One and Two* (New York: Vintage Books, 1977). HB501.M36 1977">}}
+           headline="Karl Marx, *Capital:A Critique of Political Economy Volumes One and Two* (New York: Vintage Books, 1977). [HB501.M36 1977](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21379059210001021)">}}
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../rightreading10.png"
-           headline="Ludwig von Mises, *Socialism: An Economic and Sociological Analysis* (London: Jonathan Cape, 1969). HX276.M58 1969">}}
+           headline="Ludwig von Mises, *Socialism: An Economic and Sociological Analysis* (London: Jonathan Cape, 1969). [HX276.M58 1969](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21426929660001021)">}}
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../rightreading11.png"
-           headline="Paul Johnson, *Enemies of Society* (London: Weidenfeld & Nicolson, 1977). CB425.J56 1977">}}
+           headline="Paul Johnson, *Enemies of Society* (London: Weidenfeld & Nicolson, 1977). [CB425.J56 1977](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21352349850001021)">}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
