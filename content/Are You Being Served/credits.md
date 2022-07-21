@@ -22,7 +22,7 @@ Sponsored by Boston College Libraries
 
 Curators: Burns Library Archives Department:
 
-Shelley Barber, Reference & Archives Specialist
+     Shelley Barber, Reference & Archives Specialist
 
 Amy Braitsch, Head Archivist
 
