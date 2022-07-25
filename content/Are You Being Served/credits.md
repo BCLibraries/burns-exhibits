@@ -32,4 +32,4 @@ Jessica Meyer, Processing Assistant
 
 Adrienne Pruitt, Processing Archivist
 
-Originally displayed: Burns Library, 2014
+Originally displayed: Burns Library, January-May, 2014
