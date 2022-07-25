@@ -73,6 +73,14 @@ Restaurant guides were around long before Zagat’s was established in 1979, or 
 
 {{< /galleryrow >}}
 
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu66_MS2008.016_b12_f3.jpg"
+           headline="Tellus">}} Pellentesque Vehicula Aenean
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
 O’Casey’s restaurant in New York was named in honor of Seán O’Casey (1880-1964), the Irish playwright. It is a rare example of a more modern restaurant menu in our collections, dating from the 1980s.
 {{< galleryrow >}}
 
