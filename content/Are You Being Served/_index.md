@@ -25,6 +25,5 @@ draft: true
 type: "exhibit"
 ---
 
-Vestibulum id ligula porta felis euismod semper. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+Would you care for some mock turtle soup? Chicken a là princesse? Clysmic waters? Old menus offer us an array of entertaining dishes, but they also give us a unique look at the way people ate, drank, and socialized in the past. From the fancy meals of society events and testimonial dinners, to the rather grim fare available to officers serving in the Philippines, to the signature cocktails offered at one of Boston’s rowdier eating joints, this exhibit dishes up a savory stew of cultural, social, and culinary history. See what’s on the menu!   
 
-Curabitur blandit tempus porttitor. Maecenas sed diam eget risus varius blandit sit amet non magna. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sed diam eget risus varius blandit sit amet non magna.
