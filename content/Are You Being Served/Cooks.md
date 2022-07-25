@@ -30,7 +30,6 @@ Fannie Farmer was born in Boston in 1857. After a bout of polio in young adultho
            headline="Mollis Quam Vehicula Lorem">}} credit
 {{< /galleryfigure >}}
 
-
 {{< /galleryrow >}}
 
 {{< largefigure src="Menu54_TX715.F371921Boston.jpg"
@@ -38,13 +37,6 @@ Fannie Farmer was born in Boston in 1857. After a bout of polio in young adultho
                 description="credit"
                 size="small" >}}
 The Boston Cooking School was established by the Women’s Education Association of Boston in 1879 and incorporated in 1882. The School brought a scientific approach to cookery and sought to serve a wide audience, from professional cooks to housewives, nurses, teachers, housekeepers, and matrons of institutions. Mary Johnson Bailey Lincoln served as the first principal of the school, followed by Ida Maynard and Carrie Dearborn. The School’s fourth principal, Fannie Farmer, brought the School its greatest fame with her popular lectures series and a cookbook, The Boston Cooking-School Cook Book (1896). After Farmer left in 1902 to start her own school, the Boston Cooking School merged with Simmons College. Many local cooks trained at either the Boston Cooking School or Miss Farmer’s School, and many of the meals in Boston menus seen here were very likely prepared by their graduates.
-{{< /largefigure >}}
-
-{{< largefigure src="../intro-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                size="medium"
-                align="left" >}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
 {{< /largefigure >}}
 
 The Boston School Kitchens taught cooking in the Boston Public Schools beginning in 1885, “to humanize and refine” students and prepare them for work caring for invalids or as housekeepers. Their text book was written by Mary Johnson Bailey Lincoln, the first principal of the Boston Cooking School. The earliest school kitchens were started by wealthy individuals who donated the costs to the city. The Boston Public Schools assumed the administration of the kitchens in 1888, and by 1892 there were nearly a dozen of them scattered throughout the city. Boston School Kitchen No. 3 was at the Bowditch School in Jamaica Plain. Aside from her cooking skills, little else is known about Madolene Stanley Broadbent, the student whose photograph and certificate are seen here.
@@ -56,18 +48,6 @@ The Boston School Kitchens taught cooking in the Boston Public Schools beginning
 
 {{< galleryfigure src=""
            headline="title">}} citation
-{{< /galleryfigure >}}
-
-{{< /galleryrow >}}
-
-{{< galleryrow >}}
-
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
-{{< /galleryfigure >}}
-
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
