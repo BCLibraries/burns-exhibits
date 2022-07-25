@@ -73,6 +73,7 @@ Restaurant guides were around long before Zagat’s was established in 1979, or 
 
 {{< /galleryrow >}}
 
+Julien’s Restorator was one of the first restaurants in Boston, opened in 1793 by Frenchman Jean Baptiste Gilbert Payplat dis Julien. Famous for his soups and stews, especially for turtle soup and soup julienne, Julien stressed the health benefits of his menu. Perhaps to mollify staid Bostonians, he also noted that no gambling or hard spirits were allowed on the premises. Julien died in 1805 and the restaurant was run by his wife before closing in 1823.
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu66_MS2008.016_b12_f3.jpg"
