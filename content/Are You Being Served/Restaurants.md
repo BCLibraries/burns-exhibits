@@ -48,6 +48,7 @@ Even as menus grew large and unwieldy, diners continued to collect them as keeps
 
 {{< /galleryrow >}}
 
+Restaurant guides were around long before Zagat’s was established in 1979, or before Yelp was founded in 2004. The examples shown were intended to help travelers in the Boston area, whether they were day-trippers venturing out from Boston in the 1920s as automobiles became more prevalent, or newly affluent postwar tourists enticed into Bay State eateries by Boston Visitor’s Center publications in the 1940s.
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu53_08-000016449_cover.jpg"
