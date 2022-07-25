@@ -95,6 +95,7 @@ O’Casey’s restaurant in New York was named in honor of Seán O’Casey (1880
 
 {{< /galleryrow >}}
 
+British author Alfred Noyes (1880-1958) traveled frequently on lecture tours, and collected menus from his trips. Those collected here range from Canadian train dining car menus to French wine lists to New England tea room bills of fare, dating from the 1910s-1930s. Noyes also annotated his menus or had attending celebrities sign them; see the Literary Luncheons portion of this exhibit for more examples.
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu58_MS2006.054_b120_f9_sideB.jpg"
