@@ -74,11 +74,11 @@ The Boston School Kitchens taught cooking in the Boston Public Schools beginning
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../intro-image.jpg"
+{{< galleryfigure src="Menu73_MS2013.020_b1_f1_sideA.jpg.png"
            headline="Tellus">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../intro-image.jpg"
+{{< galleryfigure src="Menu73_MS2013.020_b1_f1_sideB.jpg.png"
            headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
 {{< /galleryfigure >}}
 
