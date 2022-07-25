@@ -38,11 +38,11 @@ Even as menus grew large and unwieldy, diners continued to collect them as keeps
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../intro-image.jpg"
+{{< galleryfigure src="Menu62_MS2008.016_b12_f1_sideA.jpg"
            headline="Tellus">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../intro-image.jpg"
+{{< galleryfigure src="Menu62_MS2008.016_b12_f1_sideB.jpg.png"
            headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
 {{< /galleryfigure >}}
 
