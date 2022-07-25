@@ -164,6 +164,26 @@ British author Alfred Noyes (1880-1958) traveled frequently on lecture tours, an
            headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
 {{< /galleryfigure >}}
 
+{{< /galleryrow >}}
+
+Bette’s Rolls Royce was a popular restaurant near Faneuil Hall in the 1970s. Owned by Bette Arnold and advertised by her bright yellow (and illegally parked) Rolls Royce out front, Bette’s Rolls Royce promised Bostonians “the best fun, the best food, and the best booze in town!” and frequently delivered on that promise. Bette’s Rolls Royce was as renowned for its flamboyant owner as it was for cuisine. Bette herself serenaded customers with renditions of popular songs on weekends, and she appeared perched on the hood of the Rolls Royce in many city parades. 
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu68_MS2012.009_OVS_web.jpg.png"
+           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu72_MS2012.009_b3_f4.jpg"
+           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu71_MS2012.009_b1.JPG.png"
+           headline="Tellus">}} Pellentesque Vehicula Aenean
+{{< /galleryfigure >}}
 
 {{< /galleryrow >}}
 
