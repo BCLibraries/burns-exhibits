@@ -156,19 +156,6 @@ British author Alfred Noyes (1880-1958) traveled frequently on lecture tours, an
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../intro-image.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
-{{< /galleryfigure >}}
-
-{{< galleryfigure src="../intro-image.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
-{{< /galleryfigure >}}
-
-{{< /galleryrow >}}
-
-
-{{< galleryrow >}}
-
 {{< galleryfigure src="Menu60_MS2006.054_b119_f15_sideA.jpg"
            headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
