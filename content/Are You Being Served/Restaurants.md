@@ -100,6 +100,18 @@ O’Casey’s restaurant in New York was named in honor of Seán O’Casey (1880
 
 {{< galleryrow >}}
 
+{{< galleryfigure src="Menu60_MS2006.054_b120_f9_sideA.jpg"
+           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu60_MS2006.054_b120_f9_sideB.jpg"
+           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
 {{< galleryfigure src="../intro-image.jpg"
            headline="Tellus">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
