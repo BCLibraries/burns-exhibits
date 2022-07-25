@@ -70,8 +70,20 @@ Even as menus grew large and unwieldy, diners continued to collect them as keeps
            headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
 {{< /galleryfigure >}}
 
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu57_MS1996.025_b39_f18_sideB.jpg"
+           headline="Tellus">}} Pellentesque Vehicula Aenean
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu57_MS1996.025_b39_f18_sideA.jpg"
+           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+{{< /galleryfigure >}}
 
 {{< /galleryrow >}}
+
 
 {{< galleryrow >}}
 
