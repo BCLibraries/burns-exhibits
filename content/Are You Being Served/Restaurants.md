@@ -72,6 +72,7 @@ Even as menus grew large and unwieldy, diners continued to collect them as keeps
 
 {{< /galleryrow >}}
 
+O’Casey’s restaurant in New York was named in honor of Seán O’Casey (1880-1964), the Irish playwright. It is a rare example of a more modern restaurant menu in our collections, dating from the 1980s.
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu57_MS1996.025_b39_f18_sideB.jpg"
@@ -83,7 +84,7 @@ Even as menus grew large and unwieldy, diners continued to collect them as keeps
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
-O’Casey’s restaurant in New York was named in honor of Seán O’Casey (1880-1964), the Irish playwright. It is a rare example of a more modern restaurant menu in our collections, dating from the 1980s.
+
 
 {{< galleryrow >}}
 
