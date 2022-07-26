@@ -15,8 +15,6 @@ type: "exhibit"
 
 {{% figure src="../portrait-image.jpg" headline="" size="x-large" %}}
 
-Collections Used:
-
 Alumni Association records [(BC1991-042)]
 
 Bette Arnold Collection of Bette’s Rolls Royce Restaurant Materials [(MS2012-009)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21420354730001021)
