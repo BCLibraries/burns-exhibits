@@ -109,12 +109,16 @@ The Charitable Irish Society was founded in 1737 in Boston “to cultivate a spi
            headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="Menu15_BC2001.121_b7_f21_sideB.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
-{{< /galleryfigure >}}
-
 {{< galleryfigure src="Menu15_BC2001.121_b7_f21_sideC.jpg"
            headline="Amet Pellentesque" >}}
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu15_BC2001.121_b7_f21_sideB.jpg"
+           headline="Tellus">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
