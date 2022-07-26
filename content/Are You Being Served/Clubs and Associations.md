@@ -110,7 +110,7 @@ The Charitable Irish Society was founded in 1737 in Boston “to cultivate a spi
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu15_BC2001.121_b7_f21_sideB.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Tellus">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu15_BC2001.121_b7_f21_sideC.jpg"
