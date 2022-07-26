@@ -13,7 +13,7 @@ draft: true
 type: "exhibit"
 ---
 
-{{% figure src="../portrait-image.jpg" headline="" size="x-large" %}}
+{{% figure src="Menu48_MS2006.054_b119_f15_sideC - Copy.jpg" %}}
 
 Alumni Association records [(BC1991-042)]
 
