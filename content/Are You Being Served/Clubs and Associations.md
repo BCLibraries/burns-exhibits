@@ -105,15 +105,15 @@ The Charitable Irish Society was founded in 1737 in Boston “to cultivate a spi
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
+{{< galleryfigure src="Menu15_BC2001.121_b7_f21_sideA.jpg"
            headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
+{{< galleryfigure srcMenu15_BC2001.121_b7_f21_sideB.jpg"
            headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
+{{< galleryfigure src="Menu15_BC2001.121_b7_f21_sideC.jpg"
            headline="Amet Pellentesque" >}}
 {{< /galleryfigure >}}
 
