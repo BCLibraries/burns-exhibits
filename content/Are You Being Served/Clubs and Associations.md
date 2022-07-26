@@ -142,3 +142,15 @@ The Ancient and Honorable Artillery Company of Massachusetts was granted a chart
                 description="citation" 
                 size="x-large" >}}
 {{< /largefigure >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu39_MS2008.016_b6_f9_sideA.jpg.png"
+           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu39_MS2008.016_b6_f9_sideB.jpg.png"
+           headline="Amet Pellentesque" >}}
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
