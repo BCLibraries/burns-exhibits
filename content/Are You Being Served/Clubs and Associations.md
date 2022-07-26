@@ -123,3 +123,22 @@ The South Boston Citizens’ Association was founded in 1880 to further the deve
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
+
+The Ancient and Honorable Artillery Company of Massachusetts was granted a charter in 1638 by Governor John Winthrop. It is the oldest chartered military organization in the western hemisphere. Established as a volunteer militia company, the Company has evolved to become a patriotic service and fraternal organization, with a museum and library in Faneuil Hall. Seen here are two menus for the Ancient and Honorable Artillery Company of Massachusetts annual anniversary dinner, from 1857 and 1877. Mock turtle soup, a popular nineteenth century concoction featuring organ meats in place of the original reptile, is featured, as is Washington pie, a precursor to the Boston cream cake. 
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu38_MS2008.016_b6_f9_sideA.jpg.png"
+           headline="title">}} citation
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu38_MS2008.016_b6_f9_sideC.jpg.png"
+           headline="title">}} citation
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< largefigure src="Menu38_MS2008.016_b6_f9_sideB.jpg.png"
+                headline="title"
+                description="citation" 
+                size="x-large" >}}
+{{< /largefigure >}}
