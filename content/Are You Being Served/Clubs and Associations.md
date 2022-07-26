@@ -67,6 +67,7 @@ The Commercial Club of Boston was organized in 1868 as an annex to the Board of 
 
 {{< /galleryrow >}}
 
+The Charitable Irish Society was founded in 1737 in Boston “to cultivate a spirit of unity and harmony among all resident Irish and their descendants in the Massachusetts Colony and to advocate socially and morally the interests of the Irish people and their cultural heritage; and to alleviate suffering, and to aid such of its members or other worthy recipients as by the vicissitudes of fortune might be deserving of its charity.” Originally established by Protestants, by the 1800s the Society also counted many Catholics as members.  The Society hosts a St. Patrick’s Day dinner on March 17 every year, featuring distinguished guest speakers. Their menus often feature Irish cultural themes.  
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu17_MS1993.012_b1_f47_sideA.jpg"
