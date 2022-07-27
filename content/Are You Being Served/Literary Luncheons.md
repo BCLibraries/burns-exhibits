@@ -131,5 +131,5 @@ The Shakespeare Reading Society (founded 1875), Omar Khayyam Club (founded 1890)
 {{< largefigure src="Menu43_MS1996.022.jpg"
                 headline="title"
                 description="citation"
-                size="x-large" >}}
+                size="x-large">}}
 {{< /largefigure >}}
