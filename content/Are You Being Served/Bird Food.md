@@ -36,7 +36,7 @@ The 1899 Boston College Eagles were scored on only once in ten games, and comple
 
 {{< /galleryrow >}}
 
-The 1928 Eagles were the season’s only undefeated football team on the eastern seaboard. A banquet for the team was hosted by the Boston College Athletic Association at Elks Hotel on Washington Street in Boston.
+The 1928 Eagles were the season’s only undefeated football team on the eastern seaboard. A banquet for the team was hosted by the Boston College Athletic Association at Elk's Hotel on Washington Street in Boston.
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu9_BC1997.006_1_sideA.jpg"
