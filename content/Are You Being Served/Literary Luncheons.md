@@ -62,6 +62,46 @@ The Shakespeare Reading Society (founded 1875), Omar Khayyam Club (founded 1890)
 
 {{< galleryrow >}}
 
+{{< galleryfigure src="Menu47_MS2006.054_b119_f15_sideA.jpg"
+           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu47_MS2006.054_b119_f15_sideC.jpg"
+           headline="Amet Pellentesque" >}}
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu47_MS2006.054_b119_f15_sideB.jpg"
+           headline="Tellus">}} Pellentesque Vehicula Aenean
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu49_MS2006.054_b119_f15_sideA.jpg"
+           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu49_MS2006.054_b119_f15_sideC.jpg"
+           headline="Amet Pellentesque" >}}
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu49_MS2006.054_b119_f15_sideB.jpg"
+           headline="Tellus">}} Pellentesque Vehicula Aenean
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
 {{< galleryfigure src="../portrait-image.jpg"
            headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
