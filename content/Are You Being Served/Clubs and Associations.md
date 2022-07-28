@@ -112,7 +112,7 @@ The South Boston Citizens’ Association was founded in 1880 to further the deve
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu15_BC2001.121_b7_f21_sideC.jpg"
-           headline="Amet Pellentesque" >}}
+           headline="South Boston Citizens' Association Evacuation Day anniversary banquet menu, March 16, 1936" >}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -120,7 +120,7 @@ The South Boston Citizens’ Association was founded in 1880 to further the deve
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu15_BC2001.121_b7_f21_sideB.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="South Boston Citizens' Association Evacuation Day anniversary banquet menu, March 16, 1936">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
