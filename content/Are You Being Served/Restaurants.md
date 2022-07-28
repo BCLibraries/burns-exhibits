@@ -77,7 +77,7 @@ Julien’s Restorator was one of the first restaurants in Boston, opened in 1793
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu66_MS2008.016_b12_f3.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Julien's Restorator scrapbook page">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
