@@ -144,11 +144,11 @@ British author Alfred Noyes (1880-1958) traveled frequently on lecture tours, an
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu59_MS2006.054_b120_f9_sideA.jpg"
-           headline="California Chains Thanksgiving luncheon menu, 1917">}} Sollicitudin Mollis Venenatis Sit
+           headline="California Chains Thanksgiving dinner menu, 1917">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu59_MS2006.054_b120_f9_sideB.jpg"
-           headline="California Chains Thanksgiving luncheon menu, 1917">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="California Chains Thanksgiving dinner menu, 1917">}} Fringilla Cursus Sollicitudin Dapibus
 {{< /galleryfigure >}}
 
 
