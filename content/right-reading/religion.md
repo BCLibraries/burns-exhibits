@@ -20,7 +20,7 @@ Historian John T. McGreevy, Dean of the College of Arts and Letters at the Unive
 {{< galleryrow >}}
 
 {{< galleryfigure src="../rightreading5.png"
-           headline="Richard John Neuhaus, *Doing Well and Doing Good: The Challenge to the Christian Capitalist* (New York: Doubleday, 1992). [BX1753.N484 1992] (https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21371000780001021)">}}
+           headline="Richard John Neuhaus, *Doing Well and Doing Good: The Challenge to the Christian Capitalist* (New York: Doubleday, 1992). [BX1753.N484 1992](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21371000780001021)">}}
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../rightreading6.png"
