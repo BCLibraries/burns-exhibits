@@ -18,7 +18,6 @@ type: "exhibit"
                 size="x-large" >}}
 The urge for writers, critics, publishers, and other erudite types to gather together and discuss literature – and even more importantly, to eat and drink – appears to be deep-seated. From the salon culture of the seventeenth century to the rise of literary societies and cafes in the eighteenth and nineteenth century, to more modern clubs that honor a particular author, literary luncheons and dinners are a well-established part of a bookish social life. 
 {{< /largefigure >}}
-
 The Shakespeare Reading Society (founded 1875), Omar Khayyam Club (founded 1890), the Robert Louis Stevenson Club (founded 1920), and the Wolfe Pack (founded 1978), all focus on the works of one author and still meet today. The renowned London bookstore Foyles contributed to the culture with the institution of their “literary luncheons” series in 1930, and has since hosted over a thousand speakers. Many of the menus seen here were collected by authors whose papers are housed in the John J. Burns Library. Whether as honored guests, presenters, or just lucky invitees, they enjoyed the meals and conversation and saved the menus as mementoes. 
 {{< galleryrow >}}
 
