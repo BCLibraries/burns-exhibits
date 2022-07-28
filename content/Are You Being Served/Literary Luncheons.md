@@ -110,26 +110,46 @@ The Shakespeare Reading Society (founded 1875), Omar Khayyam Club (founded 1890)
            headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
 {{< /galleryfigure >}}
 
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="../portrait-image.jpg"
+           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="../portrait-image.jpg"
+           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+{{< /galleryfigure >}}
+
 {{< galleryfigure src="../portrait-image.jpg"
            headline="Amet Pellentesque" >}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
 
+Rex Stout (1886-1975) was a mystery writer best known for his Nero Wolfe books, starring the epicurean armchair detective Nero Wolfe and his sidekick, the wisecracking Archie Goodwin. Food features prominently in the Nero Wolfe novels, especially in Too Many Cooks (1938), in which Nero Wolfe is invited to address a group of great chefs. Murder inevitably ensues, and Wolfe must uncover a secret recipe and ensure the killer gets his just deserts. Stout even published The Nero Wolfe Cookbook (1973), compiling recipes for many of the dishes mentioned in the books. It is fitting that the Wolfe Pack, a Rex Stout fan club, honors the author by holding an annual Black Orchid Banquet, at which members dine on a meal prepared using recipes from The Nero Wolfe Cookbook and present the Nero Award to a mystery author.
 {{< galleryrow >}}
 
-{{< galleryfigure src="../intro-image.jpg"
+{{< galleryfigure src="Menu43_MS1996.022.jpg"
            headline="Tellus">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../intro-image.jpg"
+{{< galleryfigure src="Menu55_PS3537.T733T631993Stout.jpg"
            headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
-Rex Stout (1886-1975) was a mystery writer best known for his Nero Wolfe books, starring the epicurean armchair detective Nero Wolfe and his sidekick, the wisecracking Archie Goodwin. Food features prominently in the Nero Wolfe novels, especially in Too Many Cooks (1938), in which Nero Wolfe is invited to address a group of great chefs. Murder inevitably ensues, and Wolfe must uncover a secret recipe and ensure the killer gets his just deserts. Stout even published The Nero Wolfe Cookbook (1973), compiling recipes for many of the dishes mentioned in the books. It is fitting that the Wolfe Pack, a Rex Stout fan club, honors the author by holding an annual Black Orchid Banquet, at which members dine on a meal prepared using recipes from The Nero Wolfe Cookbook and present the Nero Award to a mystery author.
-{{< largefigure src="Menu43_MS1996.022.jpg"
-                headline="title"
-                description="citation"
-                size="x-large">}}
-{{< /largefigure >}}
+
+Alfred Noyes (1880-1958) was a British Catholic poet, essayist, and critic. While at Exeter College, Noyes neglected to take his final examinations in favor of a meeting with publisher Grant Richards: the result was no degree, but his first book of poetry, The Loom of Years (1902). Noyes soon established himself as one of the bestselling poets of his time. He was a popular lecturer, with a wide acquaintance, and attended many literary luncheons and dinners, as the menus seen here – just a small selection of the many in his papers – attest. Noyes sometimes annotated his menus or had other diners, often other book world luminaries, autograph them. He also did a great deal of traveling while on lecture tours, and collected menus along the way; see the Restaurant portion of this exhibit for examples.
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu45_MS2006.054_b119_f13_sideA.jpg"
+           headline="Tellus">}} Pellentesque Vehicula Aenean
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu45_MS2006.054_b119_f13_sideB.jpg"
+           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
