@@ -127,7 +127,7 @@ The Shakespeare Reading Society (founded 1875), Omar Khayyam Club (founded 1890)
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
-
+Rex Stout (1886-1975) was a mystery writer best known for his Nero Wolfe books, starring the epicurean armchair detective Nero Wolfe and his sidekick, the wisecracking Archie Goodwin. Food features prominently in the Nero Wolfe novels, especially in Too Many Cooks (1938), in which Nero Wolfe is invited to address a group of great chefs. Murder inevitably ensues, and Wolfe must uncover a secret recipe and ensure the killer gets his just deserts. Stout even published The Nero Wolfe Cookbook (1973), compiling recipes for many of the dishes mentioned in the books. It is fitting that the Wolfe Pack, a Rex Stout fan club, honors the author by holding an annual Black Orchid Banquet, at which members dine on a meal prepared using recipes from The Nero Wolfe Cookbook and present the Nero Award to a mystery author.
 {{< largefigure src="Menu43_MS1996.022.jpg"
                 headline="title"
                 description="citation"
