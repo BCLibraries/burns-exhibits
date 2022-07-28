@@ -3,7 +3,7 @@ title: "Clubs & Associations"
 description: ""
 
 # Page order
-weight:  7
+weight:  4
 alwaysopen: true
 
 # Change to false to publish.
