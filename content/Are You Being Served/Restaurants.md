@@ -157,11 +157,11 @@ British author Alfred Noyes (1880-1958) traveled frequently on lecture tours, an
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu60_MS2006.054_b119_f15_sideA.jpg"
-           headline="Mary Elizabeth's afternoon tea menu, November 25, 1932">}} Sollicitudin Mollis Venenatis Sit
+           headline="move to Lit Lunches">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu60_MS2006.054_b119_f15_sideB.jpg"
-           headline="Mary Elizabeth's afternoon tea menu, November 25, 1932">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="move to Lit Lunches">}} Fringilla Cursus Sollicitudin Dapibus
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
