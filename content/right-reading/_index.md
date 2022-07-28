@@ -6,7 +6,7 @@ title: "Introduction"
 exhibit_title: "Right Reading"
 exhibit_subtitle: "Selections from the library of John J. Burns, Jr."
 
-date: 2022-03-10T14:27:10-05:00
+date: 2022-05-10T14:27:10-05:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1
