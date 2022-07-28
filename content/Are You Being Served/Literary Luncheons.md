@@ -42,11 +42,11 @@ The urge for writers, critics, publishers, and other erudite types to gather tog
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu44_MS2006.054_b116_f3_sideA.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+           headline="Omar Khayyam Club dinner menu, April 22, 1910">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu44_MS2006.054_b116_f3_sideC.jpg"
-           headline="Amet Pellentesque" >}}
+           headline="Omar Khayyam Club dinner menu, April 22, 1910" >}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -54,7 +54,7 @@ The urge for writers, critics, publishers, and other erudite types to gather tog
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu44_MS2006.054_b116_f3_sideBblack.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Omar Khayyam Club dinner menu, April 22, 1910">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
