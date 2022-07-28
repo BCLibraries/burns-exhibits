@@ -3,7 +3,7 @@ title: "Restaurants"
 description: ""
 
 # Page order
-weight:  7
+weight:  6
 alwaysopen: true
 
 # Change to false to publish.
