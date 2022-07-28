@@ -71,11 +71,11 @@ The Charitable Irish Society was founded in 1737 in Boston “to cultivate a spi
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu17_MS1993.012_b1_f47_sideA.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+           headline="Charitable Irish Society Ladies' Night Dinner, January 9, 1913">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu18_MS1993.012_b21_f21_sideA.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Fringilla Cursus Sollicitudin Dapibus
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -83,22 +83,22 @@ The Charitable Irish Society was founded in 1737 in Boston “to cultivate a spi
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu18_MS1993.012_b21_f21_sideB.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu18_MS1993.012_b21_f21_sideC.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Ullamcorper Egestas Dapibus
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu18_MS1993.012_b21_f21_sideD.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu18_MS1993.012_b21_f21_sideE.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Ullamcorper Egestas Dapibus
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
