@@ -62,11 +62,11 @@ The urge for writers, critics, publishers, and other erudite types to gather tog
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu47_MS2006.054_b119_f15_sideA.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+           headline="Shakespeare Reading Society annual dinner menu, November 12, 1931">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu47_MS2006.054_b119_f15_sideC.jpg"
-           headline="Amet Pellentesque" >}}
+           headline="Shakespeare Reading Society annual dinner menu, November 12, 1931" >}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -74,7 +74,7 @@ The urge for writers, critics, publishers, and other erudite types to gather tog
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu47_MS2006.054_b119_f15_sideB.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Shakespeare Reading Society annual dinner menu, November 12, 1931">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -82,11 +82,11 @@ The urge for writers, critics, publishers, and other erudite types to gather tog
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu49_MS2006.054_b119_f15_sideA.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+           headline="Forum Club Dinner to Literature menu, January 25, 1932">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu49_MS2006.054_b119_f15_sideC.jpg"
-           headline="Amet Pellentesque" >}}
+           headline="Forum Club Dinner to Literature menu, January 25, 1932" >}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -94,7 +94,7 @@ The urge for writers, critics, publishers, and other erudite types to gather tog
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu49_MS2006.054_b119_f15_sideB.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Forum Club Dinner to Literature menu, January 25, 1932">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
