@@ -63,7 +63,7 @@ The Commercial Club of Boston was organized in 1868 as an annex to the Board of 
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu26_MS1992.017_b14_f3_sideB.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline="Commercial Club of Boston annual meeting menu, March 17, 1888">}} Ullamcorper Egestas Dapibus
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
