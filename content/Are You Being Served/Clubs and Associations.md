@@ -35,7 +35,7 @@ The Commercial Club of Boston was organized in 1868 as an annex to the Board of 
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu27_MS1992.017_b14_f3_sideA.jpg"
-           headline="Commercial Club of Boston dinner menu, November 18, 1882">}} Sollicitudin Mollis Venenatis Sit
+           headline="Commercial Club of Boston dinner menu envelope, November 18, 1882">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu27_MS1992.017_b14_f3_sideB.jpg"
