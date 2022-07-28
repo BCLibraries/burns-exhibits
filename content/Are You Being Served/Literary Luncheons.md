@@ -230,3 +230,11 @@ Graham Greene (1904-1991) was a British Catholic author, critic, and playwright,
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu51_MS1995.003_b67_f18.jpg"
+           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
