@@ -140,3 +140,16 @@ Rex Stout (1886-1975) was a mystery writer best known for his Nero Wolfe books, 
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
+
+Alfred Noyes (1880-1958) was a British Catholic poet, essayist, and critic. While at Exeter College, Noyes neglected to take his final examinations in favor of a meeting with publisher Grant Richards: the result was no degree, but his first book of poetry, The Loom of Years (1902). Noyes soon established himself as one of the bestselling poets of his time. He was a popular lecturer, with a wide acquaintance, and attended many literary luncheons and dinners, as the menus seen here – just a small selection of the many in his papers – attest. Noyes sometimes annotated his menus or had other diners, often other book world luminaries, autograph them. He also did a great deal of traveling while on lecture tours, and collected menus along the way; see the Restaurant portion of this exhibit for examples.
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu45_MS2006.054_b119_f13_sideA.jpg"
+           headline="Tellus">}} Pellentesque Vehicula Aenean
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu45_MS2006.054_b119_f13_sideB.jpg"
+           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
