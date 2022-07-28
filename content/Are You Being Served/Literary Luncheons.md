@@ -197,3 +197,35 @@ Alfred Noyes (1880-1958) was a British Catholic poet, essayist, and critic. Whil
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu46_MS2006.054_b119_f15_sideA.jpg"
+           headline="Amet Pellentesque" >}}
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu46_MS2006.054_b119_f15_sideB.jpg"
+           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu46_MS2006.054_b119_f15_sideE.jpg"
+           headline="Amet Pellentesque" >}}
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu46_MS2006.054_b119_f15_sideD.jpg"
+           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu46_MS2006.054_b119_f15_sideC.jpg"
+           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
