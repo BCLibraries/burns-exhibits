@@ -129,17 +129,17 @@ The Ancient and Honorable Artillery Company of Massachusetts was granted a chart
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu38_MS2008.016_b6_f9_sideA.jpg.png"
-           headline="title">}} citation
+           headline="Ancient and Honorable Artillery Co. anniversary dinner menu, June 4, 1877">}} citation
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu38_MS2008.016_b6_f9_sideC.jpg.png"
-           headline="title">}} citation
+           headline="Ancient and Honorable Artillery Co. anniversary dinner menu, June 4, 1877">}} citation
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
 
 {{< largefigure src="Menu38_MS2008.016_b6_f9_sideB.jpg.png"
-                headline="title"
+                headline="Ancient and Honorable Artillery Co. anniversary dinner menu, June 4, 1877"
                 description="citation" 
                 size="x-large" >}}
 {{< /largefigure >}}
@@ -147,11 +147,11 @@ The Ancient and Honorable Artillery Company of Massachusetts was granted a chart
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu39_MS2008.016_b6_f9_sideA.jpg.png"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+           headline="Ancient and Honorable Artillery Company anniversary dinner menu, June 1, 1857">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu39_MS2008.016_b6_f9_sideB.jpg.png"
-           headline="Amet Pellentesque" >}}
+           headline="Ancient and Honorable Artillery Company anniversary dinner menu, June 1, 1857" >}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
