@@ -54,6 +54,14 @@ William J. Leonard, SJ, papers [(BC2000-023)](https://bc-primo.hosted.exlibrisgr
 
 William James McGarry, SJ, President's Office records [(BC2004-007)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21331161510001021)
 
+Boston Collection, John J. Burns Library, Boston College 
+
+General Collection, John J. Burns Library, Boston College.
+
+Nursing Collection, John J. Burns Library, Boston College.
+
+Stout Collection, John J. Burns Library, Boston College.
+
 
 __Heading__
 
