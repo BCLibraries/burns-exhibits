@@ -18,7 +18,7 @@ CLUBS AND ASSOCIATIONS
 
 Massachusetts charity laws were particularly broad-minded, providing tax exemption to any “educational, charitable, benevolent or religious purpose,” including “any antiquarian, historical, literary, scientiﬁc, medical, artistic, monumental or musical” societies (“An Act” 1874). Athletic and yacht clubs, reading rooms and libraries, and Freemasons and Odd Fellows were also granted tax exemption, and voluntary associations in Massachusetts flourished. Many of these associations threw fancy dinners, sometimes featuring guest speakers, dancing, or special “ladies’ nights.”
 
-
+{{<heading>}}The Commercial Club of Boston{{</heading>}}
 The Commercial Club of Boston was organized in 1868 as an annex to the Board of Trade. It later became an independent social organization, a social club for Boston’s leading businessmen. Sister clubs were formed in Chicago, Cincinnati, and St. Louis.  In the early 1930s it merged with the Merchant’s Club of Boston. At their lavish dinners, speakers discussed topics such as the proposed Museum of Fine Arts, the labor question, Arctic explorations, and the Panama Canal. Menus for the Commercial Club are often quite elaborate, with embossing, color illustrations, silk ribbons, and metallic papers. The dinners themselves were equally extravagant, as the invoices for spirits and cigars seen here attest. Souvenirs like the cigarette case, featuring the Commercial Club’s logo, were an added perk for attendees.
 {{< galleryrow >}}
 
@@ -68,6 +68,7 @@ The Commercial Club of Boston was organized in 1868 as an annex to the Board of 
 
 {{< /galleryrow >}}
 
+{{<heading>}}The Charitable Irish Society{{</heading>}}
 The Charitable Irish Society was founded in 1737 in Boston “to cultivate a spirit of unity and harmony among all resident Irish and their descendants in the Massachusetts Colony and to advocate socially and morally the interests of the Irish people and their cultural heritage; and to alleviate suffering, and to aid such of its members or other worthy recipients as by the vicissitudes of fortune might be deserving of its charity.” Originally established by Protestants, by the 1800s the Society also counted many Catholics as members.  The Society hosts a St. Patrick’s Day dinner on March 17 every year, featuring distinguished guest speakers. Their menus often feature Irish cultural themes.  
 {{< galleryrow >}}
 
