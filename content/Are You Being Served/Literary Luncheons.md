@@ -3,7 +3,7 @@ title: "Literary Luncheons"
 description: ""
 
 # Page order
-weight:  7
+weight:  5
 alwaysopen: true
 
 # Change to false to publish.
