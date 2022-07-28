@@ -214,17 +214,18 @@ Alfred Noyes (1880-1958) was a British Catholic poet, essayist, and critic. Whil
 
 {{< /galleryrow >}}
 
+Graham Greene (1904-1991) was a British Catholic author, critic, and playwright, well-known for The Power and The Glory (1940), The End of the Affair (1951), The Quiet American (1955), and Our Man in Havana (1958), amongst other works. He received many literary prizes and awards, including the Krug award of excellence in 1980, and was named to the British Order of Merit in 1986.
 {{< galleryrow >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
+{{< galleryfigure src="Menu40_MS1995.003_b67_f23.jpg.png"
            headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
+{{< galleryfigure src="Menu41_MS1995.003_b67_f23.jpg"
            headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
+{{< galleryfigure src="Menu42_MS1995.003_b67_f23.jpg"
            headline="Amet Pellentesque" >}}
 {{< /galleryfigure >}}
 
