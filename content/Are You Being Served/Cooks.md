@@ -58,7 +58,7 @@ The Boston School Kitchens taught cooking in the Boston Public Schools beginning
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu74_MS2013.020_b1_f1.jpg"
-           headline="Boston School Kitchen No. 3 Certificate of Cookery presented to Madolene Stanley Broadbent">}} citation
+           headline="Boston School Kitchen No. 3 Certificate of Cookery presented to Madolene Stanley Broadbent, circa 1880">}} citation
 {{< /galleryfigure >}}
 
 {{< galleryfigure src=""
