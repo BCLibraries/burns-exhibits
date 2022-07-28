@@ -59,7 +59,7 @@ The Commercial Club of Boston was organized in 1868 as an annex to the Board of 
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu26_MS1992.017_b14_f3_sideA.jpg"
-           headline="Amet Pellentesque" >}}
+           headline="Commercial Club of Boston annual meeting menu, March 17, 1888" >}}
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu26_MS1992.017_b14_f3_sideB.jpg"
