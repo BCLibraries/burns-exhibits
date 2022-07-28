@@ -123,11 +123,11 @@ British author Alfred Noyes (1880-1958) traveled frequently on lecture tours, an
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu61_MS2006.054_b120_f9_sideA.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+           headline="Canadian Pacific dining car menu, circa 1930s">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu61_MS2006.054_b120_f9_sideC.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Canadian Pacific dining car menu, circa 1930s">}} Fringilla Cursus Sollicitudin Dapibus
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -135,7 +135,7 @@ British author Alfred Noyes (1880-1958) traveled frequently on lecture tours, an
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu61_MS2006.054_b120_f9_sideB.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Canadian Pacific dining car menu, circa 1930s">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
