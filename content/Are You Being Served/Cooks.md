@@ -46,11 +46,11 @@ The Boston School Kitchens taught cooking in the Boston Public Schools beginning
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu73_MS2013.020_b1_f1_sideA.jpg.png"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Boston School Kitchen No. 3 students, including Madolene Stanley Broadbent, circa 1880s">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu73_MS2013.020_b1_f1_sideB.jpg.png"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline="Boston School Kitchen No. 3 students, including Madolene Stanley Broadbent, circa 1880s">}} Ullamcorper Egestas Dapibus
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -58,7 +58,7 @@ The Boston School Kitchens taught cooking in the Boston Public Schools beginning
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu74_MS2013.020_b1_f1.jpg"
-           headline="title">}} citation
+           headline="Boston School Kitchen No. 3 Certificate of Cookery presented to Madolene Stanley Broadbent">}} citation
 {{< /galleryfigure >}}
 
 {{< galleryfigure src=""
