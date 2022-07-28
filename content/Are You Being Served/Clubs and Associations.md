@@ -47,11 +47,11 @@ The Commercial Club of Boston was organized in 1868 as an annex to the Board of 
 {{< galleryrow >}}
 
 {{< galleryfigure src="croppedMenu35_MS1992.017_b23_f1.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Parker House invoice to the Commercial Club of Boston, October 31, 1896">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu36_MS1992.017_b23_f5.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline="Estabrook & Eaton invoice to the Commercial Club of Boston, November 27, 1900">}} Ullamcorper Egestas Dapibus
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
