@@ -21,11 +21,11 @@ The Commercial Club of Boston was organized in 1868 as an annex to the Board of 
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu24_MS1992.017_b14_f3_sideA.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Commercial Club of Boston Dinner of the Boston Public Schools menu, November 21, 1882">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu24_MS1992.017_b14_f3_sideB.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline="Commercial Club of Boston Dinner of the Boston Public Schools menu, November 21, 1882">}} Ullamcorper Egestas Dapibus
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
