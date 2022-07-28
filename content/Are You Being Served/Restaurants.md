@@ -186,15 +186,3 @@ Bette’s Rolls Royce was a popular restaurant near Faneuil Hall in the 1970s. O
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
-
-{{< galleryrow >}}
-
-{{< galleryfigure src="../intro-image.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
-{{< /galleryfigure >}}
-
-{{< galleryfigure src="../intro-image.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
-{{< /galleryfigure >}}
-
-{{< /galleryrow >}}
