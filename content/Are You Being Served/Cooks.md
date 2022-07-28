@@ -50,7 +50,7 @@ The Boston School Kitchens taught cooking in the Boston Public Schools beginning
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu73_MS2013.020_b1_f1_sideB.jpg.png"
-           headline="Boston School Kitchen No. 3 students, including Madolene Stanley Broadbent, circa 1880s">}} Ullamcorper Egestas Dapibus
+           headline="Boston School Kitchen No. 3 students, back of photo">}} Ullamcorper Egestas Dapibus
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
