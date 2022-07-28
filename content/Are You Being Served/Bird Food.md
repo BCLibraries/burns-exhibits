@@ -120,7 +120,7 @@ Army Chaplain William J. Leonard, SJ, and a Navy colleague improved this delight
 Daniel Linehan, SJ, (1904–1987), a member of Boston College’s class of 1927 was the first chair of the Boston College Department of Geophysics and was Director of the Weston Observatory from 1949–1972. Fr. Linehan is well known for his expeditions to Antarctica in the 1950s. Linehan Glacier is named in his honor. In 1957 he was elected a member of the Explorers’ Club, an organization founded in the year of his birth, whose purpose is to promote good fellowship and exploration. These days, as a part of the club’s annual dinner—always held at New York’s Waldorf Astoria Hotel—they are known for their “exotics” reception menu, which includes dishes not for the faint of heart.
 {{< /largefigure >}}
 
-PHILOMATHEIA
+{{<heading>}}Philomatheia{{</heading>}}
 
 The Philomatheia Club, a women’s auxiliary group, was first organized in 1915. It was founded to “promote and foster the scholastic, athletic and social interests of Boston College.” The club’s members were mostly mothers of Boston College men, and the subsequently formed “Jr. Philomatheia” was composed of younger boosters of the college. Active until the early 1960s, the clubs regularly raised substantial amounts of money for various projects and scholarships, and supported Boston College men who fought in wars. At the home they purchased for their use – a wonderful chalet-style structure on the current site of Gabelli Hall – they held frequent social gatherings.
 {{< galleryrow >}}
