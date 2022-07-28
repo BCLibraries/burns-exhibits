@@ -61,16 +61,3 @@ General Collection, John J. Burns Library, Boston College.
 Nursing Collection, John J. Burns Library, Boston College.
 
 Stout Collection, John J. Burns Library, Boston College.
-
-
-__Heading__
-
-Last, First M. *[Title of resource](https://link-to-resource.edu)*. Place of pub: Publisher, Year.
-
-*[Newspaper title](https://link-to-resource.edu)*. “Article Title” Date, Year.
-
-Last, First M. *[Title of resource](https://link-to-resource)*. Place of pub: Publisher, Year.
-
-Last, First M. *[Title of resource](https://link-to-resource.edu)*. Place of pub: Publisher, Year.
-
-------. “Article title” *[Journal](https://link-to-resource.edu)* Vol, Issue (Date Year): page-page.
