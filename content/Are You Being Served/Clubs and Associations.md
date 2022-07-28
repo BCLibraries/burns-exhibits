@@ -103,12 +103,12 @@ The Charitable Irish Society was founded in 1737 in Boston “to cultivate a spi
 
 {{< /galleryrow >}}
 
-{{<heading>}}The South Boston Citizen's Association{{</heading>}}
+{{<heading>}}The South Boston Citizens' Association{{</heading>}}
 The South Boston Citizens’ Association was founded in 1880 to further the development and general welfare of South Boston. The Association hosts an Evacuation Day banquet every year to commemorate the evacuation of British troops from the city on March 17, 1776. Appropriately, the 1936 menu is staunchly New England in flavor, with a Vermont turkey and cranberry sauce as the main dish.
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu15_BC2001.121_b7_f21_sideA.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+           headline="South Boston Citizens' Association Evacuation Day anniversary banquet menu, March 16, 1936">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu15_BC2001.121_b7_f21_sideC.jpg"
