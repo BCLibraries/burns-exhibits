@@ -86,11 +86,11 @@ O’Casey’s restaurant in New York was named in honor of Seán O’Casey (1880
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu57_MS1996.025_b39_f18_sideB.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="O'Casey's menu, circa 1980s">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu57_MS1996.025_b39_f18_sideA.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline="O'Casey's menu, circa 1980s">}} Ullamcorper Egestas Dapibus
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -99,11 +99,11 @@ British author Alfred Noyes (1880-1958) traveled frequently on lecture tours, an
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu58_MS2006.054_b120_f9_sideB.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+           headline="Establissement Classe de Luxe menu, September 1922">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu58_MS2006.054_b120_f9_sideA.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Establissement Classe de Luxe menu, September 1922">}} Fringilla Cursus Sollicitudin Dapibus
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
