@@ -32,7 +32,7 @@ Fannie Farmer was born in Boston in 1857. After a bout of polio in young adultho
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
-
+{{<heading>}}The Boston Cooking School{{</heading>}}
 {{< largefigure src="Menu54_TX715.F371921Boston.jpg"
                 headline="The Boston Cooking-School Cook Book, 1896"
                 description="credit"
