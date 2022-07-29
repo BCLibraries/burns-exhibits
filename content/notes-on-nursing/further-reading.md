@@ -13,18 +13,10 @@ draft: true
 type: "exhibit"
 ---
 
-{{% figure src="../portrait-image.jpg" headline="" size="x-large" %}}
+Josephine A. Dolan Collection of Nursing History (MS.1988.004)
 
-Collection Used: David Goldstein and Martha Moore Avery Papers [(MS1986-167)](https://link-to-collection.edu)  
+New England Deaconess Hospital School of Nursing Records (MS.1989.008)
 
-__Heading__
+Published materials from the Burns LIbrary Nursing Collection
 
-Last, First M. *[Title of resource](https://link-to-resource.edu)*. Place of pub: Publisher, Year.
-
-*[Newspaper title](https://link-to-resource.edu)*. “Article Title” Date, Year.
-
-Last, First M. *[Title of resource](https://link-to-resource)*. Place of pub: Publisher, Year.
-
-Last, First M. *[Title of resource](https://link-to-resource.edu)*. Place of pub: Publisher, Year.
-
-------. “Article title” *[Journal](https://link-to-resource.edu)* Vol, Issue (Date Year): page-page.
+Sutherland, Amy. “Rookies.” Boston College Magazine (Winter 2010): 20-27. https://hdl.handle.net/2027/bc.ark:/13960/t1qf9vs61

@@ -25,6 +25,10 @@ As Josephine A. Dolan writes in Nursing in Society, Nightingale’s Notes on Nur
            headline="Florence Nightingale, Notes on Nursing:  What It Is, and What It Is Not, 1st edition (London, Harrison, 1859). ">}}
 {{< /galleryfigure >}}
 
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
 {{< galleryfigure src="../notesonnursing5.png"
            headline="Letter from Florence Nightingale to Mrs. Lewis, April, 1, 1855, from the Josephine A. Dolan collection of Nursing History, MS1988-04.  Box 1 Folder 1." >}} In 1854 Nightingale was put in charge of nursing British and allied soldiers in Turkey at the barracks hospital in Scutari.  Sanitary conditions at this hospital were so deplorable that a royal inquiry was put in place to investigate the horrible illnesses and sufferings of soldiers at the barracks hospital in Scutari. In this letter, written from Scutari, Nightingale writes to an acquaintance, a Mrs. Lewis, and laments the toll that dysentery has taken on some people of their mutual acquaintance. In February 1855, the death rate at the barracks hospital in Scutari where Nightingale was posted was 42%; in less than a few months, the death rate had decreased to 2%.
 {{< /galleryfigure >}}
@@ -38,8 +42,12 @@ As Josephine A. Dolan writes in Nursing in Society, Nightingale’s Notes on Nur
 
 {{< /galleryfigure >}}
 
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
 {{< galleryfigure src="../notesonnursing4b.png"
-           headline="Interior. Letter from Florence Nightingale to Alice Fisher, dated July 23, 1881, from the Josephine A. Dolan Collection of Nursing History, MS1988-04.  Box 1 Folder 2.">}} 
+           headline="Interior. Letter from Florence Nightingale to Alice Fisher, dated July 23, 1881, from the Josephine A. Dolan Collection of Nursing History, MS1988-04.  Box 1 Folder 2.">}}
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../notesonnursing4c.png"
