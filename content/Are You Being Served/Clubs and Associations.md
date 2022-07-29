@@ -1,5 +1,5 @@
 ---
-title: "Clubs & Associations"
+title: "CLUBS & ASSOCIATIONS"
 description: ""
 
 # Page order

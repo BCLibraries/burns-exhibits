@@ -1,5 +1,5 @@
 ---
-title: "Literary Luncheons"
+title: "LITERARY LUNCHEONS"
 description: ""
 
 # Page order
