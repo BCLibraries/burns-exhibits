@@ -59,7 +59,7 @@ The undefeated 1940 Eagles met the Tennessee Volunteers in the Sugar Bowl at Tul
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu11_BC1997.006_b4_fSupperDanceProgram_sideA.jpg"
-           headline="Breakfast Menu, Hotel Reed, New Orleans, 1941">}} citation
+           headline="Autographed Breakfast Menu, Hotel Reed, New Orleans, 1941">}} citation
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu11_BC1997.006_b4_fSupperDanceProgram_sideB.jpg"
