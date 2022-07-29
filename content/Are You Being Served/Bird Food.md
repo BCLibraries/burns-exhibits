@@ -1,5 +1,5 @@
 ---
-title: "Bird Food: Eagles at Home and Away"
+title: "BIRD FOOD: EAGLES AT HOME AND AWAY"
 description: ""
 
 # Page order (1 is 1st page, etc.)
