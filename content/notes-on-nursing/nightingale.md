@@ -17,16 +17,15 @@ As Josephine A. Dolan writes in Nursing in Society, Nightingale’s Notes on Nur
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+{{< galleryfigure src="../notesonnursing2.png" >}} Florence Nightingale, Florence Nightingale to Her Nurses: A Selection from Miss Nightingale’s Addresses to Probationers and Nurses of the Nightingale School at St. Thomas’s Hospital (London, Macmillan, 1914).
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+{{< galleryfigure src="../notesonnursing3.png">}} Florence Nightingale, Notes on Nursing:  What It Is, and What It Is Not, 1st edition (London, Harrison, 1859).
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Amet Pellentesque" >}}
+{{< galleryfigure src="../notesonnursing3.png"
+           headline="Amet Pellentesque" >}}Letter from Florence Nightingale to Mrs. Lewis, April, 1, 1855, from the Josephine A. Dolan collection of Nursing History, MS1988-04.  Box 1 Folder 1.
+
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}

@@ -19,7 +19,7 @@ She pursued nursing history for the remainder of her lengthy career, including h
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
+{{< galleryfigure src="../notesonnursing1.png"
            headline="Josephine A. Dolan, Nursing in Society: A Historical Perspective, 14th edition (Philadelphia, Saunders, 1978).">}}
 {{< /galleryfigure >}}
 
