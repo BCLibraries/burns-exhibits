@@ -15,7 +15,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="../notesonnursing6.jpg"
-           headline="Lamp, from the Josephine A. Dolan Collection of Nursing History, MS1988-04. Box 3.">}} This is the same type of lamp that Florence Nightingale used in the Crimean War to light the wards for better patient care, gaining the romantic monitor “The Lady with the Lamp,” in early news coverage and Henry Wadsworth Longfellow poetry.
+           headline="Lamp, from the [Josephine A. Dolan Collection of Nursing History, MS1988-04.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21352781560001021) Box 3.">}} This is the same type of lamp that Florence Nightingale used in the Crimean War to light the wards for better patient care, gaining the romantic monitor “The Lady with the Lamp,” in early news coverage and Henry Wadsworth Longfellow poetry.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../notesonnursing8a.jpg"
