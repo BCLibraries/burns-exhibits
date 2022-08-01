@@ -11,6 +11,14 @@ draft: true
 
 type: "exhibit"
 ---
+
+{{<figure src="../Dolan.jpg"
+           headline="Josephine Dolan in academic regalia"
+           description="Courtesy UConn School of Nursing"
+           side="right"
+           size="small"
+>}}
+
 Josephine Aloyse Dolan (1913 - 2004), a Rhode Island native, began her nursing career by graduating from St. John's Hospital School of Nursing in Lowell, Massachusetts. She then earned a baccalaureate degree in nursing from Boston University (1942), and, after a year teaching at St. Vincent's Hospital School of Nursing in Bridgeport, Connecticut, returned to BU to complete her masters degree.
 
 Dolan was hired at the University of Connecticut in 1944 as the first instructor in the School of Nursing. At the University of Connecticut, Dolan taught a course on the history of nursing, often using primary sources and historical artifacts to illustrate this subject to her students.
@@ -20,7 +28,7 @@ She pursued nursing history for the remainder of her lengthy career, including h
 {{< galleryrow >}}
 
 {{< galleryfigure src="../notesonnursing1.png"
-           headline="Josephine A. Dolan, [*Nursing in Society: A Historical Perspective,*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21317361400001021) 14th edition (Philadelphia, Saunders, 1978).">}} 
+           headline="Josephine A. Dolan, [*Nursing in Society: A Historical Perspective,*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21368965170001021) 14th edition (Philadelphia, Saunders, 1978).">}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}

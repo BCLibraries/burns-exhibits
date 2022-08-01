@@ -18,11 +18,11 @@ As Josephine A. Dolan writes in *Nursing in Society*, Nightingale’s *Notes on 
 {{< galleryrow >}}
 
 {{< galleryfigure src="../notesonnursing2.png"
-           headline="Florence Nightingale, *Florence Nightingale to Her Nurses: A Selection from Miss Nightingale’s Addresses to Probationers and Nurses of the Nightingale School at St. Thomas’s Hospital* (London, Macmillan, 1914). ">}}
+           headline="Florence Nightingale, [*Florence Nightingale to Her Nurses: A Selection from Miss Nightingale’s Addresses to Probationers and Nurses of the Nightingale School at St. Thomas’s Hospital*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21317361400001021) (London, Macmillan, 1914). ">}}
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../notesonnursing3.png"
-           headline="Florence Nightingale, *Notes on Nursing:  What It Is, and What It Is Not*, 1st edition (London, Harrison, 1859). ">}}
+           headline="Florence Nightingale, [*Notes on Nursing:  What It Is, and What It Is Not*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21334670450001021), 1st edition (London, Harrison, 1859). ">}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}

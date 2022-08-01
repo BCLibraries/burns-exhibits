@@ -25,4 +25,4 @@ draft: true
 type: "exhibit"
 ---
 
-While the letters and artifacts in this exhibit give you a glimpse of nursing history, the 2010 article “Rookies” from Boston College Magazine illustrates the present and future of the nursing profession as seen through the eyes of Professor Stacey Barone and her students at Boston College’s Connell School of Nursing.
+While the letters and artifacts in this exhibit give you a glimpse of nursing history, [the 2010 article “Rookies” from *Boston College Magazine*](https://hdl.handle.net/2027/bc.ark:/13960/t1qf9vs61) illustrates the present and future of the nursing profession as seen through the eyes of Professor Stacey Barone and her students at Boston College’s Connell School of Nursing.
