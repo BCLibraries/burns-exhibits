@@ -27,7 +27,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="../notesonnursing8a.jpg"
-           headline="19th Century Pharmaceutical Cabinet, from the Josephine A. Dolan Collection of Nursing History, MS1988-04.">}} Doctors used medicine cabinets like these on board ships. Each bottle is labeled with the name of the medicine contained therein and, sometimes, the purpose the medicine served.
+           headline="19th Century Pharmaceutical Cabinet, from the [Josephine A. Dolan Collection of Nursing History, MS1988-04.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21352781560001021)">}} Doctors used medicine cabinets like these on board ships. Each bottle is labeled with the name of the medicine contained therein and, sometimes, the purpose the medicine served.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -35,7 +35,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="../notesonnursing8b.jpg"
-           headline="19th Century Pharmaceutical Cabinet, from the Josephine A. Dolan Collection of Nursing History, MS1988-04.">}}
+           headline="19th Century Pharmaceutical Cabinet, from the [Josephine A. Dolan Collection of Nursing History, MS1988-04.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21352781560001021)">}}
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}

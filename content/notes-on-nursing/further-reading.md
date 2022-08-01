@@ -13,7 +13,7 @@ draft: true
 type: "exhibit"
 ---
 
-Josephine A. Dolan Collection of Nursing History (MS.1988.004)
+[Josephine A. Dolan Collection of Nursing History, MS1988-04.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21352781560001021)
 
 New England Deaconess Hospital School of Nursing Records (MS.1989.008)
 
