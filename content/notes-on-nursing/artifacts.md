@@ -19,7 +19,7 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../notesonnursing8a.jpg"
-           headline="Syringe, from the New England Deaconess Hospital School of Nursing Records, MS1989-09. Box 39 Object 1.">}} In 1922, the Eli Lilly Co. gave this syringe to Evelyn Peterson (later Simonds) at the New England Deaconess School of Nursing to commemorate the first dosage of insulin in New England at the New England Deaconess Hospital. Evelyn Simons graduated in 1923. The New England Deaconess Hospital is now the Beth Israel Deaconess Hospital.
+           headline="Syringe, from the [New England Deaconess Hospital School of Nursing Records, MS1989-09.](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21352763480001021) Box 39 Object 1.">}} In 1922, the Eli Lilly Co. gave this syringe to Evelyn Peterson (later Simonds) at the New England Deaconess School of Nursing to commemorate the first dosage of insulin in New England at the New England Deaconess Hospital. Evelyn Simons graduated in 1923. The New England Deaconess Hospital is now the Beth Israel Deaconess Hospital.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
