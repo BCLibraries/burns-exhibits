@@ -1,5 +1,5 @@
 ---
-title: "COOKS"
+title: "Cooks"
 description: ""
 
 # Page order (1 is 1st page, etc.)
