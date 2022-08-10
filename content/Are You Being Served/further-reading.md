@@ -62,8 +62,6 @@ Nursing Collection, John J. Burns Library, Boston College.
 
 Stout Collection, John J. Burns Library, Boston College.
 
-
-
 SOURCES USED:
 
 Clubs & Associations:
@@ -80,7 +78,6 @@ Neem, Johann N. Creating a Nation of Joiners: Democracy and Civil Society in Ear
 
 South Boston Citizens' Association. “About.” Accessed January 7, 2014. https://www.facebook.com/pages/South-Boston-Citizens-Association/417334460199?sk=info
 
-
 Cooks:
 
 Annual Report of the School Committee of the City of Boston, 1892. Boston: Rockwell and Churchill, 1893.
@@ -90,7 +87,6 @@ Lincoln, Mary J. Boston School Kitchen Textbook: Lessons in Cooking for the Use 
 Michigan State University. "Farmer, Fannie Merritt," in <emph render="italic">Feeding America: The Historic American Cookbook Project</emph>. Accessed September 25, 2013. http://digital.lib.msu.edu/projects/cookbooks/html/authors/author_farmer.html
 
 Shapiro, Laura. “The Mother of Level Measurements.” In Perfection Salad: Women and Cooking at the Turn of the Century, 100-119. Berkeley, California: University of California Press, 2009.
-
 
 Literary Lunches:
 
@@ -111,7 +107,6 @@ The Robert Louis Stevenson Club. “About.” Accessed January 14, 2014. http://
 The Shakespeare Reading Society. Accessed January 14, 2014. http://shakespearereadingsociety.wordpress.com/
 
 The Wolfe Pack. “About Us.” Accessed January 14, 2014. http://www.nerowolfe.org/htm/about_us/about_us.htm
-
 
 Restaurants:
 
