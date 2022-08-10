@@ -40,18 +40,18 @@ The 1928 Eagles were the season’s only undefeated football team on the eastern
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu9_BC1997.006_1_sideA.jpg"
-           headline="1928 Team Banquet, Elks Hotel, Boston, 1929">}} “Box 1 [Boston College athletic programs]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), BC1997-006.
+           headline="1928 Team Banquet, Elks Hotel, Boston, 1929">}} Box 1, [Boston College athletic programs]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), (BC1997-006).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu9_BC1997.006_1_sideB.jpg"
-           headline="1928 Team Banquet, Elks Hotel, Boston, 1929">}} citation
+           headline="1928 Team Banquet, Elks Hotel, Boston, 1929">}} Box 1, [Boston College athletic programs]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), (BC1997-006).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
 
 {{< largefigure src="Menu10_BC1997.006_b4_fSugarBowl1941MiscellaneousMemorabilia.jpg"
-                headline="Sugar Bowl Supper Dance, Roosevelt Hotel, New Orleans, 1941"
-                description="citation" 
+                headline="New Orleans Mid-Winter Sports Association Supper Dance Honoring Boston College and University of Tennessee menu, January 1, 1941."
+                description="Box ,[Boston College athletic programs]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), (BC1997-006). " 
                 size="x-large" >}}
 The undefeated 1940 Eagles met the Tennessee Volunteers in the Sugar Bowl at Tulane Stadium in New Orleans on New Year’s Day, 1941. Boston College defeated Tennessee 19-13. The 1928 Eagles were the season’s only undefeated football team on the eastern seaboard. As a part of the event’s festivities, both teams were honored at a supper dance that evening at the Roosevelt Hotel.
 {{< /largefigure >}}
