@@ -28,6 +28,7 @@ The 1899 Boston College Eagles were scored on only once in ten games, and comple
 
 {{< galleryfigure src="Menu1_BC1991.042_b1_f1_sideA_web.jpg"
            headline="1899 Team Dinner, Parker House, Boston, 1900">}} citation
+		   Description=Box 1, folder 1, Alumni Association Records
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu1_BC1991.042_b1_f1_sideB_web.jpg"
