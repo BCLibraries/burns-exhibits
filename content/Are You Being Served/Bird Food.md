@@ -59,11 +59,11 @@ The undefeated 1940 Eagles met the Tennessee Volunteers in the Sugar Bowl at Tul
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu11_BC1997.006_b4_fSupperDanceProgram_sideA.jpg"
-           headline="Autographed Breakfast Menu, Hotel Reed, New Orleans, 1941">}} citation
+           headline="Autographed Breakfast Menu, Hotel Reed, New Orleans, 1941">}} Box ,[Boston College athletic programs]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), (BC1997-006).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu11_BC1997.006_b4_fSupperDanceProgram_sideB.jpg"
-           headline="Breakfast Menu, Hotel Reed, New Orleans, 1941">}} citation
+           headline="Breakfast Menu, Hotel Reed, New Orleans, 1941">}} Box ,[Boston College athletic programs]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), (BC1997-006).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
