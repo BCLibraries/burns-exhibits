@@ -31,7 +31,7 @@ The 1899 Boston College Eagles were scored on only once in ten games, and comple
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu1_BC1991.042_b1_f1_sideB_web.jpg"
-           headline="1899 Team Dinner, Parker House, Boston, 1900">}} citation
+           headline="1899 Team Dinner, Parker House, Boston, 1900">}} Box 1, folder 1, Alumni Association Records
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -40,7 +40,7 @@ The 1928 Eagles were the season’s only undefeated football team on the eastern
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu9_BC1997.006_1_sideA.jpg"
-           headline="1928 Team Banquet, Elks Hotel, Boston, 1929">}} citation
+           headline="1928 Team Banquet, Elks Hotel, Boston, 1929">}} “Box 1 [Boston College athletic programs]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), BC1997-006.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu9_BC1997.006_1_sideB.jpg"
