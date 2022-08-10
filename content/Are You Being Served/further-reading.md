@@ -61,3 +61,73 @@ General Collection, John J. Burns Library, Boston College.
 Nursing Collection, John J. Burns Library, Boston College.
 
 Stout Collection, John J. Burns Library, Boston College.
+
+
+
+SOURCES USED:
+
+Clubs & Associations:
+
+Ancient and Honorable Artillery Company. “About.” Accessed January 7, 2014. http://www.ahac.us.com/about.htm
+
+Charitable Irish Society. Accessed January 7, 2014. http://www.charitableirishsociety.org/
+
+Hall, Peter Doblin. "A Historical Overview of Philanthropy, Voluntary Associations, and Nonprofit Organizations in the United States, 1600-2000." In The Nonprofit Sector: A Research Handbook, edited by Walter W. Powell and Richard Steinberg, 32-64.  New Haven: Yale University Press, 2006.
+
+Larkin, Jack. “Life in Antebellum America – Overview.” Accessed January 7, 2014. http://www.teachushistory.org/detocqueville-visit-united-states/overview
+
+Neem, Johann N. Creating a Nation of Joiners: Democracy and Civil Society in Early Nation Massachusetts. Cambridge, Mass.: Harvard University Press, 2008.
+
+South Boston Citizens' Association. “About.” Accessed January 7, 2014. https://www.facebook.com/pages/South-Boston-Citizens-Association/417334460199?sk=info
+
+
+Cooks:
+
+Annual Report of the School Committee of the City of Boston, 1892. Boston: Rockwell and Churchill, 1893.
+
+Lincoln, Mary J. Boston School Kitchen Textbook: Lessons in Cooking for the Use of Classes in Public and Industrial Schools. Boston: Roberts Brothers, 1887.
+
+Michigan State University. "Farmer, Fannie Merritt," in <emph render="italic">Feeding America: The Historic American Cookbook Project</emph>. Accessed September 25, 2013. http://digital.lib.msu.edu/projects/cookbooks/html/authors/author_farmer.html
+
+Shapiro, Laura. “The Mother of Level Measurements.” In Perfection Salad: Women and Cooking at the Turn of the Century, 100-119. Berkeley, California: University of California Press, 2009.
+
+
+Literary Lunches:
+
+“Alfred Noyes,” Contemporary Authors Online, Gale, 2002.
+
+Alfred Noyes Papers, MS.2006.054, John J. Burns Library, Boston College.
+
+Foyles. “About.” Accessed January 14, 2014. http://www.foyles.co.uk/about-foyles
+
+“Graham Greene,” Contemporary Authors Online, Gale, 2009.
+
+Omar Khayyam Club. Accessed January 14, 2014.  http://www.omar-khayyam-club.com/ 
+
+Rex Stout Papers, MS.1986.096, John J. Burns Library, Boston College.
+
+The Robert Louis Stevenson Club. “About.” Accessed January 14, 2014. http://www.robert-louis-stevenson.org/about-rls-club Founded 1920.
+
+The Shakespeare Reading Society. Accessed January 14, 2014. http://shakespearereadingsociety.wordpress.com/
+
+The Wolfe Pack. “About Us.” Accessed January 14, 2014. http://www.nerowolfe.org/htm/about_us/about_us.htm
+
+
+Restaurants:
+
+Brayley, Arthur W. “An Originator of Soups,” in The Boston Cooking School Magazine of Culinary Science and Domestic Economics, vol. 10 (1905-1906): 445-446. 
+
+Drake, Samuel Adams and Walter K. Watkins. Old Boston Taverns and Tavern Clubs. Boston: W.A. Butterfield, 1917.
+
+Heimann, Jim. “Yesterday’s Menu.” Country Living, 21.8 (August 1998): 62.
+
+Heimann, Jim, ed. Menu Design in America. Cologne, Germany: TASCHEN, 2011.
+
+Sprang, Rebecca L. The Invention of the Restaurant: Paris and Modern Gastronomic Culture. Cambridge, Mass.: Harvard University Press, 2000.
+
+Steinber, Ellen F., Prost, Jack H. “A Menu and a Mystery: The Case of the 1834 Delmonico Bill of Fare.” Gastronomica: The Journal of Food and Culture, vol. 8, no.2 (Spring 2008): 40-50.
+
+University of Nevada, Las Vegas, “Menus: the Art of Dining.” http://digital.library.unlv.edu/collections/menus. Accessed 11/14/2013.
+
+Weaver, William Woys. Culinary Ephemera: An Illustrated History. Berkeley and Los Angeles, CA: University of California Press, 2010.
+
