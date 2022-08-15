@@ -12,6 +12,11 @@ draft: true
 type: "exhibit"
 ---
 
+{{< figure src="Menu27_MS1992.017_b14_f3_edited.png"
+           headline="Consectetur Ligula Venenatis Vestibulum" 
+           description="Tellus Sem Pharetra Ridiculus" 
+           side="right" >}}
+
 “Americans of all ages, all conditions, and all minds are constantly joining together in groups,” observed Alexis de Toqueville in Democracy in America. In the early to mid-nineteenth century voluntary associations grew in number and popularity as like-minded citizens banded together to form fraternal organizations, charitable societies, and social clubs. Members benefited from the community ties and business contacts that associations offered, and found that the coordinated efforts of organizations were much more effective in influencing society than the lonely endeavors of a solitary private citizen. 
 
 Massachusetts charity laws were particularly broad-minded, providing tax exemption to any “educational, charitable, benevolent or religious purpose,” including “any antiquarian, historical, literary, scientiﬁc, medical, artistic, monumental or musical” societies (“An Act” 1874). Athletic and yacht clubs, reading rooms and libraries, and Freemasons and Odd Fellows were also granted tax exemption, and voluntary associations in Massachusetts flourished. Many of these associations threw fancy dinners, sometimes featuring guest speakers, dancing, or special “ladies’ nights.”

@@ -11,6 +11,11 @@ draft: true
 
 type: "exhibit"
 ---
+{{< figure src="Menu66_MS2008.016_b12_f3Cropped.jpg"
+           headline="Consectetur Ligula Venenatis Vestibulum" 
+           description="Tellus Sem Pharetra Ridiculus" 
+           side="right" >}}
+
 Prior to the late eighteenth century, dining outside the home was uncommon and often viewed with some suspicion. Those who did eat in public establishments were usually traders and merchants traveling for business, eating at inns and hostels that offered few choices of dishes. 
 
 The restaurant as we know it today emerged in Paris in the late 1700s as a place for those with delicate constitutions to sip medicinal soups, known as restaurants, or restoratives. By the late 1800s the restaurant had become a fashionable place to see and be seen. Choice of food was a part of the restaurant concept from the start, necessitating a menu. To begin with, menus were often single bills of fare, often chalked on a board and placed in a prominent position for patrons to view.  
