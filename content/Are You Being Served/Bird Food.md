@@ -156,10 +156,6 @@ The Philomatheia Club, a women’s auxiliary group, was first organized in 1915.
            headline="Philomatheia Club members serving tea, c. 1930s">}} citation
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="Menu75_BC1998.031_scrapbookb2_f2.jpg"
-           headline="St. Ignatius Church Cooking School program, May 14, 1937">}} citation
-{{< /galleryfigure >}}
-
 {{< /galleryrow >}}
 
 {{< galleryrow >}}

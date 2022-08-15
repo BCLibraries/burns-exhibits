@@ -42,6 +42,55 @@ The Commercial Club of Boston was organized in 1868 as an annex to the Board of 
 
 {{< /galleryrow >}}
 
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu28_MS1992.017_b14_f4.jpg.png"
+           headline="Commercial Club">}} Pellentesque Vehicula Aenean
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu29_MS1992.017_b14_f4.jpg.png"
+           headline="Commercial Club">}} Ullamcorper Egestas Dapibus
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu31_MS1992.017_b14_f5_sideA.jpg.png"
+           headline="Commercial Club">}} Pellentesque Vehicula Aenean
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu31_MS1992.017_b14_f5_sideB.jpg.png"
+           headline="Commercial Club">}} Ullamcorper Egestas Dapibus
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu32_MS1992.017_b14_f5_sideA.jpg.png"
+           headline="Commercial Club">}} Pellentesque Vehicula Aenean
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu32_MS1992.017_b14_f5_sideB.jpg.png"
+           headline="Commercial Club">}} Ullamcorper Egestas Dapibus
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu33_MS1992.017_b14_f6_sideA.jpg.png"
+           headline="Commercial Club">}} Pellentesque Vehicula Aenean
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu33_MS1992.017_b14_f6_sideB.jpg"
+           headline="Commercial Club">}} Ullamcorper Egestas Dapibus
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
 {{< galleryrow >}}
 
 {{< galleryfigure src="croppedMenu35_MS1992.017_b23_f1.jpg"
@@ -99,6 +148,20 @@ The Charitable Irish Society was founded in 1737 in Boston “to cultivate a spi
 
 {{< galleryfigure src="Menu18_MS1993.012_b21_f21_sideE.jpg"
            headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Ullamcorper Egestas Dapibus
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu20_MS1993.012_b21_f25.jpg"
+           headline="Charitable Irish Society">}} Pellentesque Vehicula Aenean
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu19_MS1993.012_b21_f43.jpg"
+           headline="Charitable Irish Society">}} Ullamcorper Egestas Dapibus
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
