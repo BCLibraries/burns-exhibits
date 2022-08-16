@@ -26,11 +26,11 @@ The Commercial Club of Boston was organized in 1868 as an annex to the Board of 
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu24_MS1992.017_b14_f3_sideA.jpg"
-           headline="Commercial Club of Boston Dinner of the Boston Public Schools menu, November 21, 1882">}} Pellentesque Vehicula Aenean
+           headline="Commercial Club of Boston Dinner of the Boston Public Schools menu, November 21, 1882">}} Box 14, folder 3, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu24_MS1992.017_b14_f3_sideB.jpg"
-           headline="Commercial Club of Boston Dinner of the Boston Public Schools menu, November 21, 1882">}} Ullamcorper Egestas Dapibus
+           headline="Commercial Club of Boston Dinner of the Boston Public Schools menu, November 21, 1882">}} Box 14, folder 3, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -38,11 +38,11 @@ The Commercial Club of Boston was organized in 1868 as an annex to the Board of 
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu27_MS1992.017_b14_f3_sideA.jpg"
-           headline="Commercial Club of Boston dinner menu envelope, November 18, 1882">}} Sollicitudin Mollis Venenatis Sit
+           headline="Commercial Club of Boston dinner menu, November 18, 1882">}} Box 14, folder 3, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu27_MS1992.017_b14_f3_sideB.jpg"
-           headline="Commercial Club of Boston dinner menu, November 18, 1882">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Commercial Club of Boston dinner menu, November 18, 1882">}} Box 14, folder 3, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -51,11 +51,11 @@ The Commercial Club of Boston was organized in 1868 as an annex to the Board of 
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu28_MS1992.017_b14_f4.jpg.png"
-           headline="Commercial Club">}} Pellentesque Vehicula Aenean
+           headline="Commercial Club of Boston dinner menu, September 13, 1889">}} Box 14, folder 4, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu29_MS1992.017_b14_f4.jpg.png"
-           headline="Commercial Club">}} Ullamcorper Egestas Dapibus
+           headline="Commercial Club of Boston dinner menu, September 20, 1890">}} Box 14, folder 4, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -63,23 +63,23 @@ The Commercial Club of Boston was organized in 1868 as an annex to the Board of 
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu31_MS1992.017_b14_f5_sideA.jpg.png"
-           headline="Commercial Club">}} Pellentesque Vehicula Aenean
+           headline="Commercial Club of Boston dinner menu, May 20, 1893">}} Box 14, folder 4, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu31_MS1992.017_b14_f5_sideB.jpg.png"
-           headline="Commercial Club">}} Ullamcorper Egestas Dapibus
+           headline="Commercial Club of Boston dinner menu, May 20, 1893">}} Box 14, folder 4, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="Menu32_MS1992.017_b14_f5_sideA.jpg.png"
-           headline="Commercial Club">}} Pellentesque Vehicula Aenean
+{{< galleryfigure src"Menu32_MS1992.017_b14_f5_sideA.jpg.png"
+           headline="Commercial Club of Boston Twenty-fifth Anniversary dinner menu, October 21, 1893">}} Box 14, folder 5, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu32_MS1992.017_b14_f5_sideB.jpg.png"
-           headline="Commercial Club">}} Ullamcorper Egestas Dapibus
+           headline="Commercial Club of Boston Twenty-fifth Anniversary dinner menu, October 21, 1893">}} Box 14, folder 5, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -87,11 +87,11 @@ The Commercial Club of Boston was organized in 1868 as an annex to the Board of 
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu33_MS1992.017_b14_f6_sideA.jpg.png"
-           headline="Commercial Club">}} Pellentesque Vehicula Aenean
+           headline="Merchants Club Press Night dinner menu, March 20, 1923">}} Box 14, folder 6, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu33_MS1992.017_b14_f6_sideB.jpg"
-           headline="Commercial Club">}} Ullamcorper Egestas Dapibus
+           headline="Merchants Club Press Night dinner menu, March 20, 1923">}} Box 14, folder 6, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
