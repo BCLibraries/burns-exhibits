@@ -62,9 +62,7 @@ Nursing Collection, John J. Burns Library, Boston College.
 
 Stout Collection, John J. Burns Library, Boston College.
 
-SOURCES USED:
-
-Clubs & Associations:
+SOURCES "Clubs & Associations"
 
 Ancient and Honorable Artillery Company. “About.” Accessed January 7, 2014. http://www.ahac.us.com/about.htm
 
@@ -78,7 +76,7 @@ Neem, Johann N. Creating a Nation of Joiners: Democracy and Civil Society in Ear
 
 South Boston Citizens' Association. “About.” Accessed January 7, 2014. https://www.facebook.com/pages/South-Boston-Citizens-Association/417334460199?sk=info
 
-Cooks:
+SOURCES "Cooks"
 
 Annual Report of the School Committee of the City of Boston, 1892. Boston: Rockwell and Churchill, 1893.
 
@@ -88,7 +86,7 @@ Michigan State University. "Farmer, Fannie Merritt," in <emph render="italic">Fe
 
 Shapiro, Laura. “The Mother of Level Measurements.” In Perfection Salad: Women and Cooking at the Turn of the Century, 100-119. Berkeley, California: University of California Press, 2009.
 
-Literary Lunches:
+SOURCES "Literary Lunches"
 
 “Alfred Noyes,” Contemporary Authors Online, Gale, 2002.
 
@@ -108,7 +106,7 @@ The Shakespeare Reading Society. Accessed January 14, 2014. http://shakespearere
 
 The Wolfe Pack. “About Us.” Accessed January 14, 2014. http://www.nerowolfe.org/htm/about_us/about_us.htm
 
-Restaurants:
+SOURCES "Restaurants"
 
 Brayley, Arthur W. “An Originator of Soups,” in The Boston Cooking School Magazine of Culinary Science and Domestic Economics, vol. 10 (1905-1906): 445-446. 
 
