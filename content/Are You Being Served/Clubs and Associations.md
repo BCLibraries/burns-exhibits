@@ -74,7 +74,7 @@ The Commercial Club of Boston was organized in 1868 as an annex to the Board of 
 
 {{< galleryrow >}}
 
-{{< galleryfigure src"Menu32_MS1992.017_b14_f5_sideA.jpg.png"
+{{< galleryfigure src="Menu32_MS1992.017_b14_f5_sideA.jpg.png"
            headline="Commercial Club of Boston Twenty-fifth Anniversary dinner menu, October 21, 1893">}} Box 14, folder 5, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
 {{< /galleryfigure >}}
 
