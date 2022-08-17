@@ -13,8 +13,8 @@ type: "exhibit"
 ---
 
 {{< figure src="Menu27_MS1992.017_b14_f3_edited.png"
-           headline="Consectetur Ligula Venenatis Vestibulum" 
-           description="Tellus Sem Pharetra Ridiculus" 
+           headline="" 
+           description="" 
            side="right" >}}
 
 “Americans of all ages, all conditions, and all minds are constantly joining together in groups,” observed Alexis de Toqueville in Democracy in America. In the early to mid-nineteenth century voluntary associations grew in number and popularity as like-minded citizens banded together to form fraternal organizations, charitable societies, and social clubs. Members benefited from the community ties and business contacts that associations offered, and found that the coordinated efforts of organizations were much more effective in influencing society than the lonely endeavors of a solitary private citizen. 
@@ -241,25 +241,25 @@ The Ancient and Honorable Artillery Company of Massachusetts was granted a chart
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu38_MS2008.016_b6_f9_sideC.jpg.png"
-           headline="Ancient and Honorable Artillery Co. anniversary dinner menu, June 4, 1877">}} citation
+           headline="Ancient and Honorable Artillery Co. anniversary dinner menu, June 4, 1877">}} Box 6, folder 9, [Ellerton J. Brehaut Boston history collection]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21373998800001021), (MS2008-016).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
 
 {{< largefigure src="Menu38_MS2008.016_b6_f9_sideB.jpg.png"
                 headline="Ancient and Honorable Artillery Co. anniversary dinner menu, June 4, 1877"
-                description="citation" 
+                description="Box 6, folder 9, [Ellerton J. Brehaut Boston history collection]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21373998800001021), (MS2008-016)." 
                 size="x-large" >}}
 {{< /largefigure >}}
 
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu39_MS2008.016_b6_f9_sideA.jpg.png"
-           headline="Ancient and Honorable Artillery Company anniversary dinner menu, June 1, 1857">}} Sollicitudin Mollis Venenatis Sit
+           headline="Ancient and Honorable Artillery Co. anniversary dinner menu, June 1, 1857">}} Box 6, folder 9, [Ellerton J. Brehaut Boston history collection]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21373998800001021), (MS2008-016).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu39_MS2008.016_b6_f9_sideB.jpg.png"
-           headline="Ancient and Honorable Artillery Company anniversary dinner menu, June 1, 1857" >}}
+           headline="Ancient and Honorable Artillery Co. anniversary dinner menu, June 1, 1857">}} Box 6, folder 9, [Ellerton J. Brehaut Boston history collection]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21373998800001021), (MS2008-016).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
