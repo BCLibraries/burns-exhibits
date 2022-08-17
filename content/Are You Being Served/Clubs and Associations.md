@@ -165,11 +165,11 @@ The Charitable Irish Society was founded in 1737 in Boston “to cultivate a spi
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu17_MS1993.012_b1_f47_sideA.jpg"
-           headline="Charitable Irish Society Ladies' Night Dinner, January 9, 1913">}} Sollicitudin Mollis Venenatis Sit
+           headline="Charitable Irish Society Ladies' Night Dinner, January 9, 1913">}} Box 1, folder 26, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu18_MS1993.012_b21_f21_sideA.jpg"
-           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Box 0, folder 0, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -177,36 +177,35 @@ The Charitable Irish Society was founded in 1737 in Boston “to cultivate a spi
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu18_MS1993.012_b21_f21_sideB.jpg"
-           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Pellentesque Vehicula Aenean
+           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Box 0, folder 0, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu18_MS1993.012_b21_f21_sideC.jpg"
-           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Ullamcorper Egestas Dapibus
+           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Box 0, folder 0, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu18_MS1993.012_b21_f21_sideD.jpg"
-           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Pellentesque Vehicula Aenean
+           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Box 0, folder 0, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu18_MS1993.012_b21_f21_sideE.jpg"
-           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Ullamcorper Egestas Dapibus
+           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Box 0, folder 0, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
 
 
-
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu20_MS1993.012_b21_f25.jpg"
-           headline="Charitable Irish Society">}} Pellentesque Vehicula Aenean
+           headline="Charitable Irish Society anniversary dinner menu, March 17, 1938">}} Box 2, folder 91, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu19_MS1993.012_b21_f43.jpg"
-           headline="Charitable Irish Society">}} Ullamcorper Egestas Dapibus
+           headline="Charitable Irish Society anniversary dinner menu, March 17, 1956">}} Box 0, folder 0, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -216,11 +215,11 @@ The South Boston Citizens’ Association was founded in 1880 to further the deve
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu15_BC2001.121_b7_f21_sideA.jpg"
-           headline="South Boston Citizens' Association Evacuation Day anniversary banquet menu, March 16, 1936">}} Sollicitudin Mollis Venenatis Sit
-{{< /galleryfigure >}}
+           headline="South Boston Citizens' Association, Evacuation Day anniversary banquet menu, March 16, 1936">}} Box 7, folder 21, [John F. X. Murphy, SJ papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21385458630001021), (BC2001-121).
+{{< /galleryfigure >}} 
 
 {{< galleryfigure src="Menu15_BC2001.121_b7_f21_sideC.jpg"
-           headline="South Boston Citizens' Association Evacuation Day anniversary banquet menu, March 16, 1936" >}}
+           headline="South Boston Citizens' Association, Evacuation Day anniversary banquet menu, March 16, 1936">}} Box 7, folder 21, [John F. X. Murphy, SJ papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21385458630001021), (BC2001-121).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -228,7 +227,7 @@ The South Boston Citizens’ Association was founded in 1880 to further the deve
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu15_BC2001.121_b7_f21_sideB.jpg"
-           headline="South Boston Citizens' Association Evacuation Day anniversary banquet menu, March 16, 1936">}} Pellentesque Vehicula Aenean
+           headline="South Boston Citizens' Association, Evacuation Day anniversary banquet menu, March 16, 1936">}} Box 7, folder 21, [John F. X. Murphy, SJ papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21385458630001021), (BC2001-121).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -238,7 +237,7 @@ The Ancient and Honorable Artillery Company of Massachusetts was granted a chart
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu38_MS2008.016_b6_f9_sideA.jpg.png"
-           headline="Ancient and Honorable Artillery Co. anniversary dinner menu, June 4, 1877">}} citation
+           headline="Ancient and Honorable Artillery Co. anniversary dinner menu, June 4, 1877">}} Box 6, folder 9, [Ellerton J. Brehaut Boston history collection]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21373998800001021), (MS2008-016).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu38_MS2008.016_b6_f9_sideC.jpg.png"
