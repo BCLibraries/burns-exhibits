@@ -13,8 +13,8 @@ type: "exhibit"
 ---
 
 {{< largefigure src="Menu46_MS2006.054_b119_f15_sideF - Copy.jpg"
-                headline="Detail of the Pickwick Club Centenary Banquet menu"
-                description="citation"
+                headline=""
+                description=""
                 size="x-large" >}}
 The urge for writers, critics, publishers, and other erudite types to gather together and discuss literature – and even more importantly, to eat and drink – appears to be deep-seated. From the salon culture of the seventeenth century to the rise of literary societies and cafes in the eighteenth and nineteenth century, to more modern clubs that honor a particular author, literary luncheons and dinners are a well-established part of a bookish social life. The Shakespeare Reading Society (founded 1875), Omar Khayyam Club (founded 1890), the Robert Louis Stevenson Club (founded 1920), and the Wolfe Pack (founded 1978), all focus on the works of one author and still meet today. The renowned London bookstore Foyles contributed to the culture with the institution of their “literary luncheons” series in 1930, and has since hosted over a thousand speakers. Many of the menus seen here were collected by authors whose papers are housed in the John J. Burns Library. Whether as honored guests, presenters, or just lucky invitees, they enjoyed the meals and conversation and saved the menus as mementoes. 
 {{< /largefigure >}}
@@ -22,11 +22,11 @@ The urge for writers, critics, publishers, and other erudite types to gather tog
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu48_MS2006.054_b119_f15_sideA.jpg"
-           headline="Foyle's Literary Luncheons menu, January 26, 1932">}} Sollicitudin Mollis Venenatis Sit
+           headline="Foyle's Literary Luncheons menu, January 26, 1932">}} Box 119, folder 15, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu48_MS2006.054_b119_f15_sideC.jpg"
-           headline="Foyle's Literary Luncheons menu, January 26, 1932" >}}
+           headline="Foyle's Literary Luncheons menu, January 26, 1932">}} Box 119, folder 15, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -34,7 +34,7 @@ The urge for writers, critics, publishers, and other erudite types to gather tog
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu48_MS2006.054_b119_f15_sideB.jpg"
-           headline="Foyle's Literary Luncheons menu, January 26, 1932">}} Pellentesque Vehicula Aenean
+           headline="Foyle's Literary Luncheons menu, January 26, 1932">}} Box 119, folder 15, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -42,11 +42,11 @@ The urge for writers, critics, publishers, and other erudite types to gather tog
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu44_MS2006.054_b116_f3_sideA.jpg"
-           headline="Omar Khayyam Club dinner menu, April 22, 1910">}} Sollicitudin Mollis Venenatis Sit
+           headline="Omar Khayyam Club dinner menu, April 22, 1910">}} Box 116, folder 3, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu44_MS2006.054_b116_f3_sideC.jpg"
-           headline="Omar Khayyam Club dinner menu, April 22, 1910" >}}
+           headline="Omar Khayyam Club dinner menu, April 22, 1910">}} Box 116, folder 3, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -54,7 +54,7 @@ The urge for writers, critics, publishers, and other erudite types to gather tog
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu44_MS2006.054_b116_f3_sideBblack.jpg"
-           headline="Omar Khayyam Club dinner menu, April 22, 1910">}} Pellentesque Vehicula Aenean
+           headline="Omar Khayyam Club dinner menu, April 22, 1910">}} Box 116, folder 3, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -62,11 +62,11 @@ The urge for writers, critics, publishers, and other erudite types to gather tog
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu47_MS2006.054_b119_f15_sideA.jpg"
-           headline="Shakespeare Reading Society annual dinner menu, November 12, 1931">}} Sollicitudin Mollis Venenatis Sit
+           headline=" Shakespeare Reading Society annual dinner menu, November 12, 1931">}} Box 119, folder 15, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu47_MS2006.054_b119_f15_sideC.jpg"
-           headline="Shakespeare Reading Society annual dinner menu, November 12, 1931" >}}
+           headline=" Shakespeare Reading Society annual dinner menu, November 12, 1931">}} Box 119, folder 15, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -74,7 +74,7 @@ The urge for writers, critics, publishers, and other erudite types to gather tog
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu47_MS2006.054_b119_f15_sideB.jpg"
-           headline="Shakespeare Reading Society annual dinner menu, November 12, 1931">}} Pellentesque Vehicula Aenean
+           headline=" Shakespeare Reading Society annual dinner menu, November 12, 1931">}} Box 119, folder 15, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -84,7 +84,7 @@ Rex Stout (1886-1975) was a mystery writer best known for his Nero Wolfe books, 
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu43_MS1996.022.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Wolfe Pack Second Annual Black Orchid Banquet menu, December 1, 1979">}} Box 6, folder 9, [Judson C. Sapp papers and collection of Rex Stout]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351253640001021), (MS1996-022).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu55_PS3537.T733T631993Stout.jpg"
@@ -99,11 +99,11 @@ Alfred Noyes (1880-1958) was a British Catholic poet, essayist, and critic. Whil
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu49_MS2006.054_b119_f15_sideA.jpg"
-           headline="Forum Club Dinner to Literature menu, January 25, 1932">}} Sollicitudin Mollis Venenatis Sit
+           headline="Forum Club Dinner to Literature menu, January 25, 1932">}} Box 119, folder 15, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu49_MS2006.054_b119_f15_sideC.jpg"
-           headline="Forum Club Dinner to Literature menu, January 25, 1932" >}}
+           headline="Forum Club Dinner to Literature menu, January 25, 1932">}} Box 119, folder 15, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -111,7 +111,7 @@ Alfred Noyes (1880-1958) was a British Catholic poet, essayist, and critic. Whil
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu49_MS2006.054_b119_f15_sideB.jpg"
-           headline="Forum Club Dinner to Literature menu, January 25, 1932">}} Pellentesque Vehicula Aenean
+           headline="Forum Club Dinner to Literature menu, January 25, 1932">}} Box 119, folder 15, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -119,11 +119,11 @@ Alfred Noyes (1880-1958) was a British Catholic poet, essayist, and critic. Whil
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu45_MS2006.054_b119_f13_sideA.jpg"
-           headline="Atheneum menu, July 26, 1920">}} Pellentesque Vehicula Aenean
+           headline="Atheneum menu, July 26, 1920">}} Box 119, folder 13, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu45_MS2006.054_b119_f13_sideB.jpg"
-           headline="Atheneum menu, July 26, 1920">}} Ullamcorper Egestas Dapibus
+           headline="Atheneum menu, July 26, 1920">}} Box 119, folder 13, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -131,11 +131,11 @@ Alfred Noyes (1880-1958) was a British Catholic poet, essayist, and critic. Whil
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu46_MS2006.054_b119_f15_sideF.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline=" Pickwick Centenary Banquet menu, March 31, 1936">}} Box 119, folder 15, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu46_MS2006.054_b119_f15_sideG.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline=" Pickwick Centenary Banquet menu, March 31, 1936">}} Box 119, folder 15, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -143,11 +143,11 @@ Alfred Noyes (1880-1958) was a British Catholic poet, essayist, and critic. Whil
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu46_MS2006.054_b119_f15_sideA.jpg"
-           headline="Amet Pellentesque" >}}
+           headline=" Pickwick Centenary Banquet menu, March 31, 1936">}} Box 119, folder 15, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu46_MS2006.054_b119_f15_sideB.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline=" Pickwick Centenary Banquet menu, March 31, 1936">}} Box 119, folder 15, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -155,11 +155,11 @@ Alfred Noyes (1880-1958) was a British Catholic poet, essayist, and critic. Whil
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu46_MS2006.054_b119_f15_sideE.jpg"
-           headline="Amet Pellentesque" >}}
+           headline=" Pickwick Centenary Banquet menu, March 31, 1936">}} Box 119, folder 15, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu46_MS2006.054_b119_f15_sideD.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline=" Pickwick Centenary Banquet menu, March 31, 1936">}} Box 119, folder 15, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -167,7 +167,7 @@ Alfred Noyes (1880-1958) was a British Catholic poet, essayist, and critic. Whil
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu46_MS2006.054_b119_f15_sideC.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline=" Pickwick Centenary Banquet menu, March 31, 1936">}} Box 119, folder 15, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -176,15 +176,15 @@ Graham Greene (1904-1991) was a British Catholic author, critic, and playwright,
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu40_MS1995.003_b67_f23.jpg.png"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+           headline="Order of Merit luncheon menu, June 23, 1987">}} Box 67, folder 23, [Graham Greene papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351254200001021), (MS1995-003).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu41_MS1995.003_b67_f23.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Order of Merit seating chart, June 23, 1987">}} Box 67, folder 23, [Graham Greene papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351254200001021), (MS1995-003).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu42_MS1995.003_b67_f23.jpg"
-           headline="Amet Pellentesque" >}}
+           headline="Letter from Edward Ford to Graham Greene regarding Order of Merit service and luncheon, January 20, 1987">}} Box 67, folder 23, [Graham Greene papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351254200001021), (MS1995-003).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -192,7 +192,7 @@ Graham Greene (1904-1991) was a British Catholic author, critic, and playwright,
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu51_MS1995.003_b67_f18.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline="Krug Award of Excellence program, May 15, 1980">}} Box 67, folder 18, [Graham Greene papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351254200001021), (MS1995-003).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
