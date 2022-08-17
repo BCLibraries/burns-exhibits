@@ -116,18 +116,18 @@ Army Chaplain William J. Leonard, SJ, and a Navy colleague improved this delight
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu2_BC2000.023_b9_f60_sideA.jpg"
-           headline="Officers' Mess supper menu, Manila, Philippines, 1945">}} citation
+           headline=" Philippine Sea Frontier Officers' Wardroom Mess dinner menu, September 21, 1945">}} Box 2, folder 15, [William J. Leonard, SJ papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21345056120001021), (BC2000-023).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu2_BC2000.023_b9_f60_sideB_2.jpg"
-           headline="Officers' Mess supper menu, Manila, Philippines, 1945">}} citation
+           headline=" Philippine Sea Frontier Officers' Wardroom Mess dinner menu, September 21, 1945">}} Box 2, folder 15, [William J. Leonard, SJ papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21345056120001021), (BC2000-023).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
 
 {{< largefigure src="Menu14_B_web.jpg"
                 headline="Linehan Explorers’ Club Dinner, Waldorf-Astoria Hotel, New York City, 1964"
-                description="citation" 
+                description="Box 2, folder 15, Oversize photographs, BC2000-023" 
                 size="x-large" >}}
 Daniel Linehan, SJ, (1904–1987), a member of Boston College’s class of 1927 was the first chair of the Boston College Department of Geophysics and was Director of the Weston Observatory from 1949–1972. Fr. Linehan is well known for his expeditions to Antarctica in the 1950s. Linehan Glacier is named in his honor. In 1957 he was elected a member of the Explorers’ Club, an organization founded in the year of his birth, whose purpose is to promote good fellowship and exploration. These days, as a part of the club’s annual dinner—always held at New York’s Waldorf Astoria Hotel—they are known for their “exotics” reception menu, which includes dishes not for the faint of heart.
 {{< /largefigure >}}
@@ -135,7 +135,7 @@ Daniel Linehan, SJ, (1904–1987), a member of Boston College’s class of 1927 
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu3_BC2003.081_OVS_web.jpg"
-           headline="Testimonial dinner in honor of Charles F. Donovan, SJ, March 11, 1967">}} citation
+           headline=" Testimonial dinner in honor of Charles F. Donovan, SJ, March 11, 1967">}} Box 24, [Boston College faculty and staff photographs]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21427406550001021), (BC2000-023).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -143,7 +143,7 @@ Daniel Linehan, SJ, (1904–1987), a member of Boston College’s class of 1927 
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu12_SSW-silver-plate-tray.JPG"
-           headline="Boston College School of Social Work Class of 1960 serving tray">}} citation
+           headline="Boston College School of Social Work Class of 1960 serving tray">}} School of Social Work (Boston College) artifacts, (BC2014-022).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
