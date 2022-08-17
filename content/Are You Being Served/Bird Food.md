@@ -154,7 +154,7 @@ The Philomatheia Club, a women’s auxiliary group, was first organized in 1915.
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu13_BC1998.031_bOversizePhotos.jpg"
-           headline="Philomatheia Club members serving tea, c. 1930s">}} citation
+           headline="Philomatheia Club members serving tea, c. 1930s">}} Philomatheia Club records (BC1998-031).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -162,7 +162,7 @@ The Philomatheia Club, a women’s auxiliary group, was first organized in 1915.
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu9and37_Woodward.jpg"
-           headline="Cup and saucer">}} citation
+           headline="Gravy boat and cup and saucer from the Woodward Collection of Irish objects">}} Box 1, Mary Moore Chamberlin Woodward and Ann Lincoln Chamberlin Dover collection of Irish-American artifacts, (MS2010-001).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
