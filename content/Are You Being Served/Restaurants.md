@@ -12,8 +12,8 @@ draft: true
 type: "exhibit"
 ---
 {{< figure src="Menu66_MS2008.016_b12_f3Cropped.jpg"
-           headline="Consectetur Ligula Venenatis Vestibulum" 
-           description="Tellus Sem Pharetra Ridiculus" 
+           headline="" 
+           description="" 
            side="right" >}}
 
 Prior to the late eighteenth century, dining outside the home was uncommon and often viewed with some suspicion. Those who did eat in public establishments were usually traders and merchants traveling for business, eating at inns and hostels that offered few choices of dishes. 
@@ -32,11 +32,11 @@ Even as menus grew large and unwieldy, diners continued to collect them as keeps
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu63_MS2008.016_b12_f1_sideA.jpg.png"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+           headline="Winthrop House bill of fare for the Mayor, Aldermen, and Committee of the City Government of Boston, November 10, 1849">}} Box 12, folder 1, [Ellerton J. Brehaut Boston history collection]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21373998800001021), (MS2008-016).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu63_MS2008.016_b12_f1_sideB.jpg.png"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Winthrop House bill of fare for the Mayor, Aldermen, and Committee of the City Government of Boston, November 10, 1849">}} Box 12, folder 1, [Ellerton J. Brehaut Boston history collection]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21373998800001021), (MS2008-016).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -44,11 +44,11 @@ Even as menus grew large and unwieldy, diners continued to collect them as keeps
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu62_MS2008.016_b12_f1_sideA.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Revere House dinner for the Connecticut Association in Boston menu, January 14, 1857">}} Box 12, folder 1, [Ellerton J. Brehaut Boston history collection]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21373998800001021), (MS2008-016).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu62_MS2008.016_b12_f1_sideB.jpg.png"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline="Revere House dinner for the Connecticut Association in Boston menu, January 14, 1857">}} Box 12, folder 1, [Ellerton J. Brehaut Boston history collection]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21373998800001021), (MS2008-016).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -69,11 +69,11 @@ Restaurant guides were around long before Zagat’s was established in 1979, or 
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu64_MS2008.016_b12_f2.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+           headline="Where Shall We Eat?by Rudolph Elie, 1940.">}} Box 12, folder 2, [Ellerton J. Brehaut Boston history collection]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21373998800001021), (MS2008-016).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu65_MS2008.016_b12_f2.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Favorite Eating Places in Greater Boston, its Countryside and Seashore. Boston: Convention and Visitors Bureau, Boston Chamber of Commerce, 1949">}} Box 12, folder 2, [Ellerton J. Brehaut Boston history collection]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21373998800001021), (MS2008-016).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -82,7 +82,7 @@ Julien’s Restorator was one of the first restaurants in Boston, opened in 1793
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu66_MS2008.016_b12_f3.jpg"
-           headline="Julien's Restorator scrapbook page">}} Pellentesque Vehicula Aenean
+           headline=" Julien's Restorator scrapbook page">}} Box 12, folder 3, [Ellerton J. Brehaut Boston history collection]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21373998800001021), (MS2008-016).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -91,11 +91,11 @@ O’Casey’s restaurant in New York was named in honor of Seán O’Casey (1880
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu57_MS1996.025_b39_f18_sideB.jpg"
-           headline="O'Casey's menu, circa 1980s">}} Pellentesque Vehicula Aenean
+           headline="O'Casey's menu, circa 1980s">}} Box 38, folder 19, [Robert G. Lowery papers and collection of Sean O'Casey]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311957430001021), (MS1996-025).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu57_MS1996.025_b39_f18_sideA.jpg"
-           headline="O'Casey's menu, circa 1980s">}} Ullamcorper Egestas Dapibus
+           headline="O'Casey's menu, circa 1980s">}} Box 38, folder 19, [Robert G. Lowery papers and collection of Sean O'Casey]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311957430001021), (MS1996-025).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -104,11 +104,11 @@ British author Alfred Noyes (1880-1958) traveled frequently on lecture tours, an
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu58_MS2006.054_b120_f9_sideB.jpg"
-           headline="Establissement Classe de Luxe menu, September 1922">}} Sollicitudin Mollis Venenatis Sit
+           headline="Establissement Classe de Luxe menu, September 1922">}} Box 120, folder 9, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu58_MS2006.054_b120_f9_sideA.jpg"
-           headline="Establissement Classe de Luxe menu, September 1922">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Establissement Classe de Luxe menu, September 1922">}} Box 120, folder 9, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -116,11 +116,11 @@ British author Alfred Noyes (1880-1958) traveled frequently on lecture tours, an
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu60_MS2006.054_b120_f9_sideA.jpg"
-           headline="Mary Elizabeth's afternoon tea menu, November 25, 1932">}} Sollicitudin Mollis Venenatis Sit
+           headline="Mary Elizabeth's afternoon tea menu, November 25, 1932">}} Box 120, folder 9, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu60_MS2006.054_b120_f9_sideB.jpg"
-           headline="Mary Elizabeth's afternoon tea menu, November 25, 1932">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Mary Elizabeth's afternoon tea menu, November 25, 1932">}} Box 120, folder 9, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -128,11 +128,11 @@ British author Alfred Noyes (1880-1958) traveled frequently on lecture tours, an
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu61_MS2006.054_b120_f9_sideA.jpg"
-           headline="Canadian Pacific dining car menu, circa 1930s">}} Sollicitudin Mollis Venenatis Sit
+           headline=" Canadian Pacific dining car menu, circa 1930s">}} Box 120, folder 9, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu61_MS2006.054_b120_f9_sideC.jpg"
-           headline="Canadian Pacific dining car menu, circa 1930s">}} Fringilla Cursus Sollicitudin Dapibus
+           headline=" Canadian Pacific dining car menu, circa 1930s">}} Box 120, folder 9, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -140,7 +140,7 @@ British author Alfred Noyes (1880-1958) traveled frequently on lecture tours, an
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu61_MS2006.054_b120_f9_sideB.jpg"
-           headline="Canadian Pacific dining car menu, circa 1930s">}} Pellentesque Vehicula Aenean
+           headline=" Canadian Pacific dining car menu, circa 1930s">}} Box 120, folder 9, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -149,24 +149,11 @@ British author Alfred Noyes (1880-1958) traveled frequently on lecture tours, an
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu59_MS2006.054_b120_f9_sideA.jpg"
-           headline="California Chains Thanksgiving dinner menu, 1917">}} Sollicitudin Mollis Venenatis Sit
+           headline="California Chains Thanksgiving luncheon menu, 1917">}} Box 120, folder 9, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu59_MS2006.054_b120_f9_sideB.jpg"
-           headline="California Chains Thanksgiving dinner menu, 1917">}} Fringilla Cursus Sollicitudin Dapibus
-{{< /galleryfigure >}}
-
-
-{{< /galleryrow >}}
-
-{{< galleryrow >}}
-
-{{< galleryfigure src="Menu60_MS2006.054_b119_f15_sideA.jpg"
-           headline="move to Lit Lunches">}} Sollicitudin Mollis Venenatis Sit
-{{< /galleryfigure >}}
-
-{{< galleryfigure src="Menu60_MS2006.054_b119_f15_sideB.jpg"
-           headline="move to Lit Lunches">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="California Chains Thanksgiving luncheon menu, 1917">}} Box 120, folder 9, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}

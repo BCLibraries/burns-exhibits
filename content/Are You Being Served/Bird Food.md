@@ -76,11 +76,11 @@ Joseph R.N. Maxwell, SJ (1899–1971) was dean of studies at Boston College from
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu7_BC2013.016_b18_f2.jpg"
-           headline="Joseph R.N. Maxwell, SJ, Testimonial Dinner, Copely Plaza Hotel, 1940">}} citation
+           headline=" Joseph R. N. Maxwell, SJ testimonial dinner menu, January 28, 1940">}} Box 18, folder 2, [Joseph R. N. Maxwell, SJ, President’s Office records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21331161120001021), (BC2013-016).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu6_BC2013.016_b18_f1.jpg"
-           headline="Joseph R.N. Maxwell, SJ, Testimonial Dinner, Sheraton Plaza Hotel, 1955">}} citation
+           headline="Joseph R. N. Maxwell, SJ testimonial dinner menu, February 20, 1955">}} Box 18, folder 1, [Joseph R. N. Maxwell, SJ, President’s Office records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21331161120001021), (BC2013-016).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
