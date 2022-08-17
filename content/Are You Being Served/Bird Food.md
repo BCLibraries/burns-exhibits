@@ -52,7 +52,7 @@ The 1928 Eagles were the season’s only undefeated football team on the eastern
 
 {{< largefigure src="Menu10_BC1997.006_b4_fSugarBowl1941MiscellaneousMemorabilia.jpg"
                 headline="New Orleans Mid-Winter Sports Association Supper Dance Honoring Boston College and University of Tennessee menu, January 1, 1941."
-                description="Box ,[Boston College athletic programs]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), (BC1997-006). " 
+                description="Box 4, [Boston College athletic programs]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), (BC1997-006). " 
                 size="x-large" >}}
 The undefeated 1940 Eagles met the Tennessee Volunteers in the Sugar Bowl at Tulane Stadium in New Orleans on New Year’s Day, 1941. Boston College defeated Tennessee 19-13. The 1928 Eagles were the season’s only undefeated football team on the eastern seaboard. As a part of the event’s festivities, both teams were honored at a supper dance that evening at the Roosevelt Hotel.
 {{< /largefigure >}}
@@ -60,11 +60,11 @@ The undefeated 1940 Eagles met the Tennessee Volunteers in the Sugar Bowl at Tul
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu11_BC1997.006_b4_fSupperDanceProgram_sideA.jpg"
-           headline="Autographed Breakfast Menu, Hotel Reed, New Orleans, 1941">}} Box ,[Boston College athletic programs]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), (BC1997-006).
+           headline="Autographed Breakfast Menu, Hotel Reed, New Orleans, 1941">}} Box 4, [Boston College athletic programs]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), (BC1997-006).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu11_BC1997.006_b4_fSupperDanceProgram_sideB.jpg"
-           headline="Breakfast Menu, Hotel Reed, New Orleans, 1941">}} Box ,[Boston College athletic programs]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), (BC1997-006).
+           headline="Breakfast Menu, Hotel Reed, New Orleans, 1941">}} Box 4, [Boston College athletic programs]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21470522600001021), (BC1997-006).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -89,11 +89,11 @@ The menu, below, of the “Formal Installation Dinner” of Louis J. Gallagher, 
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu5_BC2004.020_b1_f14_sideA.jpg"
-           headline="Louis J. Gallagher, SJ (1885–1972), Formal Installation Dinner, Saint Mary’s Hall, Boston College, 1932">}} citation
+           headline="Louis J. Gallagher, SJ installation dinner menu, January 17, 1932">}} Box 1, folder 14, [Louis J. Gallagher, SJ, President's Office records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21331160400001021), (BC2004-020).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu5_BC2004.020_b1_f14_sideB.jpg"
-           headline="Louis J. Gallagher, SJ (1885–1972), Formal Installation Dinner, Saint Mary’s Hall, Boston College, 1932">}} citation
+           headline="Louis J. Gallagher, SJ installation dinner menu, January 17, 1932">}} Box 1, folder 14, [Louis J. Gallagher, SJ, President's Office records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21331160400001021), (BC2004-020).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -101,11 +101,11 @@ The menu, below, of the “Formal Installation Dinner” of Louis J. Gallagher, 
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu4_BC2004.007_b2_f15_sideA.jpg"
-           headline="Boston and Albany Railroad breakfast menu, 1938">}} citation
+           headline="Boston and Albany Railroad breakfast menu, 1938">}} Box 2, folder 15, [William James McGarry, SJ, President's Office records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21331161510001021), (BC2004-007).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu4_BC2004.007_b2_f15_sideB.jpg"
-           headline="Boston and Albany Railroad breakfast menu, 1938">}} citation
+           headline="Boston and Albany Railroad breakfast menu, 1938">}} Box 2, folder 15, [William James McGarry, SJ, President's Office records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21331161510001021), (BC2004-007).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
