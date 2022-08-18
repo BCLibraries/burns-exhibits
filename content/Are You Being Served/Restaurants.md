@@ -162,11 +162,11 @@ Bette’s Rolls Royce was a popular restaurant near Faneuil Hall in the 1970s. O
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu68_MS2012.009_OVS_web.jpg.png"
-           headline="Bette's Rolls Royce menu board, circa 1970s">}} Sollicitudin Mollis Venenatis Sit
+           headline="Bette's Rolls Royce menu board, circa 1970s">}} [Bette Arnold collection of Bette's Rolls Royce restaurant materials]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21420354730001021), (MS2012-009).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu72_MS2012.009_b3_f4.jpg"
-           headline="Bette Arnold with her yellow Rolls Royce, circa 1970s">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Bette Arnold with her yellow Rolls Royce, circa 1970s">}} Box 3, folder 4, [Bette Arnold collection of Bette's Rolls Royce restaurant materials]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21420354730001021), (MS2012-009).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -174,7 +174,7 @@ Bette’s Rolls Royce was a popular restaurant near Faneuil Hall in the 1970s. O
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu71_MS2012.009_b1.JPG.png"
-           headline="Bette's Rolls Royce matchbooks, circa 1970s">}} Pellentesque Vehicula Aenean
+           headline="Bette's Rolls Royce match books, circa 1970s">}} Box 1, [Bette Arnold collection of Bette's Rolls Royce restaurant materials]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21420354730001021), (MS2012-009).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
