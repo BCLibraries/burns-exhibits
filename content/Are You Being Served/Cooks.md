@@ -13,7 +13,7 @@ type: "exhibit"
 ---
 
 {{< largefigure src="Menu56_TX715.P9621858General.jpg"
-                headline="Cover detail of Mrs. Putnam's Receipt Book, and Young Housekeeper's Assistant"
+                headline="Mrs. Putnam's Receipt Book, and Young Housekeeper's Assistant"
                 description="citation"
                 size="x-large" >}}
 For every delightful meal laid out in a menu, a cook – or several – labored away in the background. Many Boston cooks benefitted from an education at the Boston Cooking School, where the celebrated cook Fannie Farmer got her start. Boston public school students also received instruction in cooking at the Boston School Kitchens, which they could use in their private lives or parlay into paid work. For those without formal training, cookbooks like Mrs. Putnam's Receipt Book, and Young Housekeeper's Assistant (1858) included suggestions as to appropriate menus for large dinner parties.  While admiring these delightful menus, remember the cooks who wrote and tested recipes, pulled together the bills of fare, and prepared the food: they’re the unsung hero(ine)s of the exhibit!
@@ -46,11 +46,11 @@ The Boston School Kitchens taught cooking in the Boston Public Schools beginning
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu73_MS2013.020_b1_f1_sideA.jpg.png"
-           headline="Boston School Kitchen No. 3 students, including Madolene Stanley Broadbent, circa 1880s">}} Pellentesque Vehicula Aenean
+           headline="Boston School Kitchen No. 3 students, including Madolene Stanley Broadbent, circa 1880s">}} Box 1, folder 1, [Greater Boston area materials]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21429780640001021), (MS2003-020).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu73_MS2013.020_b1_f1_sideB.jpg.png"
-           headline="Boston School Kitchen No. 3 students, back of photo">}} Ullamcorper Egestas Dapibus
+           headline="Boston School Kitchen No. 3 students, including Madolene Stanley Broadbent, circa 1880s">}} Box 1, folder 1, [Greater Boston area materials]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21429780640001021), (MS2003-020).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -58,7 +58,7 @@ The Boston School Kitchens taught cooking in the Boston Public Schools beginning
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu74_MS2013.020_b1_f1.jpg"
-           headline="Boston School Kitchen No. 3 Certificate of Cookery presented to Madolene Stanley Broadbent, circa 1880">}} citation
+            headline=" Boston School Kitchen No. 3 Certificate of Cookery presented to Madolene Stanley Broadbent, circa 1880s">}} Box 1, folder 1, [Greater Boston area materials]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21429780640001021), (MS2003-020).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src=""

@@ -28,11 +28,11 @@ The 1899 Boston College Eagles were scored on only once in ten games, and comple
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu1_BC1991.042_b1_f1_sideA_web.jpg"
-           headline="1899 Team Dinner, Parker House, Boston, 1900">}} Box 1, folder 1, Alumni Association Records
+           headline="1899 Team Dinner, Parker House, Boston, 1900">}} Box 1, folder 1, Alumni Association Records.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu1_BC1991.042_b1_f1_sideB_web.jpg"
-           headline="1899 Team Dinner, Parker House, Boston, 1900">}} Box 1, folder 1, Alumni Association Records
+           headline="1899 Team Dinner, Parker House, Boston, 1900">}} Box 1, folder 1, Alumni Association Records.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -127,7 +127,7 @@ Army Chaplain William J. Leonard, SJ, and a Navy colleague improved this delight
 
 {{< largefigure src="Menu14_B_web.jpg"
                 headline="Linehan Explorers’ Club Dinner, Waldorf-Astoria Hotel, New York City, 1964"
-                description="Box 2, folder 15, Oversize photographs, BC2000-023" 
+                description="Box 2, folder 15, Oversize photographs, BC2000-023." 
                 size="x-large" >}}
 Daniel Linehan, SJ, (1904–1987), a member of Boston College’s class of 1927 was the first chair of the Boston College Department of Geophysics and was Director of the Weston Observatory from 1949–1972. Fr. Linehan is well known for his expeditions to Antarctica in the 1950s. Linehan Glacier is named in his honor. In 1957 he was elected a member of the Explorers’ Club, an organization founded in the year of his birth, whose purpose is to promote good fellowship and exploration. These days, as a part of the club’s annual dinner—always held at New York’s Waldorf Astoria Hotel—they are known for their “exotics” reception menu, which includes dishes not for the faint of heart.
 {{< /largefigure >}}
