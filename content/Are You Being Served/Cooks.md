@@ -13,8 +13,8 @@ type: "exhibit"
 ---
 
 {{< largefigure src="Menu56_TX715.P9621858General.jpg"
-                headline="Mrs. Putnam's Receipt Book, and Young Housekeeper's Assistant"
-                description="citation"
+                headline="Spine"
+                description="Putnam. *[Mrs. Putnam's Receipt Book, and Young Housekeeper's Assistant](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21332837470001021)*. New York: Phinney, Blakeman & Mason, 1860."
                 size="x-large" >}}
 For every delightful meal laid out in a menu, a cook – or several – labored away in the background. Many Boston cooks benefitted from an education at the Boston Cooking School, where the celebrated cook Fannie Farmer got her start. Boston public school students also received instruction in cooking at the Boston School Kitchens, which they could use in their private lives or parlay into paid work. For those without formal training, cookbooks like Mrs. Putnam's Receipt Book, and Young Housekeeper's Assistant (1858) included suggestions as to appropriate menus for large dinner parties.  While admiring these delightful menus, remember the cooks who wrote and tested recipes, pulled together the bills of fare, and prepared the food: they’re the unsung hero(ine)s of the exhibit!
 {{< /largefigure >}}
