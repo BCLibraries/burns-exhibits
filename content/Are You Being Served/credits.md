@@ -26,10 +26,10 @@ Shelley Barber, Reference & Archives Specialist
 
 Amy Braitsch, Head Archivist
 
-Xaviera Flores, Processing Assistant
+Xaviera Flores, former Processing Assistant
 
-Jessica Meyer, Processing Assistant
+Jessica Meyer, former Processing Assistant
 
-Adrienne Pruitt, Processing Archivist
+Adrienne Pruitt, former Processing Archivist
 
 Originally displayed: Burns Library, January-May, 2014

@@ -53,6 +53,7 @@ Even as menus grew large and unwieldy, diners continued to collect them as keeps
 
 {{< /galleryrow >}}
 
+{{<heading>}}Restaurant Guides{{</heading>}}
 Restaurant guides were around long before Zagat’s was established in 1979, or before Yelp was founded in 2004. The examples shown were intended to help travelers in the Boston area, whether they were day-trippers venturing out from Boston in the 1920s as automobiles became more prevalent, or newly affluent postwar tourists enticed into Bay State eateries by Boston Visitor’s Center publications in the 1940s.
 {{< galleryrow >}}
 
@@ -78,6 +79,7 @@ Restaurant guides were around long before Zagat’s was established in 1979, or 
 
 {{< /galleryrow >}}
 
+{{<heading>}}Julien’s Restorator{{</heading>}}
 Julien’s Restorator was one of the first restaurants in Boston, opened in 1793 by Frenchman Jean Baptiste Gilbert Payplat dis Julien. Famous for his soups and stews, especially for turtle soup and soup julienne, Julien stressed the health benefits of his menu. Perhaps to mollify staid Bostonians, he also noted that no gambling or hard spirits were allowed on the premises. Julien died in 1805 and the restaurant was run by his wife before closing in 1823.
 {{< galleryrow >}}
 
@@ -87,6 +89,7 @@ Julien’s Restorator was one of the first restaurants in Boston, opened in 1793
 
 {{< /galleryrow >}}
 
+{{<heading>}}O’Casey’s{{</heading>}}
 O’Casey’s restaurant in New York was named in honor of Seán O’Casey (1880-1964), the Irish playwright. It is a rare example of a more modern restaurant menu in our collections, dating from the 1980s.
 {{< galleryrow >}}
 
@@ -100,6 +103,7 @@ O’Casey’s restaurant in New York was named in honor of Seán O’Casey (1880
 
 {{< /galleryrow >}}
 
+{{<heading>}}Alfred Noyes{{</heading>}}
 British author Alfred Noyes (1880-1958) traveled frequently on lecture tours, and collected menus from his trips. Those collected here range from Canadian train dining car menus to French wine lists to New England tea room bills of fare, dating from the 1910s-1930s. Noyes also annotated his menus or had attending celebrities sign them; see the Literary Luncheons portion of this exhibit for more examples.
 {{< galleryrow >}}
 
@@ -158,6 +162,7 @@ British author Alfred Noyes (1880-1958) traveled frequently on lecture tours, an
 
 {{< /galleryrow >}}
 
+{{<heading>}}Bette's Rolls Royce{{</heading>}}
 Bette’s Rolls Royce was a popular restaurant near Faneuil Hall in the 1970s. Owned by Bette Arnold and advertised by her bright yellow (and illegally parked) Rolls Royce out front, Bette’s Rolls Royce promised Bostonians “the best fun, the best food, and the best booze in town!” and frequently delivered on that promise. Bette’s Rolls Royce was as renowned for its flamboyant owner as it was for cuisine. Bette herself serenaded customers with renditions of popular songs on weekends, and she appeared perched on the hood of the Rolls Royce in many city parades. 
 {{< galleryrow >}}
 

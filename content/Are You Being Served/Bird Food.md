@@ -27,7 +27,7 @@ Breaking bread together—at both elaborate and simple affairs—strengthens a s
 {{<heading>}}Football{{</heading>}}
 
 The 1899 Boston College Eagles were scored on only once in ten games, and completed their football season by beating Holy Cross. Boston College Alumni honored the team at Boston’s Parker House Hotel.
-1899 Team Dinner, Parker House, Boston, 1900
+
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu1_BC1991.042_b1_f1_sideA_web.jpg"
