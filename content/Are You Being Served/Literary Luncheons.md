@@ -81,7 +81,7 @@ The urge for writers, critics, publishers, and other erudite types to gather tog
 {{< /galleryrow >}}
 
 {{<heading>}}Rex Stout{{</heading>}}
-Rex Stout (1886-1975) was a mystery writer best known for his Nero Wolfe books, starring the epicurean armchair detective Nero Wolfe and his sidekick, the wisecracking Archie Goodwin. Food features prominently in the Nero Wolfe novels, especially in Too Many Cooks (1938), in which Nero Wolfe is invited to address a group of great chefs. Murder inevitably ensues, and Wolfe must uncover a secret recipe and ensure the killer gets his just deserts. Stout even published The Nero Wolfe Cookbook (1973), compiling recipes for many of the dishes mentioned in the books. It is fitting that the Wolfe Pack, a Rex Stout fan club, honors the author by holding an annual Black Orchid Banquet, at which members dine on a meal prepared using recipes from The Nero Wolfe Cookbook and present the Nero Award to a mystery author.
+Rex Stout (1886-1975) was a mystery writer best known for his Nero Wolfe books, starring the epicurean armchair detective Nero Wolfe and his sidekick, the wisecracking Archie Goodwin. Food features prominently in the Nero Wolfe novels, especially in *Too Many Cooks* (1938), in which Nero Wolfe is invited to address a group of great chefs. Murder inevitably ensues, and Wolfe must uncover a secret recipe and ensure the killer gets his just deserts. Stout even published *The Nero Wolfe Cookbook* (1973), compiling recipes for many of the dishes mentioned in the books. It is fitting that the Wolfe Pack, a Rex Stout fan club, honors the author by holding an annual Black Orchid Banquet, at which members dine on a meal prepared using recipes from *The Nero Wolfe Cookbook* and present the Nero Award to a mystery author.
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu43_MS1996.022.jpg"
@@ -95,15 +95,11 @@ Rex Stout (1886-1975) was a mystery writer best known for his Nero Wolfe books, 
 {{< /galleryrow >}}
 
 {{<heading>}}Alfred Noyes{{</heading>}}
-Alfred Noyes (1880-1958) was a British Catholic poet, essayist, and critic. While at Exeter College, Noyes neglected to take his final examinations in favor of a meeting with publisher Grant Richards: the result was no degree, but his first book of poetry, The Loom of Years (1902). Noyes soon established himself as one of the bestselling poets of his time. He was a popular lecturer, with a wide acquaintance, and attended many literary luncheons and dinners, as the menus seen here – just a small selection of the many in his papers – attest. Noyes sometimes annotated his menus or had other diners, often other book world luminaries, autograph them. He also did a great deal of traveling while on lecture tours, and collected menus along the way; see the Restaurant portion of this exhibit for examples.
+Alfred Noyes (1880-1958) was a British Catholic poet, essayist, and critic. While at Exeter College, Noyes neglected to take his final examinations in favor of a meeting with publisher Grant Richards: the result was no degree, but his first book of poetry, *The Loom of Years* (1902). Noyes soon established himself as one of the bestselling poets of his time. He was a popular lecturer, with a wide acquaintance, and attended many literary luncheons and dinners, as the menus seen here – just a small selection of the many in his papers – attest. Noyes sometimes annotated his menus or had other diners, often other book world luminaries, autograph them. He also did a great deal of traveling while on lecture tours, and collected menus along the way; see the Restaurant portion of this exhibit for examples.
 
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu49_MS2006.054_b119_f15_sideA.jpg"
-           headline="Forum Club Dinner to Literature menu, January 25, 1932">}} Box 119, folder 15, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
-{{< /galleryfigure >}}
-
-{{< galleryfigure src="Menu49_MS2006.054_b119_f15_sideC.jpg"
            headline="Forum Club Dinner to Literature menu, January 25, 1932">}} Box 119, folder 15, [Alfred Noyes papers]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21344686720001021), (MS2006-054).
 {{< /galleryfigure >}}
 
@@ -173,7 +169,7 @@ Alfred Noyes (1880-1958) was a British Catholic poet, essayist, and critic. Whil
 
 {{< /galleryrow >}}
 {{<heading>}}Graham Greene{{</heading>}}
-Graham Greene (1904-1991) was a British Catholic author, critic, and playwright, well-known for The Power and The Glory (1940), The End of the Affair (1951), The Quiet American (1955), and Our Man in Havana (1958), amongst other works. He received many literary prizes and awards, including the Krug award of excellence in 1980, and was named to the British Order of Merit in 1986.
+Graham Greene (1904-1991) was a British Catholic author, critic, and playwright, well-known for *The Power and The Glory* (1940), *The End of the Affair* (1951), *The Quiet American* (1955), and *Our Man in Havana* (1958), amongst other works. He received many literary prizes and awards, including the Krug award of excellence in 1980, and was named to the British Order of Merit in 1986.
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu40_MS1995.003_b67_f23.jpg.png"
