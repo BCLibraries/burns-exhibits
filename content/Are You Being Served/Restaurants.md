@@ -57,11 +57,11 @@ Restaurant guides were around long before Zagat’s was established in 1979, or 
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu53_08-000016449_cover.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+           headline="Cover">}} *[Auto Trips from Boston]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21317120620001021)*. Boston: Fred A. Tubbs.          
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu53_08-000016449_map.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Interior">}} *[Auto Trips from Boston]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21317120620001021)*. Boston: Fred A. Tubbs.          
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}

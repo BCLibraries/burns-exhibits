@@ -88,7 +88,7 @@ Rex Stout (1886-1975) was a mystery writer best known for his Nero Wolfe books, 
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu55_PS3537.T733T631993Stout.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline="Cover">}} Stout. *[Too Many Cooks](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21329689360001021)*. New York: Bantam, 1993.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}

@@ -169,7 +169,7 @@ The Charitable Irish Society was founded in 1737 in Boston “to cultivate a spi
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu18_MS1993.012_b21_f21_sideA.jpg"
-           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Box 0, folder 0, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
+           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Box 2, folder 38, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -177,22 +177,22 @@ The Charitable Irish Society was founded in 1737 in Boston “to cultivate a spi
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu18_MS1993.012_b21_f21_sideB.jpg"
-           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Box 0, folder 0, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
+           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Box 2, folder 38, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu18_MS1993.012_b21_f21_sideC.jpg"
-           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Box 0, folder 0, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
+           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Box 2, folder 38, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu18_MS1993.012_b21_f21_sideD.jpg"
-           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Box 0, folder 0, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
+           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Box 2, folder 38, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu18_MS1993.012_b21_f21_sideE.jpg"
-           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Box 0, folder 0, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
+           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Box 2, folder 38, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -205,7 +205,7 @@ The Charitable Irish Society was founded in 1737 in Boston “to cultivate a spi
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu19_MS1993.012_b21_f43.jpg"
-           headline="Charitable Irish Society anniversary dinner menu, March 17, 1956">}} Box 0, folder 0, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
+           headline="Charitable Irish Society anniversary dinner menu, March 17, 1956">}} Box 8, folder 1, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
