@@ -70,7 +70,7 @@ The Boston School Kitchens taught cooking in the Boston Public Schools beginning
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu75_BC1998.031_scrapbookb2_f2.jpg"
-           headline="St. Ignatius Church Cooking School program, May 14, 1937">}} citation
+           headline=" St. Ignatius Church Cooking School program, May 14, 1937">}} Philomatheia Club records.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
