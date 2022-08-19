@@ -6,7 +6,7 @@ title: "Introduction"
 exhibit_title: "Are You Being Served?"
 exhibit_subtitle: ""
 
-date: 2022-04-27T16:15:55-04:00
+date: 2022-07-27T16:15:55-04:00
 
 # Page order (1 is 1st page, etc.)
 weight: 1 
@@ -20,7 +20,7 @@ front_caption_text: ""
 current: false
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
