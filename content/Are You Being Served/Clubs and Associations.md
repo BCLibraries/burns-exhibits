@@ -7,10 +7,15 @@ weight:  4
 alwaysopen: true
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
+
+{{< figure src="Menu27_MS1992.017_b14_f3_edited.png"
+           headline="" 
+           description="" 
+           side="right" >}}
 
 “Americans of all ages, all conditions, and all minds are constantly joining together in groups,” observed Alexis de Toqueville in Democracy in America. In the early to mid-nineteenth century voluntary associations grew in number and popularity as like-minded citizens banded together to form fraternal organizations, charitable societies, and social clubs. Members benefited from the community ties and business contacts that associations offered, and found that the coordinated efforts of organizations were much more effective in influencing society than the lonely endeavors of a solitary private citizen. 
 
@@ -21,11 +26,11 @@ The Commercial Club of Boston was organized in 1868 as an annex to the Board of 
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu24_MS1992.017_b14_f3_sideA.jpg"
-           headline="Commercial Club of Boston Dinner of the Boston Public Schools menu, November 21, 1882">}} Pellentesque Vehicula Aenean
+           headline="Commercial Club of Boston Dinner of the Boston Public Schools menu, November 21, 1882">}} Box 14, folder 3, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu24_MS1992.017_b14_f3_sideB.jpg"
-           headline="Commercial Club of Boston Dinner of the Boston Public Schools menu, November 21, 1882">}} Ullamcorper Egestas Dapibus
+           headline="Commercial Club of Boston Dinner of the Boston Public Schools menu, November 21, 1882">}} Box 14, folder 3, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -33,11 +38,100 @@ The Commercial Club of Boston was organized in 1868 as an annex to the Board of 
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu27_MS1992.017_b14_f3_sideA.jpg"
-           headline="Commercial Club of Boston dinner menu envelope, November 18, 1882">}} Sollicitudin Mollis Venenatis Sit
+           headline="Commercial Club of Boston dinner menu, November 18, 1882">}} Box 14, folder 3, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu27_MS1992.017_b14_f3_sideB.jpg"
-           headline="Commercial Club of Boston dinner menu, November 18, 1882">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Commercial Club of Boston dinner menu, November 18, 1882">}} Box 14, folder 3, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu28_MS1992.017_b14_f4.jpg.png"
+           headline="Commercial Club of Boston dinner menu, September 13, 1889">}} Box 14, folder 4, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu29_MS1992.017_b14_f4.jpg.png"
+           headline="Commercial Club of Boston dinner menu, September 20, 1890">}} Box 14, folder 4, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu31_MS1992.017_b14_f5_sideA.jpg.png"
+           headline="Commercial Club of Boston dinner menu, May 20, 1893">}} Box 14, folder 4, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu31_MS1992.017_b14_f5_sideB.jpg.png"
+           headline="Commercial Club of Boston dinner menu, May 20, 1893">}} Box 14, folder 4, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu32_MS1992.017_b14_f5_sideA.jpg.png"
+           headline="Commercial Club of Boston Twenty-fifth Anniversary dinner menu, October 21, 1893">}} Box 14, folder 5, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu32_MS1992.017_b14_f5_sideB.jpg.png"
+           headline="Commercial Club of Boston Twenty-fifth Anniversary dinner menu, October 21, 1893">}} Box 14, folder 5, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu33_MS1992.017_b14_f6_sideA.jpg.png"
+           headline="Merchants Club Press Night dinner menu, March 20, 1923">}} Box 14, folder 6, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu33_MS1992.017_b14_f6_sideB.jpg"
+           headline="Merchants Club Press Night dinner menu, March 20, 1923">}} Box 14, folder 6, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu30_MS1992.017_b14_f4_sideA.jpg.png"
+           headline="Commercial Club of Boston dinner menu, annotated with speaker notes, October 18, 1890">}} Box 14, folder 4, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu30_MS1992.017_b14_f4_sideC.jpg.png"
+           headline="Commercial Club of Boston dinner menu, annotated with speaker notes, October 18, 1890">}} Box 14, folder 4, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu30_MS1992.017_b14_f4_sideB.jpg.png"
+           headline="Commercial Club of Boston dinner menu, annotated with speaker notes, October 18, 1890">}} Box 14, folder 4, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="menu37_CCcigarettecaseBox24folder1.jpg"
+           headline="Commercial Club of Boston souvenir cigarette case, June 6 and 7, 1900">}} Box 24, folder 10, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu34_MS1992.017_b14_f6_sideA.jpg.png"
+           headline="Commercial Clubs of Chicago, Cincinnati, St. Louis, and Boston Reunion dinner menu, June 7, 1900">}} Box 14, folder 6, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu34_MS1992.017_b14_f6_sideB.jpg.png"
+           headline="Commercial Clubs of Chicago, Cincinnati, St. Louis, and Boston Reunion dinner menu, June 7, 1900">}} Box 14, folder 6, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -45,11 +139,11 @@ The Commercial Club of Boston was organized in 1868 as an annex to the Board of 
 {{< galleryrow >}}
 
 {{< galleryfigure src="croppedMenu35_MS1992.017_b23_f1.jpg"
-           headline="Parker House invoice to the Commercial Club of Boston, October 31, 1896">}} Pellentesque Vehicula Aenean
+           headline="Parker House invoice to the Commercial Club of Boston, October 31, 1896">}} Box 23, folder 1, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu36_MS1992.017_b23_f5.jpg"
-           headline="Estabrook & Eaton invoice to the Commercial Club of Boston, November 27, 1900">}} Ullamcorper Egestas Dapibus
+           headline="Estabrook & Eaton invoice to the Commercial Club of Boston, November 27, 1900">}} Box 23, folder 5, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -57,11 +151,11 @@ The Commercial Club of Boston was organized in 1868 as an annex to the Board of 
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu26_MS1992.017_b14_f3_sideA.jpg"
-           headline="Commercial Club of Boston annual meeting menu, March 17, 1888" >}}
+           headline="Commercial Club of Boston annual meeting menu, March 17, 1888">}} Box 14, folder 3, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu26_MS1992.017_b14_f3_sideB.jpg"
-           headline="Commercial Club of Boston annual meeting menu, March 17, 1888">}} Ullamcorper Egestas Dapibus
+           headline="Commercial Club of Boston annual meeting menu, March 17, 1888">}} Box 14, folder 3, [Commercial Club of Boston records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21351573130001021), (BC1997-006).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -71,11 +165,11 @@ The Charitable Irish Society was founded in 1737 in Boston “to cultivate a spi
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu17_MS1993.012_b1_f47_sideA.jpg"
-           headline="Charitable Irish Society Ladies' Night Dinner, January 9, 1913">}} Sollicitudin Mollis Venenatis Sit
+           headline="Charitable Irish Society Ladies' Night Dinner, January 9, 1913">}} Box 1, folder 26, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu18_MS1993.012_b21_f21_sideA.jpg"
-           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Box 2, folder 38, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -83,22 +177,35 @@ The Charitable Irish Society was founded in 1737 in Boston “to cultivate a spi
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu18_MS1993.012_b21_f21_sideB.jpg"
-           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Pellentesque Vehicula Aenean
+           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Box 2, folder 38, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu18_MS1993.012_b21_f21_sideC.jpg"
-           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Ullamcorper Egestas Dapibus
+           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Box 2, folder 38, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu18_MS1993.012_b21_f21_sideD.jpg"
-           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Pellentesque Vehicula Aenean
+           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Box 2, folder 38, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu18_MS1993.012_b21_f21_sideE.jpg"
-           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Ullamcorper Egestas Dapibus
+           headline="Charitable Irish Society anniversary dinner menu, March 17, 1933">}} Box 2, folder 38, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="Menu20_MS1993.012_b21_f25.jpg"
+           headline="Charitable Irish Society anniversary dinner menu, March 17, 1938">}} Box 2, folder 91, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="Menu19_MS1993.012_b21_f43.jpg"
+           headline="Charitable Irish Society anniversary dinner menu, March 17, 1956">}} Box 8, folder 1, [Charitable Irish Society records]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21341047400001021), (MS1993-012).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -108,11 +215,11 @@ The South Boston Citizens’ Association was founded in 1880 to further the deve
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu15_BC2001.121_b7_f21_sideA.jpg"
-           headline="South Boston Citizens' Association Evacuation Day anniversary banquet menu, March 16, 1936">}} Sollicitudin Mollis Venenatis Sit
-{{< /galleryfigure >}}
+           headline="South Boston Citizens' Association, Evacuation Day anniversary banquet menu, March 16, 1936">}} Box 7, folder 21, [John F. X. Murphy, SJ papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21385458630001021), (BC2001-121).
+{{< /galleryfigure >}} 
 
 {{< galleryfigure src="Menu15_BC2001.121_b7_f21_sideC.jpg"
-           headline="South Boston Citizens' Association Evacuation Day anniversary banquet menu, March 16, 1936" >}}
+           headline="South Boston Citizens' Association, Evacuation Day anniversary banquet menu, March 16, 1936">}} Box 7, folder 21, [John F. X. Murphy, SJ papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21385458630001021), (BC2001-121).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -120,7 +227,7 @@ The South Boston Citizens’ Association was founded in 1880 to further the deve
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu15_BC2001.121_b7_f21_sideB.jpg"
-           headline="South Boston Citizens' Association Evacuation Day anniversary banquet menu, March 16, 1936">}} Pellentesque Vehicula Aenean
+           headline="South Boston Citizens' Association, Evacuation Day anniversary banquet menu, March 16, 1936">}} Box 7, folder 21, [John F. X. Murphy, SJ papers](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21385458630001021), (BC2001-121).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -130,29 +237,29 @@ The Ancient and Honorable Artillery Company of Massachusetts was granted a chart
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu38_MS2008.016_b6_f9_sideA.jpg.png"
-           headline="Ancient and Honorable Artillery Co. anniversary dinner menu, June 4, 1877">}} citation
+           headline="Ancient and Honorable Artillery Co. anniversary dinner menu, June 4, 1877">}} Box 6, folder 9, [Ellerton J. Brehaut Boston history collection]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21373998800001021), (MS2008-016).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu38_MS2008.016_b6_f9_sideC.jpg.png"
-           headline="Ancient and Honorable Artillery Co. anniversary dinner menu, June 4, 1877">}} citation
+           headline="Ancient and Honorable Artillery Co. anniversary dinner menu, June 4, 1877">}} Box 6, folder 9, [Ellerton J. Brehaut Boston history collection]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21373998800001021), (MS2008-016).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
 
 {{< largefigure src="Menu38_MS2008.016_b6_f9_sideB.jpg.png"
                 headline="Ancient and Honorable Artillery Co. anniversary dinner menu, June 4, 1877"
-                description="citation" 
+                description="Box 6, folder 9, [Ellerton J. Brehaut Boston history collection]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21373998800001021), (MS2008-016)." 
                 size="x-large" >}}
 {{< /largefigure >}}
 
 {{< galleryrow >}}
 
 {{< galleryfigure src="Menu39_MS2008.016_b6_f9_sideA.jpg.png"
-           headline="Ancient and Honorable Artillery Company anniversary dinner menu, June 1, 1857">}} Sollicitudin Mollis Venenatis Sit
+           headline="Ancient and Honorable Artillery Co. anniversary dinner menu, June 1, 1857">}} Box 6, folder 9, [Ellerton J. Brehaut Boston history collection]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21373998800001021), (MS2008-016).
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="Menu39_MS2008.016_b6_f9_sideB.jpg.png"
-           headline="Ancient and Honorable Artillery Company anniversary dinner menu, June 1, 1857" >}}
+           headline="Ancient and Honorable Artillery Co. anniversary dinner menu, June 1, 1857">}} Box 6, folder 9, [Ellerton J. Brehaut Boston history collection]( https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21373998800001021), (MS2008-016).
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
