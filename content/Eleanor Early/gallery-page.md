@@ -14,12 +14,12 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Magna Ipsum Vulputate Vehicula Cras">}} Sollicitudin Mollis Venenatis Sit
+{{< galleryfigure src="01B_MS1995-005-14-7.jpg"
+           headline="The Early family, about 1918">}} Sollicitudin Mollis Venenatis Sit
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Porta Tristique Ligula">}} Fringilla Cursus Sollicitudin Dapibus
+{{< galleryfigure src="01A_BirthCertificate_12_51.jpg"
+           headline="Clerk's Copy of Early's birth certificate, City of Newton">}} Fringilla Cursus Sollicitudin Dapibus
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="../portrait-image.jpg"
