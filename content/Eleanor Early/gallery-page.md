@@ -31,11 +31,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="02A_Wheelock_12_63A.jpg"
-           headline="Tellus">}} Pellentesque Vehicula Aenean
+           headline="Wheelock College Class of 1917 Contact Information, 1967">}} Pellentesque Vehicula Aenean
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="02B_Wheelock_12_63B.jpg"
-           headline="Mollis Quam Vehicula Lorem">}} Ullamcorper Egestas Dapibus
+           headline="Wheelock College Class of 1917 Contact Information, 1967">}} Ullamcorper Egestas Dapibus
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
