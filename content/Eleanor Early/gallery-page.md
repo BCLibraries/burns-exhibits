@@ -19,7 +19,7 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="07F_OrchidAd.jpg"
-           headline="Clerk's Copy of Early's birth certificate, City of Newton">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="">}} Large advertisement, "Orchid" Serial Story, circa 1920s, box 16, folder 5, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
