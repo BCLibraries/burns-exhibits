@@ -3,7 +3,7 @@
 title: "Introduction"
 
 # Title of exhibit
-exhibit_title: "My New Exhibit"
+exhibit_title: "And This Is Eleanor Early!"
 exhibit_subtitle: ""
 
 date: 2022-10-26T09:59:47-04:00
@@ -12,9 +12,9 @@ date: 2022-10-26T09:59:47-04:00
 weight: 1 
 
 # Big image on first page.
-front_image: "intro-image.jpg" # Replace with the real image
-front_caption_headline: "Ullamcorper Condimentum Tortor Parturient"
-front_caption_text: "Donec id elit non mi porta gravida at eget metus."
+front_image: "ee social media.png" # Replace with the real image
+front_caption_headline: ""
+front_caption_text: ""
 
 # Change to true if this exhibit is currently running.
 current: false
@@ -25,6 +25,10 @@ draft: true
 type: "exhibit"
 ---
 
-Vestibulum id ligula porta felis euismod semper. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+Eleanor Early was born April 27, 1895 in Newton, Massachusetts. She grew up in Wellesley and attended Miss Wheelock’s School (later named Wheelock College) in Boston, where she was in a program for kindergarten teachers, and graduated in 1917. But she preferred to be a reporter, and started working for Boston newspapers, first as a cub reporter (with no typing skills), and then a feature writer. In the mid and late 1920s, she was a freelance writer for the International News Service. Also at this time, she tried her hand at writing fiction, serialized in newspapers, and later published as books. 
 
-Curabitur blandit tempus porttitor. Maecenas sed diam eget risus varius blandit sit amet non magna. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sed diam eget risus varius blandit sit amet non magna.
+While covering the Boston Braves spring training in Saint Petersburg, Florida, she received  so many questions about Boston that she decided to write about the city, leading to her first travel book, And This is Boston! It was followed by several more, the last being Washington Holiday. She also lived and wrote in Washington, DC, and for many years lived in New York City, in an apartment overlooking Central Park. She lived in Dominica and other islands of the West Indies during the period in the 1930’s when she wrote Ports of the Sun and Lands of Delight.
+
+During World War II she wrote a series of articles for the King Features Syndicate on “Girls in Washington.” These informed the many hundreds of women who had come to Washington to work for the government. At that time she also had a radio program from Washington, DC, advising women on events and how to get along in wartime Washington.
+
+In the later 1950’s and 1960’s, until her death in Boston on August 25, 1969, she wrote numerous articles for newspapers and magazines. She was a founding member of the Society of American Travel Writers. 
