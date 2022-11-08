@@ -51,19 +51,19 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="07G_7_30-synopsis.jpg"
-           headline="Wheelock College Class of 1917 Contact Information, 1967">}} Box 12, folder 63, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
+           headline="Synopsis">}} "The Shining Talent", 1929, box 7, folder 30, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="07G_ShiningAd.jpg"
-           headline="Wheelock College Class of 1917 Contact Information, 1967">}} Box 12, folder 63, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
+           headline="">}} Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
 
 {{< galleryrow >}}
 
-{{< galleryfigure src=""
-           headline="The Early family, about 1918">}} Eleanor Early personal photographs, box 14 folder 7, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
+{{< galleryfigure src="07H_RichManPoorMan_.jpg"
+           headline="">}} Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
