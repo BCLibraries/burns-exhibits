@@ -39,7 +39,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="07E_1935.jpg"
-           headline="The Early family, about 1918">}} Eleanor Early personal photographs, box 14 folder 7, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
+           headline="Detour to Happiness">}} Early. Detour to Happiness. New York: Phoenix Press, 1935, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="07B_1930.jpg"
