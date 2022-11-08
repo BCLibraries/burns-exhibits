@@ -27,11 +27,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="02A_Wheelock_12_63A.jpg"
-           headline="Wheelock College Class of 1917 Contact Information, 1967">}} Pellentesque Vehicula Aenean
+           headline="Wheelock College Class of 1917 Contact Information, 1967">}} box 12, folder 63, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="02B_Wheelock_12_63B.jpg"
-           headline="Wheelock College Class of 1917 Contact Information, 1967">}} Ullamcorper Egestas Dapibus
+           headline="Wheelock College Class of 1917 Contact Information, 1967">}} box 12, folder 63, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
