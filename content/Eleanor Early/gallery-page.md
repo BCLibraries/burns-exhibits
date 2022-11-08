@@ -43,7 +43,7 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="07B_1930.jpg"
-           headline="Clerk's Copy of Early's birth certificate, City of Newton">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Whirlwind">}} Early. Whirlwind. Chicago: The White House, 1930, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
