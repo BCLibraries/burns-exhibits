@@ -22,10 +22,6 @@ type: "exhibit"
            headline="Clerk's Copy of Early's birth certificate, City of Newton">}} Fringilla Cursus Sollicitudin Dapibus
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="../portrait-image.jpg"
-           headline="Amet Pellentesque" >}}
-{{< /galleryfigure >}}
-
 {{< /galleryrow >}}
 
 {{< galleryrow >}}
