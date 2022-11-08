@@ -15,7 +15,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="07A_1929.jpg"
-           headline="The Early family, about 1918">}} Eleanor Early personal photographs, box 14 folder 7, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
+           headline="Orchid">}} Orchid: A Story of a Stenographer Who Married a Millionaire. Chicago: The White House, 1929, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="07F_OrchidAd.jpg"
