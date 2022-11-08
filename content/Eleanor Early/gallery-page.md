@@ -27,11 +27,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="07C_1932A.jpg"
-           headline="Wheelock College Class of 1917 Contact Information, 1967">}} Box 12, folder 63, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
+           headline="Love’s Denial">}} Front cover, Early. Love’s Denial. New York: Grosset and Dunlap, 1932, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="07D_1932B.jpg"
-           headline="Wheelock College Class of 1917 Contact Information, 1967">}} Box 12, folder 63, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
+           headline="Love’s Denial">}} Back cover, Early. Love’s Denial. New York: Grosset and Dunlap, 1932, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
