@@ -18,7 +18,7 @@ type: "exhibit"
            headline="The Early family, about 1918">}} Eleanor Early personal photographs, box 14 folder 7, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="07B_1930.jpg"
+{{< galleryfigure src="07F_OrchidAd.jpg"
            headline="Clerk's Copy of Early's birth certificate, City of Newton">}} Fringilla Cursus Sollicitudin Dapibus
 {{< /galleryfigure >}}
 
@@ -42,7 +42,7 @@ type: "exhibit"
            headline="The Early family, about 1918">}} Eleanor Early personal photographs, box 14 folder 7, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="07F_OrchidAd.jpg"
+{{< galleryfigure src="07B_1930.jpg"
            headline="Clerk's Copy of Early's birth certificate, City of Newton">}} Fringilla Cursus Sollicitudin Dapibus
 {{< /galleryfigure >}}
 
