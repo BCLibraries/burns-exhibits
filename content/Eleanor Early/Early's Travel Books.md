@@ -19,21 +19,21 @@ type: "exhibit"
 Early’s first travel book, And This is Boston!, which was first published in 1930 and came out in a second edition in 1938, became a best seller and started her on the road to writing travel books. She sent Houghton Mifflin the first two chapters of her proposed book, and under contract turned out the rest of the book in seven weeks. Also shown is the cover of Washington Holiday.
 {{< /largefigure >}}
 
-{{< largefigure src="../portrait-image.jpg"
+{{< largefigure src="15C_box16_folder2.jpg"
                 headline="Venenatis Euismod Tristique"
                 description="Fringilla Quam Consectetur Commodo" 
                 size="large" align="center" >}}
 Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
 {{< /largefigure >}}
 
-{{< largefigure src="../intro-image.jpg"
+{{< largefigure src="15C_box16_folder2.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="left" >}}
 Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
 {{< /largefigure >}}
 
-{{< largefigure src="../portrait-image.jpg"
+{{< largefigure src="15C_box16_folder2.jpg"
                 headline="Venenatis Euismod Tristique"
                 description="Pharetra Mattis Inceptos"
                 size="small" >}}
