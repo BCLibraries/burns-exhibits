@@ -28,12 +28,16 @@ Early’s first travel book, And This is Boston!, which was first published in 1
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="07C_1932A.jpg"
-           headline="Love’s Denial">}} Front cover, Early. Love’s Denial. New York: Grosset and Dunlap, 1932, John J. Burns Library, Boston College.
+{{< galleryfigure src="12A_MS1995-005-14-17A.jpg"
+           headline="Early at Lafitte's Blacksmith Shop Bar, New Orleans, undated">}} Box 14, folder 17, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="07D_1932B.jpg"
-           headline="Love’s Denial">}} Back cover, Early. Love’s Denial. New York: Grosset and Dunlap, 1932, John J. Burns Library, Boston College.
+{{< galleryfigure src="12B_1947.jpg"
+           headline="Book jacket">}} New Orleans Holiday. New York: Rinehart, 1947, John J. Burns Library, Boston College.
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="12C_coasters.jpg"
+           headline="New Orleans Holiday coasters, undated">}} box 12, folder 35, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
