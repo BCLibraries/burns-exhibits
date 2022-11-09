@@ -37,6 +37,22 @@ Early’s first travel book, And This is Boston!, which was first published in 1
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="12C_coasters.jpg"
+           headline="New Orleans Holiday coasters, undated">}} Box 12, folder 35, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="11A_MS1995-005-14-23B.jpg"
+           headline="Early at Rockefeller Center, New York City, undated">}} Box 14, folder 23, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College. John H. Popper, photographer.
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="11D_NYC_12_41.jpg"
+           headline="New York Holiday Art, undated">}} Box 12, folder 41, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="12C_coasters.jpg"
            headline="New Orleans Holiday coasters, undated">}} box 12, folder 35, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
