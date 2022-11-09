@@ -23,5 +23,5 @@ Early’s first travel book, And This is Boston!, which was first published in 1
                 headline="Washington Holiday"
                 description="Fringilla Quam Consectetur Commodo" 
                 size="large" align="center" >}}
-Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+
 {{< /largefigure >}}
