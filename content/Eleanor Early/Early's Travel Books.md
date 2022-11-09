@@ -43,6 +43,7 @@ For New Orleans Holiday, Early lived in the spring of 1945 in Beauregard House. 
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
+In gathering material for the book New York Holiday, Early ate in most of the two hundred restaurants described and visited the Statue of Liberty half a dozen times. The photographs are of Early at Rockefeller Center in New York City and looking out over New York City from the Empire State Building.
 
 {{< galleryrow >}}
 
