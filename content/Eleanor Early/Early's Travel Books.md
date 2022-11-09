@@ -52,8 +52,8 @@ Early’s first travel book, And This is Boston!, which was first published in 1
            headline="New York Holiday Art, undated">}} Box 12, folder 41, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="12C_coasters.jpg"
-           headline="New Orleans Holiday coasters, undated">}} box 12, folder 35, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
+{{< galleryfigure src="11E_NYC_12_40_A.jpg"
+           headline="New York Holiday Advertisements, circa 1950">}} Box 12, folder 40, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
