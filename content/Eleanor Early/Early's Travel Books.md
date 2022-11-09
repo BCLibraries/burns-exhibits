@@ -41,3 +41,21 @@ Early’s first travel book, And This is Boston!, which was first published in 1
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="{{< galleryrow >}}
+
+{{< galleryfigure src="12A_MS1995-005-14-17A.jpg"
+           headline="Early at Lafitte's Blacksmith Shop Bar, New Orleans, undated">}} Box 14, folder 17, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="11D_NYC_12_41.jpg"
+           headline="Book jacket">}} New Orleans Holiday. New York: Rinehart, 1947, John J. Burns Library, Boston College.
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="12C_coasters.jpg"
+           headline="New Orleans Holiday coasters, undated">}} box 12, folder 35, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
