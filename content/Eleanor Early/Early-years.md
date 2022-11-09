@@ -3,7 +3,7 @@ title: "Early Years"
 description: ""
 
 # Page order
-weight:  3
+weight:  2
 alwaysopen: true
 
 # Change to false to publish.
