@@ -14,6 +14,8 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
+Early’s first travel book, And This is Boston!, which was first published in 1930 and came out in a second edition in 1938, became a best seller and started her on the road to writing travel books. She sent Houghton Mifflin the first two chapters of her proposed book, and under contract turned out the rest of the book in seven weeks. Also shown is the cover of Washington Holiday.
+
 {{< galleryfigure src="07A_1929.jpg"
            headline="Orchid">}} Orchid: A Story of a Stenographer Who Married a Millionaire. Chicago: The White House, 1929, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
