@@ -12,7 +12,7 @@ date: 2022-10-26T09:59:47-04:00
 weight: 1 
 
 # Big image on first page.
-front_image: "ee social media.png" # Replace with the real image
+front_image: "11B_MS1995-005-14-23D.jpg" # Replace with the real image
 front_caption_headline: ""
 front_caption_text: ""
 
