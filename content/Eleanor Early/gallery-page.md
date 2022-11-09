@@ -14,11 +14,11 @@ type: "exhibit"
 
 {{< galleryrow >}}
 
-{{< galleryfigure src="07A_1929.jpg"
+{{< galleryfigure src="03A_CoverOnly.jpg"
            headline="Orchid">}} Orchid: A Story of a Stenographer Who Married a Millionaire. Chicago: The White House, 1929, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
-{{< galleryfigure src="07F_OrchidAd.jpg"
+{{< galleryfigure src="03B_1936.jpg"
            headline="">}} Large advertisement, "Orchid" Serial Story, circa 1920s, box 16, folder 5, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
