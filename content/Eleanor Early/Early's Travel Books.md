@@ -25,3 +25,15 @@ Early’s first travel book, And This is Boston!, which was first published in 1
                 size="large" align="center" >}}
 
 {{< /largefigure >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="07C_1932A.jpg"
+           headline="Love’s Denial">}} Front cover, Early. Love’s Denial. New York: Grosset and Dunlap, 1932, John J. Burns Library, Boston College.
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="07D_1932B.jpg"
+           headline="Love’s Denial">}} Back cover, Early. Love’s Denial. New York: Grosset and Dunlap, 1932, John J. Burns Library, Boston College.
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
