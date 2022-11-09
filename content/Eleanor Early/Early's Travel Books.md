@@ -27,6 +27,7 @@ Early’s first travel book, And This is Boston!, which was first published in 1
 {{< /largefigure >}}
 
 {{< galleryrow >}}
+For New Orleans Holiday, Early lived in the spring of 1945 in Beauregard House. Glendy Culligan wrote in the New Orleans Times Picayune that “her book is a potpourri of history, legend, custom and personal impressions, narrated in a style that can only be called irreverent. Some Orleanians will enjoy a touch of debunking, and undoubtedly, some won’t.” The photograph from that time period is of Early at a table in the courtyard of Lafitte’s Bar on Bourbon Street in New Orleans. Originally a blacksmith shop and one of the oldest structures in New Orleans, it survived the New Orleans fires of 1788 and 1794. 
 
 {{< galleryfigure src="12A_MS1995-005-14-17A.jpg"
            headline="Early at Lafitte's Blacksmith Shop Bar, New Orleans, undated">}} Box 14, folder 17, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
