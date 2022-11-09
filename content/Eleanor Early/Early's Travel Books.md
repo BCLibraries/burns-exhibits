@@ -1,5 +1,5 @@
 ---
-title: "Large image gallery page"
+title: "Early Travel Books"
 description: ""
 
 # Page order (1 is 1st page, etc.)
