@@ -1,5 +1,5 @@
 ---
-title: "Eleanor Early's Fiction"
+title: "Early's Fiction"
 description: ""
 
 # Page order
