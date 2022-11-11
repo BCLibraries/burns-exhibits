@@ -1,5 +1,5 @@
 ---
-title: "Large image gallery page"
+title: "New England Topics"
 description: ""
 
 # Page order (1 is 1st page, etc.)
