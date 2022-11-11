@@ -19,7 +19,7 @@ Collection Used: Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exl
 
 __Heading__
 
-Last, First M. *[Title of resource](https://link-to-resource.edu)*. Place of pub: Publisher, Year.
+*[Adirondack Tales](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366414570001021)*. Boston: Little, Brown and Co., 1939.
 
 *[Newspaper title](https://link-to-resource.edu)*. “Article Title” Date, Year.
 
