@@ -50,3 +50,13 @@ Cape Cod Summer. Boston: Houghton Mifflin, 1949.
 *[Constance Letters of Charles Chapin](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21382553720001021)*. New York: Simon and Schuster, 1931. 
 
 *[Detour to Happiness](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21355639510001021)*. New York: Phoenix Press, 1935.
+
+*[Lands of Delight; A Cruise Book to Northern South America and the Caribbean](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366415100001021)*. Boston: Houghton Mifflin Co., 1939.
+
+*[Love’s Denial](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21330912940001021)*. New York: Grosset and Dunlap, 1932.
+
+*[New England Cookbook](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366414350001021)*. New York: Random House, 1954.
+
+*[New Orleans Holiday](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366407390001021)*. New York: Rinehart, 1947.
+
+*[New York Holiday](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366407640001021)*. New York: Rinehardt, 1950.
