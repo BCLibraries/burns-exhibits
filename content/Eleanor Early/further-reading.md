@@ -21,12 +21,12 @@ type: "exhibit"
 
 {{< /galleryrow >}}
 
-__Collection used__
+__Collection used:__
 
 Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.  
 
 
-__Books by Eleanor Early__
+__Books by Eleanor Early:__
 
 *[Adirondack Tales](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366414570001021)*. Boston: Little, Brown and Co., 1939.
 
@@ -61,3 +61,15 @@ Cape Cod Summer. Boston: Houghton Mifflin, 1949.
 *[New Orleans Holiday](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366407390001021)*. New York: Rinehart, 1947.
 
 *[New York Holiday](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366407640001021)*. New York: Rinehardt, 1950.
+
+*[Orchid: A Story of a Stenographer Who Married a Millionaire](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21382552680001021)*. Chicago: The White House, 1929.
+
+*[Ports of the Sun; A Guide to the Caribbean, Bermuda, Nassau, Havana, and Panama](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21379305460001021)*. Boston: Houghton Mifflin Co., 1937.
+
+*[She Knew What He Wanted](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366407250001021)*. Boston: Waverley House, 1941.
+
+*[She Knows How](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21355639710001021)*. Philadelphia: The Blakiston Company, 1946.
+
+*[Washington Holiday](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21355639240001021)*. New York: Prentice Hall, 1955.
+
+*[Whirlwind](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21382552950001021)*. Chicago: The White House, 1930.
