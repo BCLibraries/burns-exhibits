@@ -25,6 +25,7 @@ __Collection used__
 
 Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.  
 
+
 __Books by Eleanor Early__
 
 *[Adirondack Tales](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366414570001021)*. Boston: Little, Brown and Co., 1939.
