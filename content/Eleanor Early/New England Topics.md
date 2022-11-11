@@ -13,7 +13,7 @@ type: "exhibit"
 ---
 
 {{< largefigure src="09A_Washington_12_25.jpg"
-                headline=Girls in Washington advertisement, 1942"
+                headline=Girls in Washington advertisement, 1942
                 description="Box 12, folder 25, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College."
                 size="x-large" >}}
 As part of the war effort, Early wrote a series of radio broadcasts and articles meant to introduce thousands of young women to Washington, DC, as they came to the capital for wartime jobs.
