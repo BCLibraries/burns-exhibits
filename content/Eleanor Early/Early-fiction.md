@@ -55,7 +55,7 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="07G_ShiningAd.jpg"
-           headline="">}} Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
+           headline="Serial story advertisement">}} Box 16, folder 3, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
