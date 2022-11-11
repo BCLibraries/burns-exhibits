@@ -32,3 +32,5 @@ __Books by Eleanor Early__
 *[A New England Sampler](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21379305650001021)*. Boston: Waverley House, 1940.
 
 *[An Island Patchwork](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366406850001021)*. Boston: Houghton Mifflin Co., 1941.
+
+*[An Island Patchwork](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366406850001021)*. Boston: Houghton Mifflin Co., 1941.
