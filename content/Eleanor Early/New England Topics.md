@@ -13,8 +13,8 @@ type: "exhibit"
 ---
 
 {{< largefigure src="09A_Washington_12_25.jpg"
-                headline="Book jacket"
-                description="Cape Cod Summer, 1936, box 16 folder 1, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College."
+                headline="Girls in Washington" Advertisements, 1942"
+                description="Box 12, folder 25, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College."
                 size="x-large" >}}
 As part of the war effort, Early wrote a series of radio broadcasts and articles meant to introduce thousands of young women to Washington, DC, as they came to the capital for wartime jobs.
 {{< /largefigure >}}
@@ -23,19 +23,4 @@ As part of the war effort, Early wrote a series of radio broadcasts and articles
                 headline="Venenatis Euismod Tristique"
                 description="Fringilla Quam Consectetur Commodo" 
                 size="large" align="center" >}}
-Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-{{< /largefigure >}}
-
-{{< largefigure src="../intro-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                size="medium"
-                align="left" >}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
-{{< /largefigure >}}
-
-{{< largefigure src="../portrait-image.jpg"
-                headline="Venenatis Euismod Tristique"
-                description="Pharetra Mattis Inceptos"
-                size="small" >}}
-Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean lacinia bibendum nulla sed consectetur.
 {{< /largefigure >}}
