@@ -13,11 +13,17 @@ draft: true
 type: "exhibit"
 ---
 
-front_image: "img118A.jpg" # Replace with the real image
-front_caption_headline: ""
-front_caption_text: ""
+{{< galleryrow >}}
 
-Collection Used: Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.  
+{{< galleryfigure src="img118A.jpg"
+           headline="">}} 
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+__Collection used__
+
+Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.  
 
 __Books by Eleanor Early__
 
