@@ -34,3 +34,9 @@ __Books by Eleanor Early__
 *[An Island Patchwork](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366406850001021)*. Boston: Houghton Mifflin Co., 1941.
 
 *[And This is Boston! (And Seashore and Country Too)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21380768140001021)*. Boston, New York: Houghton Mifflin Co., 1930.
+
+*[And This is Boston! (And Seashore and Country Too)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21380768140001021)*. 2nd edition, Boston, New York: Houghton Mifflin Co., 1938.
+
+*[And This is Cape Cod!](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366414460001021)* Boston, New York: Houghton Mifflin Co., 1936.
+
+And This Is Washington! (And Arlington, Mount Vernon, Alexandria, and Georgetown Besides). Boston, New York: Houghton Mifflin Co., 1934.
