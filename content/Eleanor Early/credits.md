@@ -15,6 +15,6 @@ type: "exhibit"
 
 Sponsored by Boston College Libraries
 
-Curator: Bob Bruns, Senior Reference Librarian, John J. Burns Library, Boston College
+Curator: Robert Bruns, Senior Reference Librarian, John J. Burns Library, Boston College
 
 Originally displayed: Burns Library, July, 2009
