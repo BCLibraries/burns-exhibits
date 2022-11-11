@@ -29,10 +29,6 @@ __Books by Eleanor Early__
 
 *[Adirondack Tales](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366414570001021)*. Boston: Little, Brown and Co., 1939.
 
-*[Newspaper title](https://link-to-resource.edu)*. “Article Title” Date, Year.
+*[A New England Sampler](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21379305650001021)*. Boston: Waverley House, 1940.
 
-Last, First M. *[Title of resource](https://link-to-resource)*. Place of pub: Publisher, Year.
-
-Last, First M. *[Title of resource](https://link-to-resource.edu)*. Place of pub: Publisher, Year.
-
-------. “Article title” *[Journal](https://link-to-resource.edu)* Vol, Issue (Date Year): page-page.
+*[An Island Patchwork](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366406850001021)*. Boston: Houghton Mifflin Co., 1941.
