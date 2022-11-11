@@ -13,7 +13,7 @@ draft: true
 type: "exhibit"
 ---
 
-{{% figure src="../portrait-image.jpg" headline="" size="x-large" %}}
+{{% figure src="img118A.jpg" %}}
 
 Collection Used: Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.  
 
