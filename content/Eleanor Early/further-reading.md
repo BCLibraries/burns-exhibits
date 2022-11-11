@@ -40,3 +40,13 @@ __Books by Eleanor Early__
 *[And This is Cape Cod!](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366414460001021)* Boston, New York: Houghton Mifflin Co., 1936.
 
 And This Is Washington! (And Arlington, Mount Vernon, Alexandria, and Georgetown Besides). Boston, New York: Houghton Mifflin Co., 1934.
+
+*[Behold the White Mountains](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21382554070001021)*. Boston: Little, Brown, and Co., 1935.
+
+*[Behold the White Mountains](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311475710001021)*. Boston: Little, Brown and Co., 1939.
+
+Cape Cod Summer. Boston: Houghton Mifflin, 1949.
+
+*[Constance Letters of Charles Chapin](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21382553720001021)*. New York: Simon and Schuster, 1931. 
+
+*[Detour to Happiness](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21355639510001021)*. New York: Phoenix Press, 1935.
