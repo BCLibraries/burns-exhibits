@@ -32,6 +32,42 @@ New England topics were a subject of Early’s writing throughout the 1930’s a
 Maecenas faucibus mollis interdum. 
 {{< /largefigure >}}
 
+{{< galleryrow >}}
+
+{{< galleryfigure src="03D_1941A.jpg"
+           headline="Orchid">}} Orchid: A Story of a Stenographer Who Married a Millionaire. Chicago: The White House, 1929, John J. Burns Library, Boston College.
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="03E_1941B.jpg"
+           headline="">}} Large advertisement, "Orchid" Serial Story, circa 1920s, box 16, folder 5, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="03F_1940A.jpg"
+           headline="Orchid">}} Orchid: A Story of a Stenographer Who Married a Millionaire. Chicago: The White House, 1929, John J. Burns Library, Boston College.
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="03G_1940B.jpg"
+           headline="">}} Large advertisement, "Orchid" Serial Story, circa 1920s, box 16, folder 5, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="03H_1939A.jpg"
+           headline="Orchid">}} Orchid: A Story of a Stenographer Who Married a Millionaire. Chicago: The White House, 1929, John J. Burns Library, Boston College.
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="03I_1939B.jpg"
+           headline="">}} Large advertisement, "Orchid" Serial Story, circa 1920s, box 16, folder 5, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
 {{< largefigure src="../intro-image.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
