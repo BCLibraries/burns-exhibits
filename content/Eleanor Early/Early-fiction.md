@@ -3,7 +3,7 @@ title: "Early's Fiction"
 description: ""
 
 # Page order
-weight:  3
+weight:  4
 alwaysopen: true
 
 # Change to false to publish.
