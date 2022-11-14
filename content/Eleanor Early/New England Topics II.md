@@ -74,16 +74,21 @@ New England topics were a subject of Early’s writing throughout the 1930’s a
 Early had enjoyed cooking since she was given cooking utensils at age ten and baked bread at twelve to “please papa,” and she enjoyed cooking the foods of the places she visited and including the recipes in her travel books and articles. In New England Cookbook she published hundreds of her favorite New England recipes with background information on them.
 {{< /largefigure >}}
 
-{{< largefigure src="../intro-image.jpg"
+{{< largefigure src="04B_NECookbook_1954C.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="left" >}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
 {{< /largefigure >}}
 
-{{< largefigure src="../portrait-image.jpg"
+{{< largefigure src="04C_NECookbook_12_29.jpg"
                 headline="Venenatis Euismod Tristique"
                 description="Pharetra Mattis Inceptos"
                 size="small" >}}
-Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean lacinia bibendum nulla sed consectetur.
+{{< /largefigure >}}
+
+{{< largefigure src="04C_NECookbook_12_29.jpg"
+                headline="Venenatis Euismod Tristique"
+                description="Pharetra Mattis Inceptos"
+                size="small" >}}
+When she was a student Early used to go visiting at Dartmouth College to their Winter Carnival, and this led to her third travel book, Behold the White Mountains. The New York Times review of the book stated that her stories, legends, history and associations with famous persons “Mightily imbue with human interest the grand panorama of mountain scenery with which her book is primarily concerned.” 
 {{< /largefigure >}}
