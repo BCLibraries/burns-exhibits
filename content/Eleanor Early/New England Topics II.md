@@ -67,6 +67,13 @@ New England topics were a subject of Early’s writing throughout the 1930’s a
 
 {{< /galleryrow >}}
 
+{{< largefigure src="03A_CoverOnly.jpg"
+                headline="Cape Cod Summer, 1936, book jacket"
+                description="Box 16 folder 1, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College."
+                size="x-large" >}}
+Early had enjoyed cooking since she was given cooking utensils at age ten and baked bread at twelve to “please papa,” and she enjoyed cooking the foods of the places she visited and including the recipes in her travel books and articles. In New England Cookbook she published hundreds of her favorite New England recipes with background information on them.
+{{< /largefigure >}}
+
 {{< largefigure src="../intro-image.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
