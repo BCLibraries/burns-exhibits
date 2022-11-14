@@ -32,19 +32,6 @@ New England topics were a subject of Early’s writing throughout the 1930’s a
 Maecenas faucibus mollis interdum. 
 {{< /largefigure >}}
 
-{{< largefigure src="03D_1941A.jpg"
-                headline="Girls in Washington advertisement, 1942"
-                description="Box 12, folder 25, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College."
-                size="x-large" >}}
-As part of the war effort, Early wrote a series of radio broadcasts and articles meant to introduce thousands of young women to Washington, DC, as they came to the capital for wartime jobs.
-{{< /largefigure >}}
-
-{{< largefigure src="03E_1941B.jpg"
-                headline="Contract with King Features Syndicate Inc., 1942"
-                description="Box 12, folder 12, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College." 
-                size="large" align="center" >}}
-{{< /largefigure >}}
-
 {{< largefigure src="../intro-image.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
