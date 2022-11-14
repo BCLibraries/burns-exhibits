@@ -1,5 +1,5 @@
 ---
-title: "New England Topics II"
+title: "New England Topics"
 description: ""
 
 # Page order (1 is 1st page, etc.)
@@ -86,9 +86,9 @@ Early had enjoyed cooking since she was given cooking utensils at age ten and ba
                 size="small" >}}
 {{< /largefigure >}}
 
-{{< largefigure src="04C_NECookbook_12_29.jpg"
-                headline="Venenatis Euismod Tristique"
-                description="Pharetra Mattis Inceptos"
+{{< largefigure src="08A_1939B.jpg"
+                headline="Cover"
+                description="Behold the White Mountains"
                 size="small" >}}
 When she was a student Early used to go visiting at Dartmouth College to their Winter Carnival, and this led to her third travel book, Behold the White Mountains. The New York Times review of the book stated that her stories, legends, history and associations with famous persons “Mightily imbue with human interest the grand panorama of mountain scenery with which her book is primarily concerned.” 
 {{< /largefigure >}}

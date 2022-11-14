@@ -1,5 +1,5 @@
 ---
-title: "New England Topics"
+title: "Gallery Page"
 description: ""
 
 # Page order
