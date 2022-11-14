@@ -13,6 +13,13 @@ draft: true
 type: "exhibit"
 ---
 
+{{< galleryrow >}}
+
+{{< galleryfigure src="07A_1929.jpg"
+           headline="Identification card, Boston Police Department, 1923">}} Box 12, folder 56, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
 Sponsored by Boston College Libraries
 
 Curator: Robert Bruns, Senior Reference Librarian, John J. Burns Library, Boston College
