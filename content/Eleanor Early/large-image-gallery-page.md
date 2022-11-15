@@ -24,6 +24,13 @@ type: "exhibit"
                 size="large" align="right" >}}
 {{< /largefigure >}}
 
+{{< largefigure src="10_Eveready_12_20.jpg"
+                headline="Venenatis Euismod Tristique"
+                description="Dapibus Vulputate Sollicitudin Cras"
+                size="x-large" >}}
+This Eveready Battery advertisement depicts one of Early’s adventures in Trinidad – with a python.
+{{< /largefigure >}}
+
 {{< largefigure src="../intro-image.jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
