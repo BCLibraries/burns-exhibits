@@ -63,7 +63,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="07H_RichManPoorMan_.jpg"
-           headline="Illustration">}} "Rich Man, Poor Man" Part III, 1928, box 7, folder 23, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
+           headline="Illustration, Rich Man, Poor Man, Part III, 1928">}} Box 7, folder 23, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
