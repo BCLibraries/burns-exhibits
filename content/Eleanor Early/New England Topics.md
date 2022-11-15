@@ -13,7 +13,7 @@ type: "exhibit"
 ---
 
 {{< largefigure src="03A_CoverOnly.jpg"
-                headline="Cape Cod Summer, 1936, book jacket"
+                headline="Book jacket, Cape Cod Summer, 1936"
                 description="Box 16 folder 1, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College."
                 size="x-large" >}}
 New England topics were a subject of Early’s writing throughout the 1930’s and beyond. She wrote And This is Cape Cod!, and “redid” the book later as Cape Cod Summer, by driving around the length of the Cape in an old Ford. She also wrote about Nantucket in An Island Patchwork, gathered up some of her favorite stories in New England Sampler, and covered the Adirondack Mountains of New York in Adirondack Tales. 
