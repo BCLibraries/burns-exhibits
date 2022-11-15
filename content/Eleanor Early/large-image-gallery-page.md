@@ -12,7 +12,7 @@ draft: true
 type: "exhibit"
 ---
 {{< largefigure src="05C_12_48C.jpg"
-                headline="Passport"
+                headline="A page from Early's passport"
                 description="Book jacket, 1955, box 16, folder 2, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College." 
                 size="large" align="center" >}}
 
@@ -22,7 +22,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="05C_Arctic-Congo_10_14.jpg"
-           headline="">}} Front cover, Early. Love’s Denial. New York: Grosset and Dunlap, 1932, John J. Burns Library, Boston College.
+           headline="Broadcast transcript, undated">}} Front cover, Early. Love’s Denial. New York: Grosset and Dunlap, 1932, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="05B_Arctic-Congo_10_14C.jpg"
