@@ -33,6 +33,13 @@ Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Sed posue
 Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
 {{< /largefigure >}}
 
+{{< largefigure src="../intro-image.jpg"
+                headline="Venenatis Euismod Tristique"
+                size="medium"
+                align="right" >}}
+Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+{{< /largefigure >}}
+
 {{< largefigure src="../portrait-image.jpg"
                 headline="Venenatis Euismod Tristique"
                 description="Pharetra Mattis Inceptos"
