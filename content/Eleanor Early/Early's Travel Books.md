@@ -20,8 +20,8 @@ Early’s first travel book, And This is Boston!, which was first published in 1
 {{< /largefigure >}}
 
 {{< largefigure src="15C_box16_folder2.jpg"
-                headline="Washington Holiday"
-                description="Book jacket, 1955, box 16, folder 2, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College." 
+                headline="Book jacket, Washington Holiday, 1955"
+                description="Box 16, folder 2, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College." 
                 size="large" align="center" >}}
 
 {{< /largefigure >}}
