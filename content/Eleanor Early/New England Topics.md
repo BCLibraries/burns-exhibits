@@ -14,7 +14,7 @@ type: "exhibit"
 
 {{< largefigure src="03A_CoverOnly.jpg"
                 headline="Book jacket, Cape Cod Summer, 1936"
-                description="Box 16 folder 1, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College."
+                description="Box 16 folder 1, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College."
                 size="x-large" >}}
 New England topics were a subject of Early’s writing throughout the 1930’s and beyond. She wrote And This is Cape Cod!, and “redid” the book later as Cape Cod Summer, by driving around the length of the Cape in an old Ford. She also wrote about Nantucket in An Island Patchwork, gathered up some of her favorite stories in New England Sampler, and covered the Adirondack Mountains of New York in Adirondack Tales. 
 {{< /largefigure >}}
@@ -27,7 +27,7 @@ New England topics were a subject of Early’s writing throughout the 1930’s a
 
 {{< largefigure src="03C_1941C.jpg"
                 headline="Book jacket, An Island Patchwork"
-                description="Box 16 folder 1, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College." 
+                description="Box 16 folder 1, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College." 
                 size="large" align="center" >}} 
 {{< /largefigure >}}
 
@@ -69,7 +69,7 @@ New England topics were a subject of Early’s writing throughout the 1930’s a
 
 {{< largefigure src="04A_NECookbook_1954A.jpg"
                 headline="Book jacket, New England Cookbook"
-                description="Box 12 folder 30, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College."
+                description="Box 12 folder 30, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College."
                 size="x-large" >}}
 Early had enjoyed cooking since she was given cooking utensils at age ten and baked bread at twelve to “please papa,” and she enjoyed cooking the foods of the places she visited and including the recipes in her travel books and articles. In New England Cookbook she published hundreds of her favorite New England recipes with background information on them.
 {{< /largefigure >}}
