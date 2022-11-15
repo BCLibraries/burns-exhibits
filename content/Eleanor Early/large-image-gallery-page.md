@@ -31,6 +31,7 @@ type: "exhibit"
                 size="x-large" >}}
 This Eveready Battery advertisement depicts one of Early’s adventures in Trinidad – with a python.
 {{< /largefigure >}}
+This Eveready Battery advertisement depicts one of Early’s adventures in Trinidad – with a python.
 
 {{< largefigure src="16A_1937(1).jpg"
                 headline="Venenatis Euismod Tristique"
