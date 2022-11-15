@@ -32,7 +32,7 @@ type: "exhibit"
 {{< /galleryrow >}}
 
 {{< largefigure src="10_Eveready_12_20.jpg"
-                headline="Eveready Battery Advertisements, 1952-1954"
+                headline="Eveready Battery Advertisement, 1952"
                 description="Box 12, folder 20, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College."
                 size="x-large" >}}
 				
