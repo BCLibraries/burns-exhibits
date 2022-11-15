@@ -87,7 +87,7 @@ Early had enjoyed cooking since she was given cooking utensils at age ten and ba
 {{< /largefigure >}}
 
 {{< largefigure src="08A_1939B.jpg"
-                headline="Cover"
+                headline="Cover, Behold the White Mountains"
                 description="Behold the White Mountains"
                 size="small" >}}
 When she was a student Early used to go visiting at Dartmouth College to their Winter Carnival, and this led to her third travel book, Behold the White Mountains. The New York Times review of the book stated that her stories, legends, history and associations with famous persons “Mightily imbue with human interest the grand panorama of mountain scenery with which her book is primarily concerned.” 
