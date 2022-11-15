@@ -16,7 +16,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="06_INS_12_56_A.jpg"
-           headline="Identification card, Boston Police Department, 1923">}} Box 12, folder 56, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
+           headline="Identification card, Boston Police Department, 1923">}} Box 12, folder 56, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
