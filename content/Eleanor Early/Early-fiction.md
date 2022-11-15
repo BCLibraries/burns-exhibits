@@ -51,11 +51,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="07G_7_30-synopsis.jpg"
-           headline="Synopsis">}} "The Shining Talent," 1929, box 7, folder 30, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
+           headline="Synopsis of The Shining Talent, 1929">}} Box 7, folder 30, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="07G_ShiningAd.jpg"
-           headline="Serial story advertisement">}} "The Shining Talent," box 16, folder 3, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
+           headline="Serial story advertisement, The Shining Talent">}} Box 16, folder 3, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
