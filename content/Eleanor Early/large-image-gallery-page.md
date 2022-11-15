@@ -3,7 +3,7 @@ title: "From the Arctic to the Congo"
 description: ""
 
 # Page order (1 is 1st page, etc.)
-weight:  8
+weight:  7
 alwaysopen: true
 
 # Change to false to publish.
