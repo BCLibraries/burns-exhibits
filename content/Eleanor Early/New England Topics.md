@@ -20,7 +20,7 @@ New England topics were a subject of Early’s writing throughout the 1930’s a
 {{< /largefigure >}}
 
 {{< largefigure src="03B_1936.jpg"
-                headline="End papers"
+                headline="End papers, And This is Cape Cod!"
                 description="Early, And This is Cape Cod! Boston; New York: Houghton Mifflin Company."
                 size="x-large" >}}
 {{< /largefigure >}}
