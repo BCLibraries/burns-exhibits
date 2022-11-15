@@ -22,11 +22,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="05C_Arctic-Congo_10_14.jpg"
-           headline="Broadcast transcript, undated">}} Front cover, Early. Love’s Denial. New York: Grosset and Dunlap, 1932, John J. Burns Library, Boston College.
+           headline="Broadcast transcript, undated">}} Box 10, folder 14, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="05B_Arctic-Congo_10_14C.jpg"
-           headline="">}} Back cover, Early. Love’s Denial. New York: Grosset and Dunlap, 1932, John J. Burns Library, Boston College.
+           headline="">}} Box 10, folder 14, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
