@@ -17,6 +17,7 @@ type: "exhibit"
                 size="large" align="center" >}}
 
 {{< /largefigure >}}
+“From the Arctic to the Congo” is a document among the television transcripts in the Early collection. It is undated. However, Early was frugal and typed it on the reverse side of several Elizabeth Arden company press releases, which refer to their 1967 cosmetic line. It is one of the best documents in Early’s own words, near the end of her life, of her early career.
 
 {{< galleryrow >}}
 
@@ -29,8 +30,6 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
-“From the Arctic to the Congo” is a document among the television transcripts in the Early collection. It is undated. However, Early was frugal and typed it on the reverse side of several Elizabeth Arden company press releases, which refer to their 1967 cosmetic line. It is one of the best documents in Early’s own words, near the end of her life, of her early career.
-
 
 {{< largefigure src="10_Eveready_12_20.jpg"
                 headline="Venenatis Euismod Tristique"
