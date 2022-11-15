@@ -46,11 +46,11 @@ New England topics were a subject of Early’s writing throughout the 1930’s a
 {{< galleryrow >}}
 
 {{< galleryfigure src="03F_1940A.jpg"
-           headline="Cover">}} New England Sampler
+           headline="Cover, New England Sampler">}} New England Sampler
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="03G_1940B.jpg"
-           headline="End papers">}} New England Sampler
+           headline="End papers, New England Sampler">}} New England Sampler
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -58,17 +58,17 @@ New England topics were a subject of Early’s writing throughout the 1930’s a
 {{< galleryrow >}}
 
 {{< galleryfigure src="03H_1939A.jpg"
-           headline="Cover">}} Adirondack Tales
+           headline="Cover, Adirondack Tales">}} Adirondack Tales
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="03I_1939B.jpg"
-           headline="Book jacket">}} Adirondack Tales
+           headline="Book jacket, Adirondack Tales">}} Adirondack Tales
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
 
 {{< largefigure src="04A_NECookbook_1954A.jpg"
-                headline="New England Cookbook book jacket"
+                headline="Book jacket, New England Cookbook"
                 description="Box 12 folder 30, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College."
                 size="x-large" >}}
 Early had enjoyed cooking since she was given cooking utensils at age ten and baked bread at twelve to “please papa,” and she enjoyed cooking the foods of the places she visited and including the recipes in her travel books and articles. In New England Cookbook she published hundreds of her favorite New England recipes with background information on them.
