@@ -31,18 +31,23 @@ type: "exhibit"
 This Eveready Battery advertisement depicts one of Early’s adventures in Trinidad – with a python.
 {{< /largefigure >}}
 
-{{< largefigure src="../intro-image.jpg"
+{{< largefigure src="16A_1937(1).jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="left" >}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+After visiting the Caribbean Islands early in her career as a journalist, Early returned often and lived for periods of time on various islands, most notably on Dominica, Haiti, Puerto Rico, Tortola, Trinidad and Tobago, and the Virgin Islands. This experience led to articles and her travel books Ports of the Sun and Lands of Delight. For the former, a New York Times reviewer wrote that “she can write of these ports of the sun with the sure acquaintance and the effortlessness that helped make her New England guide books so delightful; and her book about the Caribbean joins her other guides under the caption ‘best of their kind.’ In description, in history, in telling the tale of her own experiences and impressions, and in offering counsel to travelers, this writer has something to say, and her own fresh and gay fashion of saying it.”
 {{< /largefigure >}}
 
-{{< largefigure src="../intro-image.jpg"
+{{< largefigure src="16B_1939A(1).jpg"
                 headline="Venenatis Euismod Tristique"
                 size="medium"
                 align="right" >}}
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.
+{{< /largefigure >}}
+
+{{< largefigure src="16C_Tortola_15_11.jpg"
+                headline="Venenatis Euismod Tristique"
+                description="Dapibus Vulputate Sollicitudin Cras"
+                size="x-large" >}}
 {{< /largefigure >}}
 
 {{< largefigure src="../portrait-image.jpg"
