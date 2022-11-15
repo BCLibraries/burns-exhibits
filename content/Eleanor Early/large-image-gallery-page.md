@@ -11,6 +11,18 @@ draft: true
 
 type: "exhibit"
 ---
+{{< galleryrow >}}
+
+{{< galleryfigure src="05C_Arctic-Congo_10_14.jpg"
+           headline="">}} Front cover, Early. Love’s Denial. New York: Grosset and Dunlap, 1932, John J. Burns Library, Boston College.
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="05B_Arctic-Congo_10_14C.jpg"
+           headline="">}} Back cover, Early. Love’s Denial. New York: Grosset and Dunlap, 1932, John J. Burns Library, Boston College.
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
 {{< largefigure src="05C_Arctic-Congo_10_14.jpg"
                 headline="Venenatis Euismod Tristique"
                 description="Fringilla Quam Consectetur Commodo" 
