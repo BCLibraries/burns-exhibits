@@ -34,11 +34,11 @@ New England topics were a subject of Early’s writing throughout the 1930’s a
 {{< galleryrow >}}
 
 {{< galleryfigure src="03D_1941A.jpg"
-           headline="Front end papers, An Island Patchwork">}} An Island Patchwork
+           headline="Front end papers, An Island Patchwork">}} *[An Island Patchwork](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366406850001021)*. Boston: Houghton Mifflin Co., 1941.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="03E_1941B.jpg"
-           headline="Back end papers, An Island Patchwork">}} An Island Patchwork
+           headline="Back end papers, An Island Patchwork">}} *[An Island Patchwork](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366406850001021)*. Boston: Houghton Mifflin Co., 1941.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -46,11 +46,11 @@ New England topics were a subject of Early’s writing throughout the 1930’s a
 {{< galleryrow >}}
 
 {{< galleryfigure src="03F_1940A.jpg"
-           headline="Cover, New England Sampler">}} New England Sampler
+           headline="Cover, A New England Sampler">}} *[A New England Sampler](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21379305650001021)*. Boston: Waverley House, 1940.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="03G_1940B.jpg"
-           headline="End papers, New England Sampler">}} New England Sampler
+           headline="End papers, A New England Sampler">}} *[A New England Sampler](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21379305650001021)*. Boston: Waverley House, 1940.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -58,11 +58,11 @@ New England topics were a subject of Early’s writing throughout the 1930’s a
 {{< galleryrow >}}
 
 {{< galleryfigure src="03H_1939A.jpg"
-           headline="Cover, Adirondack Tales">}} Adirondack Tales
+           headline="Cover, Adirondack Tales">}} *[Adirondack Tales](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366414570001021)*. Boston: Little, Brown and Co., 1939.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="03I_1939B.jpg"
-           headline="Book jacket, Adirondack Tales">}} Adirondack Tales
+           headline="Book jacket, Adirondack Tales">}} *[Adirondack Tales](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366414570001021)*. Boston: Little, Brown and Co., 1939.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -88,7 +88,7 @@ Early had enjoyed cooking since she was given cooking utensils at age ten and ba
 
 {{< largefigure src="08A_1939B.jpg"
                 headline="Cover, Behold the White Mountains"
-                description="Behold the White Mountains"
+                description="*[Behold the White Mountains](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311475710001021)*. Boston: Little, Brown and Co., 1939."
                 size="small" >}}
 When she was a student Early used to go visiting at Dartmouth College to their Winter Carnival, and this led to her third travel book, Behold the White Mountains. The New York Times review of the book stated that her stories, legends, history and associations with famous persons “Mightily imbue with human interest the grand panorama of mountain scenery with which her book is primarily concerned.” 
 {{< /largefigure >}}
