@@ -19,7 +19,7 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="07F_OrchidAd.jpg"
-           headline="Large advertisement, Orchid, serial story, 1920s">}} Box 16, folder 5, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
+           headline="Large advertisement, Orchid, serial story, undated">}} Box 16, folder 5, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -55,7 +55,7 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="07G_ShiningAd.jpg"
-           headline="Serial story advertisement, The Shining Talent">}} Box 16, folder 3, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
+           headline="Serial story advertisement, The Shining Talent, undated">}} Box 16, folder 3, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
