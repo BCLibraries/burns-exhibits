@@ -26,7 +26,7 @@ New England topics were a subject of Early’s writing throughout the 1930’s a
 {{< /largefigure >}}
 
 {{< largefigure src="03C_1941C.jpg"
-                headline="An Island Patchwork, book jacket"
+                headline="Book jacket, An Island Patchwork"
                 description="Box 16 folder 1, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College." 
                 size="large" align="center" >}} 
 {{< /largefigure >}}
@@ -34,11 +34,11 @@ New England topics were a subject of Early’s writing throughout the 1930’s a
 {{< galleryrow >}}
 
 {{< galleryfigure src="03D_1941A.jpg"
-           headline="End papers">}} An Island Patchwork
+           headline="Front end papers, An Island Patchwork">}} An Island Patchwork
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="03E_1941B.jpg"
-           headline="End papers">}} An Island Patchwork
+           headline="Back end papers, An Island Patchwork">}} An Island Patchwork
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
