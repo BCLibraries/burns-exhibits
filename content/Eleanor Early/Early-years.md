@@ -19,7 +19,7 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="01A_BirthCertificate_12_51.jpg"
-           headline="Early's birth certificate, Clerk's copy, City of Newton">}} Fringilla Cursus Sollicitudin Dapibus
+           headline="Early's birth certificate, Clerk's copy, City of Newton">}} Box 12, folder 51, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
