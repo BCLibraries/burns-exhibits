@@ -22,14 +22,14 @@ Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, co
 {{< largefigure src="../portrait-image.jpg"
                 headline="Venenatis Euismod Tristique"
                 description="Fringilla Quam Consectetur Commodo" 
-                size="large" align="center" >}}
+                size="large" align="left" >}}
 Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
 {{< /largefigure >}}
 
 {{< largefigure src="../portrait-image.jpg"
                 headline="Venenatis Euismod Tristique"
                 description="Fringilla Quam Consectetur Commodo" 
-                size="large" align="center" >}}
+                size="large" align="right" >}}
 Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
 {{< /largefigure >}}
 
