@@ -11,18 +11,17 @@ draft: true
 
 type: "exhibit"
 ---
-{{< largefigure src="../portrait-image.jpg"
+{{< largefigure src="05C_Arctic-Congo_10_14.jpg"
                 headline="Venenatis Euismod Tristique"
                 description="Fringilla Quam Consectetur Commodo" 
                 size="large" align="left" >}}
-Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+“From the Arctic to the Congo” is a document among the television transcripts in the Early collection. It is undated. However, Early was frugal and typed it on the reverse side of several Elizabeth Arden company press releases, which refer to their 1967 cosmetic line. It is one of the best documents in Early’s own words, near the end of her life, of her early career.
 {{< /largefigure >}}
 
-{{< largefigure src="../portrait-image.jpg"
+{{< largefigure src="05B_Arctic-Congo_10_14C.jpg"
                 headline="Venenatis Euismod Tristique"
                 description="Fringilla Quam Consectetur Commodo" 
                 size="large" align="right" >}}
-Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
 {{< /largefigure >}}
 
 {{< largefigure src="../intro-image.jpg"
