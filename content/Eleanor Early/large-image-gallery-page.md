@@ -34,16 +34,17 @@ This Eveready Battery advertisement depicts one of Early’s adventures in Trini
 {{< /largefigure >}}
 
 {{< largefigure src="16A_1937(1).jpg"
-                headline="Venenatis Euismod Tristique"
-                size="medium"
-                align="left" >}}
+                headline=""
+                description="Book jacket, 1955, box 16, folder 2, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College." 
+                size="large" align="center" >}}
 
 {{< /largefigure >}}
 
 {{< largefigure src="16B_1939A(1).jpg"
-                headline="Venenatis Euismod Tristique"
-                size="medium"
-                align="right" >}}
+                headline=""
+                description="Book jacket, 1955, box 16, folder 2, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College." 
+                size="large" align="center" >}}
+
 {{< /largefigure >}}
 
 {{< largefigure src="16C_Tortola_15_11.jpg"
