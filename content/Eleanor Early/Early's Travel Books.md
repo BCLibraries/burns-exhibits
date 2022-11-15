@@ -34,7 +34,7 @@ For New Orleans Holiday, Early lived in the spring of 1945 in Beauregard House. 
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="12B_1947.jpg"
-           headline="Book jacket">}} New Orleans Holiday. New York: Rinehart, 1947, John J. Burns Library, Boston College.
+           headline="Book jacket, New Orleans Holiday, 1947">}} Box 16, folder 2, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="12C_coasters.jpg"
