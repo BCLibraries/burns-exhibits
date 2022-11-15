@@ -11,6 +11,13 @@ draft: true
 
 type: "exhibit"
 ---
+{{< largefigure src="05C_12_48C.jpg"
+                headline="Passport"
+                description="Book jacket, 1955, box 16, folder 2, Eleanor Early papers, MS1995-005, John J. Burns Library, Boston College." 
+                size="large" align="center" >}}
+
+{{< /largefigure >}}
+
 {{< galleryrow >}}
 
 {{< galleryfigure src="05C_Arctic-Congo_10_14.jpg"
