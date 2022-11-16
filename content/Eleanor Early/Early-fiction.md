@@ -39,11 +39,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="07E_1935.jpg"
-           headline="Detour to Happiness">}} Early. Detour to Happiness. New York: Phoenix Press, 1935, John J. Burns Library, Boston College.
+           headline="Detour to Happiness">}} Early. *[Detour to Happiness](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21355639510001021)*. New York: Phoenix Press, 1935, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="07B_1930.jpg"
-           headline="Whirlwind">}} Early. Whirlwind. Chicago: The White House, 1930, John J. Burns Library, Boston College.
+           headline="Whirlwind">}} Early. *[Whirlwind](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21382552950001021)*. Chicago: The White House, 1930, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
