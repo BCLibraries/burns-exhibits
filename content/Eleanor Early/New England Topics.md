@@ -81,7 +81,7 @@ Early had enjoyed cooking since she was given cooking utensils at age ten and ba
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="04C_NECookbook_12_29.jpg"
-           headline="Book jacket, Adirondack Tales">}} *[Adirondack Tales](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366414570001021)*. Boston: Little, Brown and Co., 1939.
+           headline="New England Cookbook advertisement, circa 1954">}} box 12 folder 29, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
