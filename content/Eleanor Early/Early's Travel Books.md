@@ -14,7 +14,7 @@ type: "exhibit"
 
 {{< largefigure src="15B_1930.jpg"
                 headline="And This is Boston!"
-                description="And This is Boston! (And Seashore and Country Too). Boston, New York: Houghton Mifflin Co., 1930, John J. Burns Library, Boston College."
+                description="*[And This is Boston! (And Seashore and Country Too)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21380768140001021)*. Boston, New York: Houghton Mifflin Co., 1930, John J. Burns Library, Boston College."
                 size="x-large" >}}
 Early’s first travel book, *[And This is Boston!](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21380768140001021)*, which was first published in 1930 and came out in a second edition in 1938, became a best seller and started her on the road to writing travel books. She sent Houghton Mifflin the first two chapters of her proposed book, and under contract turned out the rest of the book in seven weeks. Also shown is the cover of *[Washington Holiday](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21355639240001021)*.
 {{< /largefigure >}}
@@ -42,7 +42,7 @@ For *[New Orleans Holiday](https://bc-primo.hosted.exlibrisgroup.com/permalink/f
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
-In gathering material for the book *[New York Holiday](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366407640001021)*, Early ate in most of the two hundred restaurants described and visited the Statue of Liberty half a dozen times. The photographs are of Early at Rockefeller Center in New York City and looking out over New York City from the Empire State Building.
+In gathering material for the book *[New York Holiday](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366407640001021)*, Early ate in most of the two hundred restaurants described and visited the Statue of Liberty half a dozen times. The photograph is of Early at Rockefeller Center in New York City and looking out over New York City from the Empire State Building.
 
 {{< galleryrow >}}
 
