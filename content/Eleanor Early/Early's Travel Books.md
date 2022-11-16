@@ -42,8 +42,7 @@ For *[New Orleans Holiday](https://bc-primo.hosted.exlibrisgroup.com/permalink/f
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
-In gathering material for the book *[New York Holiday](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366407640001021)*, Early ate in most of the two hundred restaurants described and visited the Statue of Liberty half a dozen times. The photograph is of Early at Rockefeller Center in New York City and looking out over New York City from the Empire State Building.
-
+In gathering material for the book *[New York Holiday](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366407640001021)*, Early ate in most of the two hundred restaurants described and visited the Statue of Liberty half a dozen times. 
 {{< galleryrow >}}
 
 {{< galleryfigure src="11A_MS1995-005-14-23B.jpg"
