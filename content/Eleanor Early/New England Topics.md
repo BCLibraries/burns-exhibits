@@ -71,7 +71,7 @@ New England topics were a subject of Early’s writing throughout the 1930’s a
                 headline="Book jacket, New England Cookbook"
                 description="Box 12 folder 30, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College."
                 size="x-large" >}}
-Early had enjoyed cooking since she was given cooking utensils at age ten and baked bread at twelve to “please papa,” and she enjoyed cooking the foods of the places she visited and including the recipes in her travel books and articles. In New England Cookbook she published hundreds of her favorite New England recipes with background information on them.
+Early had enjoyed cooking since she was given cooking utensils at age ten and baked bread at twelve to “please papa,” and she enjoyed cooking the foods of the places she visited and including the recipes in her travel books and articles. In *[New England Cookbook](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366414350001021)* she published hundreds of her favorite New England recipes with background information on them.
 {{< /largefigure >}}
 
 {{< galleryrow >}}
