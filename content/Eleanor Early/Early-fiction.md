@@ -15,7 +15,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="07A_1929.jpg"
-           headline="Orchid">}} Orchid: A Story of a Stenographer Who Married a Millionaire. Chicago: The White House, 1929, John J. Burns Library, Boston College.
+           headline="Orchid">}} *[Orchid: A Story of a Stenographer Who Married a Millionaire](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21382552680001021)*. Chicago: The White House, 1929, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="07F_OrchidAd.jpg"
@@ -27,11 +27,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="07C_1932A.jpg"
-           headline="Love’s Denial">}} Front cover, Early. Love’s Denial. New York: Grosset and Dunlap, 1932, John J. Burns Library, Boston College.
+           headline="Love’s Denial">}} Front cover, Early. *[Love’s Denial](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21330912940001021)*. New York: Grosset and Dunlap, 1932, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="07D_1932B.jpg"
-           headline="Love’s Denial">}} Back cover, Early. Love’s Denial. New York: Grosset and Dunlap, 1932, John J. Burns Library, Boston College.
+           headline="Love’s Denial">}} Back cover, Early. *[Love’s Denial](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21330912940001021)*. New York: Grosset and Dunlap, 1932, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
