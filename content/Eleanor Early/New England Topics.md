@@ -21,7 +21,7 @@ New England topics were a subject of Early’s writing throughout the 1930’s a
 
 {{< largefigure src="03B_1936.jpg"
                 headline="End papers, And This is Cape Cod!"
-                description="Early, And This is Cape Cod! Boston; New York: Houghton Mifflin Company."
+                description="Early, *[And This is Cape Cod!](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366414460001021)* Boston, New York: Houghton Mifflin Co., 1936."
                 size="x-large" >}}
 {{< /largefigure >}}
 
@@ -74,17 +74,17 @@ New England topics were a subject of Early’s writing throughout the 1930’s a
 Early had enjoyed cooking since she was given cooking utensils at age ten and baked bread at twelve to “please papa,” and she enjoyed cooking the foods of the places she visited and including the recipes in her travel books and articles. In New England Cookbook she published hundreds of her favorite New England recipes with background information on them.
 {{< /largefigure >}}
 
-{{< largefigure src="04B_NECookbook_1954C.jpg"
-                headline="Venenatis Euismod Tristique"
-                size="medium"
-                align="left" >}}
-{{< /largefigure >}}
+{{< galleryrow >}}
 
-{{< largefigure src="04C_NECookbook_12_29.jpg"
-                headline="Venenatis Euismod Tristique"
-                description="Pharetra Mattis Inceptos"
-                size="small" >}}
-{{< /largefigure >}}
+{{< galleryfigure src="04B_NECookbook_1954C.jpg"
+           headline="Title page and inscription">}} *[New England Cookbook](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366414350001021)*. New York: Random House, 1954.
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="04C_NECookbook_12_29.jpg"
+           headline="Book jacket, Adirondack Tales">}} *[Adirondack Tales](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366414570001021)*. Boston: Little, Brown and Co., 1939.
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
 
 {{< largefigure src="08A_1939B.jpg"
                 headline="Cover, Behold the White Mountains"
