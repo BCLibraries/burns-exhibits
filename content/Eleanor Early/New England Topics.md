@@ -77,7 +77,7 @@ Early had enjoyed cooking since she was given cooking utensils at age ten and ba
 {{< galleryrow >}}
 
 {{< galleryfigure src="04B_NECookbook_1954C.jpg"
-           headline="Title page and inscription">}} *[New England Cookbook](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366414350001021)*. New York: Random House, 1954.
+           headline="Early’s inscription in a gift copy of New England Cookbook, presented to her Aunt Catherine Belger Early, whose recipe for indian pudding is included.">}} *[New England Cookbook](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366414350001021)*. New York: Random House, 1954.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="04C_NECookbook_12_29.jpg"
