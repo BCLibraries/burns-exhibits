@@ -63,3 +63,29 @@ After visiting the Caribbean Islands early in her career as a journalist, Early 
 The first of these photographs taken in the 1930’s is of the “Carib King” in the doorway of what Early called his “pretentious” home on Dominica. The scene on the lower left is one of Early’s favorite villages on Dominica. That photograph is reproduced as a painting for the article “Island of Charms” (Country Home, March 1934). Note the differences between the photograph and the painting. The photograph on the lower right is of the “matriarch of the Caribs” on Dominica.
 
 Early collected photographs to illustrate her work. In one of these, she identified the “Carib King” (Kalinago Chief Thomas “Jolly” John) in the doorway of a dwelling in Salybia. Another is identified as “the matriarch” [Alexann Valmont] of the Caribs (Kalinago). 
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="14C_box18folder1C1.jpg"
+           headline="Broadcast transcript, undated.">}} Box 10, folder 14, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="14D_box18folder2B1.jpg"
+           headline="Reverse side of broadcast transcript.">}} Box 10, folder 14, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
+
+A scenic photo of one of Early’s favorite villages in Dominica was used later (with a few changes) as an illustration for the article “Island of Charms” in Country Home magazine in 1934.
+
+{{< galleryrow >}}
+
+{{< galleryfigure src="14B_MS1995-005-18-2.jpg"
+           headline="Broadcast transcript, undated.">}} Box 10, folder 14, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
+{{< /galleryfigure >}}
+
+{{< galleryfigure src="14B_article.jpg"
+           headline="Reverse side of broadcast transcript.">}} Box 10, folder 14, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
