@@ -32,3 +32,6 @@ While covering the Boston Braves spring training in Saint Petersburg, Florida, s
 During World War II she wrote a series of articles for the King Features Syndicate on “Girls in Washington.” These informed the many hundreds of women who had come to Washington to work for the government. At that time she also had a radio program from Washington, DC, advising women on events and how to get along in wartime Washington.
 
 In the later 1950’s and 1960’s, until her death in Boston on August 25, 1969, she wrote numerous articles for newspapers and magazines. She was a founding member of the Society of American Travel Writers. 
+
+
+*Content Warning: This exhibit and the archival records it is drawn from depict racist imagery and cultural stereotypes, using the dated language of those who created the material. These words, images, and attitudes are not acceptable, but we believe it is important to preserve the past so that we can learn from it. We are aware that materials in our collections may be objectionable and offensive, and had we curated this exhibit from scratch, we may have done it differently. We are actively working to improve the language we use, highlight hidden voices, and contextualize materials; however, there is much work to do, and we hold ourselves accountable to doing the work.* 

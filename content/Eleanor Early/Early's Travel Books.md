@@ -20,7 +20,7 @@ Early’s first travel book, *[And This is Boston!](https://bc-primo.hosted.exli
 {{< /largefigure >}}
 
 {{< largefigure src="15C_box16_folder2.jpg"
-                headline="Book jacket, Washington Holiday, 1955"
+                headline="Book jacket, Washington Holiday, 1955."
                 description="Box 16, folder 2, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College." 
                 size="large" align="center" >}}
 
@@ -30,15 +30,15 @@ For *[New Orleans Holiday](https://bc-primo.hosted.exlibrisgroup.com/permalink/f
 {{< galleryrow >}}
 
 {{< galleryfigure src="12A_MS1995-005-14-17A.jpg"
-           headline="Early at Lafitte's Blacksmith Shop Bar, New Orleans, undated">}} Box 14, folder 17, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
+           headline="Early at Lafitte's Blacksmith Shop Bar, New Orleans, undated.">}} Box 14, folder 17, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="12B_1947.jpg"
-           headline="Book jacket, New Orleans Holiday, 1947">}} Box 16, folder 2, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
+           headline="Book jacket, New Orleans Holiday, 1947.">}} Box 16, folder 2, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="12C_coasters.jpg"
-           headline="New Orleans Holiday coasters, undated">}} Box 12, folder 35, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
+           headline="New Orleans Holiday coasters, undated.">}} Box 12, folder 35, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -46,15 +46,15 @@ In gathering material for the book *[New York Holiday](https://bc-primo.hosted.e
 {{< galleryrow >}}
 
 {{< galleryfigure src="11A_MS1995-005-14-23B.jpg"
-           headline="Early at Rockefeller Center, New York City, undated">}} Box 14, folder 23, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College. John H. Popper, photographer.
+           headline="Early at Rockefeller Center, New York City, undated.">}} Box 14, folder 23, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College. John H. Popper, photographer.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="11D_NYC_12_41.jpg"
-           headline="New York Holiday Art, undated">}} Box 12, folder 41, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
+           headline="New York Holiday Art, undated.">}} Box 12, folder 41, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="11E_NYC_12_40_A.jpg"
-           headline="New York Holiday Advertisements, circa 1950">}} Box 12, folder 40, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
+           headline="New York Holiday Advertisements, circa 1950.">}} Box 12, folder 40, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
