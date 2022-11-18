@@ -11,6 +11,7 @@ draft: true
 
 type: "exhibit"
 ---
+In the 1920s Early tried her hand at writing fiction, first serialized in newspapers, and later published as books.
 
 {{< galleryrow >}}
 

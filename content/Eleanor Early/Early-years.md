@@ -11,7 +11,7 @@ draft: true
 
 type: "exhibit"
 ---
-
+Eleanor Early was born April 27, 1895 in Newton, Massachusetts. She grew up in Wellesley and graduated from Wheelock College in Boston.
 {{< galleryrow >}}
 
 {{< galleryfigure src="01B_MS1995-005-14-7.jpg"

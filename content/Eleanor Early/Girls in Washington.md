@@ -11,6 +11,7 @@ draft: true
 
 type: "exhibit"
 ---
+During World War II Early wrote a series of articles for the King Features Syndicate on “Girls in Washington.” These informed the many hundreds of women who had come to Washington to work for the government. At that time she also had a radio program from Washington, DC, advising women on events and how to get along in wartime Washington.
 {{< galleryrow >}}
 
 {{< galleryfigure src="09A_Washington_12_25.jpg"
