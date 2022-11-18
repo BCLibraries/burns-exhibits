@@ -14,7 +14,7 @@ weight: 1
 # Big image on first page.
 front_image: "11B_MS1995-005-14-23D.jpg" # Replace with the real image
 front_caption_headline: ""
-front_caption_text: ""
+front_caption_text: "Detail of Early's letterhead, undated, box 12, folder 54, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College."
 
 # Change to true if this exhibit is currently running.
 current: false
