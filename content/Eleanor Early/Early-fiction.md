@@ -15,7 +15,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="07A_1929.jpg"
-           headline="Orchid">}} *[Orchid: A Story of a Stenographer Who Married a Millionaire](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21382552680001021)*. Chicago: The White House, 1929, John J. Burns Library, Boston College.
+           headline="Cover, Orchid.">}} Early. *[Orchid: A Story of a Stenographer Who Married a Millionaire](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21382552680001021)*. Chicago: The White House, 1929, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="07F_OrchidAd.jpg"
@@ -27,11 +27,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="07C_1932A.jpg"
-           headline="Love’s Denial">}} Front cover, Early. *[Love’s Denial](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21330912940001021)*. New York: Grosset and Dunlap, 1932, John J. Burns Library, Boston College.
+           headline="Front cover, Love’s Denial">}} Early. *[Love’s Denial](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21330912940001021)*. New York: Grosset and Dunlap, 1932, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="07D_1932B.jpg"
-           headline="Love’s Denial">}} Back cover, Early. *[Love’s Denial](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21330912940001021)*. New York: Grosset and Dunlap, 1932, John J. Burns Library, Boston College.
+           headline="Back cover, Love’s Denial">}} Early. *[Love’s Denial](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21330912940001021)*. New York: Grosset and Dunlap, 1932, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -39,11 +39,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="07E_1935.jpg"
-           headline="Detour to Happiness">}} Early. *[Detour to Happiness](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21355639510001021)*. New York: Phoenix Press, 1935, John J. Burns Library, Boston College.
+           headline="Cover, Detour to Happiness">}} Early. *[Detour to Happiness](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21355639510001021)*. New York: Phoenix Press, 1935, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="07B_1930.jpg"
-           headline="Whirlwind">}} Early. *[Whirlwind](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21382552950001021)*. Chicago: The White House, 1930, John J. Burns Library, Boston College.
+           headline="Cover, Whirlwind">}} Early. *[Whirlwind](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21382552950001021)*. Chicago: The White House, 1930, John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
