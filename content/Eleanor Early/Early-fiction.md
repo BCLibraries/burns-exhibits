@@ -19,7 +19,7 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="07F_OrchidAd.jpg"
-           headline="Large advertisement, Orchid, serial story, undated">}} Box 16, folder 5, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
+           headline="Large advertisement, Orchid, serial story, undated.">}} Box 16, folder 5, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -51,11 +51,11 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="07G_7_30-synopsis.jpg"
-           headline="Synopsis, The Shining Talent, 1929">}} Box 7, folder 30, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
+           headline="Synopsis, The Shining Talent, 1929.">}} Box 7, folder 30, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="07G_ShiningAd.jpg"
-           headline="Serial story advertisement, The Shining Talent, undated">}} Box 16, folder 3, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
+           headline="Serial story advertisement, The Shining Talent, undated.">}} Box 16, folder 3, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -63,7 +63,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="07H_RichManPoorMan_.jpg"
-           headline="Illustration, Rich Man, Poor Man, Part III, 1928">}} Box 7, folder 23, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
+           headline="Illustration, Rich Man, Poor Man, Part III, 1928.">}} Box 7, folder 23, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
