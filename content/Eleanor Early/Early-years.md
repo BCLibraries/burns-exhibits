@@ -15,7 +15,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="01B_MS1995-005-14-7.jpg"
-           headline="The Early family, about 1918.">}} Eleanor Early personal photographs, box 14 folder 7, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
+           headline="The Early family, about 1918.">}} Box 14 folder 7, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="01A_BirthCertificate_12_51.jpg"

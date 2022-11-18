@@ -11,16 +11,14 @@ draft: true
 
 type: "exhibit"
 ---
+{{< galleryrow >}}
 
-{{< largefigure src="09A_Washington_12_25.jpg"
-                headline="Girls in Washington advertisement, 1942."
-                description="Box 12, folder 25, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College."
-                size="x-large" >}}
-As part of the war effort, Early wrote a series of radio broadcasts and articles meant to introduce thousands of young women to Washington, DC, as they came to the capital for wartime jobs.
-{{< /largefigure >}}
+{{< galleryfigure src="09A_Washington_12_25.jpg"
+           headline="Girls in Washington advertisement, 1942.">}} Box 12, folder 25, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College."
+{{< /galleryfigure >}}
 
-{{< largefigure src="09B_img109.jpg"
-                headline="Contract with King Features Syndicate Inc., 1942."
-                description="Box 12, folder 12, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College." 
-                size="large" align="center" >}}
-{{< /largefigure >}}
+{{< galleryfigure src="09B_img109.jpg"
+           headline="Contract with King Features Syndicate Inc., 1942.">}} Box 12, folder 12, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College." 
+{{< /galleryfigure >}}
+
+{{< /galleryrow >}}
