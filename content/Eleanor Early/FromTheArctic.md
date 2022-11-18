@@ -64,11 +64,11 @@ Early collected photographs to illustrate her work. In one of these, she identif
 {{< galleryrow >}}
 
 {{< galleryfigure src="14C_box18folder1C1.jpg"
-           headline="Broadcast transcript, undated.">}} Box 10, folder 14, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
+           headline="">}} Box 18, folder 2, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="14D_box18folder2B1.jpg"
-           headline="Reverse side of broadcast transcript.">}} Box 10, folder 14, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
+           headline="">}} Box 18, folder 2, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
@@ -78,11 +78,11 @@ A scenic photo of one of Early’s favorite villages in Dominica was used later 
 {{< galleryrow >}}
 
 {{< galleryfigure src="14B_MS1995-005-18-2.jpg"
-           headline="Broadcast transcript, undated.">}} Box 10, folder 14, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
+           headline="">}} Box 18, folder 14-, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="14B_article.jpg"
-           headline="Reverse side of broadcast transcript.">}} Box 10, folder 14, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
+           headline="">}} Box 18, folder 2, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
