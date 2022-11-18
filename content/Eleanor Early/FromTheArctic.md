@@ -59,7 +59,6 @@ This Eveready Battery advertisement depicts one of Early’s adventures in Trini
                 size="x-large" >}}
 After visiting the Caribbean Islands early in her career as a journalist, Early returned often and lived for periods of time on various islands, most notably on Dominica, Haiti, Puerto Rico, Tortola, Trinidad and Tobago, and the Virgin Islands. This experience led to articles and her travel books *[Ports of the Sun](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21379305460001021)* and *[Lands of Delight](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21366415100001021)*. For the former, a New York Times reviewer wrote that “she can write of these ports of the sun with the sure acquaintance and the effortlessness that helped make her New England guide books so delightful; and her book about the Caribbean joins her other guides under the caption ‘best of their kind.’ In description, in history, in telling the tale of her own experiences and impressions, and in offering counsel to travelers, this writer has something to say, and her own fresh and gay fashion of saying it.”
 {{< /largefigure >}}
-
 Early collected photographs to illustrate her work. In one of these, she identified the “Carib King” (Kalinago Chief Thomas “Jolly” John) in the doorway of a dwelling in Salybia. Another is identified as “the matriarch” [Alexann Valmont] of the Caribs (Kalinago). 
 
 {{< galleryrow >}}
