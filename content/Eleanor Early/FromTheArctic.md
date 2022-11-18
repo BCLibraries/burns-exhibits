@@ -26,7 +26,7 @@ type: "exhibit"
 {{< /galleryfigure >}}
 
 {{< galleryfigure src="05B_Arctic-Congo_10_14C.jpg"
-           headline="">}} Box 10, folder 14, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
+           headline="Reverse side of broadcast transcript.">}} Box 10, folder 14, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
