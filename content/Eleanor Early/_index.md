@@ -24,6 +24,8 @@ draft: true
 
 type: "exhibit"
 ---
+*Detail of Early's letterhead, undated, box 12, folder 54, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.*
+
 
 Eleanor Early was born April 27, 1895 in Newton, Massachusetts. She grew up in Wellesley and attended Miss Wheelock’s School (later named Wheelock College) in Boston, where she was in a program for kindergarten teachers, and graduated in 1917. But she preferred to be a reporter, and started working for Boston newspapers, first as a cub reporter (with no typing skills), and then a feature writer. In the mid and late 1920s, she was a freelance writer for the International News Service. Also at this time, she tried her hand at writing fiction, serialized in newspapers, and later published as books. 
 
@@ -36,4 +38,3 @@ In the later 1950’s and 1960’s, until her death in Boston on August 25, 1969
 
 *Content Warning: This exhibit and the archival records it is drawn from depict racist imagery and cultural stereotypes, using the dated language of those who created the material. These words, images, and attitudes are not acceptable, but we believe it is important to preserve the past so that we can learn from it. We are aware that materials in our collections may be objectionable and offensive, and had we curated this exhibit from scratch, we may have done it differently. We are actively working to improve the language we use, highlight hidden voices, and contextualize materials; however, there is much work to do, and we hold ourselves accountable to doing the work.* 
 
-Detail of Early's letterhead, undated, box 12, folder 54, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.
