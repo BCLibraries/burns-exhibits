@@ -1,5 +1,5 @@
 ---
-title: "From the Arctic to the Congo"
+title: "Early's Travels"
 description: ""
 
 # Page order (1 is 1st page, etc.)
