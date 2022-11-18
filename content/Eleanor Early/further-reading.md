@@ -16,7 +16,7 @@ type: "exhibit"
 {{< galleryrow >}}
 
 {{< galleryfigure src="img118A.jpg"
-           headline="">}} 
+           headline="Detail of Early's letterhead, undated, box 12, folder 54, Eleanor Early papers [(MS1995-005)](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/l6ucgu/ALMA-BC21311150800001021), John J. Burns Library, Boston College.">}} 
 {{< /galleryfigure >}}
 
 {{< /galleryrow >}}
