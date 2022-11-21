@@ -6,7 +6,7 @@ title: "Introduction"
 exhibit_title: "And This Is Eleanor Early!"
 exhibit_subtitle: ""
 
-date: 2022-10-26T09:59:47-04:00
+date: 2022-11-21T09:59:47-04:30
 
 # Page order (1 is 1st page, etc.)
 weight: 1 
@@ -20,7 +20,7 @@ front_caption_text: "Detail of Early's letterhead, undated, box 12, folder 54, E
 current: false
 
 # Change to false to publish.
-draft: true
+draft: false
 
 type: "exhibit"
 ---
