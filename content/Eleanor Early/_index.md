@@ -6,7 +6,7 @@ title: "Introduction"
 exhibit_title: "And This Is Eleanor Early!"
 exhibit_subtitle: ""
 
-date: 2022-11-21T09:59:47-04:30
+date: 2022-11-20T09:59:47-04:30
 
 # Page order (1 is 1st page, etc.)
 weight: 1 
