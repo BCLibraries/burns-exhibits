@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="db998234-7ea6-4bb7-89cb-32dfc9b9aa16" name="libweb.bc.edu">
+        <fileTransfer rootFolder="/opt/www/html/burns-exhibits" accessType="SFTP" host="libweb.bc.edu" port="22" sshConfigId="718ec603-1ab5-4f76-8fa2-965ae1943a81" sshConfig="florinb@libweb.bc.edu:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

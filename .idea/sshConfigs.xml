@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="libweb.bc.edu" id="718ec603-1ab5-4f76-8fa2-965ae1943a81" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="florinb" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

@@ -1,4 +1,4 @@
-    <div class="homepage">
+<div class="homepage">
     <!-- TITLE AND INTRO -->
     <div class="row intro">
 
@@ -8,11 +8,15 @@
 
         <div class="col-md-2">&nbsp;</div>
         <div class="col-md-8">
-        <p>John J. Burns Library develops and promotes exhibits featuring a wide variety of special collection formats, topics, and community interests. Please explore our online exhibits and engage with our special collections.</p>
+            <p>John J. Burns Library develops and promotes exhibits featuring a wide variety of special collection
+                formats, topics, and community interests. Please explore our online exhibits and engage with our special
+                collections.</p>
 
-        <p>Have a question? <a href="https://libguides.bc.edu/burns/contact">Contact us</a>.</p>
+            <p>Have a question? <a href="https://libguides.bc.edu/burns/contact">Contact us</a>.</p>
 
-        <p>Want to know what is happening at Burns Library? <a href="https://www.us10.list-manage.com/subscribe?u=7a6431091bc9d4cb794b1d7ae&id=e9d970e0a9">Join our mailing list</a>. </p>
+            <p>Want to know what is happening at Burns Library? <a
+                    href="https://www.us10.list-manage.com/subscribe?u=7a6431091bc9d4cb794b1d7ae&id=e9d970e0a9">Join our
+                mailing list</a>. </p>
         </div>
         <div class="col-md-2">&nbsp;</div>
 
@@ -20,74 +24,80 @@
     <!-- END TITLE AND INTRO -->
 
     <div class="row current_exhibits">
-        
+
         <div class="col-12">
-            <h3>Featured Exhibits</h3>
+            <h3>Featured Exhibit</h3>
         </div>
-        
-    <!-- TOP 2 LATEST EXHIBITS -->   
+
+        <!-- TOP 2 LATEST EXHIBITS -->
 
         {{ $alltheexhibits:= where .Site.Pages "Kind" "section" }}
-        
+
         {{ $allcurrent:= where $alltheexhibits .Params.current true }}
 
-        {{ range $alltheexhibits | first 2 }} 	
+        <div class="col-12">
 
-            <div class="col-md-6 col-12">
-                
-                <a href="{{ .RelPermalink }}" alt="{{.Params.exhibit_title}}" class="hp_img" 
-                style="background:url(.{{ .RelPermalink }}tile-rect.jpg)">
-                    <span class="hp_title">
-                         {{.Params.exhibit_title}} 
-                    </span>    
+            {{ $image := resources.Get "img/cover.jpg" }}
+            <figure class="featured-cover-image">
+                <a href="https://storymaps.arcgis.com/stories/8fba748f009141ec9087b2628eba0940">
+                    <img src="{{ $image.RelPermalink }}" alt="Republican murals on buildings featuring a portrait of Gerry Adams and three men armed with rifles"/>
                 </a>
+                <figcaption>
+                    <a href="https://storymaps.arcgis.com/stories/8fba748f009141ec9087b2628eba0940">
+                        <span class="featured-cover-image--title">A Part to Play</span>
+                        <span class="featured-cover-image--subtitle">Culture, identity & resistance during Northern Ireland's Troubles</span>
+                        <span class="featured-cover-image--description">An Exhibit at Burns Library curated by Paloma Carroll-Ryan</span>
+                        <span class="featured-cover-image--date">October 1, 2025</span>
+                    </a>
+                </figcaption>
+            </figure>
+        </div>
 
-            </div>
-
-        {{ end }}
+    </div>
 
     <!-- END TOP TWO -->
 
-    </div>
-
-    <div class="row past_exhibits">
-
-        <div class="col-12">
-            <h4>Past Exhibits</h4>
-        </div>
-
-        <!-- A BUNCH OF OLDER EXHIBITS -->
-
-        {{ $allold:= where .Site.Pages "Kind" "section" }}
-
-        {{ range after 2 $allold | first 8 | }}
-
-            <div class="col-md-3 col-6 oldgallery">
-                <a href=".{{ .RelPermalink }}" class="hp_img" 
-                style="background:url(.{{ .RelPermalink }}tile-square.jpg)">
-                    <span class="hp_title">
-                        {{.Params.exhibit_title}}
-                    </span>    
-                </a>
-            </div>
-        {{ end }}
-
-        <!-- END A BUNCH OF -->
 </div>
 
-    <!-- ARCHIVE LINK -->
-    <div class="row prev-next">
-        <div class="col-md-6 prev-wrapper">
-            &nbsp;
+<div class="row past_exhibits">
+
+    <div class="col-12">
+        <h4>Past Exhibits</h4>
+    </div>
+
+    <!-- A BUNCH OF OLDER EXHIBITS -->
+
+    {{ $allold:= where .Site.Pages "Kind" "section" }}
+
+    {{ range $alltheexhibits | first 8 | }}
+
+    <div class="col-md-3 col-6 oldgallery">
+        <a href=".{{ .RelPermalink }}" class="hp_img"
+           style="background:url(.{{ .RelPermalink }}tile-square.jpg)">
+                    <span class="hp_title">
+                        {{.Params.exhibit_title}}
+                    </span>
+        </a>
+    </div>
+    {{ end }}
+
+    <!-- END A BUNCH OF -->
+</div>
+
+<!-- ARCHIVE LINK -->
+<div class="row prev-next">
+    <div class="col-md-6 prev-wrapper">
+        &nbsp;
+    </div>
+
+    <div class="col-md-6 next-wrapper">
+        <div class="col-md-12">
+            <a href="{{ .RelPermalink }}archive" class="next-link">View Archived Exhibits<i
+                    class="nav-arrow nav-arrow--right"></i></a>
         </div>
 
-        <div class="col-md-6 next-wrapper">
-           <div class="col-md-12">
-                <a href="{{ .RelPermalink }}archive" class="next-link">View Archived Exhibits<i class="nav-arrow nav-arrow--right"></i></a>
-            </div>
-                
-        </div>
     </div>
-    
+</div>
+
 </div>
 

@@ -116,7 +116,7 @@ The Lawson bookbindings of *The Complete Writings of Elbert Hubbard* reveal Kran
            headline="Roycroft Advertisement"
            description="Hubbard, [*Little Journeys*](https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC21335517720001021&context=L&vid=bclib_new&search_scope=lib_BURNS&tab=bcl_only&lang=en_US),  07-000022175 GENERAL"
            side="right"
->}}
+/>}}
 
 Elbert Hubbard was very proud of the Roycroft bindery; advertisements written by him and printed in the endpapers
 of Roycroft books include praise of the German-trained bookbinders Louis Kinder and Frederick Kranz, who created

@@ -118,3 +118,4 @@ Holy cards are often given as gifts, with a message to the recipient written on 
            headline=""
            description="John: Breathe a prayer for me"
 >}}
+{{< /galleryrow >}}

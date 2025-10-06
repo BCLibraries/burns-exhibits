@@ -26,6 +26,6 @@ The Golden Age of comics essentially begins with the creation and popularity of 
                 headline="Interior page."
 				description="[*Batman.*](https://bc-primo.hosted.exlibrisgroup.com/permalink/f/1jdnfk3/ALMA-BC21358830010001021) No. 13. Oct/Nov 1942."
                 size="x-large"
-				align="center" >}}
+				align="center"  />}}
 
 

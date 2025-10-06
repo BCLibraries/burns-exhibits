@@ -73,3 +73,55 @@ h2 {
 .navbar-nav {
     float: right;
 }
+
+.featured-cover-image {
+    width: 100%;
+    position: relative;
+
+    img {
+        max-width: 100%;
+    }
+
+
+    figcaption {
+        font-family: Merriweather, serif;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: rgba(0,0,0,.3);
+        padding: 1em;
+        color: white;
+        width: 80%;
+
+        a {
+            color: white;
+            text-decoration: none;
+        }
+
+        span {
+            display: block;
+            text-align: center;
+        }
+
+        .featured-cover-image--title {
+            font-size: 2.5em;
+            margin-bottom: .5em;
+        }
+
+        .featured-cover-image--subtitle {
+            margin-bottom: .8em;
+        }
+
+        .featured-cover-image--description {
+            font-size: .8em;
+            margin-bottom: .7em;
+        }
+
+        .featured-cover-image--date {
+            font-size: .7em;
+            font-weight: 200;
+        }
+    }
+
+}
